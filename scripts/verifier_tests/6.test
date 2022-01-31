@@ -1,4 +1,4 @@
-WWS
+SPI
 2018
 [
   [
@@ -23,13 +23,13 @@ WWS
   ],
   [
     {
-      "name": "POL 230/WWS 325",
+      "name": "POL 230/SPI 325",
       "title": "",
       "id": "",
       "dist_area": ""
     },
     {
-      "name": "WWS 354",
+      "name": "SPI 354",
       "title": "",
       "id": "",
       "dist_area": null
@@ -80,7 +80,7 @@ WWS
       "id": "",
       "dist_area": "",
       "settled": [
-        "Major//2018//WWS//Language Requirement"
+        "Major//2018//SPI//Language Requirement"
       ]
     },
     {
@@ -92,13 +92,13 @@ WWS
   ],
   [
     {
-      "name": "WWS 401",
+      "name": "SPI 401",
       "title": "Policy Seminars",
       "id": "",
       "dist_area": ""
     },
     {
-      "name": "WWS 404",
+      "name": "SPI 404",
       "title": "Policy Research Seminar",
       "id": "",
       "dist_area": ""

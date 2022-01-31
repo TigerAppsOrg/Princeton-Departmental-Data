@@ -139,7 +139,7 @@
                                 "MOL 458: Psychopharmacology",
                                 "NEU 475: Basal Ganglia in Health and Disease",
                                 "NEU 501A: Molecules to Systems",
-                                "ELE 452: Biomedical Imaging",
+                                "ECE 452: Biomedical Imaging",
                                 "PHY 562: Biophysics",
                                 "QCB 515: Method and Logic of Quantitative Biology"
                             ]
@@ -165,8 +165,8 @@
                                 "COS 402: Artificial Intelligence",
                                 "COS 324: Fundamentals of Machine Learning",
                                 "COS 485: Neural Networks: Theory and Applications",
-                                "ELE 364: Machine Learning for Predictive Data Analytics",
-                                "ELE 452: Biomedical Imaging",
+                                "ECE 364: Machine Learning for Predictive Data Analytics",
+                                "ECE 452: Biomedical Imaging",
                                 "MAT 323/APC 323: Topics in Mathematical Modeling - Mathematical Neuroscience",
                                 "PSY 360: Computational Models of Cognition",
                                 "QCB 515: Method and Logic of Quantitative Biology"
@@ -222,7 +222,7 @@
                                 "NEU 502A: From Molecules to Systems to Behavior",
                                 "PSY 409: Cyborg Psychology",
                                 "PSY 411: Psychology of Face Perception",
-                                "ELE 480: fMRI Decoding"
+                                "ECE 480: fMRI Decoding"
                             ]
                         }
                     ]
@@ -297,10 +297,10 @@
                             "max_counted": 1,
                             "min_needed": null,
                             "explanation": "",
-                            "course_list": [   
+                            "course_list": [
                                 "COS 126",
                                 "SML 201"
-                            ]   
+                            ]
                         },
                         {
                             "name": null,
@@ -313,7 +313,7 @@
                                 "ISC 232",
                                 "ISC 233",
                                 "ISC 234"
-                            ]   
+                            ]
                         }
                     ]
                 }

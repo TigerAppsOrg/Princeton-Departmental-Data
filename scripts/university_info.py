@@ -143,7 +143,7 @@ AB_DEPTS = {
     "SLA": "Slavic Languages and Lit",
     "SOC": "Sociology",
     "SPO": "Spanish and Portuguese",
-    "WWS": "Public and International Affairs",
+    "SPI": "Public and International Affairs",
 }
 
 AB_CONCENTRATIONS = {
@@ -177,14 +177,14 @@ AB_CONCENTRATIONS = {
     "SLA": "Slavic Languages and Literatures",
     "SOC": "Sociology",
     "SPO": "Spanish and Portuguese",
-    "WWS": "Public and International Affairs",
+    "SPI": "Public and International Affairs",
 }
 
 BSE_CONCENTRATIONS = {
     "CBE": "Chemical and Biological Engineering",
     "CEE": "Civil and Environmental Engineering",
     "COS-BSE": "Computer Science - B.S.E.",
-    "ELE": "Electrical Engineering",
+    "ECE": "Electrical Engineering",
     "MAE": "Mechanical and Aerospace Engineering",
     "ORF": "Operations Research and Financial Engineering",
 }
@@ -250,9 +250,9 @@ CERTIFICATES = {
 # language departments
 LANG_DEPTS = {
     "ARA": "Arabic",
-    "BCS": "Bosnian-Croatian-Serbian", # TODO: confirm
+    "BCS": "Bosnian-Croatian-Serbian",  # TODO: confirm
     #"???": "Bulgarian" # TODO: confirm
-    "SLA": "Slavic Languages and Lit", # TODO: confirm
+    "SLA": "Slavic Languages and Lit",  # TODO: confirm
     "CHI": "Chinese",
     "CZE": "Czech",
     "FRE": "French",
@@ -266,13 +266,13 @@ LANG_DEPTS = {
     "KOR": "Korean",
     "LAT": "Latin",
     "PER": "Persian",
-    "PLS": "Polish", # TODO: confirm
-    "POR": "Portuguese", # TODO: confirm
+    "PLS": "Polish",  # TODO: confirm
+    "POR": "Portuguese",  # TODO: confirm
     "RUS": "Russian",
     "SAN": "Sanskrit",
     "SPA": "Spanish",
     "SWA": "Swahili",
     "TUR": "Turkish",
-    "TWI": "Twi", # TODO: confirm
+    "TWI": "Twi",  # TODO: confirm
     "URD": "Urdu",
-} # unsure if some of these can count for AB foreign language requirement. TODO: confirm
+}  # unsure if some of these can count for AB foreign language requirement. TODO: confirm

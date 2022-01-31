@@ -147,10 +147,10 @@
               "min_needed": null,
               "explanation": null,
               "course_list": [
-                "ELE 301: Designing Real Systems",
-                "ELE 381: Networks: Friends, Money and Bytes",
-                "ELE 485: Signal Analysis and Communication Systems",
-                "ELE 486: Digital Communication and Networks"
+                "ECE 301: Designing Real Systems",
+                "ECE 381: Networks: Friends, Money and Bytes",
+                "ECE 485: Signal Analysis and Communication Systems",
+                "ECE 486: Digital Communication and Networks"
               ]
             },
             {
@@ -272,7 +272,7 @@
             "ORF 467",
             "COS 226",
             "COS 323",
-            "ELE 301",
+            "ECE 301",
             "MAE 433"
           ]
         },

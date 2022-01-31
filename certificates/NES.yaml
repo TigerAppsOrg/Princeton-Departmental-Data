@@ -29,13 +29,13 @@
             "double_counting_allowed": false,
             "pdfs_allowed": 0,
             "course_list": [
-                "ARA 1**", 
+                "ARA 1**",
                 "ARA 301",
-                "ARA 302", 
+                "ARA 302",
                 "HEB 1**",
-                "PER 1**", 
-                "TUR 1**", 
-                "TUR 304", 
+                "PER 1**",
+                "TUR 1**",
+                "TUR 304",
                 "TUR 305"
             ]
         },
@@ -58,12 +58,12 @@
             "double_counting_allowed": false,
             "pdfs_allowed": 0,
             "course_list": [
-                "ANT *", 
-                "NES *", 
-                "POL *", 
-                "REL *", 
-                "SOC *", 
-                "WWS *"
+                "ANT *",
+                "NES *",
+                "POL *",
+                "REL *",
+                "SOC *",
+                "SPI *"
             ]
         }
     ]

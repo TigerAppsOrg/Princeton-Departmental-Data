@@ -61,12 +61,12 @@ CBE
       ]
     },
     {
-      "name": "ELE 206/COS 306",
+      "name": "ECE 206/COS 306",
       "title": "Introduction to Logic Design",
       "id": "1184042062",
       "dist_area": "STL",
       "settled": [
-        
+
       ]
     },
     {
@@ -75,7 +75,7 @@ CBE
       "id": "1184042286",
       "dist_area": "QR",
       "settled": [
-        
+
       ]
     }
   ],

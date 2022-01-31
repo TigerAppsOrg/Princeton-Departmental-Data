@@ -10,7 +10,7 @@
     ],
     "allowed_majors": [
         "ORF",
-        "ELE",
+        "ECE",
         "MAE",
         "COS",
         "CEE",
@@ -123,7 +123,7 @@
                 "CHM 525",
                 "CHM 538",
                 "COS 445",
-                "ELE 571",
+                "ECE 571",
                 "ENE 418",
                 "MAE 344",
                 "QCB 301",

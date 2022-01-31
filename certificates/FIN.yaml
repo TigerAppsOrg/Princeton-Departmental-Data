@@ -45,7 +45,7 @@
             "name": "Foundation Courses: Probability and Statistics",
             "max_counted": 1,
             "min_needed": 1,
-            "explanation": "Probability and Statistics: ORF 245 (Fundamentals of Engineering Statistics), or ECO 202 (Statistics and Data Analysis for Economics), or PSY 251 (Quantitative Methods), or SOC 301 (Sociological Research Methods), or POL 345 (Quantitative Analysis and Politics), WWS 200 (Statistics for Social Science) or WWS 332 (Quantitative Analysis for Public Policy), or PHY 301 (Thermal Physics) and PHY 312 (Experimental Physics), or a score of 5 in AP Statistics",
+            "explanation": "Probability and Statistics: ORF 245 (Fundamentals of Engineering Statistics), or ECO 202 (Statistics and Data Analysis for Economics), or PSY 251 (Quantitative Methods), or SOC 301 (Sociological Research Methods), or POL 345 (Quantitative Analysis and Politics), SPI 200 (Statistics for Social Science) or SPI 332 (Quantitative Analysis for Public Policy), or PHY 301 (Thermal Physics) and PHY 312 (Experimental Physics), or a score of 5 in AP Statistics",
             "double_counting_allowed": false,
             "completed_by_semester": 4,
             "course_list": [
@@ -54,8 +54,8 @@
                 "PSY 251",
                 "SOC 301",
                 "POL 345 ",
-                "WWS 200",
-                "WWS 332",
+                "SPI 200",
+                "SPI 332",
                 "PHY 301",
                 "PHY 312"
             ]
@@ -103,9 +103,9 @@
                 "EGR 491",
                 "ORF 435",
                 "ORF 474",
-                "WWS 466",
-                "WWS 524",
-                "WWS 582f"
+                "SPI 466",
+                "SPI 524",
+                "SPI 582f"
             ]
         },
         {
@@ -151,7 +151,7 @@
                 "ORF 405",
                 "ORF 409",
                 "ORF 455",
-                "WWS 340"
+                "SPI 340"
             ]
         }
     ]

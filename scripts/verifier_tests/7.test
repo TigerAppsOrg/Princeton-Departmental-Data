@@ -37,13 +37,13 @@ COS-AB
   ],
   [
     {
-      "name": "COS 351/ SOC 353 /WWS351",
+      "name": "COS 351/ SOC 353 /SPI351",
       "title": "Information Technology and Public Policy",
       "id": "1184012068",
       "dist_area": "SA"
     },
     {
-      "name": "ELE 206/COS 306",
+      "name": "ECE 206/COS 306",
       "title": "Contemporary Logic Design",
       "id": "1184022331",
       "dist_area": "STL"

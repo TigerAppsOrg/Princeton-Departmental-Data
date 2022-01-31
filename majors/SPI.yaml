@@ -1,7 +1,7 @@
 {
   "type": "Major",
   "name": "Public and International Affairs",
-  "code": "WWS",
+  "code": "SPI",
   "degree": "AB",
   "urls": [
     "https://ua.princeton.edu/academic-units/spia",
@@ -49,7 +49,7 @@
           "min_needed": 1,
           "explanation": "Statistics (One Course Required). Note: AP Statistics does not fulfill this prerequisite.",
           "course_list": [
-            "WWS 200",
+            "SPI 200",
             "ECO 302",
             "ECO 312",
             "POL 345",
@@ -65,7 +65,7 @@
             "ECO 100",
             "ECO 300",
             "ECO 310",
-            "WWS 300"
+            "SPI 300"
           ]
         },
         {
@@ -98,7 +98,7 @@
       "name": "Core Curriculum",
       "max_counted": 1,
       "min_needed": "ALL",
-      "explanation": "Prior to graduation, WWS students must complete the core course requirements listed below. All courses used to meet these requirements must be taken at Princeton on a graded basis (no pdf). Courses taken to meet elective requirements cannot be used to fulfill core requirements.",
+      "explanation": "Prior to graduation, SPI students must complete the core course requirements listed below. All courses used to meet these requirements must be taken at Princeton on a graded basis (no pdf). Courses taken to meet elective requirements cannot be used to fulfill core requirements.",
       "req_list": [
         {
           "name": "Microeconomics",
@@ -106,7 +106,7 @@
           "min_needed": 1,
           "explanation": "One Course in Microeconomics.",
           "course_list": [
-            "WWS 300",
+            "SPI 300",
             "ECO 300",
             "ECO 310"
           ]
@@ -117,10 +117,10 @@
           "min_needed": 1,
           "explanation": "One Course in Politics.",
           "course_list": [
-            "POL 220/WWS 310",
-            "POL 230/WWS 325",
-            "POL 240/WWS 312",
-            "POL 351/WWS 311"
+            "POL 220/SPI 310",
+            "POL 230/SPI 325",
+            "POL 240/SPI 312",
+            "POL 351/SPI 311"
           ]
         },
         {
@@ -129,12 +129,12 @@
           "min_needed": 1,
           "explanation": "One Course in Sociology or Psychology.",
           "course_list": [
-            "WWS 330",
-            "WWS 331/SOC 312/AAS 317",
-            "WWS 333/SOC 326",
-            "WWS 340/PSY 321",
-            "WWS 344/PSY 312",
-            "WWS 345/AAS 384/PSY 384"
+            "SPI 330",
+            "SPI 331/SOC 312/AAS 317",
+            "SPI 333/SOC 326",
+            "SPI 340/PSY 321",
+            "SPI 344/PSY 312",
+            "SPI 345/AAS 384/PSY 384"
           ]
         },
         {
@@ -143,13 +143,13 @@
           "min_needed": 1,
           "explanation": "One Course in Science Policy.",
           "course_list": [
-            "WWS 350",
-            "WWS 351/SOC 353/COS 351",
-            "WWS 353/MAE 353",
-            "WWS 354",
-            "CEE 334/WWS 452",
-            "ENV 304/WWS 455",
-            "GEO 366/WWS 451",
+            "SPI 350",
+            "SPI 351/SOC 353/COS 351",
+            "SPI 353/MAE 353",
+            "SPI 354",
+            "CEE 334/SPI 452",
+            "ENV 304/SPI 455",
+            "GEO 366/SPI 451",
             "GHP 351"
           ]
         },
@@ -159,7 +159,7 @@
           "min_needed": 1,
           "explanation": "One Course in Ethics.",
           "course_list": [
-            "WWS 370/POL 308",
+            "SPI 370/POL 308",
             "CHV 310/PHI 385",
             "PHI 307/CHV 311",
             "PHI 309/CHV 309",
@@ -175,7 +175,7 @@
       "name": "Elective Courses",
       "max_counted": 1,
       "min_needed": 4,
-      "explanation": "<i>Editor's Note: This does not represent a comprehensive list of courses that fall under each category as courses change from semester to semester. Check the department webpage for the official list.</i>\n\nEach student must complete four electives on a graded basis from a list issued by the School. No more than three electives can be courses listed or cross-listed by the same department. Courses used by students to meet prerequisites or core requirements will not count against this limit. Methodology courses that are on the electives list and all WWS courses also will be exempt –– meaning that you can take more than three WWS courses as electives. Cross-listings on WWS courses such as WWS 315/POL 393 or WWS 466/HIS 467 will count toward the limit for the other departments. Up to three elective courses can be taken in WWS semester-long study abroad programs. Summer courses may not be used as electives.",
+      "explanation": "<i>Editor's Note: This does not represent a comprehensive list of courses that fall under each category as courses change from semester to semester. Check the department webpage for the official list.</i>\n\nEach student must complete four electives on a graded basis from a list issued by the School. No more than three electives can be courses listed or cross-listed by the same department. Courses used by students to meet prerequisites or core requirements will not count against this limit. Methodology courses that are on the electives list and all SPI courses also will be exempt –– meaning that you can take more than three SPI courses as electives. Cross-listings on SPI courses such as SPI 315/POL 393 or SPI 466/HIS 467 will count toward the limit for the other departments. Up to three elective courses can be taken in SPI semester-long study abroad programs. Summer courses may not be used as electives.",
       "req_list": [
         {
           "name": "Human Welfare and Social Policy",
@@ -208,7 +208,7 @@
                 "REL 328: Women and Gender in Islamic Societies",
                 "SOC 313: Inequality: Dimensions and Intersections",
                 "SOC 354: Contemporary Issues in African Societies",
-                "WWS 354: Modern Genetics and Public Policy",
+                "SPI 354: Modern Genetics and Public Policy",
                 "SPI 373: Women, Law, and Public Policy"
               ]
             },
@@ -241,14 +241,14 @@
                 "MOL 425: Infection: Biology, Burden, Policy",
                 "PSY 317: Health Psychology",
                 "SOC 366: Social and Economic Determinants of Health",
-                "WWS 305",
-                "WWS 307: Public Economics",
-                "WWS 330: Population, Society and Public Policy",
-                "WWS 354: Modern Genetics and Public Policy",
-                "WWS 355",
-                "WWS 393: Health Reform in the U.S: The Affordable Care Act’s Origins, Impact and Implementation Challenges",
-                "WWS 407: Economics of Health in Developing Countries (WWS 476)",
-                "WWS 453: Health and Human Rights",
+                "SPI 305",
+                "SPI 307: Public Economics",
+                "SPI 330: Population, Society and Public Policy",
+                "SPI 354: Modern Genetics and Public Policy",
+                "SPI 355",
+                "SPI 393: Health Reform in the U.S: The Affordable Care Act’s Origins, Impact and Implementation Challenges",
+                "SPI 407: Economics of Health in Developing Countries (SPI 476)",
+                "SPI 453: Health and Human Rights",
                 "SPI 324"
               ]
             },
@@ -288,8 +288,8 @@
                 "POL 403",
                 "PSY 307",
                 "URB 300",
-                "WWS 307",
-                "WWS 387",
+                "SPI 307",
+                "SPI 387",
                 "SPI 328",
                 "SPI 396"
               ]
@@ -326,11 +326,11 @@
                 "SOC 317: Race & Ethnicity in Global Comparative Perspective",
                 "SOC 329: Immigrant America",
                 "SOC 337: Environment and Migration",
-                "WWS 330: Population, Society and Public Policy",
-                "WWS 331: Race and Public Policy",
-                "WWS 364",
-                "WWS 420: International Institutions and Law (WWS 337)",
-                "WWS 453: Health and Human Rights"
+                "SPI 330: Population, Society and Public Policy",
+                "SPI 331: Race and Public Policy",
+                "SPI 364",
+                "SPI 420: International Institutions and Law (SPI 337)",
+                "SPI 453: Health and Human Rights"
               ]
             },
             {
@@ -360,8 +360,8 @@
                 "SOC 355: Government, Poverty, and Inequality in Modern America",
                 "SOC 366: Social and Economic Determinants of Health",
                 "SOC 369",
-                "WWS 307: Public Economics",
-                "WWS 361",
+                "SPI 307: Public Economics",
+                "SPI 361",
                 "SPI 328",
                 "SPI 394"
               ]
@@ -425,9 +425,9 @@
                 "SOC 358",
                 "SOC 366: Social and Economic Determinants of Health",
                 "SOC 369",
-                "WWS 331: Race and Public Policy",
-                "WWS 345",
-                "WWS 354: Modern Genetics and Public Policy",
+                "SPI 331: Race and Public Policy",
+                "SPI 345",
+                "SPI 354: Modern Genetics and Public Policy",
                 "SPI 373",
                 "SPI 394",
                 "SPI 396"
@@ -440,7 +440,7 @@
               "explanation": null,
               "course_list": [
                 "ECO 331",
-                "WWS 361"
+                "SPI 361"
               ]
             }
           ]
@@ -477,7 +477,7 @@
                 "NES 326: U.S. Foreign Policy and the Middle East since 1979",
                 "NES 338: The Arab-Israeli Conflict",
                 "NES 385: Jihadism in the Modern Middle East",
-                "POL 240/WWS 312: International Relations",
+                "POL 240/SPI 312: International Relations",
                 "POL 313: Global Justice",
                 "POL 356: Comparative Ethnic Conflict",
                 "POL 380: Human Rights",
@@ -487,18 +487,18 @@
                 "POL 388: Causes of War",
                 "POL 394: Leaders and the Making of U.S. Foreign Policy",
                 "SOC 308: Communism and Beyond: China and Russia",
-                "WWS 309",
-                "WWS 313: Peacemaking",
-                "WWS 315: Grand Strategy (WWS 475)",
-                "WWS 316: China's Foreign Relations (WWS 461)",
-                "WWS 317: International Relations of East Asia (WWS 462)",
-                "WWS 318: U.S. Military and National and International Diplomacy",
-                "WWS 320",
-                "WWS 322: Public Policy Issues in Today’s Middle East",
-                "WWS 353: Science and Global Security",
-                "WWS 360: Authoritarianism (WWS 478)",
-                "WWS 391: Engendering Security and Democracy",
-                "WWS 420: International Institutions and Law (WWS 337)"
+                "SPI 309",
+                "SPI 313: Peacemaking",
+                "SPI 315: Grand Strategy (SPI 475)",
+                "SPI 316: China's Foreign Relations (SPI 461)",
+                "SPI 317: International Relations of East Asia (SPI 462)",
+                "SPI 318: U.S. Military and National and International Diplomacy",
+                "SPI 320",
+                "SPI 322: Public Policy Issues in Today’s Middle East",
+                "SPI 353: Science and Global Security",
+                "SPI 360: Authoritarianism (SPI 478)",
+                "SPI 391: Engendering Security and Democracy",
+                "SPI 420: International Institutions and Law (SPI 337)"
               ]
             },
             {
@@ -527,9 +527,9 @@
                 "POL 367: Politics of Latin America",
                 "POL 385: International Political Economy",
                 "POL 476",
-                "WWS 302: International Development",
-                "WWS 306: Environmental Economics",
-                "WWS 407: Economics of Health Policy in Developing Countries"
+                "SPI 302: International Development",
+                "SPI 306: Environmental Economics",
+                "SPI 407: Economics of Health Policy in Developing Countries"
               ]
             },
             {
@@ -570,8 +570,8 @@
                 "MAE 328: Energy for a Greenhouse-Constrained World",
                 "POL 476",
                 "SOC 337: Environment and Migration",
-                "WWS 306: Environmental Economics",
-                "WWS 350: The Environment - Science and Policy",
+                "SPI 306: Environmental Economics",
+                "SPI 350: The Environment - Science and Policy",
               ]
             },
             {
@@ -596,15 +596,15 @@
                 "HIS 498",
                 "MAE 354: Unmaking the Bomb: The Science & Technology of Nuclear Nonproliferation, Disarmament, and Verification",
                 "PHI 411",
-                "WWS 306",
-                "WWS 309",
-                "WWS 320",
-                "WWS 351: Information Technology and Public Policy",
-                "WWS 352",
-                "WWS 353: Science and Global Security",
-                "WWS 354",
-                "WWS 356",
-                "WWS 357: Cybersecurity, Law, Technology & Policy",
+                "SPI 306",
+                "SPI 309",
+                "SPI 320",
+                "SPI 351: Information Technology and Public Policy",
+                "SPI 352",
+                "SPI 353: Science and Global Security",
+                "SPI 354",
+                "SPI 356",
+                "SPI 357: Cybersecurity, Law, Technology & Policy",
               ]
             },
             {
@@ -638,11 +638,11 @@
                 "POL 352: Comparative Political Economy",
                 "POL 385: International Political Economy",
                 "POL 482: Money and Political Thought",
-                "WWS 301: International Trade",
-                "WWS 307: Public Economics",
-                "WWS 327: American Trade Politics and Policy",
-                "WWS 340: Psychology of Decision Making and Judgment (WWS 312)",
-                "WWS 466: Financial History"
+                "SPI 301: International Trade",
+                "SPI 307: Public Economics",
+                "SPI 327: American Trade Politics and Policy",
+                "SPI 340: Psychology of Decision Making and Judgment (SPI 312)",
+                "SPI 466: Financial History"
               ]
             }
           ]
@@ -672,7 +672,7 @@
                 "HIS 406",
                 "HIS 425",
                 "NES 385",
-                "WWS 356"
+                "SPI 356"
               ]
             },
             {
@@ -690,14 +690,14 @@
                 "POL 385: International Political Economy",
                 "POL 396",
                 "REL 329",
-                "WWS 301: International Trade",
-                "WWS 302: International Development",
-                "WWS 306: Environmental Economics",
-                "WWS 322: Public Policy Issues in Today’s Middle East",
-                "WWS 330: Population, Society and Public Policy",
-                "WWS 334",
-                "WWS 351",
-                "WWS 420: International Institutions and Law"
+                "SPI 301: International Trade",
+                "SPI 302: International Development",
+                "SPI 306: Environmental Economics",
+                "SPI 322: Public Policy Issues in Today’s Middle East",
+                "SPI 330: Population, Society and Public Policy",
+                "SPI 334",
+                "SPI 351",
+                "SPI 420: International Institutions and Law"
               ]
             },
             {
@@ -730,10 +730,10 @@
                 "POL 415: Civil Disobedience, Protest, and Resistance: Ethical and Empirical Perspectives",
                 "POL 480: Perfectionism and the Legal Enforcement of Morals",
                 "REL 347: Religion and Law",
-                "WWS 333",
-                "WWS 356",
-                "WWS 420: International Institutions and Law (WWS 337)",
-                "WWS 421: Comparative Constitutional Law"
+                "SPI 333",
+                "SPI 356",
+                "SPI 420: International Institutions and Law (SPI 337)",
+                "SPI 421: Comparative Constitutional Law"
               ]
             },
             {
@@ -758,8 +758,8 @@
                 "LAS 374: Politics and Social Change in Latin America, 1968-Present",
                 "LAS 386",
                 "NES 394: Colonialism, Post-Colonialism and Islam: North Africa (1830-2011)",
-                "POL 220/WWS 310",
-                "POL 230/WWS 325",
+                "POL 220/SPI 310",
+                "POL 230/SPI 325",
                 "POL 303: Modern Political Theory",
                 "POL 305: Radical Political Thought",
                 "POL 314: American Constitutional Development",
@@ -787,10 +787,10 @@
                 "SOC 334: The Sociology of Social Movements in the United States",
                 "SOC 355: Government, Poverty, and Inequality in Modern America",
                 "SOC 407",
-                "WWS 315: Grand Strategy",
-                "WWS 319",
-                "WWS 360: Authoritarianism (WWS 478)",
-                "WWS 391: Engendering Security and Democracy",
+                "SPI 315: Grand Strategy",
+                "SPI 319",
+                "SPI 360: Authoritarianism (SPI 478)",
+                "SPI 391: Engendering Security and Democracy",
                 "SPI 324"
               ]
             },
@@ -807,7 +807,7 @@
                 "SOC 313: Inequality: Dimensions and Intersections",
                 "SOC 336: Sociology of Complex Organizations",
                 "SOC 407",
-                "WWS 385: Civil Society and Public Policy"
+                "SPI 385: Civil Society and Public Policy"
               ]
             }
           ]
@@ -832,7 +832,7 @@
             "POL 347: Mathematical Models in the Study of Politics",
             "PSY 300: Research Methods in Psychology",
             "URB 385: Mapping Gentrification",
-            "WWS 340: Psychology of Decision Making and Judgment (WWS 312)"
+            "SPI 340: Psychology of Decision Making and Judgment (SPI 312)"
           ]
         },
         {
@@ -875,8 +875,8 @@
                 "POL 362: Chinese Politics",
                 "SOC 307: Contemporary China",
                 "SOC 308: Communism and Beyond: China and Russia",
-                "WWS 316: China's Foreign Relations (WWS 461)",
-                "WWS 317: International Relations of East Asia"
+                "SPI 316: China's Foreign Relations (SPI 461)",
+                "SPI 317: International Relations of East Asia"
               ]
             },
             {
@@ -915,7 +915,7 @@
                 "LAS 371: Cuban History, Politics and Culture",
                 "LAS 374: Politics and Social Change in Latin America, 1968-Present",
                 "POL 367: Politics of Latin America",
-                "WWS 364",
+                "SPI 364",
                 "SPI 396"
               ]
             },
@@ -939,7 +939,7 @@
                 "NES 437: The Ottoman Empire, 1300-1800",
                 "REL 328: Women and Gender in Islamic Societies",
                 "SOC 358",
-                "WWS 322: Public Policy Issues in Today’s Middle East"
+                "SPI 322: Public Policy Issues in Today’s Middle East"
               ]
             },
             {
@@ -981,7 +981,7 @@
                 "HIS 459: The History of Incarceration in the U.S.",
                 "HIS 474: Violence in America",
                 "JDS 312: The Politics of American Jewish Power and Powerlessness",
-                "POL 220/WWS 310",
+                "POL 220/SPI 310",
                 "POL 319: History of African American Political Thought",
                 "POL 325",
                 "POL 326",
@@ -992,10 +992,10 @@
                 "POL 415: Civil Disobedience, Protest, and Resistance: Ethical and Empirical Perspectives",
                 "SOC 329: Immigrant America",
                 "SOC 334: The Sociology of Social Movements in the United States",
-                "WWS 319",
-                "WWS 327: American Trade Politics and Policy",
-                "WWS 387: Education Policy in the United States",
-                "WWS 393: Health Reform in the U.S.: The Affordable Care Act's Origins, Impact and Implementation Challenges",
+                "SPI 319",
+                "SPI 327: American Trade Politics and Policy",
+                "SPI 387: Education Policy in the United States",
+                "SPI 393: Health Reform in the U.S.: The Affordable Care Act's Origins, Impact and Implementation Challenges",
                 "SPI 328"
               ]
             }
@@ -1030,8 +1030,8 @@
           "min_needed": 1,
           "explanation": "In the task forces, a small group of juniors works together with a faculty director, one or two seniors, and, often, a graduate student toward proposing solutions to current problems in public and international affairs. Each junior conducts research on a topic carefully chosen to shed light on the larger problem that is central to the group. The principal collective product is a final report with policy recommendations, drafted after debates among the entire group.",
           "course_list": [
-            "WWS 401: Policy Seminars",
-            "WWS 402: Policy Seminars"
+            "SPI 401: Policy Seminars",
+            "SPI 402: Policy Seminars"
           ]
         },
         {
@@ -1040,8 +1040,8 @@
           "min_needed": 1,
           "explanation": "In the policy research seminars, a faculty member supervises a small group of students similarly engaged in research on a specific topic in public and international affairs. Students also participate in a methods lab designed to teach them methods for quantitative and qualitative research. An important aim of all of the elements of the research seminar is to prepare students for their senior thesis work.",
           "course_list": [
-            "WWS 403: Policy Research Seminar",
-            "WWS 404: Policy Research Seminar"
+            "SPI 403: Policy Research Seminar",
+            "SPI 404: Policy Research Seminar"
           ]
         },
         {

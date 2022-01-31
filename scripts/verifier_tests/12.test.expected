@@ -32,12 +32,12 @@
   ],
   [
     {
-      "name": "ELE 497",
+      "name": "ECE 497",
       "possible_reqs": [],
       "reqs_satisfied": []
     },
     {
-      "name": "ELE 206/COS 306",
+      "name": "ECE 206/COS 306",
       "possible_reqs": [
         "Major//2018//CBE//Concentration//Science and Engineering for New Technologies//000",
         "Major//2018//CBE//Technical Diversity//Science and Engineering for New Technologies"
@@ -53,17 +53,17 @@
       "reqs_satisfied": []
     },
     {
-      "name": "ELE 301",
+      "name": "ECE 301",
       "possible_reqs": [],
       "reqs_satisfied": []
     },
     {
-      "name": "ELE 302",
+      "name": "ECE 302",
       "possible_reqs": [],
       "reqs_satisfied": []
     },
     {
-      "name": "ELE 208",
+      "name": "ECE 208",
       "possible_reqs": [
         "Major//2018//CBE//Concentration//Science and Engineering for New Technologies//000",
         "Major//2018//CBE//Technical Diversity//Science and Engineering for New Technologies"
@@ -81,12 +81,12 @@
       "reqs_satisfied": []
     },
     {
-      "name": "ELE 498",
+      "name": "ECE 498",
       "possible_reqs": [],
       "reqs_satisfied": []
     },
     {
-      "name": "ELE 470",
+      "name": "ECE 470",
       "possible_reqs": [],
       "reqs_satisfied": []
     }
@@ -239,7 +239,7 @@
     {
       "name": "Concentration",
       "path_to": "Major//2018//CBE//Concentration",
-      "explanation": "In addition to the requirements above, students are required to designate an area of concentration and take three courses from the approved lists below in that area of concentration. The senior independent work is usually undertaken within the area of concentration. In addition, students are required to take at least one course each from two of the advanced areas outside their area of concentration to provide technical diversity. (Note: An asterisk indicates one-time-only courses.)\n\nABET (link is external) requires chemical engineering students to complete a minimum of 12 engineering topic courses. This is satisfied by completing the nine CBE core courses (including the double credit thesis), plus the following: the required advanced chemical engineering course, and at least two program electives chosen from CBE, CEE, COS, EGR*,ELE, MAE, MSE, or ORF that are on the approved list of courses in the areas of concentration.\n\n*EGR courses that are non-credit do not count for this requirement.",
+      "explanation": "In addition to the requirements above, students are required to designate an area of concentration and take three courses from the approved lists below in that area of concentration. The senior independent work is usually undertaken within the area of concentration. In addition, students are required to take at least one course each from two of the advanced areas outside their area of concentration to provide technical diversity. (Note: An asterisk indicates one-time-only courses.)\n\nABET (link is external) requires chemical engineering students to complete a minimum of 12 engineering topic courses. This is satisfied by completing the nine CBE core courses (including the double credit thesis), plus the following: the required advanced chemical engineering course, and at least two program electives chosen from CBE, CEE, COS, EGR*,ECE, MAE, MSE, or ORF that are on the approved list of courses in the areas of concentration.\n\n*EGR courses that are non-credit do not count for this requirement.",
       "pdfs_allowed": false,
       "satisfied": false,
       "count": 0,
@@ -319,8 +319,8 @@
           "min_needed": 3,
           "max_counted": 1,
           "settled": [
-            "ELE 206/COS 306",
-            "ELE 208"
+            "ECE 206/COS 306",
+            "ECE 208"
           ],
           "unsettled": []
         }
@@ -409,8 +409,8 @@
           "min_needed": 0,
           "max_counted": 1,
           "settled": [
-            "ELE 206/COS 306",
-            "ELE 208"
+            "ECE 206/COS 306",
+            "ECE 208"
           ],
           "unsettled": []
         }

@@ -24,7 +24,7 @@
       "name": "Prerequisites",
       "max_counted": 1,
       "min_needed": "ALL",
-      "explanation": "To enter the department, a student must complete, by the end of sophomore year, the prerequisite courses ECO 100, ECO 101, ECO 202 (or equivalent), and MAT (175 or equivalent), earning a letter grade of C or better in each course. ORF 245 can be substituted for ECO 202. POL 345 followed by POL 346 can also be used to satisfy our statistics pre-requirement. (POL 345 alone is not sufficient). PSY 251, WWS 200 and SOC 301 are also not sufficient. The statistics pre-requirement cannot be satisfied with summer courses taken after the student has begun studies at Princeton, except in unusual circumstances approved by the departmental representative, Professor Smita Brunnermeier (smita@princeton.edu).",
+      "explanation": "To enter the department, a student must complete, by the end of sophomore year, the prerequisite courses ECO 100, ECO 101, ECO 202 (or equivalent), and MAT (175 or equivalent), earning a letter grade of C or better in each course. ORF 245 can be substituted for ECO 202. POL 345 followed by POL 346 can also be used to satisfy our statistics pre-requirement. (POL 345 alone is not sufficient). PSY 251, SPI 200 and SOC 301 are also not sufficient. The statistics pre-requirement cannot be satisfied with summer courses taken after the student has begun studies at Princeton, except in unusual circumstances approved by the departmental representative, Professor Smita Brunnermeier (smita@princeton.edu).",
       "completed_by_semester": 4,
       "req_list": [
         {
@@ -187,7 +187,7 @@
           "explanation": "Economics majors are allowed to count a maximum of two courses from other departments as cognates. These courses need to have substantial economics content. A course with an Economics cross-listing (indicated by an ECO 3XX, ECO 4XX, or ECO 5XX number in its first or second listing) counts as a regular departmental, not as a cognate. Courses that will be automatically recognized by SCORE as cognates are listed below. No application is necessary for these courses.",
           "course_list": [
             "COS 445",
-            "ELE 381",
+            "ECE 381",
             "ENE 422/MAE 422",
             "HIS 474",
             "MAT 378",
@@ -210,15 +210,15 @@
             "POL 505",
             "SPI 329/POL 350",
             "SPI 522",
-            "WWS 309",
-            "WWS 340/PSY 321",
-            "WWS 373/CHV 373",
-            "WWS 408",
-            "WWS 466/HIS 467",
-            "WWS 524",
-            "WWS 538",
-            "WWS 582C",
-            "WWS 582F"
+            "SPI 309",
+            "SPI 340/PSY 321",
+            "SPI 373/CHV 373",
+            "SPI 408",
+            "SPI 466/HIS 467",
+            "SPI 524",
+            "SPI 538",
+            "SPI 582C",
+            "SPI 582F"
           ]
         }
       ]

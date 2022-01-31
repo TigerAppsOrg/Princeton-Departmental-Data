@@ -35,12 +35,12 @@
       "name": "Analytical Requirement",
       "max_counted": 1,
       "min_needed": 1,
-      "explanation": "Concentrators are required to take a Politics course in systematic analysis, normally no later than the first semester of the junior year. The Department strongly recommends completing this requirement before the end of the sophomore year. The analytical course must be taken for a grade - not P/D/F.\n\nThe analytical requirement can be met by taking a Politics course in quantitative methods (POL 345/SOC 305/WWS 211 or POL 346), formal theory (POL 250 or POL 347/ECO 347), or experimental methods (POL 341).\n\nThe course used to fulfill the analytical requirement cannot be used to satisfy primary, secondary or third field requirements, but it does count as a departmental.",
+      "explanation": "Concentrators are required to take a Politics course in systematic analysis, normally no later than the first semester of the junior year. The Department strongly recommends completing this requirement before the end of the sophomore year. The analytical course must be taken for a grade - not P/D/F.\n\nThe analytical requirement can be met by taking a Politics course in quantitative methods (POL 345/SOC 305/SPI 211 or POL 346), formal theory (POL 250 or POL 347/ECO 347), or experimental methods (POL 341).\n\nThe course used to fulfill the analytical requirement cannot be used to satisfy primary, secondary or third field requirements, but it does count as a departmental.",
       "completed_by_semester": 5,
       "course_list": [
         "POL 250",
         "POL 341",
-        "POL 345/SOC 305/WWS 211",
+        "POL 345/SOC 305/SPI 211",
         "POL 346",
         "POL 347/ECO 347",
         "POL 451",
@@ -52,8 +52,8 @@
         "ORF 245",
         "PHI 201",
         "SOC 404",
-        "WWS 200",
-        "WWS 332"
+        "SPI 200",
+        "SPI 332"
       ]
     },
     {
@@ -519,7 +519,7 @@
       "name": "Departmentals",
       "max_counted": 1,
       "min_needed": 10,
-      "explanation": "By the end of the senior year, all students in the Department must complete, in addition to prerequisites, no fewer than eight departmental courses, of which two may be cognates. Note that the University sets a maximum of 12 courses (plus independent work) in a given department. Additional courses in the department may be taken, but will not count towards the 31-course minimum required for graduation.\n\nCourses taken as prerequisites will be counted as departmentals. Any course taken in the department counts as a POL departmental (in other words, you cannot take a POL course and not have it count as a departmental course). Note that such courses have the prefix POL in their course number. This includes courses that are cross-listed with other departments, including courses where POL is not listed first—e.g. AAS 362/WWS 386/POL 338. Note: Note it is now possible to take a 200-level course in a subfield after having taken 2, 300-level courses in that subfield. (This had not been allowed prior to Academic Year, 2020-2021.)",
+      "explanation": "By the end of the senior year, all students in the Department must complete, in addition to prerequisites, no fewer than eight departmental courses, of which two may be cognates. Note that the University sets a maximum of 12 courses (plus independent work) in a given department. Additional courses in the department may be taken, but will not count towards the 31-course minimum required for graduation.\n\nCourses taken as prerequisites will be counted as departmentals. Any course taken in the department counts as a POL departmental (in other words, you cannot take a POL course and not have it count as a departmental course). Note that such courses have the prefix POL in their course number. This includes courses that are cross-listed with other departments, including courses where POL is not listed first—e.g. AAS 362/SPI 386/POL 338. Note: Note it is now possible to take a 200-level course in a subfield after having taken 2, 300-level courses in that subfield. (This had not been allowed prior to Academic Year, 2020-2021.)",
       "double_counting_allowed": true,
       "course_list": [
         "POL *"
@@ -579,7 +579,7 @@
               "min_needed": 1,
               "explanation": null,
               "course_list": [
-                "WWS 370/POL 308",
+                "SPI 370/POL 308",
                 "POL 314",
                 "POL 315",
                 "POL 316",
@@ -606,7 +606,7 @@
                 "POL 316",
                 "POL 320",
                 "POL 326",
-                "WWS 370/POL 308",
+                "SPI 370/POL 308",
                 "POL 314",
                 "POL 315",
                 "POL 316",
@@ -712,7 +712,7 @@
                   "course_list": [
                     "ECO 300",
                     "ECO 310",
-                    "WWS 300"
+                    "SPI 300"
                   ]
                 },
                 {
@@ -723,9 +723,9 @@
                   "course_list": [
                     "ECO 301",
                     "ECO 311",
-                    "WWS 301/ECO 352",
-                    "WWS 302/ECO 359",
-                    "WWS 307/ECO 349"
+                    "SPI 301/ECO 352",
+                    "SPI 302/ECO 359",
+                    "SPI 307/ECO 349"
                   ]
                 }
               ]

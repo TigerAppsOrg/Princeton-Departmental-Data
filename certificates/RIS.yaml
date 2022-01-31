@@ -68,7 +68,7 @@
                     "double_counting_allowed": false,
                     "pdfs_allowed": 0,
                     "course_list": [
-                        "ELE 206",
+                        "ECE 206",
                         "MAE 224",
                         "PHY 210"
                     ]
@@ -85,7 +85,7 @@
                         "MAE 345",
                         "MAE 433",
                         "MAE 434",
-                        "ELE 301"
+                        "ECE 301"
                     ]
                 },
                 {
@@ -124,11 +124,11 @@
                         "COS 429",
                         "COS 461",
                         "ECO 202",
-                        "ELE 201",
-                        "ELE 302",
-                        "ELE 381",
-                        "ELE 482",
-                        "ELE 486",
+                        "ECE 201",
+                        "ECE 302",
+                        "ECE 381",
+                        "ECE 482",
+                        "ECE 486",
                         "MAE 206",
                         "MAE 321",
                         "MAE 322",

@@ -25,12 +25,12 @@
             "name": "Core Course",
             "max_counted": 1,
             "min_needed": 1,
-            "explanation": "The core course WWS 315/ POL 393 for the History and the Practice of Diplomacy Certificate.",
+            "explanation": "The core course SPI 315/ POL 393 for the History and the Practice of Diplomacy Certificate.",
             "double_counting_allowed": false,
             "max_common_with_major": 0,
             "pdfs_allowed": 0,
             "course_list": [
-                "WWS 315"
+                "SPI 315"
             ]
         },
         {
@@ -49,7 +49,7 @@
             "max_common_with_major": 0,
             "pdfs_allowed": 0,
             "course_list": [
-                "WWS ***",
+                "SPI ***",
                 "HIS ***"
             ]
         }

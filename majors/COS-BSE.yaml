@@ -92,7 +92,7 @@
       "name": "Core Courses",
       "max_counted": 1,
       "min_needed": "ALL",
-      "explanation": "Eight additional departmental courses at or above the 300 level must be elected to fulfill the departmental requirements. These eight courses must include two each from the three main areas.\n\nAny computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental. In addition, some graduate COS courses (500-level) count as undergraduate departmentals (COS 551, COS 534), depending on their content and structure. (Please ask if you need to use a graduate course as a departmental). However, graduate courses rarely count as special \"tracked\" departmentals (see the list below for the few exceptions).\n\nIn addition, any 300- or 400- level Math or ELE or Physics or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, CHM 303(CHM 303 is now renumbered to CHM 301 as of 8/27/2018), ECO 312, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category. Note that it is very, very, very rare for courses outside the computer science department that are not cross-listed with the computer science department to count as track-specific (ie: Theory/Systems/Applications) departmentals. Hence, in general, you will not be able to count more than 2 courses outside of the computer science department as COS departmentals.\n\nSome regular courses are COS departmentals but do not count in any specific track, such as COS 351 \"Information technology and public policy\". COS 495, Special Topics, is a departmental but may be associated with different tracks (or no track) depending on content. Other one-time courses may also be departmentals and may count in one of the tracks depending on level and content. Check with your advisor or the undergraduate coordinator for up-to-date information.",
+      "explanation": "Eight additional departmental courses at or above the 300 level must be elected to fulfill the departmental requirements. These eight courses must include two each from the three main areas.\n\nAny computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental. In addition, some graduate COS courses (500-level) count as undergraduate departmentals (COS 551, COS 534), depending on their content and structure. (Please ask if you need to use a graduate course as a departmental). However, graduate courses rarely count as special \"tracked\" departmentals (see the list below for the few exceptions).\n\nIn addition, any 300- or 400- level Math or ECE or Physics or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, CHM 303(CHM 303 is now renumbered to CHM 301 as of 8/27/2018), ECO 312, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category. Note that it is very, very, very rare for courses outside the computer science department that are not cross-listed with the computer science department to count as track-specific (ie: Theory/Systems/Applications) departmentals. Hence, in general, you will not be able to count more than 2 courses outside of the computer science department as COS departmentals.\n\nSome regular courses are COS departmentals but do not count in any specific track, such as COS 351 \"Information technology and public policy\". COS 495, Special Topics, is a departmental but may be associated with different tracks (or no track) depending on content. Other one-time courses may also be departmentals and may count in one of the tracks depending on level and content. Check with your advisor or the undergraduate coordinator for up-to-date information.",
       "pdfs_allowed": false,
       "req_list": [
         {
@@ -153,15 +153,15 @@
               "min_needed": null,
               "explanation": null,
               "course_list": [
-                "COS 306/ELE 206: Introduction to Logic Design",
+                "COS 306/ECE 206: Introduction to Logic Design",
                 "COS 316: Principles of Computer System Design",
                 "COS 318: Operating Systems",
                 "COS 320: Compiling Techniques",
                 "COS 333: Advanced Programming Techniques",
-                "COS 375/ELE 375: Computer Architecture and Organization",
+                "COS 375/ECE 375: Computer Architecture and Organization",
                 "COS 425: Database and Information Management Systems",
                 "COS 463: Wireless Networks",
-                "COS 475/ELE 475: Computer Architecture"
+                "COS 475/ECE 475: Computer Architecture"
               ]
             },
             {
@@ -232,11 +232,11 @@
           "name": "General",
           "max_counted": 1,
           "min_needed": 2,
-          "explanation": "<i>Note: Beginning with the Class of 2023 CHM 301, ECO 312 and Physics courses will no longer count as COS departmentals.</i>\n\nAny computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental.\nIn addition, any 300- or 400- level Math or ELE or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category.",
+          "explanation": "<i>Note: Beginning with the Class of 2023 CHM 301, ECO 312 and Physics courses will no longer count as COS departmentals.</i>\n\nAny computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental.\nIn addition, any 300- or 400- level Math or ECE or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category.",
           "year_switch": [
             {
               "year_code": "<=2022",
-              "explanation": "Any computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental.\nIn addition, any 300- or 400- level Math or ELE or Physics or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, CHM 303(CHM 303 is now renumbered to CHM 301 as of 8/27/2018), ECO 312, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category.",
+              "explanation": "Any computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental.\nIn addition, any 300- or 400- level Math or ECE or Physics or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, CHM 303(CHM 303 is now renumbered to CHM 301 as of 8/27/2018), ECO 312, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category.",
             }
           ],
           "req_list": [
@@ -244,7 +244,7 @@
               "name": null,
               "max_counted": null,
               "min_needed": null,
-              "explanation": "Any computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental.\nIn addition, any 300- or 400- level Math or ELE or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category.",
+              "explanation": "Any computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental.\nIn addition, any 300- or 400- level Math or ECE or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category.",
               "course_list": [
                 "COS 3**",
                 "COS 4**",
@@ -252,8 +252,8 @@
                 "COS 534",
                 "MAT 3**",
                 "MAT 4**",
-                "ELE 3**",
-                "ELE 4**",
+                "ECE 3**",
+                "ECE 4**",
                 "ORF 3**",
                 "ORF 4**",
                 "PHI 312",
@@ -273,7 +273,7 @@
               "year_switch": [
                 {
                   "year_code": "<=2022",
-                  "explanation": "Any computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental.\nIn addition, any 300- or 400- level Math or ELE or Physics or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, CHM 303(CHM 303 is now renumbered to CHM 301 as of 8/27/2018), ECO 312, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category.",
+                  "explanation": "Any computer science (COS) course at the 300 or 400 level (except independent work) counts as a computer science departmental.\nIn addition, any 300- or 400- level Math or ECE or Physics or ORF course that does not duplicate COS content, Philosophy 312, MAE 345, CHM 303(CHM 303 is now renumbered to CHM 301 as of 8/27/2018), ECO 312, MOL 437/NEU 437, NEU 330, MUS 315, and ECO 326 – Economics of the Internet count as departmentals. On occasion, special courses with computational content from other departments may fall in to this category.",
                   "course_list": [
                     "COS 3**",
                     "COS 4**",
@@ -281,8 +281,8 @@
                     "COS 534",
                     "MAT 3**",
                     "MAT 4**",
-                    "ELE 3**",
-                    "ELE 4**",
+                    "ECE 3**",
+                    "ECE 4**",
                     "PHY 3**",
                     "PHY 4**",
                     "ORF 3**",

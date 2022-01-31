@@ -72,7 +72,7 @@
                   ]
                 }
               ]
-              
+
             }
           ]
         },
@@ -182,7 +182,7 @@
           "name": "Statistics",
           "max_counted": 1,
           "min_needed": 1,
-          "explanation": "A statistics course. SML 201 is preferred, but the following courses will fulfill the requirement: ECO 202, ORF 245, POL 345, PSY 251, or WWS 332. It is best to fulfill the statistics requirement before junior year, but it must be fulfilled by the end of the fall term senior year.",
+          "explanation": "A statistics course. SML 201 is preferred, but the following courses will fulfill the requirement: ECO 202, ORF 245, POL 345, PSY 251, or SPI 332. It is best to fulfill the statistics requirement before junior year, but it must be fulfilled by the end of the fall term senior year.",
           "completed_by_semester": 7,
           "course_list": [
             "SML 201",
@@ -191,8 +191,8 @@
             "POL 345",
             "SOC 301",
             "ECO 202",
-            "WWS 200",
-            "WWS 332"
+            "SPI 200",
+            "SPI 332"
           ]
         }
       ]

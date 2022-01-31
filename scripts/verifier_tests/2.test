@@ -1,4 +1,4 @@
-WWS
+SPI
 2018
 [
   [
@@ -8,7 +8,7 @@ WWS
       "id": "",
       "dist_area": "",
       "settled": [
-        "Major//2018//WWS//Prerequisites//Statistics Prerequisite"
+        "Major//2018//SPI//Prerequisites//Statistics Prerequisite"
       ]
     },
     {
@@ -17,8 +17,8 @@ WWS
       "id": "",
       "dist_area": "SA",
       "settled": [
-        "Major//2018//WWS//Prerequisites//Microeconomics Prerequisite",
-        "Major//2018//WWS//Core//Microeconomics"
+        "Major//2018//SPI//Prerequisites//Microeconomics Prerequisite",
+        "Major//2018//SPI//Core//Microeconomics"
       ]
     },
     {
@@ -30,22 +30,22 @@ WWS
   ],
   [
     {
-      "name": "POL 230/WWS 325",
+      "name": "POL 230/SPI 325",
       "title": "",
       "id": "",
       "dist_area": "",
       "settled": [
-        "Major//2018//WWS//Prerequisites//Politics, Sociology or Psychology Prerequisite",
-        "Major//2018//WWS//Core//Politics"
+        "Major//2018//SPI//Prerequisites//Politics, Sociology or Psychology Prerequisite",
+        "Major//2018//SPI//Core//Politics"
       ]
     },
     {
-      "name": "WWS 354",
+      "name": "SPI 354",
       "title": "",
       "id": "",
       "dist_area": null,
       "settled": [
-        "Major//2018//WWS//Core//Science Policy"
+        "Major//2018//SPI//Core//Science Policy"
       ]
     }
   ],
@@ -94,7 +94,7 @@ WWS
       "id": "",
       "dist_area": "",
       "settled": [
-        "Major//2018//WWS//Language Requirement"
+        "Major//2018//SPI//Language Requirement"
       ]
     },
     {
@@ -106,13 +106,13 @@ WWS
   ],
   [
     {
-      "name": "WWS 401",
+      "name": "SPI 401",
       "title": "Policy Seminars",
       "id": "",
       "dist_area": ""
     },
     {
-      "name": "WWS 404",
+      "name": "SPI 404",
       "title": "Policy Research Seminar",
       "id": "",
       "dist_area": ""
