@@ -179,7 +179,7 @@
           "max_counted": {
             "$id": "/properties/req_list/items/properties/max_counted",
             "type": [
-              "integer",
+              "number",
               "null"
             ],
             "title": "max_counted",
@@ -291,8 +291,8 @@
             "type": "array",
             "title": "Requirement List",
             "items": {
-              "$ref": "#/properties/req_list/items",
-              "#$ref": "/properties/req_list/items",
+              "#$ref": "#/properties/req_list/items",
+              "$ref": "/properties/req_list/items",
               "#note": "switch the # on the above lines if get an error"
             }
           },
@@ -304,7 +304,7 @@
             "uniqueItems": true,
             "items": {
               "$id": "/properties/req_list/items/properties/course_list/items",
-              "type": "string",
+              "type": ["string", "object"],
               "title": "",
               "default": "NST 100",
               "examples": [
@@ -325,20 +325,21 @@
           },
           "dist_req": {
             "$id": "/properties/req_list/items/properties/dist_req",
-            "type": "string",
+            "type": ["string", "array"],
             "title": "dist_req",
             "description": "distribution requirement (EC, EM, HA, etc)",
-            "default": "",
-            "enum": [
-              "EC",
-              "EM",
-              "HA",
-              "LA",
-              "QR",
-              "STL",
-              "STN",
-              "SA"
-            ]
+            "default": ""
+          },
+          "year_switch": {
+            "$id": "/properties/req_list/items/properties/year_switch",
+            "type": "array",
+            "title": "Year Switch",
+            "minItems": 1,
+            "uniqueItems": false,
+            "items": {
+              "$id": "/properties/req_list/items/properties/year_switch/items",
+              "title": ""
+            }
           }
         },
         "required": [
@@ -346,7 +347,7 @@
           "min_needed",
           "explanation"
         ],
-        "oneOf": [
+        "anyOf": [
           {
             "required": [
                 "req_list"
@@ -366,6 +367,11 @@
             "required": [
                 "dist_req"
             ]
+          },
+          {
+            "required": [
+                "year_switch"
+            ]
           }
         ]
       }
@@ -374,8 +380,7 @@
   "required": [
     "type",
     "name",
-    "degree",
-    "year",
+    # "degree", # only needed for majors
     "urls",
     "contacts",
     "req_list"

@@ -42,7 +42,7 @@ def check_major(major_name, courses, year):
     if (major_name not in university_info.AB_CONCENTRATIONS
             and major_name not in university_info.BSE_CONCENTRATIONS):
         raise ValueError("Major code not recognized.")
-    major_filename = "%s.json" % major_name
+    major_filename = "%s.yaml" % major_name
     major_filepath = os.path.join(_get_dir_path(), MAJORS_LOCATION, major_filename)
     return check_requirements(major_filepath, courses, year)
 
@@ -68,7 +68,7 @@ def check_degree(degree_name, courses, year):
         raise ValueError("Year is invalid.")
     if degree_name not in ["AB", "BSE"]:
         raise ValueError("Invalid degree name: %s" % degree_name)
-    degree_filename = "%s.json" % degree_name
+    degree_filename = "%s.yaml" % degree_name
     degree_filepath = os.path.join(_get_dir_path(), DEGREES_LOCATION, degree_filename)
     return check_requirements(degree_filepath, courses, year)
 
@@ -96,7 +96,7 @@ def check_certificate(certificate_name, courses, year):
         raise ValueError("Year is invalid.")
     if (certificate_name not in university_info.CERTIFICATES):
         raise ValueError("Certificate not recognized.")
-    certificate_filename = "%s.json" % certificate_name
+    certificate_filename = "%s.yaml" % certificate_name
     certificate_filepath = os.path.join(_get_dir_path(), CERTIFICATES_LOCATION, certificate_filename)
     return check_requirements(certificate_filepath, courses, year)
 
@@ -154,7 +154,7 @@ def get_courses_by_path(path):
         raise ValueError("Path malformatted.")
     if "/" in req_type or "/" in req_name:
         raise ValueError("Path malformatted.")
-    filename = "%s.json" % req_name
+    filename = "%s.yaml" % req_name
     if req_type == "Major":
         if (req_name not in university_info.AB_CONCENTRATIONS and req_name not in university_info.BSE_CONCENTRATIONS):
             raise ValueError("Path malformatted.")
@@ -602,6 +602,11 @@ def _check_degree_progress(req, courses):
     return num_courses
 
 def _course_match(course_name, pattern):
+    if type(pattern) is dict:
+        if len(pattern.items()) > 1:
+            raise ValueError("Each course must be a separate item in the course list."
+                " Please split the courses onto individual list items: \n" + str(pattern))
+        [(pattern, _)] = pattern.items()
     pattern = pattern.split(':')[0] # remove course title
     pattern = ["".join(p.split()).upper() for p in pattern.split('/')] # split by '/' and
     course = ["".join(c.split()).upper() for c in course_name.split('/')] # remove spaces
