@@ -1,12 +1,14 @@
-# Major and Certificate Requirements
+# Princeton-Departmental-Data
+A central repository for Princeton Univeristy departmental data, including major, degree, and certificate requirements. Available for Princeton students to develop apps that help with choosing majors and certificates, navigating and understanding departmental requirements, selecting courses, etc.
+
+Currently used by:
+
+* [TigerPath](https://github.com/TigerPathApp/tigerpath)
+* [Princeton ResInDe's Course Selection application](https://github.com/PrincetonResInDe/course-selection)
 
 Each of the folders named `certificates`, `degrees`, and `majors`
-contains requirement files in either `JSON` or `YAML` format that are parsed
-by [`scripts/verifier.py`](scripts/verifier.py).
-
-The parsed requirements are used to do automated requirements checking
-of the user's course schedule, and are then displayed to the user in
-the requirements tree panel.
+contains requirement files in either `JSON` or `YAML` format.
+The `scripts` folder contains a sample script, [`verifier.py`](scripts/verifier.py), with an API that helps to parse and process these requirement files to check which requiremetns are satisfied by a user's courses.  
 
 ## Requirement File Categories
 
