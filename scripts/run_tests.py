@@ -15,7 +15,6 @@
 #   corresponding *.out file. Then the test should pass.
 import json
 import yaml
-import jsonschema # must be installed via pip
 import os
 import filecmp
 import shutil
@@ -25,7 +24,6 @@ from . import verifier
 from .university_info import AB_CONCENTRATIONS, BSE_CONCENTRATIONS, CERTIFICATES
 
 DIR_PATH = os.path.dirname(os.path.realpath(__file__)) # the directory containing this file
-SCHEMA_LOCATION = os.path.join(DIR_PATH, "schema.json") # path to the requirements JSON schema
 TESTS_LOCATION = os.path.join(DIR_PATH, "tests") # folder where the test files are stored
 
 
@@ -33,8 +31,6 @@ def _json_format(obj):
    return json.dumps(obj, sort_keys=False, indent=2, separators=(',', ': ')) + "\n"
 
 def main():
-    with open(SCHEMA_LOCATION, 'r', encoding="utf8") as s:
-        schema = yaml.safe_load(s)
     test_failed = None
     all_requirements = (["AB", "BSE"] + list(AB_CONCENTRATIONS.keys()) + list(BSE_CONCENTRATIONS.keys())
         + ["Certificate: " + cer for cer in CERTIFICATES.keys()])
@@ -51,14 +47,12 @@ def main():
             major_filepath = os.path.join(DIR_PATH, verifier.CERTIFICATES_LOCATION, req_name + ".yaml")
             with open(major_filepath, 'r', encoding="utf8") as f:
                 requirements = yaml.safe_load(f)
-            jsonschema.validate(requirements, schema)
             satisfied, courses, req_tree = verifier.check_certificate(req_name, courses, year)
             req_name = "_cert_" + req_name
         else: # checking major
             major_filepath = os.path.join(DIR_PATH, verifier.MAJORS_LOCATION, req_name + ".yaml")
             with open(major_filepath, 'r', encoding="utf8") as f:
                 requirements = yaml.safe_load(f)
-            jsonschema.validate(requirements, schema)
             satisfied, courses, req_tree = verifier.check_major(req_name, courses, year)
         out_path = os.path.join(TESTS_LOCATION, req_name)
         with open (out_path + ".out", "w", encoding="utf8") as f:
