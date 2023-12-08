@@ -105,6 +105,21 @@ req_list:
   pdfs_allowed: false
   req_list:
   - name: Theory
+  - year_switch:
+  - year_code: ">= 2025"
+    max_counted: 1
+    min_needed: 1
+    req_list:
+    - name:
+      max_counted:
+      min_needed:
+      explanation:
+      course_list:
+      - COS 423: Theory of Algorithms
+      - COS 433: Cryptography
+      - COS 445: Networks, Economics and Computing
+      - COS 487: Theory of Computation
+  - year_code: "<= 2024"
     max_counted: 1
     min_needed: 2
     explanation: |-
@@ -145,81 +160,134 @@ req_list:
       - COS 433: Cryptography
       - COS 533: Advanced Cryptography
   - name: Systems
-    max_counted: 1
-    min_needed: 2
-    explanation: |-
-      Courses in this track study the design and implementation of the foundational hardware and software that constitute a modern computing environment.
-
-      *If you take COS 461 and  COS 561 only one will count as a systems requirement.
-      **If you take COS 418 and  COS 518 only one will count as a systems requirement.
-    req_list:
-    - name:
-      max_counted:
-      min_needed:
-      explanation:
-      course_list:
-      - COS 306/ECE 206: Introduction to Logic Design
-      - COS 316: Principles of Computer System Design
-      - COS 318: Operating Systems
-      - COS 320: Compiling Techniques
-      - COS 333: Advanced Programming Techniques
-      - COS 375/ECE 375: Computer Architecture and Organization
-      - COS 425: Database and Information Management Systems
-      - COS 463: Wireless Networks
-      - COS 475/ECE 475: Computer Architecture
-    - name:
+    year_switch:
+    - year_code: ">= 2025"
       max_counted: 1
-      min_needed:
-      explanation: If you take COS 461 and  COS 561 only one will count as a systems
-        requirement.
-      course_list:
-      - COS 461: Computer Networks
-      - COS 561: Advanced Computer Networks
-    - name:
-      max_counted: 1
-      min_needed:
-      explanation: If you take COS 418 and  COS 518 only one will count as a systems
-        requirement.
-      course_list:
-      - COS 418: Distributed Systems
-      - COS 518: Advanced Computer Systems
-  - name: Applications
-    max_counted: 1
-    min_needed: 2
-    explanation: |-
-      Courses in this track treat a broad range of topics.
+      min_needed: 1
+      req_list:
+      - name:
+        max_counted:
+        min_needed:
+        explanation:
+        course_list:
+        - COS 316: Principles of Computer System Design
+        - COS 318: Operating Systems
+        - COS 418: Distributed Systems
+        - COS 461: Computer Networks
+      - name:
+        max_counted: 1
+        min_needed:
+        explanation: If you take COS 461 and  COS 561 only one will count as a systems
+          requirement.
+        course_list:
+        - COS 461: Computer Networks
+        - COS 561: Advanced Computer Networks
+      - name:
+        max_counted: 1
+        min_needed:
+        explanation: If you take COS 418 and  COS 518 only one will count as a systems
+          requirement.
+        course_list:
+        - COS 418: Distributed Systems
+        - COS 518: Advanced Computer Systems
 
-      *If a student takes both COS 426 and 526, only one will count as an applications requirement.
-    req_list:
-    - name:
-      max_counted:
-      min_needed:
-      explanation:
+    - year_code: "<= 2024"
+      max_counted: 1
+      min_needed: 2
+      explanation: |-
+        Courses in this track study the design and implementation of the foundational hardware and software that constitute a modern computing environment.
+
+        *If you take COS 461 and  COS 561 only one will count as a systems requirement.
+        **If you take COS 418 and  COS 518 only one will count as a systems requirement.
+      req_list:
+      - name:
+        max_counted:
+        min_needed:
+        explanation:
+        course_list:
+        - COS 306/ECE 206: Introduction to Logic Design
+        - COS 316: Principles of Computer System Design
+        - COS 318: Operating Systems
+        - COS 320: Compiling Techniques
+        - COS 333: Advanced Programming Techniques
+        - COS 375/ECE 375: Computer Architecture and Organization
+        - COS 425: Database and Information Management Systems
+        - COS 463: Wireless Networks
+        - COS 475/ECE 475: Computer Architecture
+      - name:
+        max_counted: 1
+        min_needed:
+        explanation: If you take COS 461 and  COS 561 only one will count as a systems
+          requirement.
+        course_list:
+        - COS 461: Computer Networks
+        - COS 561: Advanced Computer Networks
+      - name:
+        max_counted: 1
+        min_needed:
+        explanation: If you take COS 418 and  COS 518 only one will count as a systems
+          requirement.
+        course_list:
+        - COS 418: Distributed Systems
+        - COS 518: Advanced Computer Systems
+    - name: Applications
+      year_switch: 
+      - year_code: ">=2025"
+        max_counted: 0
+        min_needed: 0
+      - year_code: "<=2024"
+        max_counted: 1
+        min_needed: 2
+        explanation: |-
+          Courses in this track treat a broad range of topics.
+
+          *If a student takes both COS 426 and 526, only one will count as an applications requirement.
+        req_list:
+        - name:
+          max_counted:
+          min_needed:
+          explanation:
+          course_list:
+          - COS 314/MUS 314: Computer and Electronic Music through Programming, Performance, and Composition
+          - COS 323/ORF 363: Computing and Optimization for the Physical and Social Sciences
+          - COS 324: Introduction to Machine Learning
+          - COS 326: Functional Programming
+          - COS 343: Algorithms for Computational Biology
+          - COS 360/PSY 360: Computational Models of Cognition
+          - COS 401/TRA 301: Introduction to Machine Translation
+          - COS 402: Machine Learning and  Artificial Intelligence
+          - COS 424: Fundamentals of Machine Learning
+          - COS 429: Computer Vision
+          - COS 432: Information Security
+          - COS 436: Human-Computer Interface Technology
+          - COS 454/PSY 454: Probabilistic Models of Cognition
+          - COS 455/MOL 455: Introduction to Genomics and Computational Molecular Biology
+          - COS 484: Natural Language Processing
+          - COS 485: Neural Networks
+        - name:
+          max_counted: 1
+          min_needed:
+          explanation: If a student takes both COS 426 and 526, only one will count as
+            an applications requirement.
+          course_list:
+          - COS 426: Computer Graphics
+          - COS 526: Advanced Computer Graphics
+  - name: Breadth
+    year_switch:
+    - year_code: ">=2025"
+      max_counted: 1
+      min_needed: 1
       course_list:
-      - COS 314/MUS 314: Computer and Electronic Music through Programming, Performance, and Composition
-      - COS 323/ORF 363: Computing and Optimization for the Physical and Social Sciences
-      - COS 324: Introduction to Machine Learning
       - COS 326: Functional Programming
+      - COS 333: Advanced Programming Techniques
       - COS 343: Algorithms for Computational Biology
-      - COS 360/PSY 360: Computational Models of Cognition
-      - COS 401/TRA 301: Introduction to Machine Translation
-      - COS 402: Machine Learning and  Artificial Intelligence
-      - COS 424: Fundamentals of Machine Learning
-      - COS 429: Computer Vision
+      - COS 426: Computer Graphics
       - COS 432: Information Security
       - COS 436: Human-Computer Interface Technology
-      - COS 454/PSY 454: Probabilistic Models of Cognition
-      - COS 455/MOL 455: Introduction to Genomics and Computational Molecular Biology
-      - COS 484: Natural Language Processing
-      - COS 485: Neural Networks
-    - name:
-      max_counted: 1
-      min_needed:
-      explanation: If a student takes both COS 426 and 526, only one will count as
-        an applications requirement.
-      course_list:
-      - COS 426: Computer Graphics
-      - COS 526: Advanced Computer Graphics
+      - COS 448: Innovating across Technology, Business, and Markets
+    - year_code: "<=2024"
+      max_counted: 0
+      min_needed: 0
   - name: General
     max_counted: 1
     min_needed: 2
@@ -278,6 +346,40 @@ req_list:
       - MUS 315
       - ECO 326
       - SOC 414
+    - year_code: "<= 2024"
+      course_list:
+    - COS 3**
+    - COS 4**
+    - COS 551
+    - COS 534
+    - MAT 3**
+    - MAT 4**
+    - ECE 3**
+    - ECE 4**
+    - ORF 3**
+    - ORF 4**
+    - PHI 312
+    - MAE 345
+    - MOL 437/NEU 437
+    - NEU 330
+    - MUS 315
+    - ECO 326
+    - SOC 414
+    excluded_course_list:
+    - COS 397
+    - COS 398
+    - COS 497
+    - COS 498
+    - year_code: ">=2025"
+      course_list:
+      - COS 3**
+      - MAT 3**
+      - ECE 3**
+      - ORF 3**
+      - MAE 345
+      - MOL 437
+      - NEU 330
+      - ECO 326
 - name: Independent Work
   max_counted:
   min_needed:
