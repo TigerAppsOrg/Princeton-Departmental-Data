@@ -3,10 +3,10 @@ Asian American Studies: BOIL
 Chinese Language: BOIL
 Classics: BOIL
 Climate Science: BOIL
-Computer Science:
-Creative Writing:
-Dance:
-East Asian Studies Program:
+Computer Science: BOIL
+Creative Writing: BOIL
+Dance: BOIL
+East Asian Studies Program: BOIL
 English:
 Environmental Studies:
 Finance:
