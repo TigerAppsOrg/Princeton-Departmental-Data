@@ -1,15 +1,28 @@
 ---
 type: Minor
-name: 
-code: 
+name: East Asian Studies Program
+code: EAS
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/east-asian-studies-program
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Thomas D. Conlan
+  email: tconlan@princeton.edu
 description: |-
-
+  The Program in East Asian Studies is an interdepartmental center directed 
+  by representatives of the cooperating departments — Anthropology, 
+  Art and Archaeology, Comparative Literature, East Asian Studies, 
+  Economics, History, Music, Politics, Religion, and Sociology — as 
+  well as the School of Public and International Affairs. It is designed 
+  to educate internationally minded students with basic competence in 
+  East Asia. The program provides an opportunity for students who plan 
+  to major in other disciplines to simultaneously pursue the study of 
+  East Asian language arts, history and other disciplines. East Asia is 
+  defined as those areas where Chinese, Korean, or Japanese is the dominant 
+  language, although courses and independent research in Vietnam may also 
+  be included as an area of study. The student's work is supervised by the 
+  appropriate representative of a cooperating department in consultation 
+  with the East Asian Studies program director. 
 max_common_with_major: 
 req_list:
 - name: 

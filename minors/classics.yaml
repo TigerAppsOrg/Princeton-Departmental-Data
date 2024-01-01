@@ -1,15 +1,22 @@
 ---
 type: Minor
-name: 
-code: 
-urls:
-- 
+name: Classics
+code: CLA
+urls: 
+- https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/classics
 contacts:
-- type: 
-  name: 
-  email:
+- type: Chair
+  name: Barbara Graziosi
+  email: barbara.graziosi@princeton.edu
+- type: Director of Undergraduate Studies
+  name: Daniela E. Mairhofer
+  email: daniela.mairhofer@princeton.edu
 description: |-
-
+  A classics minor offers students significant and coherent exposure to an 
+  area within the field of classics, which studies the cultures, languages, 
+  history, politics and intellectual traditions of the ancient Greek and 
+  Roman worlds, their contacts with other civilizations of the ancient 
+  Mediterranean, resonances in later ages and continued vitality today.
 max_common_with_major: 
 req_list:
 - name: 

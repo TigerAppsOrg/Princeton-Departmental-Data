@@ -1,15 +1,24 @@
 ---
 type: Minor
-name: 
-code: 
+name: Computer Science
+code: COS
 urls:
-- 
+- https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/computer-science
 contacts:
-- type: 
-  name: 
-  email:
+- type: Chair
+  name: Szymon M. Rusinkiewicz
+  email: smr@princeton.edu
 description: |-
-
+  The Computer Science Minor is designed for students who want to 
+  combine the study of computing and computers with another academic 
+  discipline. The program welcomes students not only from areas that 
+  traditionally make heavy use of computation (such as engineering, 
+  the natural sciences and mathematics) but also from newer and emerging 
+  application areas (such as neuroscience, digital humanities, 
+  technology policy, music, visual arts, economics, linguistics and 
+  philosophy). Many students find this program an effective way to 
+  apply computer science to their own specialties, and to understand 
+  how computation and technology are transforming our world.
 max_common_with_major: 
 req_list:
 - name: 

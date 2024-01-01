@@ -1,15 +1,21 @@
 ---
 type: Minor
-name: 
-code: 
+name: Dance
+code: DAN
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/dance
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Susan S. Marshall
+  email: sm9@princeton.edu
 description: |-
-
+  The Program in Dance, part of the Lewis Center for the Arts, 
+  welcomes all students to engage and experiment with dance. At the 
+  core of the program is the belief that dance fosters an integration 
+  of mind and body that allows for a greater connection to ourselves 
+  and our communities. To that end, the dance minor offers students deep 
+  exposure to and appreciation of dance through practice, performance and 
+  critical conversation.
 max_common_with_major: 
 req_list:
 - name: 

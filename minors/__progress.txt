@@ -1,0 +1,38 @@
+African Studies: DONE
+Asian American Studies: BOIL
+Chinese Language: BOIL
+Classics: BOIL
+Climate Science: BOIL
+Computer Science:
+Creative Writing:
+Dance:
+East Asian Studies Program:
+English:
+Environmental Studies:
+Finance:
+Gender and Sexuality Studies:
+Global Health and Health Policy:
+Hellenic Studies:
+History:
+History of Science, Technology, and Medicine:
+Humanistic Studies:
+Japanese Language:
+Journalism:
+Korean Language:
+Latino Studies:
+Linguistics:
+Material Science and Engineering:
+Medieval Studies:
+Music:
+Music Performance:
+Neuroscience:
+Philosophy:
+Quantitative Economics:
+Russian, East European and Eurasian Studies:
+Slavic Languages and Literatures:
+South Asian Studies:
+Statistics and Machine Learning:
+Theater and Music Theater:
+Translation and Intercultural Communication:
+Values and Public Life:
+Visual Arts:

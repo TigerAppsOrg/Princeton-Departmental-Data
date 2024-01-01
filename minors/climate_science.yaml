@@ -1,15 +1,25 @@
 ---
 type: Minor
-name: 
+name: Climate Science
 code: 
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/climate-science
 contacts:
-- type: 
-  name: 
-  email:
+- type: Chair
+  name: Thomas S. Duffy
+  email: duffy@princeton.edu
+- type: Director of Undergraduate Studies
+  name: Satish C. Myneni
+  email: smyneni@princeton.edu
 description: |-
-
+  Climate science is math, physics, chemistry, biology and computer 
+  sciences, applied together to understand how Earth's climate works, 
+  how it has changed in the past and how it will change in the future. 
+  Whether students are interested in policymaking, sustainability, 
+  natural hazards, city planning, pollution, geoengineering, natural 
+  resources, energy or conservation, a broad and accurate understanding 
+  of climate science is required.  The minor in climate science is offered 
+  by the Department of Geosciences.
 max_common_with_major: 
 req_list:
 - name: 

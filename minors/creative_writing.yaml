@@ -1,15 +1,28 @@
 ---
 type: Minor
-name: 
-code: 
+name: Creative Writing
+code: CWR
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/creative-writing
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Yiyun Li
+  email: yiyun.li@princeton.edu
 description: |-
-
+  The Program in Creative Writing, part of the Lewis Center for the Arts, 
+  with a minor in creative writing, like our present certificate students, 
+  will encounter a rigorous framework of courses. These courses are designed, 
+  first and foremost, to teach the students how to read like a writer, 
+  thoughtfully, artistically, curiously, with an open mind attuned to the 
+  nuances of any human situation. This skill is not only for students who 
+  plan to be professional writers, but most important, this is a skill we 
+  believe to be crucial for all students. The many courses offered by the
+  creative writing department teach students how to structure a narrative
+  and write it well; how to use lived experience in the compressed linguistic 
+  construct of a poem so that it provides a meaningful experience for a reader; 
+  how to think about, and undertake, the translation of a literary work into 
+  another literary work in another language; how to write and adapt literary 
+  narratives for a variety of screen media.
 max_common_with_major: 
 req_list:
 - name: 
