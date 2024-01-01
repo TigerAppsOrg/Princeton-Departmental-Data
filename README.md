@@ -106,6 +106,11 @@ description: |-
 # the certificate. Default if empty / not present is that all majors are allowed
 allowed_majors:
 - NST
+# excluded_majors is only relevant for certificates and should not appear for
+# majors and degrees. It is a list of majors that are not allowed to be taken with
+# the certificate. Default if empty / not present is that no majors are excluded
+excluded_majors:
+- XXX
 # every source of information on the listed requirements should be linked to here
 # and the info in the links should back up every detail of the requirements file
 urls: #* links to requirements pages
