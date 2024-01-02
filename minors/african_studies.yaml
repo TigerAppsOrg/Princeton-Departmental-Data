@@ -82,4 +82,11 @@ req_list:
       completed_by_semester: 8
       course_list:
       - AFS ***
-
+- name: Independent Work
+  explanation: |-
+    In addition to the coursework, the student will submit a paper 
+    dealing with Africa. The student may submit the senior thesis or 
+    junior paper or another substantial piece of original research that 
+    meets the same standards of relevance to Africa.
+  iw_relationship: hybrid
+  no_req: 

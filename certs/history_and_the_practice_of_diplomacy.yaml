@@ -27,3 +27,8 @@ req_list:
   pdfs_allowed: 
   completed_by_semester: 
   course_list:
+- name: Independent Work
+  explanation: |-
+
+  iw_relationship: 
+  no_req: 

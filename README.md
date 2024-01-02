@@ -161,12 +161,13 @@ req_list: # the highest level **must** contain a req_list
     excluded_course_list: # the format is the same as for a course_list
     - NST 221 # this prevents NST 221 from counting, despite NST 2** listed above
 # any requirement that the app cannot possibly verify,
-# such as a Senior Thesis or internship, should contain a no_req
+# such as a Senior`` Thesis or internship, should contain a no_req
 # instead of a req_list or course_list. Here is an example:
 - name: Unverifiable Requirement
   max_counted: #*
   min_needed: #*
   explanation: All students must visit New York City three times. #*
+  iw_relationship: combined | hybrid | separated #* whether the requirement is combined, hybrid, or separated with the major IW requirement
   no_req: #* The value of the no_req field is ignored and may be empty/null
 ```
 
