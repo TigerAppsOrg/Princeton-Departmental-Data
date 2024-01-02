@@ -63,8 +63,3 @@ req_list:
   - AMS 4**
   - ASA 3**
   - ASA 4**
-- name: Independent Work
-  explanation: |-
-
-  iw_relationship: 
-  no_req: 

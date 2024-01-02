@@ -28,17 +28,35 @@ excluded_majors:
 max_common_with_major: 
 declaration_limit: 6
 req_list:
-- name: 
+- name: Language
   max_counted: 1
-  min_needed: ALL
+  min_needed: 6
   explanation: |-
-
-  double_counting_allowed: 
-  pdfs_allowed: 
-  completed_by_semester: 
+    Students placing into language courses beyond the second-year 
+    level should plan to satisfy the language course requirements 
+    for the minor with higher level courses. If there are no suitable 
+    higher level language courses available, students may seek permission 
+    from the EAS director of undergraduate studies to substitute some 
+    EAS-prefixed and cognate courses for language work.
+  double_counting_allowed: false
+  pdfs_allowed: 0
   course_list:
+  - CHI ***
+- name: East Asian Studies
+  max_counted: 1
+  min_needed: 1
+  double_counting_allowed: false
+  pdfs_allowed: 0
+  course_list:
+  - EAS ***
 - name: Independent Work
   explanation: |-
-
-  iw_relationship: 
+    Students must also complete a substantial piece of research 
+    (20-25 pages) based at least in part on Chinese language sources 
+    dealing with aspects of East Asia. The topic must be in the humanities 
+    or social sciences. The paper could be either an original piece of 
+    research or a junior paper or senior thesis. If the paper or senior 
+    thesis is written for another department, at least half of the work 
+    must be on East Asia.
+  iw_relationship: hybrid
   no_req: 

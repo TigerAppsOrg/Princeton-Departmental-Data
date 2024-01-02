@@ -167,7 +167,7 @@ req_list: # the highest level **must** contain a req_list
   max_counted: #*
   min_needed: #*
   explanation: All students must visit New York City three times. #*
-  iw_relationship: combined | hybrid | separated #* whether the requirement is combined, hybrid, or separated with the major IW requirement
+  iw_relationship: combined | hybrid | separate #* whether the requirement is combined, hybrid, or separate with the major IW requirement
   no_req: #* The value of the no_req field is ignored and may be empty/null
 ```
 
