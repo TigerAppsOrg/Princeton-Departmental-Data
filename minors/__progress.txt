@@ -1,14 +1,13 @@
-African Studies: DONE
-Asian American Studies: BOIL
-Chinese Language: BOIL
-Classics: BOIL
-Climate Science: BOIL
-Computer Science: BOIL
-Creative Writing: BOIL
-Dance: BOIL
-East Asian Studies Program: BOIL
-English: BOIL
-Environmental Studies: BOIL
+Asian American Studies: 
+Chinese Language: 
+Classics: 
+Climate Science: 
+Computer Science: 
+Creative Writing: 
+Dance: 
+East Asian Studies Program: 
+English: 
+Environmental Studies: 
 Finance:
 Gender and Sexuality Studies:
 Global Health and Health Policy:

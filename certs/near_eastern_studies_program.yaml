@@ -1,15 +1,19 @@
 ---
 type: Certificate
 name: Near Eastern Studies Program
-code: 
+code: NES
 urls:
-- 
+- https://ua.princeton.edu/fields-study/certificate-programs/near-eastern-studies-program
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Jonathan M. Gribetz
+  email: gribetz@princeton.edu
 description: |-
-
+  The Near Eastern Studies Program (NESP) provides students across the 
+  University the opportunity to study the languages, history, culture 
+  and institutions of the Near East and the broader Islamicate world. 
+  Its purpose is to enhance a liberal education and to offer additional 
+  training for students who plan a career in those areas.
 max_common_with_major: 
 declaration_limit: 
 req_list:

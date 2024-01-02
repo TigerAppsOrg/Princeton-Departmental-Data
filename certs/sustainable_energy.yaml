@@ -1,15 +1,29 @@
 ---
 type: Certificate
 name: Sustainable Energy
-code: 
+code: ENE
 urls:
-- 
+- https://ua.princeton.edu/fields-study/certificate-programs/sustainable-energy
+- https://acee.princeton.edu/education/program-in-sustainable-energy/program-of-study/
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Egemen Kolemen
+  email: ekolemen@princeton.edu
 description: |-
-
+  The future of societies, the global economy and the global environment 
+  depend on collaborative research into renewable energy, alternative 
+  fuels, advanced energy conversion and storage systems, technology 
+  transfer to developing countries and prudent judgment on policies 
+  to support sustainable energy technology. Innovations and inventions 
+  require multidisciplinary approaches and entrepreneurship, as well 
+  as grounding in theory and practice, in topics that are not covered 
+  by a single department. The Program in Sustainable Energy offers an 
+  integrated set of core and elective courses, introducing students to 
+  fundamental concepts, providing depth in specific fields of interest, 
+  gaining laboratory and site visit experiences and setting the stage 
+  for further work in the field. Students are encouraged to expand their 
+  experience through summer internships with companies, government 
+  agencies, national and university laboratories and Princeton faculty.
 max_common_with_major: 
 declaration_limit: 
 req_list:

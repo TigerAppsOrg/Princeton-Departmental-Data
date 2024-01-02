@@ -1,15 +1,24 @@
 ---
 type: Certificate
 name: Optimization and Quantitative Decision Science
-code: 
+code: ORF
 urls:
-- 
+- https://ua.princeton.edu/fields-study/certificate-programs/optimization-and-quantitative-decision-science
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Amir Ali Ahmadi
+  email: a_a_a@princeton.edu
 description: |-
-
+  The Certificate Program in Optimization and Quantitative Decision 
+  Science (OQDS) is focused on developing quantitative skills for 
+  optimal decision-making in complex and uncertain environments. 
+  Through this certificate program, students will learn to quantify 
+  risk and uncertainty, and to view any complex decision through the 
+  lens of mathematical optimization. This outlook will give them a 
+  more structured understanding of the decision itself, as they learn 
+  to rigorously formulate their constraints, objective functions(s) 
+  and the uncertainties involved. It will also lead students to the 
+  proper algorithmic tools that are needed to arrive at an optimal decision.
 max_common_with_major: 
 declaration_limit: 
 req_list:

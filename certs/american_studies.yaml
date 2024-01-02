@@ -1,15 +1,30 @@
 ---
 type: Certificate
 name: American Studies
-code: 
+code: AMS
 urls:
-- 
+- https://ua.princeton.edu/fields-study/certificate-programs/american-studies
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Aisha M. Beliso-De Jesús
+  email: beliso.dejesus@princeton.edu
 description: |-
-
+  The Program in American Studies, administered by the Effron Center 
+  for the Study of America, is an interdisciplinary plan of study that 
+  prepares students to make intellectual connections in the world 
+  through the experiences and place of America in current and historical 
+  times. Encompassing a wide range of fields, areas and disciplines, 
+  and grounded in the histories and experiences of the diverse peoples 
+  and cultures that make up the United States of America, the program 
+  explores different conceptual framings of America and the role of 
+  the United States in local, global and transnational relationships. 
+  By asking a broad range of research questions and engaging with 
+  diverse scholarly methods and theories, the program encourages new 
+  understandings of issues that profoundly affect contemporary life 
+  and scholarship, including questions of migration, diaspora and borders; 
+  indigeneity and colonization; globalization, empire and war; capital 
+  and culture; language, race and ethnicity; religion; slavery and 
+  racialization; gender and sexuality; and ecology and technology.
 max_common_with_major: 
 declaration_limit: 
 req_list:

@@ -11,7 +11,6 @@ Entrepreneurship:
 European Cultural Studies:
 Geological Engineering:
 History and the Practice of Diplomacy:
-Jazz Studies:
 Judaic Studies:
 Language and Culture:
 Latin American Studies:
@@ -24,3 +23,5 @@ Sustainable Energy:
 Teacher Preparation:
 Technology and Society:
 Urban Studies:
+
+Jazz Studies is not included due to being no longer offered (only '24)

@@ -1,15 +1,18 @@
 ---
 type: Certificate
 name: Teacher Preparation
-code: 
+code: TPP
 urls:
-- 
+- https://ua.princeton.edu/fields-study/certificate-programs/teacher-preparation
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Todd W. Kent
+  email: twkent@princeton.edu
 description: |-
-
+  The Program in Teacher Preparation is an interdepartmental course of 
+  study for undergraduates and is composed of a unique combination of 
+  coursework and clinical experiences in schools at every level of 
+  the program. Graduate students and alumni are eligible to complete it.
 max_common_with_major: 
 declaration_limit: 
 req_list:

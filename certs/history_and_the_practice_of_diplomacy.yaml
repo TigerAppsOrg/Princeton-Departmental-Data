@@ -1,15 +1,20 @@
 ---
 type: Certificate
 name: History and the Practice of Diplomacy
-code: 
+code: HPD
 urls:
-- 
+- https://ua.princeton.edu/fields-study/certificate-programs/history-and-practice-diplomacy
+- https://hpd.princeton.edu/courses
 contacts:
-- type: 
-  name: 
-  email:
+- type: Program Coordinator
+  name: Bernadette Yeager
+  email: byeager@princeton.edu
 description: |-
-
+  The Program in History and the Practice of Diplomacy (HPD) offers 
+  undergraduate students the opportunity to pursue concentrated 
+  interdisciplinary study of history and diplomacy in concert with 
+  internships in the practice of diplomacy and related professions. 
+  Successful completion of the program leads to the award of a certificate.
 max_common_with_major: 
 declaration_limit: 
 req_list:

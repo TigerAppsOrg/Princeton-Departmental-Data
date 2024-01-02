@@ -1,15 +1,16 @@
 ---
 type: Certificate
 name: Latin American Studies
-code: 
+code: LAS
 urls:
-- 
+- https://ua.princeton.edu/fields-study/certificate-programs/latin-american-studies
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Gabriela Nouzeilles
+  email: gnouzeil@princeton.edu
 description: |-
-
+  The Program in Latin American Studies promotes interdisciplinary 
+  study and seeks to foster knowledge of and experience in Latin America.
 max_common_with_major: 
 declaration_limit: 
 req_list:
