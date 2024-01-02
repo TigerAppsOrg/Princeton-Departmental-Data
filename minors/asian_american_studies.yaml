@@ -49,7 +49,7 @@ req_list:
   double_counting_allowed: false
   pdfs_allowed: 0
   course_list:
-  - ASA XXX
+  - ASA ***
 - name: Advanced Seminar in American Studies
   max_counted: 1
   min_needed: 1
@@ -60,6 +60,6 @@ req_list:
   double_counting_allowed: false
   pdfs_allowed: 0
   course_list:
-  - AMS 4XX
-  - ASA 3XX
-  - ASA 4XX
+  - AMS 4**
+  - ASA 3**
+  - ASA 4**

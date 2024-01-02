@@ -26,7 +26,7 @@ description: |-
 excluded_majors: 
 - EAS
 max_common_with_major: 
-declaration_limit: 
+declaration_limit: 6
 req_list:
 - name: 
   max_counted: 1
