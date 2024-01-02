@@ -1,15 +1,27 @@
 ---
 type: Minor
 name: Values and Public Life
-code: 
+code: CHV
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/values-and-public-life
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Sandra L. Bermann
+  email: sandralb@princeton.edu
+- type: Director (acting)
+  nmae: Stephen J. Macedo
+  email: macedo@princeton.edu
 description: |-
-
+  The interdisciplinary minor in values and public life, offered by the 
+  University Center for Human Values, focuses on modes of inquiry into 
+  important ethical issues in public life. The program helps students 
+  develop competence in pursuing such inquiries generally and supports 
+  them in applying these intellectual skills to the advanced analysis 
+  of one or more related topics. Students who complete the minor will be 
+  equipped to bring informed discussion of values into the public sphere 
+  and to integrate a critical value perspective into their future studies 
+  and pursuits. The minor is open to rising juniors intending to major 
+  in any discipline.
 max_common_with_major: 
 declaration_limit: 
 req_list:

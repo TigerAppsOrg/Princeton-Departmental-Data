@@ -1,15 +1,30 @@
 ---
 type: Minor
 name: History of Science, Technology and Medicine
-code: 
+code: HOS
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/history-science-technology-and-medicine
 contacts:
-- type: 
-  name: 
-  email:
+- type: Undergraduate Program Director
+  name: Katja Guenther
+  email: kguenthe@princeton.edu
 description: |-
-
+  From climate change to pandemics to the transformative effects of 
+  information technology, many of the challenges we confront today are 
+  inseparable from science, technology and medicine, whether as cause, 
+  explanation or remedy. To understand the role of STM in our present 
+  predicament and think through how it will shape our future, a 
+  historical perspective is vital. In the HSTM minor, students will 
+  learn from the array of methodological approaches developed by 
+  historians of science, technology and medicine, and track the evolution 
+  of modern science from antiquity to the present, in many of the world's 
+  cultures. For students majoring in the humanities and social sciences, 
+  the HSTM minor enhances their understanding of the content, methodologies 
+  and impacts of science, technology and medicine; in a complementary fashion, 
+  the HSTM minor provides students majoring in the natural sciences or 
+  engineering a richer appreciation of the social and cultural aspects 
+  of their fields, as well as the trajectories that brought their subjects 
+  to their present state.
 max_common_with_major: 
 declaration_limit: 
 req_list:

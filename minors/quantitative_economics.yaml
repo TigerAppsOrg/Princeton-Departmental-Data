@@ -1,15 +1,21 @@
 ---
 type: Minor
 name: Quantitative Economics
-code: 
+code: ECO
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/quantitative-economics
 contacts:
-- type: 
-  name: 
-  email:
+- type: Chair
+  name: Wolfgang Pesendorfer
+  email: pesendor@princeton.edu
+- type: Director of Undergraduate Studies
+  name: Smita B. Brunnermeier
+  email: smita@princeton.edu
 description: |-
-
+  Offered by the Department of Economics, the minor in quantitative 
+  economics allows quantitatively inclined students to gain access to 
+  economics, with a course of study that is tailored to their interests 
+  and skills. 
 max_common_with_major: 
 declaration_limit: 
 req_list:

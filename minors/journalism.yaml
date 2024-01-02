@@ -1,15 +1,19 @@
 ---
 type: Minor
 name: Journalism
-code: 
+code: JRN
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/journalism
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Joe Stephens
+  email: js5@princeton.edu
 description: |-
-
+  The minor in journalism provides an interdisciplinary framework of 
+  courses through which students produce rigorous, verified journalism, 
+  developing a strong command of the literary, ethical, analytical and 
+  political dimensions of telling a compelling story in order to have a 
+  meaningful impact on public conversation.
 max_common_with_major: 
 declaration_limit: 
 req_list:

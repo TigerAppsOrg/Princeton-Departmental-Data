@@ -1,15 +1,38 @@
 ---
 type: Minor
 name: Finance
-code: 
+code: FIN
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/finance
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Markus K. Brunnermeier
+  email: markus@princeton.edu
+- type: Director of Undergraduate Program
+  name: Yacine Aït-Sahalia
+  email: yacine@princeton.edu
 description: |-
-
+  Under the auspices of the Bendheim Center for Finance, Princeton 
+  undergraduates majoring in any department may earn a minor that 
+  attests to their proficiency in the discipline of finance. 
+  The rapidly developing field of finance focuses on the pricing of 
+  financial assets, including equities, bonds, currencies and derivative 
+  securities; portfolio management and the evaluation of financial risks; 
+  banking and financial intermediation; the financing of corporations; 
+  corporate governance; financial market and banking regulation; and 
+  many other topics. In addition to the obvious practical relevance of 
+  finance, the field contains both challenging intellectual problems 
+  and a distinctive formal framework within which those problems can 
+  be addressed. Knowledge of modern finance is also essential to the 
+  proper understanding of many other topics in economics and public 
+  policy, including the determination of exchange rates and 
+  international capital flows, the making of monetary and fiscal 
+  policy, the role of financial reform in developing and transition 
+  economies, the regulation and taxation of financial markets and 
+  financial instruments, and antitrust policy. Finally, modern finance 
+  is remarkably eclectic, drawing from many disciplines besides economics, 
+  including mathematics, operations research, engineering, computer science, 
+  psychology, politics and history.
 max_common_with_major: 
 declaration_limit: 
 req_list:

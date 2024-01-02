@@ -1,15 +1,21 @@
 ---
 type: Minor
 name: Humanistic Studies
-code: 
+code: HUM
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/humanistic-studies
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Esther H. Schor
+  email: eschor@princeton.edu
 description: |-
-
+  The Program in Humanistic Studies is a minor about major questions: 
+  What is it to be human? What do we do with our humanity? How do we 
+  experience difference and what role does it play in the good life? 
+  How do tradition and transformation make our lives deeper and more 
+  dynamic? We address these questions by inviting students to reflect 
+  explicitly on the theory and practice of disciplines and to build 
+  bridges among them.
 max_common_with_major: 
 declaration_limit: 
 req_list:

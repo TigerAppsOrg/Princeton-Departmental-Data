@@ -1,15 +1,21 @@
 ---
 type: Minor
 name: Visual Arts
-code: 
+code: VIS
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/visual-arts
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Jeffrey Whetstone
+  email: whetstone@princeton.edu
 description: |-
-
+  The Program in Visual Arts, part of the Lewis Center for the Arts, 
+  encourages undergraduates to explore visual art and media while 
+  developing their creative skills under the aegis of a liberal arts 
+  education. Courses are offered in drawing, filmmaking, graphic design, 
+  media, painting, photography and sculpture. Studio courses emphasize 
+  direct, hands-on art making under the guidance of practicing 
+  contemporary artists.
 max_common_with_major: 
 declaration_limit: 
 req_list:

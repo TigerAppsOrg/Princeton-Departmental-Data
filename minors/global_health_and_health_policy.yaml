@@ -1,15 +1,32 @@
 ---
 type: Minor
 name: Global Health and Health Policy
-code: 
+code: GHP
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/global-health-and-health-policy
 contacts:
-- type: 
-  name: 
-  email:
+- type: Co-Director
+  name: Heather H. Howard
+  email: heatherh@princeton.edu
+- type: Co-Director
+  name: C. Jessica E. Metcalf
+  email: cmetcalf@princeton.edu
 description: |-
+  Princeton students are part of a new global health generation — a 
+  generation that witnesses first-hand the pressing health challenges 
+  in the world and wants to do something about them. The minor in Global 
+  Health and Health Policy (GHP) equips students with the cutting-edge 
+  tools, real-life experiences and critical perspectives to make 
+  meaningful change in the health sphere.
 
+  The minor in Global Health and Health Policy provides students a 
+  foundational grounding in the core interdisciplinary issues of 
+  global health. These include the biological, social and environmental 
+  determinants of health; public health policy and politics; 
+  epidemiology; comparative approaches to health-care provision; 
+  medical anthropology; health ethics; and social justice. 
+  Participating students learn about and collaborate with diverse 
+  communities around the world and in the United States.
 max_common_with_major: 
 declaration_limit: 
 req_list:

@@ -1,15 +1,24 @@
 ---
 type: Minor
 name: Music Performance
-code: 
+code: MPP
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/music-performance
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Michael J. Pratt
+  email: mjpratt@princeton.edu
 description: |-
-
+  The minor in Music Performance is a rigorous opportunity for students 
+  to study the performance of vocal and instrumental music (both jazz 
+  and classical) or conducting in the context of a liberal arts education. 
+  It provides extensive opportunities for students to hone their skills 
+  through participation in department ensembles, recitals, studio 
+  instruction and performance classes, and also requires coursework 
+  in the Culture and Criticism (C&C) and Materials and Making (M&M) 
+  distribution areas. The MPP minor provides a solid foundation for 
+  students who may wish to pursue professional music training at the 
+  graduate level. 
 max_common_with_major: 
 declaration_limit: 
 req_list:

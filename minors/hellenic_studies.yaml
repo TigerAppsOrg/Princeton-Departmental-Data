@@ -1,15 +1,22 @@
 ---
 type: Minor
 name: Hellenic Studies
-code: 
+code: HLS
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/hellenic-studies
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Jack B. Tannous
+  email: jtannous@princeton.edu
 description: |-
-
+  The minor in Hellenic Studies (HLS) aims to provide students with a 
+  thorough introduction to the history, literature, and culture of the 
+  Greek-speaking Eastern Mediterranean over the past three thousand years. 
+  This minor will allow students to engage, from a variety of disciplinary 
+  perspectives, with all aspects of Hellenism, its global encounters, 
+  and cross-cultural dialogues. At the same time, students in the Hellenic 
+  studies minor will acquire a strong grounding in the long history of 
+  this important region of the world.
 max_common_with_major: 
 declaration_limit: 
 req_list:

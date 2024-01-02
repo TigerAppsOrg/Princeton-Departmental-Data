@@ -1,15 +1,28 @@
 ---
 type: Minor
 name: Medieval Studies
-code: 
+code: MED
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/medieval-studies
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: William C. Jordan
+  email: wchester@princeton.edu
 description: |-
-
+  The Program in Medieval Studies encourages the interdisciplinary study 
+  of the Middle Ages: its art, literature (Latin and vernacular), 
+  music, religion, science, philosophy, politics, and economic and 
+  social structures. Supported by the vast resources for medieval 
+  studies at Princeton (including an outstanding medieval manuscript 
+  collection and the photographic archive known as the Index of Medieval 
+  Art), the program sponsors one course: an introductory seminar, and a 
+  (noncredit) thesis writers' colloquium for seniors. Other courses 
+  directly relevant to medieval studies are listed under the courses 
+  section. The minor's multidisciplinary training in the study of
+  history, culture and society fosters students' future work in 
+  fields such as media, heritage management, archives and museums, 
+  publishing industries, legal studies, public scholarship and 
+  academic research.
 max_common_with_major: 
 declaration_limit: 
 req_list:

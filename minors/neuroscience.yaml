@@ -1,15 +1,28 @@
 ---
 type: Minor
 name: Neuroscience
-code: 
+code: NEU
 urls:
-- 
+- https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/neuroscience
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Mala Murthy
+  email: mmurthy@princeton.edu
+- type: Director of Undergraduate Studies
+  name: Asif A. Ghazanfar
+  email: asifg@princeton.edu
 description: |-
-
+  The minor in neuroscience at Princeton is designed for Princeton 
+  University undergraduate students with a strong interest in the brain 
+  but whose primary studies are in a different subject area. The 
+  certificate in neuroscience has been serving this function since 
+  2006, but since neuroscience now has a major, transitioning the 
+  certificate to a minor is appropriate. The PNI faculty believe that 
+  the current requirements of the NEU certificate are sufficient for a 
+  minor and have endorsed changing the name without modifications to 
+  the requirements. The requirements for the NEU minor are all related 
+  to coursework. There is no independent work requirement for the 
+  neuroscience certificate.
 max_common_with_major: 
 declaration_limit: 
 req_list:

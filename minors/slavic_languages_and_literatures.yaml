@@ -1,15 +1,26 @@
 ---
 type: Minor
 name: Slavic Languages and Literatures
-code: 
+code: SLA
 urls:
-- 
+- https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/slavic-languages-and-literatures
 contacts:
-- type: 
-  name: 
-  email:
+- type: Chair
+  name: Ilya Vinitsky
+  email: vinitsky@princeton.edu
+- type: Chair (acting)
+  name: Michael A. Wachtel
+  email: wachtel@princeton.edu
+- type: Director of Undergraduate Studies
+  name: Elena Fratto
+  email: efratto@princeton.edu
 description: |-
-
+  The Slavic department welcomes students who are interested in 
+  developing a critically informed appreciation for the literature 
+  and culture of Russia and the Slavic world. Our majors attain a 
+  high level of proficiency that allows them to work with both primary
+  and secondary sources in the target language (BCS, Czech, Polish, 
+  Russian, Ukrainian).
 max_common_with_major: 
 declaration_limit: 
 req_list:

@@ -1,15 +1,26 @@
 ---
 type: Minor
 name: Gender and Sexuality Studies
-code: 
+code: GSS
 urls:
-- 
+- https://ua.princeton.edu/fields-study/minors/gender-and-sexuality-studies
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Wallace D. Best
+  email: wbest@princeton.edu
 description: |-
-
+  The Program in Gender and Sexuality Studies is an interdisciplinary 
+  forum for the study of gender and sexuality, as well as their 
+  intersections with race, class, ethnicity and physical ability 
+  across cultures and global geographies both past and present. 
+  The program's courses, which are open to all students, examine gender 
+  and sexuality from a variety of disciplinary and interdisciplinary 
+  perspectives. The program offers core courses, seminars and 
+  cross-listed courses. A current list of course offerings is available 
+  on the program website. The program also encourages summer internships 
+  in relevant community-based programs, nonprofits and nongovernmental 
+  organizations with which the program's theoretical and historical 
+  inquiries can be applied in a practical setting.
 max_common_with_major: 
 declaration_limit: 
 req_list:
