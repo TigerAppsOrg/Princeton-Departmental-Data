@@ -111,6 +111,11 @@ allowed_majors:
 # the certificate. Default if empty / not present is that no majors are excluded
 excluded_majors:
 - XXX
+# declaration_limit is only relevant for certificates and should not appear for
+# majors and degrees. It is the latest semester by which a student must declare
+# the certificate. Default if empty / not present is that there is no limit
+declaration_limit:
+- 6
 # every source of information on the listed requirements should be linked to here
 # and the info in the links should back up every detail of the requirements file
 urls: #* links to requirements pages

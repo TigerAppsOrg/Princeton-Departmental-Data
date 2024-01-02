@@ -21,6 +21,7 @@ description: |-
   of climate science is required.  The minor in climate science is offered 
   by the Department of Geosciences.
 max_common_with_major: 
+declaration_limit: 
 req_list:
 - name: 
   max_counted: 1

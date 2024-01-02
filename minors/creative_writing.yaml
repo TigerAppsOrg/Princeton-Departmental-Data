@@ -24,6 +24,7 @@ description: |-
   another literary work in another language; how to write and adapt literary 
   narratives for a variety of screen media.
 max_common_with_major: 
+declaration_limit: 
 req_list:
 - name: 
   max_counted: 1

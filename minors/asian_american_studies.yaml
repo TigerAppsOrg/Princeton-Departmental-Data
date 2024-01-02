@@ -24,6 +24,7 @@ description: |-
   contextualize Asian American histories and cultures within the diversity 
   of experiences in the United States.
 max_common_with_major: 
+declaration_limit: 
 req_list:
 - name: 
   max_counted: 1

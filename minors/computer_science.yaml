@@ -20,6 +20,7 @@ description: |-
   apply computer science to their own specialties, and to understand 
   how computation and technology are transforming our world.
 max_common_with_major: 
+declaration_limit: 
 req_list:
 - name: 
   max_counted: 1

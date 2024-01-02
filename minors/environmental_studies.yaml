@@ -1,16 +1,33 @@
 ---
 type: Minor
 name: Environmental Studies
-code: 
-urls:
-- 
+code: ENV
+urls: 
+- https://ua.princeton.edu/fields-study/minors/environmental-studies
 contacts:
-- type: 
-  name: 
-  email:
+- type: Director
+  name: Corina E. Tarnita
+  email: ctarnita@princeton.edu
 description: |-
-
+  For more than 30 years, the Program in Environmental Studies (ENV),
+  now based in the High Meadows Environmental Institute (HMEI), 
+  has aimed to equip Princeton students with the skills to address 
+  critical environmental challenges that they will face throughout 
+  their careers and in life. Our guiding ethos is grounded in the 
+  appreciation that environmental challenges — both present and future — 
+  cannot be solved by any one discipline alone, but require concerted, 
+  multidisciplinary and interdisciplinary efforts, spanning all four 
+  divisions of the university. To that end, the program is designed to 
+  attract students from all disciplinary backgrounds and with varied 
+  interests, and to allow them to tailor their learning while also 
+  ensuring that they are exposed to fundamental environmental questions 
+  and methods/approaches through a variety of complementary lenses. 
+  In that sense, the ENV certificate — and, if approved, the minor — 
+  is designed to complement majors and not overlap or compete with them: 
+  specifically, it aims to provide a much broader multidisciplinary lens 
+  than any individual department or even individual division could.
 max_common_with_major: 
+declaration_limit: 
 req_list:
 - name: 
   max_counted: 1

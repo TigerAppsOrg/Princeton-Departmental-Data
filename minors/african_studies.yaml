@@ -26,6 +26,7 @@ description: |-
   is uniquely situated to teach students ethical approaches to the study of 
   Africa that will serve them well in all areas of study.
 max_common_with_major: 2
+declaration_limit: 6
 req_list:
 - name: Core
   max_counted: 1

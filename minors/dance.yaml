@@ -17,6 +17,7 @@ description: |-
   exposure to and appreciation of dance through practice, performance and 
   critical conversation.
 max_common_with_major: 
+declaration_limit: 
 req_list:
 - name: 
   max_counted: 1

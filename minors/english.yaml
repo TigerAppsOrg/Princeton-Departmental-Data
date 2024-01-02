@@ -1,16 +1,31 @@
 ---
 type: Minor
 name: English
-code: 
+code: ENG
 urls:
-- 
+- https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/english
 contacts:
-- type: 
-  name: 
-  email:
+- type: Chair
+  name: Simon E. Gikandi
+  email: sgikandi@princeton.edu
+- type: Director of Undergraduate Studies
+  name: Russ Leo
+  email: rleo@princeton.edu
 description: |-
-
+  An English minor serves Princeton undergraduates from all majors, 
+  sharpening thinking and writing in ways that support work in their 
+  respective concentrations. English courses foreground language, style 
+  and rhetoric; they train students' attention to effective writing as 
+  well as to a variety of analytical, critical and interpretive modes. 
+  In English courses, students pay close attention to the structures of 
+  arguments, to specific aspects of language and expression, to the 
+  history of literature in English, and to the cultural and grammatical 
+  aspects of the language. English courses also foreground the historical 
+  operations of language and power, affording students invaluable resources 
+  not only for addressing the inequities and disparities that shape our world 
+  but also for imagining the futures that can reinvent that world.
 max_common_with_major: 
+declaration_limit: 
 req_list:
 - name: 
   max_counted: 1

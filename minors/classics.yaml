@@ -18,6 +18,7 @@ description: |-
   Roman worlds, their contacts with other civilizations of the ancient 
   Mediterranean, resonances in later ages and continued vitality today.
 max_common_with_major: 
+declaration_limit: 
 req_list:
 - name: 
   max_counted: 1
