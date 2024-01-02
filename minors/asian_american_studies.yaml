@@ -23,15 +23,43 @@ description: |-
   and Sexuality Studies and other relevant fields of study that help to 
   contextualize Asian American histories and cultures within the diversity 
   of experiences in the United States.
-max_common_with_major: 
-declaration_limit: 
+max_common_with_major: 1
 req_list:
-- name: 
+- name: Gateway
   max_counted: 1
   min_needed: ALL
   explanation: |-
-
-  double_counting_allowed: 
-  pdfs_allowed: 
-  completed_by_semester: 
+    Students are normally encouraged to take the gateway course AMS 101 prior to declaring the minor, however students may also do so at any time during their studies, including after enrollment in the minor.
+  double_counting_allowed: false
+  pdfs_allowed: 0
   course_list:
+  - AMS 101
+- name: General
+  max_counted: 1
+  min_needed: 3
+  explanation: |-
+    Three courses in Asian American studies, either originating in the 
+    program or cross-listed, and preferably representing disciplinary 
+    breadth in the social sciences, arts and humanities. No more than 
+    one course taken in fulfillment of the student's major may be 
+    counted toward the minor. With the approval of the associate 
+    director, a student may substitute a comparative race and 
+    ethnicity course that contains substantial Asian American 
+    studies content for one of these courses.
+  double_counting_allowed: false
+  pdfs_allowed: 0
+  course_list:
+  - ASA XXX
+- name: Advanced Seminar in American Studies
+  max_counted: 1
+  min_needed: 1
+  explanation: |-
+    Advanced Seminar in American Studies. With the approval of the 
+    associate director, a student may substitute an advanced seminar 
+    with additional ASA elective to further their scholarship in this field.
+  double_counting_allowed: false
+  pdfs_allowed: 0
+  course_list:
+  - AMS 4XX
+  - ASA 3XX
+  - ASA 4XX
