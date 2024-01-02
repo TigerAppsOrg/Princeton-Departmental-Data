@@ -1,0 +1,31 @@
+---
+type: Certificate
+name: Spanish
+code: SPA
+urls:
+- https://ua.princeton.edu/fields-study/certificate-programs/language-and-culture
+- https://spo.princeton.edu/undergraduate/certificate
+contacts:
+- type: Director
+  name: Rafael Cesar
+  email: rafaelcesar@princeton.edu
+description: |-
+  The program is open to all undergraduates in all departments. 
+  Ordinarily, students majoring in language and literature departments, 
+  including comparative literature, will be eligible for the certificate 
+  in language and culture provided that: (a) the linguistic base for 
+  the language and culture certificate is different from the linguistic 
+  base of the major; and (b) the work required for the language and 
+  culture certificate does not duplicate the requirements of the major.
+max_common_with_major: 
+declaration_limit: 
+req_list:
+- name: 
+  max_counted: 1
+  min_needed: ALL
+  explanation: |-
+
+  double_counting_allowed: 
+  pdfs_allowed: 
+  completed_by_semester: 
+  course_list:

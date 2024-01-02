@@ -1,0 +1,33 @@
+---
+type: Certificate
+name: Near Eastern Language and Culture
+code: NES
+urls:
+- https://ua.princeton.edu/fields-study/certificate-programs/language-and-culture
+- https://nes.princeton.edu/undergraduate/certificate-near-eastern-languages-and-culture
+contacts:
+- type: Director
+  name: Daniel J. Sheffield
+  email: sheffield@princeton.edu
+description: |-
+  A certificate in Near Eastern Languages and Cultures offers evidence 
+  to prospective employers and graduate programs that a student has 
+  achieved competence in Arabic, Persian, Turkish, or Hebrew.
+  Students may earn a certificate in language and culture whether 
+  or not they are NES majors. Students wishing to receive one or more 
+  certificates in language and culture must email Mr. James LaRegina, 
+  the NES undergraduate administrator, at laregina@princeton.edu by 
+  March 1 of their senior year to verify that they have completed the 
+  requirements and arrange to receive the certificate.
+max_common_with_major: 
+declaration_limit: 
+req_list:
+- name: 
+  max_counted: 1
+  min_needed: ALL
+  explanation: |-
+
+  double_counting_allowed: 
+  pdfs_allowed: 
+  completed_by_semester: 
+  course_list:

@@ -1,0 +1,36 @@
+---
+type: Certificate
+name: French
+code: FRE
+urls:
+- https://ua.princeton.edu/fields-study/certificate-programs/language-and-culture
+- https://fit.princeton.edu/undergraduate/certificate/certificate-requirements
+contacts:
+- type: Director
+  name: Flora Champy
+  email: fchampy@princeton.edu
+description: |-
+  The program is open to undergraduates in all departments. 
+  Students concentrating in Language and Literature departments, 
+  including Comparative Literature, as well as those pursuing Area 
+  Studies Certificates, will be eligible for the Program in Language 
+  and Culture provided that: (a) the linguistic base for the Language 
+  and Culture Certificate is different from the linguistic base of the 
+  concentration or the Area Studies Program, and (b) the work required 
+  for the Certificate in Language and Culture does not duplicate the 
+  requirements of the major or the Area Studies Program. For example, 
+  students majoring in Comparative Literature with French as their major 
+  foreign language cannot obtain a Certificate in French Language and 
+  Culture but can do so in Italian.
+max_common_with_major: 
+declaration_limit: 
+req_list:
+- name: 
+  max_counted: 1
+  min_needed: ALL
+  explanation: |-
+
+  double_counting_allowed: 
+  pdfs_allowed: 
+  completed_by_semester: 
+  course_list:
