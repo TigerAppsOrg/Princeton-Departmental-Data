@@ -26,7 +26,6 @@ description: |-
 max_common_with_major: 1
 req_list:
 - name: Gateway
-  max_counted: 1
   min_needed: ALL
   explanation: |-
     Students are normally encouraged to take the gateway course AMS 101 prior to declaring the minor, however students may also do so at any time during their studies, including after enrollment in the minor.
@@ -35,7 +34,6 @@ req_list:
   course_list:
   - AMS 101
 - name: General
-  max_counted: 1
   min_needed: 3
   explanation: |-
     Three courses in Asian American studies, either originating in the 
@@ -47,18 +45,15 @@ req_list:
     ethnicity course that contains substantial Asian American 
     studies content for one of these courses.
   double_counting_allowed: false
-  pdfs_allowed: 0
   course_list:
   - ASA ***
 - name: Advanced Seminar in American Studies
-  max_counted: 1
   min_needed: 1
   explanation: |-
     Advanced Seminar in American Studies. With the approval of the 
     associate director, a student may substitute an advanced seminar 
     with additional ASA elective to further their scholarship in this field.
   double_counting_allowed: false
-  pdfs_allowed: 0
   course_list:
   - AMS 4**
   - ASA 3**

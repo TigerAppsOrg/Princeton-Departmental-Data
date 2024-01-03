@@ -29,7 +29,6 @@ max_common_with_major:
 declaration_limit: 6
 req_list:
 - name: Language
-  max_counted: 1
   min_needed: 6
   explanation: |-
     Students placing into language courses beyond the second-year 
@@ -39,14 +38,11 @@ req_list:
     from the EAS director of undergraduate studies to substitute some 
     EAS-prefixed and cognate courses for language work.
   double_counting_allowed: false
-  pdfs_allowed: 0
   course_list:
   - CHI ***
 - name: East Asian Studies
-  max_counted: 1
   min_needed: 1
   double_counting_allowed: false
-  pdfs_allowed: 0
   course_list:
   - EAS ***
 - name: Independent Work
