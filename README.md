@@ -127,7 +127,7 @@ contacts: #* departmental office contacts for the department or certificate
 #* requirement lists contain requirements and/or subrequirements
 req_list: # the highest level **must** contain a req_list
 - name: Prerequisites #* requirement name
-  max_counted: 1 # > 0 or null: max units passed up to the parent requirement. unlimited if null
+  max_counted: 1 # > 0 or null: max units passed up to the parent requirement. 1 if null
   min_needed: 4 #* >= 0 or "ALL": min units demanded of children (subrequirements)
   explanation: |- #* long human readable description of the requirement
     This text should be copied almost word-for-word from the department website.
@@ -135,10 +135,12 @@ req_list: # the highest level **must** contain a req_list
     This text is displayed to the user in a tooltip when they hover over the requirement.
   double_counting_allowed: false # whether courses may count for multiple subrequirements of this requirement
                                  # should only be explicitly listed for the root of the subtree to which it applies
+                                 # if empty/null/missing false is assumed
   max_common_with_major: 0 # number of courses that can be in common with major
                            # only relevant for certificates
   pdfs_allowed: false # whether student is allowed to take the courses SPDF (student-elected Pass/D/Fail)
                       # can be false, true, or a number indicating how many courses can
+                      # if empty/null/missing false/0 is assumed
   completed_by_semester: 4 # 1-8: semester by the end of which the requirement must be complete
                            # optional and usually only needed for some prerequisites
   #* the requirement may contain only one of: a course_list, a req_list, a dist_req, or a num_courses
