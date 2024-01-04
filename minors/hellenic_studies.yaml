@@ -17,19 +17,34 @@ description: |-
   and cross-cultural dialogues. At the same time, students in the Hellenic 
   studies minor will acquire a strong grounding in the long history of 
   this important region of the world.
-max_common_with_major: 
-declaration_limit: 
-pdfs_allowed: 
-excluded_majors: 
-- 
+max_common_with_major: 2
+declaration_limit: 6
 req_list:
-- name: 
-  min_needed: ALL
+- name: Gateway Seminar
+  min_needed: 1
   explanation: |-
-
+    All students in the minor are required to take the gateway seminar 
+    HLS 222.
   course_list:
-- name: Independent Work
+  - HLS 222
+- name: 400-Level Seminar
+  min_needed: 1
   explanation: |-
-
-  iw_relationship: 
-  no_req: 
+    Students will also be required to take one 400-level HLS seminar, 
+    approved by the director of the Program in Hellenic Studies.
+  course_list:
+  - HLS 4**
+- name: Electives
+  min_needed: 3
+  explanation: |-
+    All HLS cross-listed courses will be designated as “HSR” (History, 
+    Society, Religion), “LLP” (Language, Literature, Philosophy), or 
+    “VMM” (Visual and Material Culture, and Music). Some classes may have 
+    more than one designation. Students pursuing the minor will be required 
+    to take at least one course from each designation. At least one of the 
+    three required courses must have as its central chronological focus the 
+    post-Classical Greek world, i.e., one (or more) of the following periods 
+    of Hellenism: Late Antique, medieval/Byzantine, renaissance/early modern, 
+    modern, and contemporary.
+  course_list:
+  - HLS ***
