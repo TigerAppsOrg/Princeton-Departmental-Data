@@ -27,15 +27,14 @@ description: |-
   racialization; gender and sexuality; and ecology and technology.
 max_common_with_major: 
 declaration_limit: 
+pdfs_allowed: 
+excluded_majors: 
+- 
 req_list:
 - name: 
-  max_counted: 1
   min_needed: ALL
   explanation: |-
 
-  double_counting_allowed: 
-  pdfs_allowed: 
-  completed_by_semester: 
   course_list:
 - name: Independent Work
   explanation: |-
