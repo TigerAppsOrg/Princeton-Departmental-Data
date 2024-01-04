@@ -32,7 +32,8 @@ req_list:
 - name: 
   min_needed: 7
   explanation: |-
-
+    Students must complete seven one-term courses in East Asian Studies 
+    to earn an East Asian Studies minor.
   req_list:
   - name: Language
     max_counted: 4
@@ -77,10 +78,21 @@ req_list:
       - KOR 4**
   - name: 200-level EAS
     min_needed: 1
+    explanation: |-
+      Completion of at least one 200-level East Asian Studies content 
+      course is required.
     course_list:
     - EAS 2**
   - name: Other Electives
     max_counted: ALL
+    explanation: |-
+      Cognate courses not cross-listed in the EAS Department that have 
+      more than half of their content about East Asia can also be 
+      applied for the minor. Examples include SOC 307/SPI308 
+      Contemporary China, POL 434 The Political Economy of China, 
+      and SPI 316 China's Foreign Relations. Additional courses, 
+      including those taken abroad, may count toward the minor, but 
+      they must be approved in advance by the program office.
     course_list:
     - EAS ***
     - SOC 307
