@@ -111,6 +111,11 @@ allowed_majors:
 # the certificate. Default if empty / not present is that no majors are excluded
 excluded_majors:
 - XXX
+# excluded_minors is only relevant for certificates and should not appear for
+# majors and degrees. It is a list of minors that are not allowed to be taken with
+# the certificate. Default if empty / not present is that no minors are excluded
+excluded_minors:
+- XXX
 # declaration_limit is only relevant for certificates and should not appear for
 # majors and degrees. It is the latest semester by which a student must declare
 # the certificate. Default if empty / not present is that there is no limit

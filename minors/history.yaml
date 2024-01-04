@@ -29,10 +29,12 @@ description: |-
   students of the past, history minors improve their ability to 
   scrutinize the present and to thoughtfully shape the future.
 max_common_with_major: 
-declaration_limit: 
+declaration_limit: 6
 pdfs_allowed: 
 excluded_majors: 
-- 
+- HIS
+excluded_minors: 
+- HOS
 req_list:
 - name: 
   min_needed: ALL
