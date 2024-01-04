@@ -28,7 +28,7 @@ description: |-
   prior eras have helped to produce our own. By becoming more informed 
   students of the past, history minors improve their ability to 
   scrutinize the present and to thoughtfully shape the future.
-max_common_with_major: 
+max_common_with_major: 1
 declaration_limit: 6
 pdfs_allowed: 
 excluded_majors: 
@@ -36,13 +36,33 @@ excluded_majors:
 excluded_minors: 
 - HOS
 req_list:
-- name: 
-  min_needed: ALL
+- name: Program of Study
+  min_needed: 5
   explanation: |-
+    Students are required to complete five history courses. These courses 
+    may range broadly across regions, themes and time periods, or they 
+    may be focused on a single area of study. Upon declaring their 
+    interest in a history minor, students will articulate their goals 
+    and plan an individualized pathway to the minor in consultation 
+    with the Director of Undergraduate Program for History. 
 
+    Interested history minors may apply to take the junior seminar for 
+    majors (HIS400) during the fall or spring of junior year or fall of 
+    senior year. For minors enrolled in HIS 400, the course requirements 
+    are standard except that the research paper written for the course 
+    will be slightly shorter than the length required for majors.
+    Available spots will be allocated after history majors have registered. 
   course_list:
+  - HIS ***
 - name: Independent Work
   explanation: |-
-
-  iw_relationship: 
+    Students are required to write a research paper (minimum length of 
+    12 pages) with substantive primary source engagement. The research 
+    paper will normally be written for a HIS course and revised as 
+    needed to meet the requirements of the minor. In addition, students 
+    will submit a 500-word methodological reflection on the research and 
+    writing process. The undergraduate program director for history 
+    will review the submitted work and verify that it satisfies 
+    departmental requirements.
+  iw_relationship: separate
   no_req: 
