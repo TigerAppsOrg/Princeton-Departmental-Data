@@ -150,6 +150,7 @@ req_list: # the highest level **must** contain a req_list
                              # otherwise, it is a 'hidden subrequirement'
     max_counted: 1 #* see above
     min_needed: 1 #* see above
+    no_crosslist: #* course_list does not include crosslistings
     explanation: Take an interesting course in the department #*
     #* this again may be any one of: a course_list, a req_list, a dist_req, or a num_courses
     course_list: #* a course_list defines this requirement as an explicit or implicit list of courses
