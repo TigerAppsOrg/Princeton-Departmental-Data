@@ -19,19 +19,34 @@ description: |-
   connections and contexts of Latino/a/x peoples across the Americas, 
   including dynamics of globalization, migration, colonialism, 
   imperialism, citizenship and diaspora.
-max_common_with_major: 
-declaration_limit: 
-pdfs_allowed: 
-excluded_majors: 
-- 
+max_common_with_major: 1
+declaration_limit: 6
 req_list:
-- name: 
-  min_needed: ALL
+- name: Gateway Course
+  min_needed: 1
   explanation: |-
-
+    AMS 101: America Then and Now
   course_list:
-- name: Independent Work
+  - AMS 101
+- name: Electives
+  min_needed: 3
   explanation: |-
-
-  iw_relationship: 
-  no_req: 
+    Three courses in Latino studies, either originating in the program 
+    or cross-listed, and preferably representing disciplinary breadth 
+    in the social sciences, arts and humanities. No more than one 
+    course taken in fulfillment of the student's concentration may 
+    be counted toward the certificate. With the approval of the 
+    associate director, a student may substitute a comparative race 
+    and ethnicity course that contains substantial Latino studies content 
+    for one of these courses.
+  course_list:
+  - LAO ***
+- name: Advanced Seminar in American Studies
+  min_needed: 1
+  explanation: |-
+    Advanced Seminar in American Studies. With the approval of the 
+    associate director, a student may substitute an advanced seminar 
+    with an additional Latino studies elective to further their 
+    scholarship in this field.
+  course_list:
+  - AMS 4**

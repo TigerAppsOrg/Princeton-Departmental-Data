@@ -28,7 +28,9 @@ req_list:
 - name: Gateway
   min_needed: ALL
   explanation: |-
-    Students are normally encouraged to take the gateway course AMS 101 prior to declaring the minor, however students may also do so at any time during their studies, including after enrollment in the minor.
+    Students are normally encouraged to take the gateway course AMS 101 
+    prior to declaring the minor, however students may also do so at 
+    any time during their studies, including after enrollment in the minor.
   double_counting_allowed: false
   pdfs_allowed: 0
   course_list:
@@ -56,5 +58,3 @@ req_list:
   double_counting_allowed: false
   course_list:
   - AMS 4**
-  - ASA 3**
-  - ASA 4**
