@@ -4,25 +4,37 @@ name: Teacher Preparation
 code: TPP
 urls:
 - https://ua.princeton.edu/fields-study/certificate-programs/teacher-preparation
+- https://teacherprep.princeton.edu/sites/g/files/toruqf5931/files/documents/2400213_TeacherPrepHandbook%202023-24.pdf
 contacts:
 - type: Director
   name: Todd W. Kent
   email: twkent@princeton.edu
 description: |-
   The Program in Teacher Preparation (link is external) is an interdepartmental course of study for undergraduates and is composed of a unique combination of coursework and clinical experiences in schools at every level of the program. Graduate students and alumni are eligible to complete it.
-max_common_with_major: 
-declaration_limit: 
-pdfs_allowed: 
-excluded_majors: 
-- 
+declaration_limit: 8
+pdfs_allowed: 0
 req_list:
 - name: 
   min_needed: ALL
   explanation: |-
-
+    In addition to the general education and teaching area requirements, the professional education sequence includes the following.
   course_list:
-- name: Independent Work
+  - PSY 307
+  - TPP 301
+  - TPP 403
+  - TPP 404
+- name: General Education Requirements
   explanation: |-
-
-  iw_relationship: 
+    In order to become well-rounded educators, program students are required to demonstrate proficiency in a variety of academic disciplines within the liberal arts and sciences curriculum. A course is required in each of the following areas: fine arts, humanities, mathematics, science and social science. Courses taken to fulfill the University distribution requirements will cover all of these areas except for fine arts.
+  iw_relationship: separate
+  no_req:
+- name: Teaching Area Requiremnts
+  explanation: |-
+    Teaching area requirements normally correspond to departmental major requirements. With careful choice of elective courses it is possible to be certified to teach in one field while majoring in another. A minimum of eight courses related to the area of certification are required, with three of the eight courses at the advanced level (300- or 400 level for all areas except mathematics, which requires three courses at the 200 level or above). Specific areas of certification may include additional requirements or prescribed areas of study in the coursework, and students should consult the Teacher Prep Handbook for more information.
+  iw_relationship: separate
+  no_req:
+- name: Introductory Practicum
+  explanation: |-
+    The practicum consists of participation in three one-hour seminar sessions and 18 observation hours in school settings. Three brief written assignments and selected readings are also required. The Introductory Practicum is designed as a noncredit independent study to accommodate the student's and the instructor's schedules and is considered the final step in the application process.
+  iw_relationship: separate
   no_req: 
