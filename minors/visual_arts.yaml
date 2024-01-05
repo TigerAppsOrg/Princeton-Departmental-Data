@@ -38,13 +38,13 @@ req_list:
 - name: VIS 416 Exhibition Issues and Methods
   min_needed: 1
   explanation: |-
-    VIS 416 Exhibition Issues and Methods is a fall seminar required for all senior year Practice of Art students and students engaged in the visual arts minor. This course provides a formal structure for students to study, present and discuss various issues and strategies for exhibiting art as they prepare for their spring thesis exhibition. Throughout the course, there will be presentations from visiting artists as well as field trips to professional artists’ studios, galleries and museums. Please note that film students are not required to take VIS 416.
+    VIS 416 Exhibition Issues and Methods is a fall seminar required for all senior year Practice of Art students and students engaged in the visual arts minor. This course provides a formal structure for students to study, present and discuss various issues and strategies for exhibiting art as they prepare for their spring thesis exhibition. Throughout the course, there will be presentations from visiting artists as well as field trips to professional artists' studios, galleries and museums. Please note that film students are not required to take VIS 416.
   course_list:
   - VIS 416
 - name: Art/Archaeology
   min_needed: 1
   explanation: |-
-    One course from Art and Archaeology in the modern period (19th century to the present). Please note that film students can substitute a film history/analysis course offered on campus, with prior approval from a film faculty member in consultation with the visual arts director’s office.
+    One course from Art and Archaeology in the modern period (19th century to the present). Please note that film students can substitute a film history/analysis course offered on campus, with prior approval from a film faculty member in consultation with the visual arts director's office.
   course_list:
   - ART ***
 - name: Additional Course
@@ -63,6 +63,6 @@ req_list:
   no_req: 
 - name: Senior Independent Work
   explanation: |-
-    Students are assigned a primary adviser from the visual arts faculty that they will work with for the entire year. Students are assigned semiprivate studios on the second floor of 185 Nassau. Each student’s independent study culminates with a thesis show that is exhibited at one of the Lewis Center galleries.
+    Students are assigned a primary adviser from the visual arts faculty that they will work with for the entire year. Students are assigned semiprivate studios on the second floor of 185 Nassau. Each student's independent study culminates with a thesis show that is exhibited at one of the Lewis Center galleries.
   iw_relationship: 
   no_req: 

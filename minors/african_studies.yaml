@@ -25,14 +25,14 @@ req_list:
 - name: Electives
   min_needed: ALL
   explanation: |-
-    Five courses are required for the minor — one core course and four electives. Students are expected to take one course in the humanities, one African language course (Twi, Ge’ez or Swahili) and one course in the social sciences (History, Politics, Sociology or Anthropology).  Any courses cross-listed with the Program in African Studies are preapproved to count toward fulfillment of the minor. Courses not cross-listed with African Studies, but devoting significant course time to issues on the continent, may be submitted for review by the program director for credit.
+    Five courses are required for the minor — one core course and four electives. Students are expected to take one course in the humanities, one African language course (Twi, Ge'ez or Swahili) and one course in the social sciences (History, Politics, Sociology or Anthropology).  Any courses cross-listed with the Program in African Studies are preapproved to count toward fulfillment of the minor. Courses not cross-listed with African Studies, but devoting significant course time to issues on the continent, may be submitted for review by the program director for credit.
   double_counting_allowed: false
   completed_by_semester: 8
   req_list:
     - name: African Language
       min_needed: 1
       explanation: |-
-        The requirement of African languages can be fulfilled by one semester of an African language on campus or intense study with a summer program (SWA 103K or TWI 103G). Two courses counting toward the student’s major field of concentration may also be counted (or double counted) toward fulfilling the minor in African Studies. All courses for the PAS minor must be taken for a grade, not pass/D/fail.
+        The requirement of African languages can be fulfilled by one semester of an African language on campus or intense study with a summer program (SWA 103K or TWI 103G). Two courses counting toward the student's major field of concentration may also be counted (or double counted) toward fulfilling the minor in African Studies. All courses for the PAS minor must be taken for a grade, not pass/D/fail.
       double_counting_allowed: false
       completed_by_semester: 8
       course_list:

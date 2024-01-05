@@ -78,7 +78,7 @@ req_list:
   min_needed: 3
   explanation: Students are encouraged to take at least one course from at least three
     of the following thematic clusters.  At least one of the courses may not be used
-    to satisfy the requirements for the student’s concentration:Transnational/global
+    to satisfy the requirements for the student's concentration:Transnational/global
     perspectives Gender, Race, and Ethnicity Bodies, Sexualities Culture and Representation
     Politics and Social Change Historical Perspectives
   double_counting_allowed: false
@@ -128,7 +128,7 @@ req_list:
   - THR 332
 - name: Independent Work
   min_needed: 0
-  explanation: Certificate students’ independent work must incorporate issues related
+  explanation: Certificate students' independent work must incorporate issues related
     to Gender and Sexuality Studies.  Students can fulfill this requirement in several
     ways. For those concentrating in humanities or social science disciplines, the
     senior thesis and at least one junior paper must incorporate issues related to

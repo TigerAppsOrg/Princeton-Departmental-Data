@@ -3,8 +3,8 @@ type: Degree
 name: B.S.E.
 code: BSE
 description: The B.S.E. program at Princeton is intended to educate future leaders
-  in many different areas – including engineering practice and research, business
-  and finance, public service, and other professions – through the teaching of fundamental
+  in many different areas - including engineering practice and research, business
+  and finance, public service, and other professions - through the teaching of fundamental
   engineering principles and techniques with their applications to modern problems
   in a global societal context. To this end, B.S.E. students are challenged to conceptualize
   and solve technical problems, work together in teams, express themselves clearly
@@ -203,7 +203,7 @@ req_list:
 
     All Princeton undergraduates take a Writing Seminar in the Fall or Spring of their first year.
 
-    The Writing Seminars give Princeton first-year students an early opportunity to belong to a lively academic community in which members investigate a shared topic and discuss their writing together, with the aim of clarifying and deepening their thinking. The seminars are interdisciplinary in nature to emphasize transferable reading, writing and research skills. You’ll learn how to frame compelling questions, position your argument within a genuine academic debate, substantiate and organize claims, purposefully integrate a wide variety of sources and revise for greater cogency and clarity.
+    The Writing Seminars give Princeton first-year students an early opportunity to belong to a lively academic community in which members investigate a shared topic and discuss their writing together, with the aim of clarifying and deepening their thinking. The seminars are interdisciplinary in nature to emphasize transferable reading, writing and research skills. You'll learn how to frame compelling questions, position your argument within a genuine academic debate, substantiate and organize claims, purposefully integrate a wide variety of sources and revise for greater cogency and clarity.
 
     More information:
     <a href="https://writing.princeton.edu/undergraduates/writing-seminars/fall-seminars" target="_blank" rel="noopener">https://writing.princeton.edu/undergraduates/writing-seminars/fall-seminars</a>
@@ -231,7 +231,7 @@ req_list:
       min_needed:
       explanation: The requirement in Culture and Difference (CD) begins with the
         premise that human beings experience the world through their respective cultures—the
-        ideas, meanings, norms, and habituations – that are represented in the arts
+        ideas, meanings, norms, and habituations - that are represented in the arts
         and literature, laws and institutions, and social practices of human societies
         whose histories and power relationships often differ from one another. Found
         across a wide range of disciplines, these courses use cultural analysis to

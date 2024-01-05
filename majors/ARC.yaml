@@ -35,11 +35,11 @@ req_list:
   max_counted: 1
   min_needed: ALL
   explanation: |-
-    In addition to the general prerequisites and the requirements for independent work, each student is required to complete ten courses in three related areas: history and theory, technology, and design. The History and Theory distribution requires seven courses: three History and Theory of Architecture courses, two of which are ARC 308 and ARC 403; two courses in History and Theory of Urbanism and Landscape; and at least two upper level courses to be taken in the Department of Art and Archaeology. The Technology distribution requires two courses, one of which is ARC 311: Building Science and Technology–Building Systems. The Design Seminar distribution requires ARC 206.
+    In addition to the general prerequisites and the requirements for independent work, each student is required to complete ten courses in three related areas: history and theory, technology, and design. The History and Theory distribution requires seven courses: three History and Theory of Architecture courses, two of which are ARC 308 and ARC 403; two courses in History and Theory of Urbanism and Landscape; and at least two upper level courses to be taken in the Department of Art and Archaeology. The Technology distribution requires two courses, one of which is ARC 311: Building Science and Technology-Building Systems. The Design Seminar distribution requires ARC 206.
 
     Architecture concentrators take the following sequence of courses in their junior and senior year: Junior Studio, which consists of ARC 350 and ARC 351, and two required history and theory courses: ARC 308: History of Architectural Theory (taken in the fall of the junior year) and ARC 403: Topics in the History and Theory of Architecture in the fall semester of the senior year. These courses introduce methodologies of historical analysis and research, the literature of the field, and varieties of architectural writing.
 
-    In the fall semester of their senior year, students are required to enroll in ARC 404: Advanced Design Studio. ARC 404 is centered around independent design projects in that synthesize students’ training and interests and investigate new approaches to representation.
+    In the fall semester of their senior year, students are required to enroll in ARC 404: Advanced Design Studio. ARC 404 is centered around independent design projects in that synthesize students' training and interests and investigate new approaches to representation.
   req_list:
   - name: History and Theory of Architecture
     max_counted: 1
@@ -110,7 +110,7 @@ req_list:
     max_counted: 1
     min_needed: ALL
     explanation: 'The Technology distribution requires two courses, one of which is
-      ARC 311: Building Science and Technology–Building Systems.'
+      ARC 311: Building Science and Technology-Building Systems.'
     req_list:
     - name: Required Courses
       max_counted: 1
@@ -145,7 +145,7 @@ req_list:
       in their junior and senior year: Junior Studio, which consists of ARC 350 and
       ARC 351. In the fall semester of their senior year, students are required to
       enroll in ARC 404: Advanced Design Studio. ARC 404 is centered around independent
-      design projects in that synthesize students’ training and interests and investigate
+      design projects in that synthesize students' training and interests and investigate
       new approaches to representation.'
     course_list:
     - ARC 350

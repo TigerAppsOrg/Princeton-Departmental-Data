@@ -210,7 +210,7 @@ req_list:
 
     OR
 
-    Senior Independent Project - ORF 479 (Spring semester only) - A short progress report will be due in January, (Dean’s Date) to make sure that the students have chosen a suitable topic and matched up with their advisor. The final outcome will be a report due at the end of the spring semester. The report will fully describe the research project and its results. Typically projects will take approximately 30 to 50 pages. (Also, students who take the independent project will need to take an additional 4XX ORFE departmental elective.)
+    Senior Independent Project - ORF 479 (Spring semester only) - A short progress report will be due in January, (Dean's Date) to make sure that the students have chosen a suitable topic and matched up with their advisor. The final outcome will be a report due at the end of the spring semester. The report will fully describe the research project and its results. Typically projects will take approximately 30 to 50 pages. (Also, students who take the independent project will need to take an additional 4XX ORFE departmental elective.)
   req_list:
   - name: Senior Thesis
     max_counted: 1

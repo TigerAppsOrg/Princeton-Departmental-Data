@@ -94,13 +94,13 @@ req_list:
     max_counted: 1
     min_needed: 1
     explanation: "Students in this sub-plan must take at least one more program elective
-      and it must be an engineering course.\n\nA student’s program electives must
-      provide a coherent sequence in the student’s area of interest. No more than
+      and it must be an engineering course.\n\nA student's program electives must
+      provide a coherent sequence in the student's area of interest. No more than
       one program\nelective can be at the 200 level. The courses listed below are
       highly recommended for this program track. If a student would like\nto take
       a program elective not on the list, such as a one-time-only course or a graduate
       course, the student should make a\ncompelling case for why this is consistent
-      with the student’s educational objectives. Approval of all program electives,
+      with the student's educational objectives. Approval of all program electives,
       including\nthose on the list, is based on agreement from the advisor and the
       departmental representative. \n\n*** For the Architecture & Engineering - STR
       track, at least one of the program electives must be an engineering course"
@@ -258,10 +258,10 @@ req_list:
     explanation: |-
       Students in this program must take two or more program electives, normally selected from a pre-approved list of courses in CEE, architecture and art.
 
-      A student’s program electives must provide a coherent sequence in the student’s area of interest. No more than one program
+      A student's program electives must provide a coherent sequence in the student's area of interest. No more than one program
       elective can be at the 200 level. The courses listed below are highly recommended for this program track. If a student would like
       to take a program elective not on the list, such as a one-time-only course or a graduate course, the student should make a
-      compelling case for why this is consistent with the student’s educational objectives. Approval of all program electives, including
+      compelling case for why this is consistent with the student's educational objectives. Approval of all program electives, including
       those on the list, is based on agreement from the advisor and the departmental representative.
     course_list:
     - CEE 439
@@ -373,11 +373,11 @@ req_list:
     explanation: |-
       No more than one program elective can be at the 200 level. For the environmental engineering track, at least one of the program electives must be an engineering course.
 
-      A student’s program electives must provide a coherent sequence in the student’s area of interest. For the environmental
+      A student's program electives must provide a coherent sequence in the student's area of interest. For the environmental
       engineering track, at least one of the program electives must be an engineering course. No more than one program elective can be
       at the 200 level. The courses listed below are highly recommended for this program track. If a student would like to take a
       program elective not on the list, such as a one-time-only course or a graduate course, the student should make a compelling case
-      for why this is consistent with the student’s educational objectives. Approval of all program electives, including those on the list
+      for why this is consistent with the student's educational objectives. Approval of all program electives, including those on the list
       below, is based on agreement from the advisor and the departmental representative.
     req_list:
     - name:
@@ -542,10 +542,10 @@ req_list:
     explanation: |-
       No more than one program elective can be at the 200 level. For the geological engineering track, two of the three required program electives must be engineering courses.
 
-      A student’s program electives must provide a coherent sequence in the student’s area of interest. For the geological engineering
+      A student's program electives must provide a coherent sequence in the student's area of interest. For the geological engineering
       track, at least two of the program electives must be an engineering course. No more than one program elective can be at the 200
       level. The courses listed below are pre-approved. If a student would like to take a program elective not on the list, such as a onetime-only
-      course or a graduate course, the student should make a compelling case for why this is consistent with the student’s
+      course or a graduate course, the student should make a compelling case for why this is consistent with the student's
       educational objectives. Approval is based on agreement from the advisor and the departmental representative.
     req_list:
     - name: Recommended Courses
@@ -709,11 +709,11 @@ req_list:
     explanation: |-
       For the structural engineering track, three program electives are required and at least one must be an engineering course.
 
-      A student’s program electives must provide a coherent sequence in the student’s area of interest. For the structural engineering
+      A student's program electives must provide a coherent sequence in the student's area of interest. For the structural engineering
       track, at least one of the program electives must be an engineering course. No more than one program elective can be at the 200
       level. The courses listed below are highly recommended for this program track. If a student would like to take a program elective
       not on the list, such as a one-time-only course or a graduate course, the student should make a compelling case for why this is
-      consistent with the student’s educational objectives. Approval of all program electives, including those on the list, is based
+      consistent with the student's educational objectives. Approval of all program electives, including those on the list, is based
       on agreement from the advisor and the departmental representative.
     req_list:
     - name: Recommended Courses

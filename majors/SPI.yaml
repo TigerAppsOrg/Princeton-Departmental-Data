@@ -146,7 +146,7 @@ req_list:
   explanation: |-
     <i>Editor's Note: This does not represent a comprehensive list of courses that fall under each category as courses change from semester to semester. Check the department webpage for the official list.</i>
 
-    Each student must complete four electives on a graded basis from a list issued by the School. No more than three electives can be courses listed or cross-listed by the same department. Courses used by students to meet prerequisites or core requirements will not count against this limit. Methodology courses that are on the electives list and all SPI courses also will be exempt –– meaning that you can take more than three SPI courses as electives. Cross-listings on SPI courses such as SPI 315/POL 393 or SPI 466/HIS 467 will count toward the limit for the other departments. Up to three elective courses can be taken in SPI semester-long study abroad programs. Summer courses may not be used as electives.
+    Each student must complete four electives on a graded basis from a list issued by the School. No more than three electives can be courses listed or cross-listed by the same department. Courses used by students to meet prerequisites or core requirements will not count against this limit. Methodology courses that are on the electives list and all SPI courses also will be exempt -- meaning that you can take more than three SPI courses as electives. Cross-listings on SPI courses such as SPI 315/POL 393 or SPI 466/HIS 467 will count toward the limit for the other departments. Up to three elective courses can be taken in SPI semester-long study abroad programs. Summer courses may not be used as electives.
   req_list:
   - name: Human Welfare and Social Policy
     max_counted:
@@ -173,8 +173,8 @@ req_list:
       - 'GSS 345: Pleasure, Power and Profit: Race and Sexualities in a Global Era'
       - 'GSS 395: Media Spectacles, Scandalous Citizens and Democratic Possibilities'
       - 'GSS 420: Born in USA: Culture and Reproduction (WOM 420)'
-      - 'HIS 401: American Women’s History'
-      - 'HIS 406: Woodrow Wilson’s America'
+      - 'HIS 401: American Women's History'
+      - 'HIS 406: Woodrow Wilson's America'
       - 'HIS 459: The History of Incarceration in the U.S.'
       - 'HIS 465: Latino Urban History'
       - 'NES 347: Islamic Family Law'
@@ -220,7 +220,7 @@ req_list:
       - 'SPI 330: Population, Society and Public Policy'
       - 'SPI 354: Modern Genetics and Public Policy'
       - SPI 355
-      - 'SPI 393: Health Reform in the U.S: The Affordable Care Act’s Origins, Impact
+      - 'SPI 393: Health Reform in the U.S: The Affordable Care Act's Origins, Impact
         and Implementation Challenges'
       - 'SPI 407: Economics of Health in Developing Countries (SPI 476)'
       - 'SPI 453: Health and Human Rights'
@@ -278,7 +278,7 @@ req_list:
       - 'HIS 371: Colonial North America'
       - 'HIS 383: The United States, 1920-1974'
       - 'HIS 387: African American History from Reconstruction to the Present'
-      - 'HIS 401: American Women’s History'
+      - 'HIS 401: American Women's History'
       - 'HIS 465: Latino Urban History'
       - HIS 471
       - LAS 317
@@ -366,9 +366,9 @@ req_list:
       - 'HIS 376: The American Civil War and Reconstruction'
       - 'HIS 387: African American History from Reconstruction to the Present'
       - 'HIS 393: Race, Drugs, and Drug Policy'
-      - 'HIS 401: American Women’s History'
+      - 'HIS 401: American Women's History'
       - 'HIS 402: Princeton and Slavery'
-      - 'HIS 406: Woodrow Wilson’s America'
+      - 'HIS 406: Woodrow Wilson's America'
       - 'HIS 459: History of Incarceration in the U.S.'
       - 'HIS 465: Latino Urban History'
       - HIS 471
@@ -458,7 +458,7 @@ req_list:
       - 'SPI 317: International Relations of East Asia (SPI 462)'
       - 'SPI 318: U.S. Military and National and International Diplomacy'
       - SPI 320
-      - 'SPI 322: Public Policy Issues in Today’s Middle East'
+      - 'SPI 322: Public Policy Issues in Today's Middle East'
       - 'SPI 353: Science and Global Security'
       - 'SPI 360: Authoritarianism (SPI 478)'
       - 'SPI 391: Engendering Security and Democracy'
@@ -520,7 +520,7 @@ req_list:
       - ENV 380
       - ENV 381
       - ENV 405
-      - 'GEO 362: Earth’s Climate History'
+      - 'GEO 362: Earth's Climate History'
       - 'GEO 366: Current & Future Climate'
       - 'GHP 412: Planetary Health: Human Health in the Anthropocene'
       - HIS 432
@@ -643,7 +643,7 @@ req_list:
       - 'SPI 301: International Trade'
       - 'SPI 302: International Development'
       - 'SPI 306: Environmental Economics'
-      - 'SPI 322: Public Policy Issues in Today’s Middle East'
+      - 'SPI 322: Public Policy Issues in Today's Middle East'
       - 'SPI 330: Population, Society and Public Policy'
       - SPI 334
       - SPI 351
@@ -871,7 +871,7 @@ req_list:
       - 'NES 437: The Ottoman Empire, 1300-1800'
       - 'REL 328: Women and Gender in Islamic Societies'
       - SOC 358
-      - 'SPI 322: Public Policy Issues in Today’s Middle East'
+      - 'SPI 322: Public Policy Issues in Today's Middle East'
     - name: South Asia
       max_counted:
       min_needed:
@@ -903,9 +903,9 @@ req_list:
       - 'HIS 376: The American Civil War and Reconstruction'
       - 'HIS 383: The United States, 1920-1974'
       - 'HIS 387: African American History from Reconstruction to the Present'
-      - 'HIS 401: American Women’s History'
+      - 'HIS 401: American Women's History'
       - 'HIS 404: The Rise of the Republican Party'
-      - 'HIS 406: Woodrow Wilson’s America'
+      - 'HIS 406: Woodrow Wilson's America'
       - 'HIS 459: The History of Incarceration in the U.S.'
       - 'HIS 474: Violence in America'
       - 'JDS 312: The Politics of American Jewish Power and Powerlessness'

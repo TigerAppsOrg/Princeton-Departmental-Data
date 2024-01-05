@@ -89,7 +89,7 @@ req_list:
     explanation: |-
       <i>Editor's Note: Not all of the courses allowed by TigerPath will satisfy this requirement. Only the subset that are taught by core COM faculty should count, but TigerPath cannot verify this.</i>
 
-      All majors beginning with the class of 2021, must take COM 300 (the Junior Seminar), and two other COM courses taught by core COM faculty (that is, by faculty listed on the “Core Faculty” list of the departmental website). Those other two COM courses can be 200-, 300-, 400-, or 500-level; with the professor’s permission, advanced students may enroll in 500-level COM courses. These must be Princeton COM courses; no exceptions.
+      All majors beginning with the class of 2021, must take COM 300 (the Junior Seminar), and two other COM courses taught by core COM faculty (that is, by faculty listed on the “Core Faculty” list of the departmental website). Those other two COM courses can be 200-, 300-, 400-, or 500-level; with the professor's permission, advanced students may enroll in 500-level COM courses. These must be Princeton COM courses; no exceptions.
     excluded_course_list:
     - COM 300
     course_list:
@@ -154,7 +154,7 @@ req_list:
         or public policy. In general, these courses represent a consistent intellectual
         approach and have the same prefix (REL, for example); students intending to
         pair courses with related content, but offered in different departments (HIS
-        and POL, for example) should obtain written permission from COM’s Director
+        and POL, for example) should obtain written permission from COM's Director
         of Undergraduate Studies.'
       course_list:
       - ANT 3*
@@ -196,7 +196,7 @@ req_list:
       explanation: |-
         <i>Editor's Note: Not all of these courses fall under this requirement and TigerPath does not verify this.</i>
 
-        Comparative work in literature and another medium: two 300-, 400-, or 500-level courses in photography, film, art, art history, architecture or music. In general, these courses involve the same medium (photography, for example); students intending to pair courses involving different media with related content (photography and painting, for example) should obtain written permission from COM’s Director of Undergraduate Studies.
+        Comparative work in literature and another medium: two 300-, 400-, or 500-level courses in photography, film, art, art history, architecture or music. In general, these courses involve the same medium (photography, for example); students intending to pair courses involving different media with related content (photography and painting, for example) should obtain written permission from COM's Director of Undergraduate Studies.
       course_list:
       - ART 3*
       - ART 4*
@@ -220,7 +220,7 @@ req_list:
         on this track might take two 300-, 400-, or 500-level courses in either ENV,
         GSS, or URB; as elsewhere, courses should emerge from a single program, and
         have the same prefix. Those interested in these options should consult with
-        COM’s Director of Undergraduate Studies to plan a course of study.'
+        COM's Director of Undergraduate Studies to plan a course of study.'
       course_list:
       - AFS 3*
       - AFS 4*
@@ -308,7 +308,7 @@ req_list:
     explanation: |-
       <i>Editor's Note: This requirement is too broad or requires course approval from the concentrator's Director of Undergraduate Studies, so TigerPath does not check it.</i>
 
-      Students must take one course, 200-level and above, dedicated mostly to a period before 1800. It does not necessarily have to be one of their nine departmentals. Nor does it have to be a literature course, strictly speaking, but it must be a study of culture based upon the reading of primary sources. Some examples would be: any course on literature before 1800; any course on pre-modern or early modern philosophy or religion; any course on art or music history before 1800. A course on general history that is not specifically cultural in focus and not based upon the study of primary sources such as texts, music, or art will not count. Students unsure whether a particular course will meet the historical requirement should email the syllabus to COM’s Director of Undergraduate Studies for approval. If the pre-1800 course is not one of the nine departmentals, it may be taken P/D/F. If it is one of the nine departmentals, it must be taken for a grade.
+      Students must take one course, 200-level and above, dedicated mostly to a period before 1800. It does not necessarily have to be one of their nine departmentals. Nor does it have to be a literature course, strictly speaking, but it must be a study of culture based upon the reading of primary sources. Some examples would be: any course on literature before 1800; any course on pre-modern or early modern philosophy or religion; any course on art or music history before 1800. A course on general history that is not specifically cultural in focus and not based upon the study of primary sources such as texts, music, or art will not count. Students unsure whether a particular course will meet the historical requirement should email the syllabus to COM's Director of Undergraduate Studies for approval. If the pre-1800 course is not one of the nine departmentals, it may be taken P/D/F. If it is one of the nine departmentals, it must be taken for a grade.
     no_req:
 - name: Independent Work
   max_counted:

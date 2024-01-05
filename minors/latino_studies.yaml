@@ -22,7 +22,7 @@ req_list:
 - name: Electives
   min_needed: 3
   explanation: |-
-    Three courses in Latino studies, either originating in the program or cross-listed, and preferably representing disciplinary breadth in the social sciences, arts and humanities. No more than one course taken in fulfillment of the student’s concentration may be counted toward the certificate. With the approval of the associate director, a student may substitute a comparative race and ethnicity course that contains substantial Latino studies content for one of these courses.
+    Three courses in Latino studies, either originating in the program or cross-listed, and preferably representing disciplinary breadth in the social sciences, arts and humanities. No more than one course taken in fulfillment of the student's concentration may be counted toward the certificate. With the approval of the associate director, a student may substitute a comparative race and ethnicity course that contains substantial Latino studies content for one of these courses.
   course_list:
   - LAO ***
 - name: Advanced Seminar in American Studies

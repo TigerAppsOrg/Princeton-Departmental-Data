@@ -38,7 +38,7 @@ req_list:
   explanation: Three courses in American Studies, Asian American Studies, or Latino
     Studies, either originating in the relevant program or cross-listed, and representing
     disciplinary breadth in the social sciences, arts, and humanities. No more than
-    one course taken in fulfillment of the student’s concentration may be counted
+    one course taken in fulfillment of the student's concentration may be counted
     toward the certificate.
   double_counting_allowed: false
   max_common_with_major: 1

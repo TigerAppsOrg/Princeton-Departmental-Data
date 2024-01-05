@@ -25,7 +25,7 @@ req_list:
 - name: Prerequisites
   max_counted: 1
   min_needed: 1
-  explanation: RUS 101, RUS 102, RUS 105, and RUS 107 (RUS 105R, 107R) – or placement
+  explanation: RUS 101, RUS 102, RUS 105, and RUS 107 (RUS 105R, 107R) - or placement
     equivalent.
   course_list:
   - RUS 107
