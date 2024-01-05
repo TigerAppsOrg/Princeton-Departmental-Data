@@ -1,6 +1,4 @@
 Cognitive Science:
-Engineering Biology:
-Engineering Physics:
 Optimization and Quantitative Decision Science:
 Planets and Life:
 Robotics and Intelligent Systems:
