@@ -13,19 +13,25 @@ contacts:
   email: xinwen@princeton.edu
 description: |-
   The main learning goal of the Korean language minor is to acquire a solid grasp of the language. There are three components of this overall goal. First, the student will take six language courses, two or more of which must be beyond the second-year level. After taking these courses, students will have the ability to read, write, listen and speak in Korean. The student is also required to take one or more EAS-prefix course or cognate course related to East Asia, giving a foundation in some aspects of East Asian culture. Finally, the student is required to complete a substantial piece of research (20-25 pages) based at least in part on primary sources in the Korean language. These components ensure that the student not only acquires a high level of language competency but also can apply this competency in original research that is well-informed by an understanding of East Asian culture and history.
-max_common_with_major: 
-declaration_limit: 
-pdfs_allowed: 
+declaration_limit: 6
+pdfs_allowed: 0
 excluded_majors: 
-- 
+- EAS
 req_list:
-- name: 
-  min_needed: ALL
+- name: Language
+  min_needed: 6
   explanation: |-
-
+    Students placing into language courses beyond the second-year level should plan to satisfy the language course requirements for the minor with higher level courses. If there are no suitable higher level language courses available, students may seek permission from the EAS director of undergraduate studies to substitute some EAS-prefixed and cognate courses for language work.
+  double_counting_allowed: false
   course_list:
+  - KOR ***
+- name: East Asian Studies
+  min_needed: 1
+  double_counting_allowed: false
+  course_list:
+  - EAS ***
 - name: Independent Work
   explanation: |-
-
-  iw_relationship: 
+    Students must also complete a substantial piece of research (20-25 pages) based at least in part on Korean language sources dealing with aspects of East Asia. The topic must be in the humanities or social sciences. The paper could be either an original piece of research or a junior paper or senior thesis. If the paper or senior thesis is written for another department, at least half of the work must be on East Asia.
+  iw_relationship: hybrid
   no_req: 

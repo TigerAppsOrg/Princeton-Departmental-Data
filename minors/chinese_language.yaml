@@ -15,8 +15,8 @@ description: |-
   The Department of East Asian Studies offers a wide range of undergraduate classes at the highest standards of academic, linguistic and cultural competence focused on China, Japan and Korea. It provides an opportunity for students who plan to major in other disciplines to simultaneously pursue a high level of proficiency in one or more East Asian language (Chinese, Japanese and Korean) and acquire the basic knowledge about the literature, history and culture of East Asia. The student's work is supervised by the faculty members of the department, whose work covers East Asian literature, history, film and media, and anthropology. Students are also encouraged to work with other faculty members conducting research in and teaching on East Asia.
 excluded_majors: 
 - EAS
-max_common_with_major: 
 declaration_limit: 6
+pdfs_allowed: 0
 req_list:
 - name: Language
   min_needed: 6
