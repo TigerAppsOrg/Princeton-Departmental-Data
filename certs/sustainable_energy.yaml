@@ -12,18 +12,116 @@ contacts:
 description: |-
   The future of societies, the global economy and the global environment depend on collaborative research into renewable energy, alternative fuels, advanced energy conversion and storage systems, technology transfer to developing countries and prudent judgment on policies to support sustainable energy technology. Innovations and inventions require multidisciplinary approaches and entrepreneurship, as well as grounding in theory and practice, in topics that are not covered by a single department. The Program in Sustainable Energy offers an integrated set of core and elective courses, introducing students to fundamental concepts, providing depth in specific fields of interest, gaining laboratory and site visit experiences and setting the stage for further work in the field. Students are encouraged to expand their experience through summer internships with companies, government agencies, national and university laboratories and Princeton faculty.
 max_common_with_major: 
-declaration_limit: 
-pdfs_allowed: 
+declaration_limit: 8
+pdfs_allowed: 0
 excluded_majors: 
 - 
 req_list:
-- name: 
+- name: Prerequisites
   min_needed: ALL
   explanation: |-
-
-  course_list:
+    The program is open to sophomores, juniors and seniors who have a satisfactory background in engineering and science. Normally, students should have successfully completed MAT 103, MAT 104, PHY 103, and PHY 104 (or their equivalents, including AP equivalents). Students who have slightly different preparation should consult with the program director to discuss eligibility. Students planning to earn the program certificate should complete the online student profile at the program website as early as possible, but no later than the midpoint of the fall term of their junior year. Application for admission is made to the program committee. Upon acceptance to the program, the program director will recommend a program adviser to the student to assist in planning a program of study, research and off-campus internship.
+  req_list:
+  - name: Mathematics
+    min_needed: 1
+    course_list:
+    - MAT 104
+  - name: Physics
+    min_needed: 2
+    req_list:
+    - name: Mechanics
+      min_needed: 1
+      course_list:
+      - PHY 103
+      - PHY 105
+    - name: E&M
+      min_needed: 1
+      course_list:
+      - PHY 104
+      - PHY 106
+- name: Core Courses
+  min_needed: 2
+  explanation: |-
+    The two core courses must be taken by choosing one from the Introduction to Energy Technology category (A1) and the other one from the Introduction to Climate Change and Geo-environmental Science category (A2), respectively.
+  req_list:
+  - name: A1
+    min_needed: 1
+    course_list:
+    - MAE 228
+    - MAE 328
+    - ENE 308
+  - name: A2
+    min_needed: 1
+    course_list:
+    - CEE 334
+    - EEB 417A
+    - EEB 417B
+    - ENE 202
+    - ENE 308
+    - ENV 367
+    - GEO 427
+    - GEO 102A
+- name: Electives
+  min_needed: 4
+  explanation: |-
+    Depending on the student's interest and background, the four elective courses should be taken from categories B1 and B2, with at least one from a different category (for example: three courses from B1 and one course from B2, or vice versa, or two from each category).
+  req_list:
+  - name: B1
+    min_needed: 1
+    max_counted: ALL
+    course_list:
+    - AST 309
+    - CBE 335
+    - CBE 341
+    - CBE 421
+    - CBE 441
+    - CEE 305
+    - CEE 471
+    - CEE 477
+    - CEE 564
+    - ECE 441
+    - ECE 442
+    - ECE 481
+    - ECE 557
+    - ENE 267
+    - ENE 273
+    - ENE 318
+    - ENE 321
+    - ENE 419
+    - ENE 422
+    - ENE 431
+    - MAE 418
+    - MAE 426
+    - MAE 427
+    - MAE 531
+  - name: B2
+    min_needed: 1
+    max_counted: ALL
+    course_list:
+    - ART 250
+    - CEE 207
+    - CEE 311
+    - CEE 334
+    - CEE 474
+    - EEB 417A
+    - EEB 417B
+    - ECE 547C
+    - ENE 308
+    - ENE 372
+    - ENV 200
+    - ENV 302
+    - ENV 327
+    - ENV 367
+    - ENV 377
+    - ENV 531
+    - GEO 203
+    - GEO 363
+    - GEO 425
+    - ORF 455
+    - SPI 306
+    - SPI 350
 - name: Independent Work
   explanation: |-
-
+    A senior independent work project or thesis whose topic is relevant to the program and acceptable to the program committee must be completed. The project or thesis title and abstract need to be presented to and approved by the program director. In addition, a minimum grade of B- for the project or thesis is required to qualify for the certificate. Students are required to present their project/thesis to faculty and program students at an annual symposium held in the spring.
   iw_relationship: 
   no_req: 
