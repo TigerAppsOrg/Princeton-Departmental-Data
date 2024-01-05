@@ -10,19 +10,78 @@ contacts:
   email: gbakos@astro.princeton.edu
 description: |-
   Unraveling the origins of life on Earth and determining whether life exists beyond Earth will likely be two of the most significant scientific discoveries in the 21st century. The Program in Planets and Life is an interdepartmental, multidisciplinary plan of study designed for students interested in these two questions. The goal is to provide students with an understanding of the fundamental astrophysical, chemical, biological and geological principles and engineering challenges that will guide our search for life in extreme environments on Earth and on other planets and satellites in the solar system and among neighboring planetary systems. Research on and teaching of these topics are typically performed under the rubric of astrobiology.
-max_common_with_major: 
+max_common_with_major: 2
 declaration_limit: 
-pdfs_allowed: 
-excluded_majors: 
-- 
+pdfs_allowed: 0
 req_list:
-- name: 
-  min_needed: ALL
+- name: Core Course
+  min_needed: 1
   explanation: |-
-
+    Students must take the core course GEO 255/AST 255/EEB 255/CHM 255. This course will qualify for departmental credit if the student submits a 25-page term paper on astrobiology, with the emphasis in that department's discipline.
   course_list:
+  - GEO 255
+- name: Electives
+  min_needed: 4
+  explanation: |-
+    Students must take an additional four cognate courses. Only two of the cognate courses can be in the student's major or be requirements of their majors (though exceptions can be considered on a case-by-case basis). The cognate courses must be approved by the program chairperson, and students are encouraged to discuss their choices in the early stages of their planning.
+  course_list:
+  - AST 204
+  - AST 205
+  - AST 303
+  - AST 301
+  - AST 403
+  - AST 514
+  - AST 541
+  - AST 542
+  - CBE 245
+  - CBE 446
+  - CBE 447
+  - CHM 201
+  - CHM 202
+  - CHM 207
+  - CHM 215
+  - CHM 301
+  - CHM 302
+  - CHM 304
+  - CHM 305
+  - CHM 306
+  - CHM 405
+  - CHM 406
+  - CHM 407
+  - CHM 408
+  - CHM 515
+  - CHM 539
+  - CHM 542
+  - CHM 544
+  - COS 323
+  - EEB 210
+  - EEB 211
+  - EEB 309
+  - EEB 320
+  - ECE 351
+  - ECE 352
+  - ECE 455
+  - GEO 207
+  - GEO 361
+  - GEO 363
+  - GEO 364
+  - GEO 371
+  - GEO 372
+  - GEO 417
+  - GEO 425
+  - GEO 428
+  - GEO 442
+  - GEO 523
+  - MOL 214
+  - MOL 215
+  - MOL 345
+  - MOL 348
+  - MAE 341
+  - MAE 342
+  - MAE 345
+  - GEO 255A
 - name: Independent Work
   explanation: |-
-
-  iw_relationship: 
+    To qualify for the certificate, A.B. students must (a) write at least one of the junior papers on an astrobiology topic and, as part of the senior thesis, (b) devote a chapter to an astrobiology topic — both of them subject to approval by the program director in consultation with executive committee members. Engineering students must devote one chapter of their senior independent work to an astrobiology topic — again subject to approval by the program chairperson in consultation with executive committee members. The relevant content of the student's senior thesis or senior independent work will be presented at a special Planets and Life Symposium at the end of senior year. Juniors are also encouraged to participate in this yearly Planets and Life Symposium.
+  iw_relationship: combined
   no_req: 
