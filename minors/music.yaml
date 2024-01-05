@@ -13,19 +13,30 @@ contacts:
   email: gsteingo@princeton.edu
 description: |-
   The minor in the Department of Music invites students to explore a diverse range of fields of study, from composition and electronic music, to musicology, theory, sound studies, music cognition, jazz studies and more. Students pursue work in two loosely defined areas: Culture and Criticism (C&C) and Materials and Making (M&M). M&M encompasses topics usually explored in hands-on, exploratory ways, such as composition, improvisation, theory, analysis and electronic music. The C&C area focuses on the scholarly study of music, from historical and formalist analysis to cognitive science and ethnography. While independent work is not required, there are options for students interested in pursuing private lessons (in composition and electronic music), studies in music cognition (through the Music Cognition Lab), research projects with faculty, or the Music Mentorship program that pairs music undergraduates with graduate students.
-max_common_with_major: 
-declaration_limit: 
-pdfs_allowed: 
-excluded_majors: 
-- 
+max_common_with_major: 2
+declaration_limit: 6
 req_list:
-- name: 
-  min_needed: ALL
+- name: MUS 105
+  min_needed: 1
   explanation: |-
-
+    Students placing out of MUS 105 (at the discretion of the instructor) are required to replace it with another MUS elective.
   course_list:
-- name: Independent Work
+  - MUS 105
+- name: Materials and Making
+  min_needed: 1
   explanation: |-
-
-  iw_relationship: 
-  no_req: 
+    Please consult director for details.
+  course_list:
+  - MUS ***
+- name: Culture and Criticism
+  min_needed: 1
+  explanation: |-
+    Please consult director for details.
+  course_list:
+  - MUS ***
+- name: MUS Electives
+  min_needed: 2
+  explanation: |-
+    Two (2) additional MUS courses. By petition to the DUS, one of these electives can be outside MUS, though must reflect a coherent plan of study (for instance, a particular psychology course in support of a plan of study focusing on music cognition)
+  course_list:
+  - MUS ***
