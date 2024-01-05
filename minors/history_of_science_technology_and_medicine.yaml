@@ -9,22 +9,7 @@ contacts:
   name: Katja Guenther
   email: kguenthe@princeton.edu
 description: |-
-  From climate change to pandemics to the transformative effects of 
-  information technology, many of the challenges we confront today are 
-  inseparable from science, technology and medicine, whether as cause, 
-  explanation or remedy. To understand the role of STM in our present 
-  predicament and think through how it will shape our future, a 
-  historical perspective is vital. In the HSTM minor, students will 
-  learn from the array of methodological approaches developed by 
-  historians of science, technology and medicine, and track the evolution 
-  of modern science from antiquity to the present, in many of the world's 
-  cultures. For students majoring in the humanities and social sciences, 
-  the HSTM minor enhances their understanding of the content, methodologies 
-  and impacts of science, technology and medicine; in a complementary fashion, 
-  the HSTM minor provides students majoring in the natural sciences or 
-  engineering a richer appreciation of the social and cultural aspects 
-  of their fields, as well as the trajectories that brought their subjects 
-  to their present state.
+  From climate change to pandemics to the transformative effects of information technology, many of the challenges we confront today are inseparable from science, technology and medicine, whether as cause, explanation or remedy. To understand the role of STM in our present predicament and think through how it will shape our future, a historical perspective is vital. In the HSTM minor, students will learn from the array of methodological approaches developed by historians of science, technology and medicine, and track the evolution of modern science from antiquity to the present, in many of the world’s cultures. For students majoring in the humanities and social sciences, the HSTM minor enhances their understanding of the content, methodologies and impacts of science, technology and medicine; in a complementary fashion, the HSTM minor provides students majoring in the natural sciences or engineering a richer appreciation of the social and cultural aspects of their fields, as well as the trajectories that brought their subjects to their present state.
 max_common_with_major: 1
 declaration_limit: 6
 pdfs_allowed: 0
@@ -36,16 +21,13 @@ req_list:
 - name: Core
   min_needed: 1
   explanation: |-
-    One required course: HIS 390 (History of Science, Technology and 
-    Medicine: Ideas and Methods).
+    One required course: HIS 390 (History of Science, Technology and Medicine: Ideas and Methods).
   course_list:
   - HIS 390
 - name: History of Science
   min_needed: 2
   explanation: |-
-    Two courses in the history of science, technology or medicine, 
-    from the defined list below maintained by the HIS Undergraduate 
-    Office.
+    Two courses in the history of science, technology or medicine, from the defined list below maintained by the HIS Undergraduate Office.
   course_list: 
   - EGR 277
   - HIS 290
@@ -113,17 +95,11 @@ req_list:
 - name: Additional History
   min_needed: 1
   explanation: |-
-    One additional course: this course may be a HOS course, a HIS 
-    course or a cognate (with approval of the undergraduate program 
-    director for history of science).
+    One additional course: this course may be a HOS course, a HIS course or a cognate (with approval of the undergraduate program director for history of science).
   course_list:
   - HIS ***
 - name: Independent Work
   explanation: |-
-    Students must submit a minimum 10-page paper, or equivalent, 
-    demonstrating original research in the history of science, 
-    technology and medicine. This can be a segment of students' independent 
-    written work in their majors; or a written assignment from a course; 
-    or a paper completed outside of coursework.
+    Students must submit a minimum 10-page paper, or equivalent, demonstrating original research in the history of science, technology and medicine. This can be a segment of students’ independent written work in their majors; or a written assignment from a course; or a paper completed outside of coursework.
   iw_relationship: hybrid
   no_req: 

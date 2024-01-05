@@ -12,16 +12,7 @@ contacts:
   nmae: Stephen J. Macedo
   email: macedo@princeton.edu
 description: |-
-  The interdisciplinary minor in values and public life, offered by the 
-  University Center for Human Values, focuses on modes of inquiry into 
-  important ethical issues in public life. The program helps students 
-  develop competence in pursuing such inquiries generally and supports 
-  them in applying these intellectual skills to the advanced analysis 
-  of one or more related topics. Students who complete the minor will be 
-  equipped to bring informed discussion of values into the public sphere 
-  and to integrate a critical value perspective into their future studies 
-  and pursuits. The minor is open to rising juniors intending to major 
-  in any discipline.
+  The interdisciplinary minor in values and public life, offered by the University Center for Human Values, focuses on modes of inquiry into important ethical issues in public life. The program helps students develop competence in pursuing such inquiries generally and supports them in applying these intellectual skills to the advanced analysis of one or more related topics. Students who complete the minor will be equipped to bring informed discussion of values into the public sphere and to integrate a critical value perspective into their future studies and pursuits. The minor is open to rising juniors intending to major in any discipline.
 max_common_with_major: 2
 declaration_limit: 4
 pdfs_allowed: 0
@@ -38,8 +29,7 @@ req_list:
   - name: Political Theory Course
     min_needed: 1
     explanation: |-
-      One political theory course, chosen from the following list 
-      (not all courses are offered every year).
+      One political theory course, chosen from the following list (not all courses are offered every year).
     course_list:
     - POL 210
     - SPI 370
@@ -54,22 +44,13 @@ req_list:
   - name: Junior/Senior Seminar
     min_needed: 1
     explanation: |-
-      A junior/senior seminar in values and public life (topics change 
-      from year to year) or, if necessary, another seminar on normative 
-      issues approved by the program director.
+      A junior/senior seminar in values and public life (topics change from year to year) or, if necessary, another seminar on normative issues approved by the program director.
     course_list:
     - CHV 3**
     - CHV 4**
 - name: Thematic Courses
   explanation: |-
-    Students must identify their individual thematic focus within the 
-    minor and take two courses with explicit values components related 
-    to it, chosen by the student in consultation with the program 
-    director. Some examples of a thematic focus follow. However, 
-    students are not limited to choosing among these; rather, they 
-    are encouraged to identify their own in consultation with the 
-    faculty director of the minor. Examples of a thematic focus 
-    include the following:
+    Students must identify their individual thematic focus within the minor and take two courses with explicit values components related to it, chosen by the student in consultation with the program director. Some examples of a thematic focus follow. However, students are not limited to choosing among these; rather, they are encouraged to identify their own in consultation with the faculty director of the minor. Examples of a thematic focus include the following:
     Bioethics
     Poverty, Incarceration, and Freedom
     Race, Social Justice, and Public Life
@@ -85,15 +66,6 @@ req_list:
   no_req:
 - name: Independent Work
   explanation: |-
-    Students will write a senior thesis, a portion of a senior 
-    thesis (or, in exceptional circumstances, another substantial 
-    piece of independent work) on a normative topic approved by both 
-    the director of the program and the normal procedures of the 
-    student's department of concentration. The thesis will be written 
-    according to the department regulations of the student's major. 
-    Students will be expected to participate in non-credit-bearing 
-    senior thesis workshops convened by the minor that discuss the 
-    different aspects of ethical study presented in the participants' 
-    projects and that support the writing of the thesis.
+    Students will write a senior thesis, a portion of a senior thesis (or, in exceptional circumstances, another substantial piece of independent work) on a normative topic approved by both the director of the program and the normal procedures of the student's department of concentration. The thesis will be written according to the department regulations of the student's major. Students will be expected to participate in non-credit-bearing senior thesis workshops convened by the minor that discuss the different aspects of ethical study presented in the participants’ projects and that support the writing of the thesis.
   iw_relationship: combined
   no_req: 

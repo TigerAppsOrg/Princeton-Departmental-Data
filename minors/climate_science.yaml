@@ -13,14 +13,7 @@ contacts:
   name: Satish C. Myneni
   email: smyneni@princeton.edu
 description: |-
-  Climate science is math, physics, chemistry, biology and computer 
-  sciences, applied together to understand how Earth's climate works, 
-  how it has changed in the past and how it will change in the future. 
-  Whether students are interested in policymaking, sustainability, 
-  natural hazards, city planning, pollution, geoengineering, natural 
-  resources, energy or conservation, a broad and accurate understanding 
-  of climate science is required.  The minor in climate science is offered 
-  by the Department of Geosciences.
+  Climate science is math, physics, chemistry, biology and computer sciences, applied together to understand how Earth's climate works, how it has changed in the past and how it will change in the future. Whether students are interested in policymaking, sustainability, natural hazards, city planning, pollution, geoengineering, natural resources, energy or conservation, a broad and accurate understanding of climate science is required.  The minor in climate science is offered by the Department of Geosciences.
 max_common_with_major: 1
 declaration_limit: 6
 excluded_majors:
@@ -30,15 +23,8 @@ req_list:
   max_counted: 1
   min_needed: 5
   explanation: |-
-    Students start with 3-4 core classes. These core courses are taught 
-    every year and represent a comprehensive climate science curriculum 
-    designed to be accessible to non-STEM majors. After finishing 3-4 
-    courses in the core curriculum, students choose 1-2 capstone electives. 
-    These capstone electives are designed to build on knowledge gained from 
-    the core courses and focus deeper attention on specific aspects of 
-    climate science. For students who have completed the prerequisites, 
-    there also is a collection of climate-related advanced electives that 
-    they can substitute for core or capstone courses with permission of the DoM.
+    Students start with 3–4 core classes. These core courses are taught every year and represent a comprehensive climate science curriculum designed to be accessible to non-STEM majors.
+    After finishing 3–4 courses in the core curriculum, students choose 1–2 capstone electives. These capstone electives are designed to build on knowledge gained from the core courses and focus deeper attention on specific aspects of climate science. For students who have completed the prerequisites, there also is a collection of climate-related advanced electives that they can substitute for core or capstone courses with permission of the DoM.
   double_counting_allowed: false
   pdfs_allowed: 0
   req_list: 

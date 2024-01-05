@@ -12,18 +12,7 @@ contacts:
   name: Russ Leo
   email: rleo@princeton.edu
 description: |-
-  An English minor serves Princeton undergraduates from all majors, 
-  sharpening thinking and writing in ways that support work in their 
-  respective concentrations. English courses foreground language, style 
-  and rhetoric; they train students' attention to effective writing as 
-  well as to a variety of analytical, critical and interpretive modes. 
-  In English courses, students pay close attention to the structures of 
-  arguments, to specific aspects of language and expression, to the 
-  history of literature in English, and to the cultural and grammatical 
-  aspects of the language. English courses also foreground the historical 
-  operations of language and power, affording students invaluable resources 
-  not only for addressing the inequities and disparities that shape our world 
-  but also for imagining the futures that can reinvent that world.
+  An English minor serves Princeton undergraduates from all majors, sharpening thinking and writing in ways that support work in their respective concentrations. English courses foreground language, style and rhetoric; they train students’ attention to effective writing as well as to a variety of analytical, critical and interpretive modes. In English courses, students pay close attention to the structures of arguments, to specific aspects of language and expression, to the history of literature in English, and to the cultural and grammatical aspects of the language. English courses also foreground the historical operations of language and power, affording students invaluable resources not only for addressing the inequities and disparities that shape our world but also for imagining the futures that can reinvent that world.
 max_common_with_major: 0
 declaration_limit: 6
 pdfs_allowed: 1
@@ -33,27 +22,12 @@ req_list:
 - name: Program of Study
   min_needed: 5
   explanation: |-
-    English minors must take five courses, at least two of which are 
-    seminars. Just as there are no prerequisites, there are also no 
-    required courses for the minor. As detailed above, the department 
-    will offer suggestions as to possible clusters, but we will also 
-    invite students to chart their own paths and propose a new cluster.
+    English minors must take five courses, at least two of which are seminars. Just as there are no prerequisites, there are also no required courses for the minor. As detailed above, the department will offer suggestions as to possible clusters, but we will also invite students to chart their own paths and propose a new cluster.
   course_list:
   - ENG ***
 - name: Independent Work
   explanation: |-
-    Minors are required to complete a reflection paper after completing 
-    the requirements for the minor. For this reflection paper, students 
-    are tasked with describing their paths through the minor and 
-    outlining the knowledge and skills they've acquired across
-    their English courses.
-
-    Students may submit their reflection papers at any time after 
-    they've completed the course requirements for the minor, but no 
-    later than March of their senior spring. The reflection paper, 
-    submitted to the director of the English Minor and read by members 
-    of our Committee on Departmental Studies, is the equivalent, for 
-    minors, of the Senior Departmental Exam our graduating majors must 
-    take, which also includes (as one component) a reflection paper.
+    Minors are required to complete a reflection paper after completing the requirements for the minor. For this reflection paper, students are tasked with describing their paths through the minor and outlining the knowledge and skills they’ve acquired across their English courses.
+    Students may submit their reflection papers at any time after they’ve completed the course requirements for the minor, but no later than March of their senior spring. The reflection paper, submitted to the director of the English Minor and read by members of our Committee on Departmental Studies, is the equivalent, for minors, of the Senior Departmental Exam our graduating majors must take, which also includes (as one component) a reflection paper.
   iw_relationship: separate
   no_req: 

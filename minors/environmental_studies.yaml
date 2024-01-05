@@ -10,23 +10,7 @@ contacts:
   name: Corina E. Tarnita
   email: ctarnita@princeton.edu
 description: |-
-  For more than 30 years, the Program in Environmental Studies (ENV),
-  now based in the High Meadows Environmental Institute (HMEI), 
-  has aimed to equip Princeton students with the skills to address 
-  critical environmental challenges that they will face throughout 
-  their careers and in life. Our guiding ethos is grounded in the 
-  appreciation that environmental challenges — both present and future — 
-  cannot be solved by any one discipline alone, but require concerted, 
-  multidisciplinary and interdisciplinary efforts, spanning all four 
-  divisions of the university. To that end, the program is designed to 
-  attract students from all disciplinary backgrounds and with varied 
-  interests, and to allow them to tailor their learning while also 
-  ensuring that they are exposed to fundamental environmental questions 
-  and methods/approaches through a variety of complementary lenses. 
-  In that sense, the ENV certificate — and, if approved, the minor — 
-  is designed to complement majors and not overlap or compete with them: 
-  specifically, it aims to provide a much broader multidisciplinary lens 
-  than any individual department or even individual division could.
+  For more than 30 years, the Program in Environmental Studies (ENV), now based in the High Meadows Environmental Institute (HMEI), has aimed to equip Princeton students with the skills to address critical environmental challenges that they will face throughout their careers and in life. Our guiding ethos is grounded in the appreciation that environmental challenges — both present and future — cannot be solved by any one discipline alone, but require concerted, multidisciplinary and interdisciplinary efforts, spanning all four divisions of the university. To that end, the program is designed to attract students from all disciplinary backgrounds and with varied interests, and to allow them to tailor their learning while also ensuring that they are exposed to fundamental environmental questions and methods/approaches through a variety of complementary lenses. In that sense, the ENV certificate — and, if approved, the minor — is designed to complement majors and not overlap or compete with them: specifically, it aims to provide a much broader multidisciplinary lens than any individual department or even individual division could.
 max_common_with_major: 1
 declaration_limit: 5
 double_counting_allowed: true
@@ -34,10 +18,7 @@ req_list:
 - name: Program of Study
   min_needed: ALl
   explanation: |-
-    To be eligible for the minor, students are required to complete two 
-    (2) foundational courses, at least one of which is at or above the 
-    300 level, and three (3) elective courses, at least two of which 
-    are at or above the 300 level.
+    The Minor in Environmental Studies is open to students concentrating in any academic discipline and designed for students seeking a broad, multidisciplinary and interdisciplinary introduction to environmental topics. To be eligible for the minor, students are required to complete two (2) foundational courses, at least one of which is at or above the 300 level, and three (3) elective courses, at least two of which are at or above the 300 level. Two of the total five (5) courses must be in humanities and/or social sciences and two must be in natural sciences and engineering. No more than one (1) course filling the requirement for the ENV minor may also be counted toward the student’s departmental concentration or another minor/certificate. 
   req_list:
   - name: Foundational Courses
     min_needed: 2
@@ -186,9 +167,6 @@ req_list:
       - URB 304
       - VIS 324
 - name: Breadth
-  explanation: |-
-    Two of the total five (5) courses must be in humanities and/or social 
-    sciences and two must be in natural sciences and engineering.
   min_needed: ALL
   req_list:
   - name: Humanities and Social Sciences
@@ -337,25 +315,11 @@ req_list:
     - STC 349
 - name: Independent Work
   explanation: |-
-    Students must investigate an environmental topic as a component of 
-    their independent work, which can take one of four forms: A
-    substantial part (e.g., a chapter) of a senior thesis. A junior 
-    paper submitted to fulfill departmental requirement; supervising 
-    faculty needs to attest to its ENV focus. A 15-20-page final report 
-    based on work done (at any stage of undergrad career) during an 
-    HMEI internship supervised by a University faculty member. The 
-    supervising faculty must review and sign off on the paper as being 
-    of sufficient quality to satisfy an independent paper requirement 
-    (e.g., a JP). A 15-20-page independent paper supervised and 
-    approved by an HMEI or HMEI-affiliated faculty. In all these 
-    instances, when the supervising faculty is in doubt about 
-    whether the environmental focus is sufficient to satisfy the 
-    minor requirement, the student needs to reach out to the ENV 
-    program director to obtain approval prior to embarking on the work.
-    Students pursuing the ENV minor are required to participate in 
-    HMEI's annual Discovery Day poster show in the spring of their 
-    senior year, in which they share with fellow students, faculty 
-    and staff the motivation, methodology and final results of their 
-    independent research.
+    Students must investigate an environmental topic as a component of their independent work, which can take one of four forms:
+    1. a substantial part (e.g., a chapter) of a senior thesis.
+    2. a junior paper submitted to fulfill departmental requirement; supervising faculty needs to attest to its ENV focus.
+    3. a 15–20-page final report based on work done (at any stage of undergrad career) during an HMEI internship supervised by a University faculty member. The supervising faculty must review and sign off on the paper as being of sufficient quality to satisfy an independent paper requirement (e.g., a JP).
+    4. a 15–20-page independent paper supervised and approved by an HMEI or HMEI-affiliated faculty.
+    In all these instances, when the supervising faculty is in doubt about whether the environmental focus is sufficient to satisfy the minor requirement, the student needs to reach out to the ENV program director to obtain approval prior to embarking on the work.
   iw_relationship: hybrid
   no_req: 
