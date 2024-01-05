@@ -4,25 +4,123 @@ name: Optimization and Quantitative Decision Science
 code: ORF
 urls:
 - https://ua.princeton.edu/fields-study/certificate-programs/optimization-and-quantitative-decision-science
+- https://orfe.princeton.edu/undergraduate/oqds-certificate
 contacts:
 - type: Director
   name: Amir Ali Ahmadi
   email: a_a_a@princeton.edu
 description: |-
   The Certificate Program in Optimization and Quantitative Decision Science (OQDS) is focused on developing quantitative skills for optimal decision-making in complex and uncertain environments. Through this certificate program, students will learn to quantify risk and uncertainty, and to view any complex decision through the lens of mathematical optimization. This outlook will give them a more structured understanding of the decision itself, as they learn to rigorously formulate their constraints, objective functions(s) and the uncertainties involved. It will also lead students to the proper algorithmic tools that are needed to arrive at an optimal decision.
-max_common_with_major: 
+max_common_with_major: ALL
 declaration_limit: 
-pdfs_allowed: 
+pdfs_allowed: 1
 excluded_majors: 
-- 
+- ORF
 req_list:
-- name: 
-  min_needed: ALL
+- name: Optimization
+  min_needed: 1
   explanation: |-
-
+    One core course in optimization
   course_list:
+  - ORF 307
+  - ORF 311
+  - ORF 363
+- name: Uncertainty Analysis
+  min_needed: 1
+  explanation: |-
+    One core course in uncertainty analysis
+  course_list:
+  - CEE 460
+  - ECE 382
+  - ECO 202
+  - GEO 422
+  - MAT 385
+  - MAT 486
+  - ORF 245
+  - ORF 309
+  - ORF 409
+  - PHI 371
+  - POL 345
+  - PSY 251
+  - SOC 301
+  - SPI 200
+- name: Electives
+  min_needed: 3
+  explanation: |-
+    Three elective courses on applications to quantitative decision-making. Students may choose to take more than one course from category (1) or (2) and count the additional course(s) toward category (3) as long as they take at least one course from category (3).
+  req_list:
+  - name: Category 3
+    min_needed: 1
+    max_counted: ALL
+    course_list:
+    - ARC 311
+    - ARC 404
+    - CBE 442
+    - COS 324
+    - COS 484
+    - COS 510
+    - COS 598D
+    - ECE 364
+    - ECE 435
+    - ECO 312
+    - ECO 418
+    - ECO 462
+    - ECO 466
+    - EGR 395
+    - EGR 494
+    - EGR 497
+    - EGR 491
+    - MAE 331
+    - MAE 345
+    - MAE 410
+    - MAE 433
+    - MAE 434
+    - MAT 378
+    - MAT 490
+    - MOL 485
+    - MUS 314
+    - MUS 316
+    - ORF 350
+    - ORF 387
+    - ORF 401
+    - ORF 405
+    - ORF 407
+    - ORF 435
+    - ORF 467
+    - ORF 542
+    - POL 250
+    - POL 341
+    - POL 346
+    - POL 347
+    - PSY 255
+    - SPI 340
+    - ECE 524
+    - ORF 550
+  - name: Category 1/2
+    min_needed: 0
+    max_counted: 2
+    course_list:
+    - ORF 307
+    - ORF 311
+    - ORF 363
+    - CEE 460
+    - ECE 382
+    - ECO 202
+    - GEO 422
+    - MAT 385
+    - MAT 486
+    - ORF 245
+    - ORF 309
+    - ORF 409
+    - PHI 371
+    - POL 345
+    - PSY 251
+    - SOC 301
+    - SPI 200
 - name: Independent Work
   explanation: |-
-
+    A senior thesis or project must be completed and submitted to the program director (oqds@princeton.edu) that demonstrates a command of some portion of the core disciplines of uncertainty analysis and/or optimization. Students in engineering departments that require a one-semester project can typically use a suitably designed project to satisfy the requirement.
+    Acceptable theses can be on a wide range of topics, but they must demonstrate a command of the core disciplines of the OQDS certificate program, including stochastics and/or optimization. The thesis must demonstrate, in appropriate mathematics, the ability to model a problem and perform analysis that leads to some conclusion or scientific result. A thesis with minimal or no mathematical modeling is not acceptable.
+    Theses that are not allowed include "soft" topics such as the history of a nation's economy, and hard-science theses (laboratory-based theses) that do not have a significant modeling or data-analysis component (for example, collecting observations and computing basic statistics is not sufficient).
   iw_relationship: 
   no_req: 
