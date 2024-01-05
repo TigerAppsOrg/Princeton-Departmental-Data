@@ -1,0 +1,195 @@
+---
+type: Certificate
+name: Technology and Society - Information Technology Track
+code: STC-IT
+urls:
+- https://ua.princeton.edu/fields-study/certificate-programs/technology-and-society
+contacts:
+- type: Director
+  name: Naveen Verma
+  email: nverma@princeton.edu
+description: |-
+  One would be hard-pressed to find any aspect of society today that is not influenced by evolving technology in a significant way. Similarly, technology does not develop in a vacuum; by virtue of its applied nature, it is shaped by the needs and desires of individuals and the societies in which they live. Society and technology co-evolve, so that you cannot fully understand one without knowing something about the other. This cross-disciplinary certificate program is targeted to students, both engineers/scientists and humanists/social scientists, who are interested in exploring this intersection in depth. Graduates who earn this certificate will be effective contributors to the shaping, development and deployment of technological solutions for the benefit of society.
+  Students must select either the Information Technology track or the Energy track and take the technology, societal and breadth courses from the respective list of courses.
+max_common_with_major: ALL
+declaration_limit: 8
+pdfs_allowed: 1
+req_list:
+- name: Core Course
+  min_needed: 1
+  explanation: |-
+    Technology and Society (EGR 277/HIS 277/SOC 277). This course provides students with the intellectual tools needed to approach the rest of the program — a "set of lenses" that will help them view the issues being addressed in their work. Ideally, this course will be taken before the other required courses.
+  course_list:
+  - EGR 277
+- name: Technology and Society Courses
+  min_needed: 4
+  explanation: |-
+    This course requirement is intended to provide an understanding of the technology and societal aspects through a discipline-based study of both sides. 
+- name: Technology Courses
+  min_needed: 2
+  explanation: |-
+    Each student is required to take two technology courses from a list maintained on the program websites. These courses are mostly drawn from a set that includes courses specifically designed for a wider campus audience (with no or few prerequisites). An advanced/one-time-only course may be used to replace one of these courses with the permission of the program adviser.
+  course_list:
+  - APC 524
+  - COS 109
+  - COS 126
+  - COS 324
+  - COS 350
+  - COS 424
+  - COS 429
+  - COS 432
+  - COS 433
+  - COS 436
+  - COS 445
+  - COS 455
+  - COS 461
+  - COS 551
+  - ECE 201
+  - ECE 206
+  - ECE 364
+  - ECE 368
+  - ECE 435
+  - ECE 464
+  - ECE 470
+  - ECE 472
+  - ECE 473
+  - ECE 535
+  - ECE 574
+  - EGR 371
+  - EGR 421
+  - MAE 345
+  - ORF 387
+  - ORF 401
+  - ORF 467
+  - ORF 473
+  - POL 346
+  - QCB 455
+  - SML 354
+  - SOC 555
+  - TRA 301
+- name: Societal Courses
+  min_needed: 2
+  explanation: |-
+    Each student is required to take two societal courses from a list maintained on the program websites. An advanced/one-time-only course may be used to replace one of these courses with the permission of the program adviser.
+  course_list:
+  - AAS 301
+  - AAS 339
+  - ANT 211
+  - ANT 238
+  - ANT 455
+  - COM 332
+  - COS 351
+  - COS 448
+  - COS 586
+  - COS 597C
+  - ECO 326
+  - EGR 395
+  - ENV 377
+  - EGR 421
+  - FRS 122
+  - FRS 128
+  - FRS 159
+  - FRS 179
+  - HIS 278
+  - HIS 298
+  - HUM 331
+  - HUM 346
+  - JRN 260
+  - PHI 350
+  - PHI 371
+  - PHI 411
+  - POL 327
+  - POL 341
+  - SOC 204
+  - SOC 215
+  - SOC 306
+  - SOC 382
+  - SOC 409
+  - SOC 414
+  - SPI 334
+  - SPI 338
+  - SPI 365
+  - SPI 492
+  - SPI 586F
+- name: Breadth Course
+  min_needed: 1
+  explanation: |-
+    In addition to the technology and society courses, each student is required to take one course that combines technology and society in an area outside their chosen major. Engineering/science students should take a breadth course based in the societal disciplines, and humanities and social science students should take a breadth course based in the science/technology disciplines. 
+  req_list:
+  - name: Technology Breadth Courses
+    min_needed: 1
+    course_list:
+    - ANT 302
+    - ANT 325
+    - APC 199
+    - AST 309
+    - CEE 102B
+    - CEE 325
+    - COS 436
+    - ECO 416
+    - EGR 421
+    - ENE 202
+    - ENV 367
+    - FRS 141
+    - FRS 174
+    - MAE 228
+    - MAE 328
+    - NEU 537
+    - POL 345
+    - SOC 301
+    - SOC 555
+    - SPI 200
+    - SPI 353
+  - name: Societal Breadth Courses
+    min_needed: 1
+    course_list:
+    - AMS 399
+    - ANT 302
+    - ANT 325
+    - ANT 354
+    - ANT 437
+    - ARC 492
+    - CBE 260
+    - CEE 102A
+    - CEE 325
+    - CEE 392
+    - CEE 401
+    - CHV 333
+    - ECO 332
+    - EGR 383
+    - EGR 421
+    - EGR 488
+    - EGR 491
+    - EGR 494
+    - EGR 497
+    - ENE 475
+    - ENV 303
+    - ENV 304
+    - ENV 316
+    - FRS 114
+    - FRS 118
+    - FRS 139
+    - FRS 162
+    - FRS 172
+    - GER 211
+    - GHP 350
+    - HIS 295
+    - HIS 390
+    - HUM 349
+    - ITA 320
+    - NES 366
+    - PHI 277
+    - POL 345
+    - SOC 301
+    - SOC 384
+    - SPI 354
+    - STC 349
+    - THR 210A
+    - THR 210B
+    - VIS 206
+- name: Independent Work
+  explanation: |-
+    All students are required to undertake a one-term independent research project in IT or Energy and Society. For A.B. students, this includes a junior paper. This may be substituted by a significant component in their senior thesis (at least a chapter). It is expected that some of these projects/theses will be jointly supervised by faculty members across the University divisions. The project/thesis component requires preapproval from the student's program adviser.
+    Annual Symposium. Students are required to present their projects/theses to the program students and faculty at an annual symposium held in the spring. This provides a mechanism for shared learning as well as for developing the common themes across the program.
+  iw_relationship: hybrid
+  no_req: 

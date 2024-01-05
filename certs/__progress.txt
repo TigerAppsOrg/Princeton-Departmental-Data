@@ -23,4 +23,3 @@ Quantitative and Computational Biology:
 Robotics and Intelligent Systems:
 Spanish:
 Sustainable Energy:
-Technology and Society:
