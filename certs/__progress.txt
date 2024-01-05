@@ -1,24 +1,26 @@
-American Studies:
 Applied and Computational Mathematics:
-Archaeology:
 Architecture and Engineering:
 Cognitive Science:
-Contemporary European Politics and Society:
 Engineering Biology:
 Engineering Physics:
+Optimization and Quantitative Decision Science:
+Planets and Life:
+Robotics and Intelligent Systems:
+
+American Studies:
+Archaeology:
+Contemporary European Politics and Society:
 Entrepreneurship:
 European Cultural Studies:
-French: 
 Geological Engineering:
-German:
 History and the Practice of Diplomacy:
 Judaic Studies:
 Latin American Studies:
 Near Eastern Studies Program:
+
+French:
+Italian:
+German:
 NES Language and Culture:
-Optimization and Quantitative Decision Science:
-Planets and Life:
 Portuguese:
-Quantitative and Computational Biology:
-Robotics and Intelligent Systems:
 Spanish:

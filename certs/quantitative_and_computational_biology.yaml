@@ -10,19 +10,86 @@ contacts:
   email: badamson@princeton.edu
 description: |-
   The Program in Quantitative and Computational Biology is offered by the Lewis-Sigler Institute for Integrative Genomics and its affiliated departments. The program is designed to instruct students in the theory and practice of using big data sets to achieve a quantitative understanding of complex biological processes. 
-max_common_with_major: 
-declaration_limit: 
-pdfs_allowed: 
-excluded_majors: 
-- 
+  Students are admitted to the program after they have chosen a major, joined a research lab and identified a project (with the help of the program committee if need be), and submitted a complete application by September 1 of their junior year. Although students are encouraged to find a lab on their own, the program committee will, if necessary, assist students in selecting a laboratory for their junior independent and senior thesis work. Students must have identified a lab and research project by the first day of their junior year fall semester. Admission requires the completion of prerequisites listed above. Program electives are chosen in consultation with the adviser.
+max_common_with_major: 2
+declaration_limit: 4
+pdfs_allowed: 0
 req_list:
-- name: 
-  min_needed: ALL
+- name: Prerequisites
+  min_needed: 1
   explanation: |-
-
-  course_list:
+    Integrated science or three foundational classes from the lists below.
+  req_list:
+  - name: Integrated Science
+    min_needed: ALL
+    course_list:
+    - ISC 231
+    - ISC 232
+    - ISC 233
+    - ISC 234
+  - name: Three Foundational Courses
+    min_needed: ALL
+    req_list:
+    - name: Computer Science
+      min_needed: 1
+      course_list:
+      - COS 126
+    - name: Biology
+      min_needed: 1
+      course_list:
+      - MOL 214
+      - EEB 211
+    - name: Math or Statistics
+      min_needed: 1
+      course_list:
+      - MAT 2**
+      - MAT 3**
+      - MAT 4**
+      - MAT 5**
+      - ORF 245
+- name: Electives
+  min_needed: 2
+  explanation: |-
+    Students must take two electives from the lists below. Students may be permitted to take a graduate-level course not listed below to fulfill elective requirement, but only with permission of Program Director.
+  req_list:
+  - name: Computational Methods and Quantitative Modeling
+    min_needed: 2
+    course_list:
+    - COS 343
+    - COS 557
+    - EEB 325
+    - ENV 302
+    - MAT 321
+    - MOL 485
+    - NEU 314
+    - NEU 437
+    - NEU 499
+    - ORF 350
+    - QCB 505
+    - CBE 422
+  - name: Genomics, Chemical, and Systems Biology
+    min_needed: 2
+    course_list:
+    - CBE 433
+    - CHM 301
+    - CHM 302
+    - CHM 304
+    - CHM 337
+    - CHM 541
+    - EEB 309
+    - EEB 324
+    - EEB 388
+    - MAE 344
+    - MOL 415
+    - NEU 427
+    - QCB 302
+    - QCB 311
+    - QCB 408
+    - QCB 455
+    - QCB 490
+    - QCB 515
 - name: Independent Work
   explanation: |-
-
-  iw_relationship: 
+    Junior and senior independent work must show adequate quantitative and computational biology content and expand upon the existing field.
+  iw_relationship: combined
   no_req: 
