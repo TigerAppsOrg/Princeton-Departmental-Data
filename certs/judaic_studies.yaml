@@ -13,19 +13,36 @@ contacts:
   email: jdweck@princeton.edu
 description: |-
   The Program in Judaic Studies provides students the opportunity to explore more than three millennia of Jewish culture, history, religion, thought, politics and literature from the Bible to contemporary Jewish thought and society. A wide variety of courses, lectures, conferences, film series and exhibitions taking advantage of Princeton's rich resources in Judaic studies are offered. There is no "typical" certificate student; we serve students with a wide range of interests and welcome all who are motivated to deepen their knowledge of Judaic studies.
+
+  In order to receive the certificate, students may choose from the following two options: (1) take a minimum of five courses in Judaic studies, which must include JDS 202 Great Books of the Jewish Tradition and at least one course from the premodern period; or (2) take three courses to include JDS 202 Great Books of the Jewish Tradition and one course from the premodern period, plus write a senior thesis that draws significantly on some aspect of Judaic studies.
 max_common_with_major: 
 declaration_limit: 
 pdfs_allowed: 
-excluded_majors: 
-- 
 req_list:
-- name: 
-  min_needed: ALL
-  explanation: |-
-
+- name: Core Course
+  min_needed: 1
   course_list:
-- name: Independent Work
-  explanation: |-
-
-  iw_relationship: 
-  no_req: 
+  - JDS 202
+- name: Elective Options
+  min_needed: 1
+  req_list: 
+  - name: Without IW 
+    min_needed: 4
+    explanation: |-
+      One course must be from the premodern period.
+    course_list:
+    - JDS ***
+  - name: With IW
+    min_needed: ALL
+    req_list:
+    - name: 2 Courses
+      min_needed: 2
+      explanation: |-
+        One course must be from the premodern period.
+      course_list:
+      - JDS ***
+    - name: Independent Work
+      explanation: |-
+        Write a senior thesis that draws significantly on some aspect of Judaic studies.
+      iw_relationship: combined
+      no_req: 
