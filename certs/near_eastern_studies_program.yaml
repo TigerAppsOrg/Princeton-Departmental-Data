@@ -13,16 +13,50 @@ description: |-
 max_common_with_major: 
 declaration_limit: 
 pdfs_allowed: 
-excluded_majors: 
-- 
+allowed_majors:
+- ANT
+- EAS
+- ECO
+- HIS
+- POL
+- REL
+- SOC
+- SPI
 req_list:
-- name: 
-  min_needed: ALL
+- name: Language
+  min_needed: 4
   explanation: |-
-
+    Students who have had no relevant language training must take at least two years of Arabic, Hebrew, Hindi/Urdu, Persian, Swahili or Turkish language as elective courses.
   course_list:
+  - ARA ***
+  - HEB ***
+  - HIN ***
+  - URD ***
+  - PER ***
+  - SWA ***
+  - TUR ***
+- name: History
+  min_needed: 1
+  explanation: |-
+    All students will take at least one appropriate historically focused course in the Department of Near Eastern Studies. Students in the Department of History will take at least two such courses.
+  course_list:
+  - NES ***
+- name: Social Sciences
+  min_needed: 2
+  explanation: |-
+    NOTE: Please manually verify if the course content satisfies this requirement.
+    All students will take at least two courses treating the Islamicate world that are chosen from the offerings of the departments of anthropology, Near Eastern studies, politics, religion, and sociology, and the Princeton School of Public and International Affairs.
+  course_list:
+  - ANT ***
+  - NES ***
+  - POL ***
+  - REL ***
+  - SOC ***
+  - SPI ***
 - name: Independent Work
   explanation: |-
-
-  iw_relationship: 
+    Ideally, the student's junior independent work would have at least a partial focus on the Near East or the broader Islamicate world. Alternatively, with the permission of the program director, the student may write a separate research paper, usually 25-30 pages in length, about a Near East-related subject, beyond the student's other course requirements.
+    Ideally, the senior thesis is written on a Near Eastern or Islamicate subject under the supervision of a Near Eastern specialist in the appropriate department and the program. Alternatively, with the permission of the program director, the student may write a separate research paper, usually approximately 50 pages, about a Near East-related subject, beyond the student's other course requirements.
+    Students take the regular senior departmental examination given by their department, except that a portion of it deals with the Islamicate fields studied. These examinations are described in the sections of this catalog for each department.
+  iw_relationship: hybrid
   no_req: 
