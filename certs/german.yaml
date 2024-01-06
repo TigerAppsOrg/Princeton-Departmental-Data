@@ -12,18 +12,36 @@ contacts:
 description: |-
   The Department of German offers students an opportunity to do sustained work in German language, literature, philosophy, art, and media while majoring in another department, leading to a Certificate in German Language and Culture. Certificate students can choose from the broad range of German Department courses taught in both English and German. Classes extend from the Middle Ages to the contemporary moment, introduce diverse disciplinary perspectives including art history and philosophy, and engage with multiple critical paradigms, such as gender and media studies. Through vibrant classroom discussions and close advising relationships, the certificate program engages students who wish to advance their command of the German language and deepen their understanding of German culture.
 max_common_with_major: 
-declaration_limit: 
-pdfs_allowed: 
+declaration_limit: 8
+pdfs_allowed: 0
 excluded_majors: 
-- 
+- GER
 req_list:
-- name: 
-  min_needed: ALL
+- name: Courses
+  min_needed: 4
   explanation: |-
-
-  course_list:
+    1. Four courses at the 200 level or higher, at least two of which must be at the 300 level or higher. All courses must be taken for a grade - not PDF.
+    2. Evidence of substantial upper-level coursework in German. This requirement will be satisfied if three of the four courses taken for the certificate were conducted in German, or if two were taught in German and one was conducted in English with a substantial German-language component. This option is available for all courses taught in in the German Department as well as courses in other departments cross-listed with German. Students should consult with the instructor regarding the German-language component at the beginning of the semester and submit the agreed-upon plan to the German Director of Undergraduate Studies for approval by the end of the second week of classes.
+  req_list:
+  - name: 200-Level
+    min_needed: 0
+    max_counted: 2
+    course_list:
+    - GER 2**
+  - name: 300/400/500-Level
+    min_needed: 2
+    max_counted: 4
+    - GER 3**
+    - GER 4**
+    - GER 5**
 - name: Independent Work
+  min_needed: 1
   explanation: |-
-
-  iw_relationship: 
-  no_req: 
+    There are three ways to fulfill the Independent Work Requirement: (1) a substantial paper of circa 15-20 pages (if in English), 10-15 pages (if in German); this paper may be a revised version of a text written for one of the four required courses; (2) a chapter from the senior thesis principally devoted to a German-related topic; (3) an additional 300-level class taught in German.
+  req_list:
+  - name: Paper
+    no_req:
+  - name: Additional Course
+    min_needed: 1
+    course_list:
+    - GER 3**
