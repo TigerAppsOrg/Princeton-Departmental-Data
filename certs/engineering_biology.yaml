@@ -78,7 +78,7 @@ req_list:
   - MOL 423
   - NEU 202
   - NEU 422
-  - WWS 354
+  - SPI 354
 - name: Independent Work
   explanation: |-
     Close collaboration with faculty is expected. Students are required to complete, with the grade of B- or better, at least one semester of independent work in an appropriate area of engineering biology. This independent work is coordinated with the student's department in order to satisfy departmental requirements for the senior thesis or senior independent research.
