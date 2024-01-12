@@ -14,6 +14,7 @@ const preprocess = () => {
                 return;
             }
             files.forEach(file => {
+                console.log(`Processing ${directory}/${file}:`);
                 const data = yaml.load(fs.readFileSync(`${directory}/${file}`, 'utf8'));
                 if (!data.hasOwnProperty('req_list')) return;
                 data.req_list = processReq(data.req_list);
@@ -21,7 +22,6 @@ const preprocess = () => {
 
                 // Write a new file with the processed data in YAML
                 const processedDataYaml = yaml.dump(data);
-                console.log(processedDataYaml)
                 fs.writeFileSync(`${directory}/${file}`, processedDataYaml, 'utf8');
                 const processedDataJson = JSON.stringify(data);
                 fs.writeFileSync(`json/${directory}/${file.split('.')[0]}.json`, processedDataJson, 'utf8');
@@ -45,6 +45,9 @@ const reorder = (req) => {
     req.forEach((r) => {
         FIELDS.forEach((f) => {
             if (r.hasOwnProperty(f)) {
+                if (f === 'iw_relationship' || f === 'min_needed' || f === 'double_counting_allowed' || f === 'explanation' || f === 'description' || f === 'req_list' || f === 'course_list' || f === 'excluded_course_list' && r[f] === null) {
+                    console.log(f + " is null" + r.name)
+                }
                 const value = r[f];
                 delete r[f];
                 r[f] = value;
