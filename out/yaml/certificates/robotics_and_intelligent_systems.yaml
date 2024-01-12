@@ -49,8 +49,8 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
-          - ECE 115
           - COS ***
+          - ECE 115
       - name: General Science and Engineering
         max_counted: 1
         no_req: null
@@ -59,19 +59,19 @@ req_list:
     max_counted: 1
     course_list:
       - ECE 301
-      - MAE 345
       - ECE 346
+      - MAE 345
       - MAE 433
       - MAE 434
   - name: Laboratory
     min_needed: 1
     max_counted: 1
     course_list:
+      - CEE 374
       - ECE 206
       - ECE 302
       - MAE 224
       - PHY 210
-      - CEE 374
   - name: Cognition, Language, and Decision-Making
     min_needed: 1
     max_counted: 1

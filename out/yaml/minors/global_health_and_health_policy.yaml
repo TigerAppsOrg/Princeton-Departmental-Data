@@ -55,6 +55,10 @@ req_list:
         max_counted: 1
         course_list:
           - ANT 240
+          - EEB 309
+          - EEB 314
+          - EEB 327
+          - EEB 328
           - GSS 201
           - ISC 231
           - MOL 101
@@ -62,25 +66,21 @@ req_list:
           - MOL 214
           - SOC 217
           - URB 201
-          - EEB 309
-          - EEB 314
-          - EEB 327
-          - EEB 328
       - name: Statistics
         min_needed: 1
         max_counted: 1
         course_list:
           - ECO 202
+          - ECO 302
+          - ECO 312
           - MOL 290
           - ORF 245
+          - ORF 405
           - POL 345
           - PSY 251
           - SML 201
           - SOC 301
           - SPI 200
-          - ECO 302
-          - ECO 312
-          - ORF 405
   - name: Core Courses
     min_needed: 2
     max_counted: 1
@@ -138,112 +138,112 @@ req_list:
       off-campus would count toward this limit.
     course_list:
       - AAS 303
-      - ANT 219
-      - AAS 352
-      - ANT 321
-      - ANT 339
-      - ANT 390
-      - ANT 461
-      - ART 313
-      - ART 491
-      - ASL 205
-      - CBE 411
-      - CBE 430
-      - CBE 442
-      - CEE 471
-      - CLA 227
-      - CLA 338
-      - DAN 224
-      - EAS 418
-      - EEB 308
-      - EEB 325
-      - EEB 327
-      - ENE 202
-      - ENG 359
-      - ENG 384
-      - ENV 251
-      - ENV 304
-      - ENV 343
-      - FRE 420
-      - HIS 390
-      - HUM 315
-      - LAS 229
-      - MOL 433
-      - MOL 459
-      - MOL 460
-      - NES 301
-      - NEU 385
-      - NEU 400
-      - NEU 420
-      - NEU 430
-      - PHI 356
-      - PSY 207
-      - PSY 341
-      - QCB 455
-      - SPA 205
-      - REL 361
-      - SOC 249
-      - SPI 332
-      - SPI 364
-      - SPI 394
-      - SPI 405
-      - VIS 301
       - AAS 314
+      - AAS 352
       - AMS 305
       - AMS 404
       - ANT 206
+      - ANT 219
       - ANT 233
       - ANT 238
       - ANT 240
+      - ANT 321
+      - ANT 339
       - ANT 344
       - ANT 360
+      - ANT 390
       - ANT 446
+      - ANT 461
       - ARC 492
+      - ART 313
       - ART 361
+      - ART 491
       - ASA 238
+      - ASL 205
+      - CBE 411
+      - CBE 430
       - CBE 438
+      - CBE 442
       - CEE 311
       - CEE 325
       - CEE 334
+      - CEE 471
       - CHV 323
+      - CLA 227
       - CLA 326
+      - CLA 338
       - COM 329
+      - DAN 224
+      - EAS 418
       - ECE 451
       - ECE 452
       - ECO 332
       - ECO 355
       - ECS 376
+      - EEB 308
+      - EEB 325
+      - EEB 327
       - EEB 428
       - EGR 277
+      - ENE 202
       - ENE 321
+      - ENG 359
+      - ENG 384
+      - ENV 251
       - ENV 302
+      - ENV 304
       - ENV 305
+      - ENV 343
       - FRE 240
+      - FRE 420
       - GEO 360
       - HIS 294
+      - HIS 390
       - HIS 393
       - HIS 494
+      - HUM 315
       - HUM 360
       - ITA 319
       - JDS 324
+      - LAS 229
       - LAS 308
       - MOL 340
       - MOL 405
+      - MOL 433
       - MOL 445
+      - MOL 459
+      - MOL 460
+      - NES 301
       - NEU 331
+      - NEU 385
+      - NEU 400
+      - NEU 420
+      - NEU 430
       - NEU 447
+      - PHI 356
+      - PSY 207
       - PSY 317
       - PSY 320
       - PSY 332
+      - PSY 341
       - QCB 311
       - QCB 408
+      - QCB 455
       - QCB 470
       - REL 303
+      - REL 361
+      - SOC 249
       - SPA 204
       - SPA 205
+      - SPA 205
+      - SPI 332
       - SPI 335
+      - SPI 364
       - SPI 368
       - SPI 393
+      - SPI 394
+      - SPI 405
+      - VIS 301
   - name: Summer Internship
     max_counted: 1
     explanation: >-

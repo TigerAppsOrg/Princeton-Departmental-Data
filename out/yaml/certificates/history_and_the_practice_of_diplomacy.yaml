@@ -51,15 +51,15 @@ req_list:
         min_needed: 2
         max_counted: 2
         course_list:
+          - EAS ***
           - HIS ***
           - NES ***
-          - EAS ***
       - name: Category B
         min_needed: 2
         max_counted: 2
         course_list:
-          - SPI ***
           - POL ***
+          - SPI ***
   - name: Summer Internship
     max_counted: 1
     explanation: >-

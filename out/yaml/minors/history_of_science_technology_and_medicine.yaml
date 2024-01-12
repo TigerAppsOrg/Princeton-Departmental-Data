@@ -55,7 +55,6 @@ req_list:
       - HIS 295
       - HIS 297
       - HIS 298
-      - SPI 364
       - HIS 391
       - HIS 392
       - HIS 393
@@ -74,6 +73,7 @@ req_list:
       - HIS 496
       - HIS 498
       - HIS 499
+      - SPI 364
   - name: Non-HOS History
     min_needed: 1
     max_counted: 1
@@ -90,7 +90,6 @@ req_list:
       - HIS 295
       - HIS 297
       - HIS 298
-      - SPI 364
       - HIS 391
       - HIS 392
       - HIS 393
@@ -109,6 +108,7 @@ req_list:
       - HIS 496
       - HIS 498
       - HIS 499
+      - SPI 364
   - name: Additional History
     min_needed: 1
     max_counted: 1

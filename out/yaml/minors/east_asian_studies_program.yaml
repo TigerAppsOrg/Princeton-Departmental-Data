@@ -46,10 +46,10 @@ req_list:
             min_needed: 0
             max_counted: 2
             course_list:
-              - CHI 101
-              - CHI 102
               - CHI 1001
               - CHI 1002
+              - CHI 101
+              - CHI 102
               - CHI 103
               - JPN 101
               - JPN 102
@@ -94,8 +94,8 @@ req_list:
           minor, but they must be approved in advance by the program office.
         course_list:
           - EAS ***
-          - SOC 307
           - POL 434
+          - SOC 307
           - SPI 316
   - name: Independent Work
     max_counted: 1

@@ -80,9 +80,9 @@ req_list:
       be used to replace one of these courses with the permission of the program
       adviser.
     course_list:
+      - AMS 364
       - ANT 314
       - ANT 387
-      - AMS 364
       - COM 448
       - ENE 259
       - ENE 475
@@ -94,12 +94,12 @@ req_list:
       - HIS 394
       - HIS 507
       - SOC 357
-      - STC 349
-      - URB 201
       - SPI 306
       - SPI 350
       - SPI 353
       - SPI 480
+      - STC 349
+      - URB 201
   - name: Breadth Course
     min_needed: 1
     max_counted: 1

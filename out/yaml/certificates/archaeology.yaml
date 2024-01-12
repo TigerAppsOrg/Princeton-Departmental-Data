@@ -117,8 +117,8 @@ req_list:
               - CEE 538
               - EAS 518
               - EEB 332
-              - GEO 203
               - GEO 103
+              - GEO 203
               - GEO 370
               - GEO 378
               - HIS 390
@@ -129,21 +129,21 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
-          - CLA 548
-          - EAS 279
-          - HUM 412
           - ANT 201
           - ANT 206
           - ARC 308
           - CEE 538
+          - CLA 548
+          - EAS 279
           - EAS 518
           - EEB 332
-          - GEO 203
           - GEO 103
+          - GEO 203
           - GEO 370
           - GEO 378
           - HIS 390
           - HUM 402
+          - HUM 412
           - JDS 224
           - URB 390
   - name: Independent Work

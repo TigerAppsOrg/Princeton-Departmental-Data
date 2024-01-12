@@ -46,11 +46,11 @@ req_list:
       HIS210, ART228). Students are encouraged to complete their introductory
       class as early as possible in their course of study. 
     course_list:
-      - MED 2**
+      - ART 228
+      - HIS 210
       - HUM 216
       - HUM 217
-      - HIS 210
-      - ART 228
+      - MED 2**
   - name: Electives
     min_needed: 3
     max_counted: 1
@@ -73,19 +73,21 @@ req_list:
             min_needed: 2
             max_counted: 1
             course_list:
-              - LAT 1**
+              - ARA 1**
               - CLG 1**
               - HEB 1**
-              - ARA 1**
+              - LAT 1**
               - PER 1**
           - name: Upper Level
             min_needed: 1
             max_counted: 1
             course_list:
-              - LAT 2**
-              - LAT 3**
-              - LAT 4**
-              - LAT 5**
+              - ARA 2**
+              - ARA 3**
+              - ARA 4**
+              - ARA 5**
+              - CHI 301
+              - CHI 302
               - CLG 2**
               - CLG 3**
               - CLG 4**
@@ -94,18 +96,16 @@ req_list:
               - HEB 3**
               - HEB 4**
               - HEB 5**
-              - ARA 2**
-              - ARA 3**
-              - ARA 4**
-              - ARA 5**
+              - JPN 403
+              - JPN 404
+              - LAT 2**
+              - LAT 3**
+              - LAT 4**
+              - LAT 5**
               - PER 2**
               - PER 3**
               - PER 4**
               - PER 5**
-              - JPN 403
-              - JPN 404
-              - CHI 301
-              - CHI 302
   - name: Course or IW
     min_needed: 1
     max_counted: 1

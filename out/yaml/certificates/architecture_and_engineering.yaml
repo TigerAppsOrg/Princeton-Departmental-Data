@@ -98,17 +98,17 @@ req_list:
                 min_needed: 0
                 max_counted: 1
                 course_list:
-                  - MSE 301
                   - MAE 324
+                  - MSE 301
               - name: null
                 min_needed: 0
                 max_counted: ALL
                 course_list:
                   - ARC 206
                   - ARC 311
-                  - ARC 374
                   - ARC 350
                   - ARC 351
+                  - ARC 374
                   - CEE 205
                   - CEE 212
                   - CEE 345
@@ -146,8 +146,8 @@ req_list:
                   - ARC 206
                   - ARC 374
                   - ARC 596
-                  - CEE 546
                   - CEE 374
+                  - CEE 546
                   - COS 126
                   - COS 217
                   - COS 226
@@ -186,17 +186,17 @@ req_list:
                 min_needed: 0
                 max_counted: 1
                 course_list:
-                  - MSE 301
                   - MAE 324
+                  - MSE 301
               - name: null
                 min_needed: 0
                 max_counted: ALL
                 course_list:
                   - ARC 382
-                  - ART 250
                   - ARC 406
-                  - ARC 519
                   - ARC 509
+                  - ARC 519
+                  - ART 250
                   - CEE 207
                   - CEE 304
                   - CEE 311

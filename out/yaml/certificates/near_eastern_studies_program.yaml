@@ -38,10 +38,10 @@ req_list:
       - ARA ***
       - HEB ***
       - HIN ***
-      - URD ***
       - PER ***
       - SWA ***
       - TUR ***
+      - URD ***
   - name: History
     min_needed: 1
     max_counted: 1

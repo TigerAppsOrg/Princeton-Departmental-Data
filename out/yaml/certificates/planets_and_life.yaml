@@ -45,8 +45,8 @@ req_list:
     course_list:
       - AST 204
       - AST 205
-      - AST 303
       - AST 301
+      - AST 303
       - AST 403
       - AST 514
       - AST 541
@@ -72,14 +72,15 @@ req_list:
       - CHM 542
       - CHM 544
       - COS 323
+      - ECE 351
+      - ECE 352
+      - ECE 455
       - EEB 210
       - EEB 211
       - EEB 309
       - EEB 320
-      - ECE 351
-      - ECE 352
-      - ECE 455
       - GEO 207
+      - GEO 255A
       - GEO 361
       - GEO 363
       - GEO 364
@@ -90,14 +91,13 @@ req_list:
       - GEO 428
       - GEO 442
       - GEO 523
+      - MAE 341
+      - MAE 342
+      - MAE 345
       - MOL 214
       - MOL 215
       - MOL 345
       - MOL 348
-      - MAE 341
-      - MAE 342
-      - MAE 345
-      - GEO 255A
   - name: Independent Work
     max_counted: 1
     explanation: >-

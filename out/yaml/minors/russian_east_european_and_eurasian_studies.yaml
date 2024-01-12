@@ -79,9 +79,9 @@ req_list:
           - PLS 105
           - PLS 107
           - RUS 103
-          - RUS 108
           - RUS 105
           - RUS 107
+          - RUS 108
           - RUS 207
           - RUS 305
           - RUS 407
@@ -101,9 +101,9 @@ req_list:
       - HIS 452
       - HIS 480
       - NES 362
-      - NES 406
       - NES 362
       - NES 364
+      - NES 406
       - POL 360
       - POL 374
       - POL 432

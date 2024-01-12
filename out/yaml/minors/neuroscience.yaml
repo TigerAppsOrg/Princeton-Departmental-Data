@@ -55,29 +55,29 @@ req_list:
         min_needed: 4
         max_counted: 1
         course_list:
-          - NEU ***
-          - ECE 452
-          - MOL 250
-          - MOL 433
-          - MOL 259
-          - MOL 460
-          - PHY 562
-          - QCB 515
           - COS 226
+          - COS 302
+          - COS 324
           - COS 343
           - COS 402
-          - COS 429
-          - COS 324
-          - COS 302
           - COS 424
+          - COS 429
           - COS 485
           - ECE 364
           - ECE 452
-          - MAT 323
-          - PSY 360
+          - ECE 452
           - ECE 480
+          - MAT 323
+          - MOL 250
+          - MOL 259
+          - MOL 433
+          - MOL 460
+          - NEU ***
+          - PHY 562
           - PSY 248
+          - PSY 360
           - PSY 409
+          - QCB 515
       - name: Subject Areas
         min_needed: 3
         max_counted: 1
@@ -87,6 +87,11 @@ req_list:
             min_needed: 1
             max_counted: 1
             course_list:
+              - ECE 452
+              - MOL 250
+              - MOL 259
+              - MOL 433
+              - MOL 460
               - NEU 301
               - NEU 331
               - NEU 385
@@ -101,11 +106,6 @@ req_list:
               - NEU 475
               - NEU 490
               - NEU 501A
-              - ECE 452
-              - MOL 250
-              - MOL 433
-              - MOL 259
-              - MOL 460
               - PHY 562
               - QCB 515
           - name: Circuits and Systems
@@ -124,8 +124,8 @@ req_list:
               - NEU 422
               - NEU 427
               - NEU 428
-              - NEU 460
               - NEU 457
+              - NEU 460
               - NEU 475
               - NEU 501A
               - NEU 502A
@@ -134,6 +134,17 @@ req_list:
             min_needed: 1
             max_counted: 1
             course_list:
+              - COS 226
+              - COS 302
+              - COS 324
+              - COS 343
+              - COS 402
+              - COS 424
+              - COS 429
+              - COS 485
+              - ECE 364
+              - ECE 452
+              - MAT 323
               - NEU 330
               - NEU 338
               - NEU 340
@@ -141,23 +152,13 @@ req_list:
               - NEU 443
               - NEU 457
               - NEU 499
-              - COS 226
-              - COS 343
-              - COS 402
-              - COS 429
-              - COS 324
-              - COS 302
-              - COS 424
-              - COS 485
-              - ECE 364
-              - ECE 452
-              - MAT 323
               - PSY 360
               - QCB 515
           - name: Social and Cognitive Neuroscience
             min_needed: 1
             max_counted: 1
             course_list:
+              - ECE 480
               - NEU 200
               - NEU 306
               - NEU 316
@@ -169,6 +170,5 @@ req_list:
               - NEU 422
               - NEU 499
               - NEU 502A
-              - ECE 480
               - PSY 248
               - PSY 409

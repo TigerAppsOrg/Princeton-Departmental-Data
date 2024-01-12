@@ -68,9 +68,9 @@ req_list:
           counted) toward fulfilling the minor in African Studies. All courses
           for the PAS minor must be taken for a grade, not pass/D/fail.
         course_list:
+          - GEZ ***
           - SWA ***
           - TWI ***
-          - GEZ ***
       - name: Other Electives
         min_needed: 3
         max_counted: 1

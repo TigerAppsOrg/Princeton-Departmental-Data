@@ -102,17 +102,17 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
-          - MSE 301
           - CEE 364
           - MAE 324
+          - MSE 301
       - name: Experimental Methods
         min_needed: 1
         max_counted: 1
         course_list:
-          - MSE 302
           - CHM 371
           - ECE 308
           - GEO 369
+          - MSE 302
   - name: Electives
     min_needed: 3
     max_counted: 1
@@ -128,6 +128,10 @@ req_list:
       - CBE 426
       - CBE 430
       - CBE 433
+      - CEE 312
+      - CEE 345
+      - CEE 361
+      - CEE 365
       - CHM 301
       - CHM 302
       - CHM 304
@@ -136,12 +140,7 @@ req_list:
       - CHM 405
       - CHM 411
       - CHM 412
-      - CEE 312
-      - CEE 345
-      - CEE 361
-      - CEE 365
       - ECE 341
-      - ECe 342
       - ECE 351
       - ECE 431
       - ECE 441
@@ -150,6 +149,7 @@ req_list:
       - ECE 453
       - ECE 455
       - ECE 461
+      - ECe 342
       - GEO 363
       - GEO 372
       - GEO 378

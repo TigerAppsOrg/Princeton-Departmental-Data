@@ -50,12 +50,9 @@ req_list:
         min_needed: 2
         max_counted: 3
         course_list:
-          - MAT 3**
-          - MAT 4**
-          - MAT 5**
           - APC 350
-          - APC 503
           - APC 501
+          - APC 503
           - APC 506
           - APC 523
           - APC 527
@@ -72,6 +69,9 @@ req_list:
           - MAE 503
           - MAE 541
           - MAE 542
+          - MAT 3**
+          - MAT 4**
+          - MAT 5**
           - ORF 307
           - ORF 309
           - ORF 363
@@ -115,6 +115,14 @@ req_list:
           - COS 522
           - COS 533
           - COS 557
+          - ECE 381
+          - ECE 382
+          - ECE 482
+          - ECE 488
+          - ECE 521
+          - ECE 523
+          - ECE 530
+          - ECE 535
           - ECO 312
           - ECO 317
           - ECO 414
@@ -126,14 +134,6 @@ req_list:
           - EEB 324
           - EEB 325
           - EEB 424
-          - ECE 381
-          - ECE 382
-          - ECE 482
-          - ECE 488
-          - ECE 521
-          - ECE 523
-          - ECE 530
-          - ECE 535
           - GEO 371
           - GEO 422
           - GEO 424

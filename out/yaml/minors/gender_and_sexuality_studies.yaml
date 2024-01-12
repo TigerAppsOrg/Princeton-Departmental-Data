@@ -29,8 +29,8 @@ req_list:
       The introductory course, GSS 201 (or, with permission, a cross-listed
       200-level or above course)
     course_list:
-      - GSS 201
       - GSS 2**
+      - GSS 201
   - name: Electives
     min_needed: 3
     max_counted: 1

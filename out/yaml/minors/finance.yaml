@@ -71,15 +71,15 @@ req_list:
                 min_needed: 1
                 max_counted: 1
                 course_list:
-                  - MAT 201
                   - EGR 154
+                  - MAT 201
                   - MAT 203
               - name: Linear Algebra
                 min_needed: 1
                 max_counted: 1
                 course_list:
-                  - MAT 202
                   - EGR 156
+                  - MAT 202
                   - MAT 204
       - name: Economics
         min_needed: 1
@@ -99,10 +99,10 @@ req_list:
           Social Science).  A score of 5 in AP Statistics also fulfills the
           statistics prerequisite.
         course_list:
-          - ORF 245
           - ECO 202
-          - PSY 251
+          - ORF 245
           - POL 345
+          - PSY 251
           - SPI 200
   - name: Program of Study
     max_counted: 1

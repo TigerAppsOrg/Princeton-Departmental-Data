@@ -74,14 +74,15 @@ req_list:
           - COS 598D
           - ECE 364
           - ECE 435
+          - ECE 524
           - ECO 312
           - ECO 418
           - ECO 462
           - ECO 466
           - EGR 395
+          - EGR 491
           - EGR 494
           - EGR 497
-          - EGR 491
           - MAE 331
           - MAE 345
           - MAE 410
@@ -100,21 +101,17 @@ req_list:
           - ORF 435
           - ORF 467
           - ORF 542
+          - ORF 550
           - POL 250
           - POL 341
           - POL 346
           - POL 347
           - PSY 255
           - SPI 340
-          - ECE 524
-          - ORF 550
       - name: Category 1/2
         min_needed: 0
         max_counted: 2
         course_list:
-          - ORF 307
-          - ORF 311
-          - ORF 363
           - CEE 460
           - ECE 382
           - ECO 202
@@ -122,7 +119,10 @@ req_list:
           - MAT 385
           - MAT 486
           - ORF 245
+          - ORF 307
           - ORF 309
+          - ORF 311
+          - ORF 363
           - ORF 409
           - PHI 371
           - POL 345

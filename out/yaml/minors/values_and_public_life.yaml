@@ -42,7 +42,6 @@ req_list:
           courses are offered every year).
         course_list:
           - POL 210
-          - SPI 370
           - POL 301
           - POL 302
           - POL 303
@@ -51,6 +50,7 @@ req_list:
           - POL 307
           - POL 309
           - POL 313
+          - SPI 370
       - name: Junior/Senior Seminar
         min_needed: 1
         max_counted: 1

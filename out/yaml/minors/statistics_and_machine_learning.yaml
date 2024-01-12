@@ -64,12 +64,12 @@ req_list:
             min_needed: 1
             max_counted: 1
             course_list:
-              - MAT 202
               - EGR 154
-              - SML 305
+              - MAT 202
               - MAT 204
               - MAT 217
               - MAT 218
+              - SML 305
       - name: Probability
         min_needed: 1
         max_counted: 1
@@ -107,35 +107,35 @@ req_list:
         min_needed: 0
         max_counted: ALL
         course_list:
-          - POL 245
-          - SML 201
+          - AST 303
+          - CEE 460
           - COS 429
           - COS 484
           - COS 485
-          - ORF 418
-          - SOC 306
+          - ECE 382
           - ECE 434
-          - MAT 385
-          - ORF 309
-          - ORF 363
-          - AST 303
-          - CEE 460
+          - ECE 480
           - ECO 302
           - ECO 312
           - ECO 313
           - ECO 491
-          - ECE 382
-          - ECE 480
           - GEO 422
           - MAE 345
+          - MAT 385
           - NEU 330
+          - ORF 309
+          - ORF 363
           - ORF 405
+          - ORF 418
           - ORF 473
+          - POL 245
           - POL 346
           - PSY 360
           - PSY 454
           - QCB 408
           - QCB 455
+          - SML 201
+          - SOC 306
           - SOC 400
       - name: null
         min_needed: 0

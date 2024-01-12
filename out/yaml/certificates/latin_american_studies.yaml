@@ -33,12 +33,12 @@ req_list:
       Completion of the language requirement in Spanish, Portuguese or French
       (for students focusing on the French-speaking Caribbean). 
     course_list:
-      - SPA 107
-      - SPA 108
-      - POR 107
-      - POR 109
       - FRE 107
       - FRE 108
+      - POR 107
+      - POR 109
+      - SPA 107
+      - SPA 108
   - name: Courses
     min_needed: 4
     max_counted: 1

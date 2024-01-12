@@ -98,8 +98,8 @@ req_list:
           - COM 428
           - CWR 216
           - CWR 307
-          - ECS 310
           - ECO 311
+          - ECS 310
           - ECS 312
           - ECS 321
           - ECS 326
@@ -110,8 +110,8 @@ req_list:
           - FRE 245
           - FRE 313
           - FRE 317
-          - FRE 330
           - FRE 327
+          - FRE 330
           - FRE 338
           - FRE 357
           - FRE 358

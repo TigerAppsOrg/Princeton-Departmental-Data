@@ -1,5 +1,5 @@
 /**
- * Preprocess and verify the YAML files in the minors and certs directories.
+ * Preprocess and verify the data in the yaml files.
  * Run with node preprocess.js [write] [maxCountedOne] [directories=...]
  * write: whether to write the processed data to files
  * maxCountedOne: whether to set max_counted to 1 (default ALL)
@@ -177,10 +177,10 @@ if (directories) {
     for (let i = 0; i < directories.length; i++){
         directories[i] = directories[i].trim().toLowerCase();
         if (directories[i] === 'all') {
-            directories = ['minors', 'certs', 'majors', 'degrees'];
+            directories = ['minors', 'certificates', 'majors', 'degrees'];
             break;
         }
-        if (directories[i] !== 'minors' && directories[i] !== 'certs'
+        if (directories[i] !== 'minors' && directories[i] !== 'certificates'
         && directories[i] !== 'majors' && directories[i] !== 'degrees') {
             console.log("Invalid directory: " + directories[i]);
             return;

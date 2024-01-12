@@ -30,12 +30,12 @@ req_list:
       All students must complete either HUM 216-219 or ECS/EPS 301 or EPS/ECS
       302 to fulfill the ECS core course requirement. 
     course_list:
+      - ECS 301
+      - ECS 302
       - HUM 216
       - HUM 217
       - HUM 218
       - HUM 219
-      - ECS 301
-      - ECS 302
   - name: Electives
     min_needed: 2
     max_counted: 1

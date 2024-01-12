@@ -48,8 +48,8 @@ req_list:
     max_counted: 1
     explanation: Two additional courses in THR or MTD or cross-listed with THR or MTD.
     course_list:
-      - THR ***
       - MTD ***
+      - THR ***
   - name: THR/MTD/DAN/MUS Electives
     min_needed: 2
     max_counted: 1
@@ -57,7 +57,7 @@ req_list:
       Two additional courses from THR, MTD, DAN, MUS, or another relevant
       cognate.
     course_list:
-      - THR ***
-      - MTD ***
       - DAN ***
+      - MTD ***
       - MUS ***
+      - THR ***

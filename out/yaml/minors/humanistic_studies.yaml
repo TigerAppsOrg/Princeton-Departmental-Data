@@ -120,22 +120,22 @@ req_list:
               continuities as well as societal change, upheaval and
               transformation.
             course_list:
+              - COM 310
+              - COM 310
               - HUM 216
               - HUM 217
               - HUM 218
               - HUM 219
+              - HUM 230
               - HUM 233
               - HUM 234
               - HUM 247
               - HUM 248
-              - HUM 230
-              - HUM 434
-              - COM 310
               - HUM 312
               - HUM 412
+              - HUM 434
               - MED 227
               - TRA 304
-              - COM 310
           - name: Global or Comparative Humanities
             min_needed: 1
             max_counted: 1
@@ -147,19 +147,19 @@ req_list:
               participating in global seminars or other study abroad
               opportunities.
             course_list:
-              - HUM 290
-              - HUM 335
-              - HUM 240
+              - ART 361
               - CLA 212
               - COM 310
+              - HUM 240
+              - HUM 290
               - HUM 312
+              - HUM 335
               - HUM 402
               - HUM 412
               - HUM 423
               - HUM 450
-              - MED 227
-              - ART 361
               - HUM 470
+              - MED 227
               - TRA 304
           - name: Engaged or Public Humanities
             min_needed: 1
@@ -173,11 +173,11 @@ req_list:
             course_list:
               - HUM 315
               - HUM 321
-              - HUM 352
               - HUM 339
+              - HUM 352
               - HUM 353
-              - SLA 368
               - HUM 470
+              - SLA 368
           - name: Humanities and Sciences in Dialogue
             min_needed: 1
             max_counted: 1
@@ -186,11 +186,11 @@ req_list:
               engineering technology empower us to ask new kinds of questions
               and forge new kinds of knowledge.
             course_list:
+              - ART 361
               - HUM 315
               - HUM 365
               - PSY 210
               - STC 297
-              - ART 361
           - name: Data and Culture
             min_needed: 1
             max_counted: 1
@@ -200,6 +200,6 @@ req_list:
               skills. This cluster requires HUM 346 / CDH 346, Introduction to
               Digital Humanities.
             course_list:
-              - HUM 346
               - HUM 307
+              - HUM 346
               - HUM 475

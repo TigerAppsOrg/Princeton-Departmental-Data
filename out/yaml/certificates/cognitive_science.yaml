@@ -59,12 +59,14 @@ req_list:
         course_list:
           - COS 109
           - COS 126
+          - HUM 230
           - LIN 201
           - LIN 205
           - LIN 216
           - LIN 219
           - LIN 250
           - LIN 260
+          - MUS 248
           - NEU 175
           - NEU 200
           - NEU 202
@@ -76,8 +78,6 @@ req_list:
           - PSY 254
           - PSY 255
           - PSY 260
-          - MUS 248
-          - HUM 230
       - name: 300/400/500 Level
         min_needed: 3
         max_counted: ALL
@@ -85,13 +85,18 @@ req_list:
           - CGS 310
           - CGS 312
           - CGS 316
+          - CHV 323
           - COS 324
           - COS 402
           - COS 424
           - COS 429
-          - ECE 433
           - COS 484
           - COS 495
+          - ECE 364
+          - ECE 433
+          - ECO 468
+          - ENE 475
+          - HIS 494
           - LIN 301
           - LIN 302
           - LIN 303
@@ -106,8 +111,6 @@ req_list:
           - LIN 408
           - LIN 412
           - MAE 345
-          - ENE 475
-          - ECE 364
           - NEU 314
           - NEU 330
           - NEU 331
@@ -121,7 +124,6 @@ req_list:
           - PHI 352
           - PHI 371
           - PHI 380
-          - CHV 323
           - PSY 304
           - PSY 306
           - PSY 307
@@ -140,12 +142,10 @@ req_list:
           - PSY 414
           - PSY 418
           - PSY 454
-          - HIS 494
-          - TRA 301
           - SPI 305
           - SPI 340
           - SPI 404
-          - ECO 468
+          - TRA 301
   - name: Independent Work
     max_counted: 1
     explanation: >-

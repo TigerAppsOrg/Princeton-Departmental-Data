@@ -81,9 +81,9 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
+          - ENE 308
           - MAE 228
           - MAE 328
-          - ENE 308
       - name: A2
         min_needed: 1
         max_counted: 1
@@ -94,8 +94,8 @@ req_list:
           - ENE 202
           - ENE 308
           - ENV 367
-          - GEO 427
           - GEO 102A
+          - GEO 427
   - name: Electives
     min_needed: 4
     max_counted: 1
@@ -142,9 +142,9 @@ req_list:
           - CEE 311
           - CEE 334
           - CEE 474
+          - ECE 547C
           - EEB 417A
           - EEB 417B
-          - ECE 547C
           - ENE 308
           - ENE 372
           - ENV 200

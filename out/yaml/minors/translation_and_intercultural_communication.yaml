@@ -62,22 +62,22 @@ req_list:
         min_needed: 3
         max_counted: 1
         course_list:
-          - TRA 2**
-          - TRA 3**
-          - TRA 4**
-          - TRA 5**
-          - SPA 380
-          - FRE 407
+          - ANT 326
           - ARA 308
+          - COM 326
           - CWR 206
           - CWR 306
-          - ANT 326
-          - COM 326
+          - FRE 407
           - HIS 397
           - ITA 300
           - LIN 201
           - NES 398
           - PHI 317
+          - SPA 380
+          - TRA 2**
+          - TRA 3**
+          - TRA 4**
+          - TRA 5**
       - name: Categories
         min_needed: 2
         max_counted: 1
@@ -101,11 +101,11 @@ req_list:
               (examples include SPA 380, FRE 407, ARA 308, CWR 206, and CWR
               306).
             course_list:
-              - SPA 380
-              - FRE 407
               - ARA 308
               - CWR 206
               - CWR 306
+              - FRE 407
+              - SPA 380
           - name: Understanding Translation
             min_needed: 1
             max_counted: 1

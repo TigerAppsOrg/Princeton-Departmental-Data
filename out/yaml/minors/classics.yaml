@@ -29,9 +29,9 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
+          - CLA ***
           - CLG 108
           - LAT 108
-          - CLA ***
       - name: null
         min_needed: ALL
         max_counted: 1

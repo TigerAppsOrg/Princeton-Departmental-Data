@@ -27,9 +27,9 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
-          - MAT 201
           - ECO 201
           - EGR 156
+          - MAT 201
           - MAT 203
           - MAT 216
           - MAT 300
@@ -37,8 +37,8 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
-          - MAT 202
           - EGR 154
+          - MAT 202
           - MAT 204
           - MAT 217
           - MAT 218
@@ -62,6 +62,7 @@ req_list:
       In addition, students may substitute more advanced courses (graduate
       courses) for any of the above, with the approval of the program director.
     course_list:
+      - COS 445
       - ECO 313
       - ECO 315
       - ECO 317
@@ -69,7 +70,6 @@ req_list:
       - ECO 327
       - ECO 416
       - ECO 418
-      - COS 445
-      - ORF 405
       - ECO 5**
+      - ORF 405
       - ORF 5**

@@ -31,8 +31,8 @@ req_list:
       equivalent course) and one foundational course in computing (COS 126 or
       equivalent course).
     course_list:
-      - MOL 214
       - COS 126
+      - MOL 214
   - name: Bioengineering Courses
     min_needed: 3
     max_counted: 1
@@ -56,10 +56,10 @@ req_list:
       - CEE 477
       - COS 343
       - ECE 451
-      - EEB 325
-      - EEB 330
       - ECE 452
       - ECE 480
+      - EEB 325
+      - EEB 330
       - ENE 318
       - MAE 344
       - MAE 416

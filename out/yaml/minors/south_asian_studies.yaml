@@ -30,20 +30,20 @@ req_list:
       fulfill the program's language requirement.
     course_list:
       - HIN 107
-      - URD 107
-      - SAN 107
       - HIN 2**
       - HIN 3**
       - HIN 4**
       - HIN 5**
-      - URD 2**
-      - URD 3**
-      - URD 4**
-      - URD 5**
+      - SAN 107
       - SAN 2**
       - SAN 3**
       - SAN 4**
       - SAN 5**
+      - URD 107
+      - URD 2**
+      - URD 3**
+      - URD 4**
+      - URD 5**
   - name: Introduction to South Asian Studies
     min_needed: 1
     max_counted: 1
@@ -73,14 +73,14 @@ req_list:
     course_list:
       - ANT ***
       - COM ***
-      - ENG ***
       - ECO ***
+      - ENG ***
       - HIS ***
       - NES ***
       - POL ***
       - REL ***
-      - SPI ***
       - SAS ***
+      - SPI ***
   - name: Independent Work
     max_counted: 1
     explanation: >-

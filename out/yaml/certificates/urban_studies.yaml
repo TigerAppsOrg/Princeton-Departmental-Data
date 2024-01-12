@@ -63,8 +63,8 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
-          - AMS 306
           - AAS 350
+          - AMS 306
           - AMS 312
           - AMS 403
           - ANT 223
@@ -115,11 +115,11 @@ req_list:
         max_counted: 1
         course_list:
           - AAS 302
-          - AMS 306
+          - AAS 350
           - AAS 359
           - AAS 367
+          - AMS 306
           - AMS 312
-          - AAS 350
           - AMS 403
           - ANT 223
           - ANT 227
@@ -128,11 +128,11 @@ req_list:
           - ARC 205
           - ARC 303
           - ARC 401
+          - ARC 401
           - ARC 404
           - ARC 492
           - ARC 546
           - ART 329
-          - ARC 401
           - CEE 262A
           - CEE 262B
           - CEE 311

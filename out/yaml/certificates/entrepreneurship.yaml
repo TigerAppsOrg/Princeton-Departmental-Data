@@ -72,15 +72,15 @@ req_list:
       - ECO 317
       - ECO 385
       - HIS 481
-      - VIS 214
-      - VIS 439
-      - POL 377
+      - NEU 425
       - POL 349
+      - POL 377
       - PSY 311
       - PSY 420
-      - NEU 425
       - SOC 346
       - SPI 340
+      - VIS 214
+      - VIS 439
   - name: Workshop
     max_counted: 1
     explanation: >-
