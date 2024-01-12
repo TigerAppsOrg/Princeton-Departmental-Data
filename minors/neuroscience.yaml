@@ -29,7 +29,6 @@ req_list:
   min_needed: ALL
   explanation: |-
     In addition to the two prerequisites, all students are expected to take at least four neuroscience electives from three out of four subject areas. These areas include: (1) molecular/cellular/disease; (2) neural computation; (3) systems and circuits; and (4) social and cognitive neuroscience. Students should consult the NEU electives list for a complete list of possibilities.
-
     Cross-listed NEU courses will not count twice in the elective total. Courses can only be used one time and in one elective category. A maximum of two courses can be used for the minor and to serve requirements for the student's major.
   req_list:
   - name: Courses
