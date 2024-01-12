@@ -31,6 +31,18 @@ const preprocess = (write) => {
                     console.log("STYLE WARNING -- " + filename 
                     + ": description has consecutive newlines");
                 }
+
+                // Check urls
+                if (!data.hasOwnProperty('urls') || data.urls === null 
+                || data.urls.length === 0) {
+                    console.log("NULL WARNING -- " + filename + ": urls is null");
+                } 
+
+                // Check contacts
+                if (!data.hasOwnProperty('contacts') || data.contacts === null
+                || data.contacts.length === 0) {
+                    console.log("NULL WARNING -- " + filename + ": contacts is null");
+                } 
                 
                 if (!data.hasOwnProperty('req_list')) {
                     console.log("NULL WARNING -- " + filename + ": req_list is null... skipping");
