@@ -1,35 +1,49 @@
----
 type: Certificate
 name: American Studies
 code: AMS
 urls:
-- https://ua.princeton.edu/fields-study/certificate-programs/american-studies
+  - https://ua.princeton.edu/fields-study/certificate-programs/american-studies
 contacts:
-- type: Director
-  name: Aisha M. Beliso-De Jesús
-  email: beliso.dejesus@princeton.edu
-description: |-
-  The Program in American Studies, administered by the Effron Center for the Study of America, is an interdisciplinary plan of study that prepares students to make intellectual connections in the world through the experiences and place of America in current and historical times. Encompassing a wide range of fields, areas and disciplines, and grounded in the histories and experiences of the diverse peoples and cultures that make up the United States of America, the program explores different conceptual framings of America and the role of the United States in local, global and transnational relationships. By asking a broad range of research questions and engaging with diverse scholarly methods and theories, the program encourages new understandings of issues that profoundly affect contemporary life and scholarship, including questions of migration, diaspora and borders; indigeneity and colonization; globalization, empire and war; capital and culture; language, race and ethnicity; religion; slavery and racialization; gender and sexuality; and ecology and technology.
+  - type: Director
+    name: Aisha M. Beliso-De Jesús
+    email: beliso.dejesus@princeton.edu
+description: >-
+  The Program in American Studies, administered by the Effron Center for the
+  Study of America, is an interdisciplinary plan of study that prepares students
+  to make intellectual connections in the world through the experiences and
+  place of America in current and historical times. Encompassing a wide range of
+  fields, areas and disciplines, and grounded in the histories and experiences
+  of the diverse peoples and cultures that make up the United States of America,
+  the program explores different conceptual framings of America and the role of
+  the United States in local, global and transnational relationships. By asking
+  a broad range of research questions and engaging with diverse scholarly
+  methods and theories, the program encourages new understandings of issues that
+  profoundly affect contemporary life and scholarship, including questions of
+  migration, diaspora and borders; indigeneity and colonization; globalization,
+  empire and war; capital and culture; language, race and ethnicity; religion;
+  slavery and racialization; gender and sexuality; and ecology and technology.
 max_common_with_major: 1
 declaration_limit: 8
-pdfs_allowed: 
+pdfs_allowed: null
 req_list:
-- name: Gateway Course
-  max_counted: 1
-  min_needed: 1
-  course_list:
-  - AMS 101
-- name: Electives
-  max_counted: 1
-  min_needed: 3
-  explanation: |-
-    Three courses in American studies, either originating in the program or cross-listed, and preferably representing disciplinary breadth in the social sciences, arts and humanities. No more than one course taken in fulfillment of the student's major may be counted toward the certificate.
-  course_list:  
-  - AMS ***
-- name: Advanced Seminar 
-  max_counted: 1
-  min_needed: 1
-  explanation: |-
-    An advanced seminar in American studies, preferably taken in senior year.
-  course_list:
-  - AMS 4**
+  - name: Gateway Course
+    min_needed: 1
+    max_counted: 1
+    course_list:
+      - AMS 101
+  - name: Electives
+    min_needed: 3
+    max_counted: 1
+    explanation: >-
+      Three courses in American studies, either originating in the program or
+      cross-listed, and preferably representing disciplinary breadth in the
+      social sciences, arts and humanities. No more than one course taken in
+      fulfillment of the student's major may be counted toward the certificate.
+    course_list:
+      - AMS ***
+  - name: Advanced Seminar
+    min_needed: 1
+    max_counted: 1
+    explanation: An advanced seminar in American studies, preferably taken in senior year.
+    course_list:
+      - AMS 4**

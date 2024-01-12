@@ -1,56 +1,109 @@
----
 type: Certificate
 name: Italian
 code: ITA
 urls:
-- https://ua.princeton.edu/fields-study/certificate-programs/language-and-culture
-- https://fit.princeton.edu/undergraduate/certificate/certificate-requirements
+  - >-
+    https://ua.princeton.edu/fields-study/certificate-programs/language-and-culture
+  - https://fit.princeton.edu/undergraduate/certificate/certificate-requirements
 contacts:
-- type: Director
-  name: Flora Champy
-  email: fchampy@princeton.edu
-description: |-
-  The program is open to undergraduates in all departments. Students concentrating in Language and Literature departments, including Comparative Literature, as well as those pursuing Area Studies Certificates, will be eligible for the Program in Language and Culture provided that: (a) the linguistic base for the Language and Culture Certificate is different from the linguistic base of the concentration or the Area Studies Program, and (b) the work required for the Certificate in Language and Culture does not duplicate the requirements of the major or the Area Studies Program. For example, students majoring in Comparative Literature with French as their major foreign language cannot obtain a Certificate in French Language and Culture but can do so in Italian.
-  PLEASE NOTE: Any Italian course taught in English will require all written work to be completed in Italian in order to count towards the certificate.
-max_common_with_major: 
-declaration_limit: 
+  - type: Director
+    name: Flora Champy
+    email: fchampy@princeton.edu
+description: >-
+  The program is open to undergraduates in all departments. Students
+  concentrating in Language and Literature departments, including Comparative
+  Literature, as well as those pursuing Area Studies Certificates, will be
+  eligible for the Program in Language and Culture provided that: (a) the
+  linguistic base for the Language and Culture Certificate is different from the
+  linguistic base of the concentration or the Area Studies Program, and (b) the
+  work required for the Certificate in Language and Culture does not duplicate
+  the requirements of the major or the Area Studies Program. For example,
+  students majoring in Comparative Literature with French as their major foreign
+  language cannot obtain a Certificate in French Language and Culture but can do
+  so in Italian.
+
+  PLEASE NOTE: Any Italian course taught in English will require all written
+  work to be completed in Italian in order to count towards the certificate.
+max_common_with_major: null
+declaration_limit: null
 pdfs_allowed: 0
-excluded_majors: 
-- FRE/ITA
+excluded_majors:
+  - FRE/ITA
 req_list:
-- name: Courses
-  min_needed: 4
-  explanation: |-
-    A minimum of four departmental courses in the relevant language, linguistics, literature, or culture, excluding courses that do not have a language prerequisite and any 100-level language course. At least two of these courses must be at the 300 level (or higher). Up to two of these courses may be taken at the 200 level, but FRE 207 and 208 cannot both be counted. At the discretion of the Director of Undergraduate Studies, a student may substitute one course satisfactorily completed in a departmentally approved program of study abroad or one course taken in summer. A 200-level course is a prerequisite for taking 300-level courses in Italian.  Please Note: Students pursuing a certificate in Italian may not count PDF or Audit courses toward the certificate. Those courses must be taken for a letter grade.
-  req_list:
-  - name: 200 Level
-    min_needed: 0
-    max_counted: 2
+  - name: Courses
+    min_needed: 4
+    max_counted: 1
+    explanation: >-
+      A minimum of four departmental courses in the relevant language,
+      linguistics, literature, or culture, excluding courses that do not have a
+      language prerequisite and any 100-level language course. At least two of
+      these courses must be at the 300 level (or higher). Up to two of these
+      courses may be taken at the 200 level, but FRE 207 and 208 cannot both be
+      counted. At the discretion of the Director of Undergraduate Studies, a
+      student may substitute one course satisfactorily completed in a
+      departmentally approved program of study abroad or one course taken in
+      summer. A 200-level course is a prerequisite for taking 300-level courses
+      in Italian.  Please Note: Students pursuing a certificate in Italian may
+      not count PDF or Audit courses toward the certificate. Those courses must
+      be taken for a letter grade.
     req_list:
-    - name: 
-      min_needed: 0
-      course_list:
-      - ITA 207
-      - ITA 208
-    - name:
-      min_needed: 0
-      max_counted: 2
-      course_list:
-      - ITA 2**
-      excluded_course_list:
-      - ITA 207
-      - ITA 208
-  - name: 300 Level
-    min_needed: 2
-    max_counted: 4
-    course_list:
-    - ITA 3**
-- name: Independent Work
-  explanation: |-
-    A piece of written independent work displaying genuine intellectual commitment to the relevant language and culture. This important requirement can be satisfied in one of several ways, depending on the student's concentration and interest:
-    a. Through a substantial paper on a topic agreed upon with the student's appointed adviser.
-    b. Through a substantial paper growing out of one of the courses taken to fulfill the Certificate requirement. This paper will be in addition to the work required in the course. The subject and scope of this paper will be agreed upon with the student's appointed adviser.
-    c. With the agreement of the student's home department, a student may submit a junior independent work (JP) or Senior Thesis that satisfies the requirements of both the home department and the Department of French and Italian. A JP or Senior Thesis of this sort should be based in substantial part on foreign language sources, and it should display competence in the language for which the student is requesting certification. Students interested in this option should consult our Director of Undergraduate Studies as early as possible to ensure that the paper or thesis will satisfy the Certificate requirements.
-    Papers of types (a) and (b) are of approximately 4,000 to 5,000 words in length. Students are urged to compose them in the appropriate foreign language. If they choose not to do so, the paper must be prefaced by a 700/1000-word précis in the foreign language. If students choose to compose their paper in Italian, the paper must be prefaced by a 700/1000-word précis in English. The Independent Work can be rejected if these summaries are not written in grammatically correct, idiomatic Italian. This same requirement also applies to independent work of type (c).
-  iw_relationship: hybrid
-  no_req: 
+      - name: 200 Level
+        min_needed: 0
+        max_counted: 2
+        req_list:
+          - name: null
+            min_needed: 0
+            max_counted: 1
+            course_list:
+              - ITA 207
+              - ITA 208
+          - name: null
+            min_needed: 0
+            max_counted: 2
+            course_list:
+              - ITA 2**
+            excluded_course_list:
+              - ITA 207
+              - ITA 208
+      - name: 300 Level
+        min_needed: 2
+        max_counted: 4
+        course_list:
+          - ITA 3**
+  - name: Independent Work
+    max_counted: 1
+    explanation: >-
+      A piece of written independent work displaying genuine intellectual
+      commitment to the relevant language and culture. This important
+      requirement can be satisfied in one of several ways, depending on the
+      student's concentration and interest:
+
+      a. Through a substantial paper on a topic agreed upon with the student's
+      appointed adviser.
+
+      b. Through a substantial paper growing out of one of the courses taken to
+      fulfill the Certificate requirement. This paper will be in addition to the
+      work required in the course. The subject and scope of this paper will be
+      agreed upon with the student's appointed adviser.
+
+      c. With the agreement of the student's home department, a student may
+      submit a junior independent work (JP) or Senior Thesis that satisfies the
+      requirements of both the home department and the Department of French and
+      Italian. A JP or Senior Thesis of this sort should be based in substantial
+      part on foreign language sources, and it should display competence in the
+      language for which the student is requesting certification. Students
+      interested in this option should consult our Director of Undergraduate
+      Studies as early as possible to ensure that the paper or thesis will
+      satisfy the Certificate requirements.
+
+      Papers of types (a) and (b) are of approximately 4,000 to 5,000 words in
+      length. Students are urged to compose them in the appropriate foreign
+      language. If they choose not to do so, the paper must be prefaced by a
+      700/1000-word précis in the foreign language. If students choose to
+      compose their paper in Italian, the paper must be prefaced by a
+      700/1000-word précis in English. The Independent Work can be rejected if
+      these summaries are not written in grammatically correct, idiomatic
+      Italian. This same requirement also applies to independent work of type
+      (c).
+    iw_relationship: hybrid
+    no_req: null

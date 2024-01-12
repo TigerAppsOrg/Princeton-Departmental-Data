@@ -1,125 +1,165 @@
----
 type: Certificate
 name: Cognitive Science
 code: CGS
 urls:
-- https://ua.princeton.edu/fields-study/certificate-programs/cognitive-science
-- https://cogsci.princeton.edu/certificate
+  - https://ua.princeton.edu/fields-study/certificate-programs/cognitive-science
+  - https://cogsci.princeton.edu/certificate
 contacts:
-- type: Director
-  name: Tania Lombrozo
-  email: lombrozo@princeton.edu
-description: |-
-  Cognitive Science is the interdisciplinary study of how the mind works, drawing on research from psychology, philosophy, linguistics, neuroscience and computer science. The interdisciplinary character of cognitive science is reflected in its reliance on many different levels of analysis of mental phenomena and its employment of a variety of methodologies appropriate to each level. The goal of cognitive science is to integrate the insights from multiple disciplines and modes of research into a unified scientific account of the mind and its place in nature. Research in cognitive science includes, but is not limited to, work on psychophysics, perception, linguistics and language processing, philosophy of mind and language, cognitive development, memory, reasoning, emotion, moral and social cognition, and judgment and decision making. One ambition of cognitive science is to understand just how mental abilities and processes are realized in the brain, and how such neural realizations can ground the conscious, deliberate activity of thought and decision. Another is to map out just how the human mind develops from childhood on, and thereby articulate the deep mechanisms of learning and cognitive development. A third ambition is to investigate just how far mental processes can be duplicated in complex computational structures that could be instantiated in machines.
+  - type: Director
+    name: Tania Lombrozo
+    email: lombrozo@princeton.edu
+description: >-
+  Cognitive Science is the interdisciplinary study of how the mind works,
+  drawing on research from psychology, philosophy, linguistics, neuroscience and
+  computer science. The interdisciplinary character of cognitive science is
+  reflected in its reliance on many different levels of analysis of mental
+  phenomena and its employment of a variety of methodologies appropriate to each
+  level. The goal of cognitive science is to integrate the insights from
+  multiple disciplines and modes of research into a unified scientific account
+  of the mind and its place in nature. Research in cognitive science includes,
+  but is not limited to, work on psychophysics, perception, linguistics and
+  language processing, philosophy of mind and language, cognitive development,
+  memory, reasoning, emotion, moral and social cognition, and judgment and
+  decision making. One ambition of cognitive science is to understand just how
+  mental abilities and processes are realized in the brain, and how such neural
+  realizations can ground the conscious, deliberate activity of thought and
+  decision. Another is to map out just how the human mind develops from
+  childhood on, and thereby articulate the deep mechanisms of learning and
+  cognitive development. A third ambition is to investigate just how far mental
+  processes can be duplicated in complex computational structures that could be
+  instantiated in machines.
 max_common_with_major: 4
-declaration_limit: 
+declaration_limit: null
 pdfs_allowed: 1
 req_list:
-- name: Program of Study
-  min_needed: 5
-  explanation: |-
-    Students are required to take five courses in cognitive science, which in combination satisfy the following requirements:
-    Three courses at the 300 level or higher;
-    Courses taken in at least three different academic units (please note that this restriction applies only to a course's primary course listing, not to additional cross-listings);
-    Typically no more than one course with a primary course listing from the student's major, unless permission is obtained from the director;
-    At least one course that is not counted toward the student's departmental major;
-    At most, one course may be taken pass/D/fail.
-  req_list:
-  - name: 100/200 Level
-    min_needed: 0
-    max_counted: 2
-    course_list:
-    - COS 109
-    - COS 126
-    - LIN 201
-    - LIN 205
-    - LIN 216
-    - LIN 219
-    - LIN 250
-    - LIN 260
-    - NEU 175
-    - NEU 200
-    - NEU 202
-    - NEU 202B
-    - PHI 207
-    - PHI 218
-    - PSY 212
-    - PSY 237
-    - PSY 254
-    - PSY 255
-    - PSY 260
-    - MUS 248
-    - HUM 230
-  - name: 300/400/500 Level
-    min_needed: 3
-    max_counted: ALL
-    course_list:
-    - CGS 310
-    - CGS 312
-    - CGS 316
-    - COS 324
-    - COS 402
-    - COS 424
-    - COS 429
-    - ECE 433
-    - COS 484
-    - COS 495
-    - LIN 301
-    - LIN 302
-    - LIN 303
-    - LIN 306
-    - LIN 308
-    - LIN 310
-    - LIN 312
-    - LIN 314
-    - LIN 355
-    - LIN 360
-    - LIN 406
-    - LIN 408
-    - LIN 412
-    - MAE 345
-    - ENE 475
-    - ECE 364
-    - NEU 314
-    - NEU 330
-    - NEU 331
-    - NEU 430
-    - NEU 437
-    - PHI 311
-    - PHI 313
-    - PHI 315
-    - PHI 317
-    - PHI 322
-    - PHI 352
-    - PHI 371
-    - PHI 380
-    - CHV 323
-    - PSY 304
-    - PSY 306
-    - PSY 307
-    - PSY 309
-    - PSY 310
-    - PSY 311
-    - PSY 315
-    - PSY 316
-    - PSY 337
-    - PSY 338
-    - PSY 340
-    - PSY 345
-    - PSY 360
-    - PSY 400
-    - PSY 409
-    - PSY 414
-    - PSY 418
-    - PSY 454
-    - HIS 494
-    - TRA 301
-    - SPI 305
-    - SPI 340
-    - SPI 404
-    - ECO 468
-- name: Independent Work
-  explanation: |-
-    Students are also required to complete a thesis or a semester of junior independent work that incorporates substantial elements of cognitive science. This independent work should be interdisciplinary, and it should incorporate methods or ideas from at least one core discipline of cognitive science, such as cognitive psychology, a relevant aspect of philosophy (e.g., mind, language, knowledge, science), a relevant aspect of computer science (e.g., artificial intelligence, natural language processing), cognitive neuroscience and/or linguistics. However, methods or ideas from other disciplines are also welcome: students can come from disciplines as diverse as music, architecture, comparative literature and beyond, as long as their independent work incorporates substantial elements of cognitive science as specified above. 
-  iw_relationship: combined
-  no_req: 
+  - name: Program of Study
+    min_needed: 5
+    max_counted: 1
+    explanation: >-
+      Students are required to take five courses in cognitive science, which in
+      combination satisfy the following requirements:
+
+      Three courses at the 300 level or higher;
+
+      Courses taken in at least three different academic units (please note that
+      this restriction applies only to a course's primary course listing, not to
+      additional cross-listings);
+
+      Typically no more than one course with a primary course listing from the
+      student's major, unless permission is obtained from the director;
+
+      At least one course that is not counted toward the student's departmental
+      major;
+
+      At most, one course may be taken pass/D/fail.
+    req_list:
+      - name: 100/200 Level
+        min_needed: 0
+        max_counted: 2
+        course_list:
+          - COS 109
+          - COS 126
+          - LIN 201
+          - LIN 205
+          - LIN 216
+          - LIN 219
+          - LIN 250
+          - LIN 260
+          - NEU 175
+          - NEU 200
+          - NEU 202
+          - NEU 202B
+          - PHI 207
+          - PHI 218
+          - PSY 212
+          - PSY 237
+          - PSY 254
+          - PSY 255
+          - PSY 260
+          - MUS 248
+          - HUM 230
+      - name: 300/400/500 Level
+        min_needed: 3
+        max_counted: ALL
+        course_list:
+          - CGS 310
+          - CGS 312
+          - CGS 316
+          - COS 324
+          - COS 402
+          - COS 424
+          - COS 429
+          - ECE 433
+          - COS 484
+          - COS 495
+          - LIN 301
+          - LIN 302
+          - LIN 303
+          - LIN 306
+          - LIN 308
+          - LIN 310
+          - LIN 312
+          - LIN 314
+          - LIN 355
+          - LIN 360
+          - LIN 406
+          - LIN 408
+          - LIN 412
+          - MAE 345
+          - ENE 475
+          - ECE 364
+          - NEU 314
+          - NEU 330
+          - NEU 331
+          - NEU 430
+          - NEU 437
+          - PHI 311
+          - PHI 313
+          - PHI 315
+          - PHI 317
+          - PHI 322
+          - PHI 352
+          - PHI 371
+          - PHI 380
+          - CHV 323
+          - PSY 304
+          - PSY 306
+          - PSY 307
+          - PSY 309
+          - PSY 310
+          - PSY 311
+          - PSY 315
+          - PSY 316
+          - PSY 337
+          - PSY 338
+          - PSY 340
+          - PSY 345
+          - PSY 360
+          - PSY 400
+          - PSY 409
+          - PSY 414
+          - PSY 418
+          - PSY 454
+          - HIS 494
+          - TRA 301
+          - SPI 305
+          - SPI 340
+          - SPI 404
+          - ECO 468
+  - name: Independent Work
+    max_counted: 1
+    explanation: >-
+      Students are also required to complete a thesis or a semester of junior
+      independent work that incorporates substantial elements of cognitive
+      science. This independent work should be interdisciplinary, and it should
+      incorporate methods or ideas from at least one core discipline of
+      cognitive science, such as cognitive psychology, a relevant aspect of
+      philosophy (e.g., mind, language, knowledge, science), a relevant aspect
+      of computer science (e.g., artificial intelligence, natural language
+      processing), cognitive neuroscience and/or linguistics. However, methods
+      or ideas from other disciplines are also welcome: students can come from
+      disciplines as diverse as music, architecture, comparative literature and
+      beyond, as long as their independent work incorporates substantial
+      elements of cognitive science as specified above. 
+    iw_relationship: combined
+    no_req: null

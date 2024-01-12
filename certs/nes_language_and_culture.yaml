@@ -1,54 +1,91 @@
----
 type: Certificate
 name: Near Eastern Language and Culture
 code: NES
 urls:
-- https://ua.princeton.edu/fields-study/certificate-programs/language-and-culture
-- https://nes.princeton.edu/undergraduate/certificate-near-eastern-languages-and-culture
+  - >-
+    https://ua.princeton.edu/fields-study/certificate-programs/language-and-culture
+  - >-
+    https://nes.princeton.edu/undergraduate/certificate-near-eastern-languages-and-culture
 contacts:
-- type: Director
-  name: Daniel J. Sheffield
-  email: sheffield@princeton.edu
-description: |-
-  A certificate in Near Eastern Languages and Cultures offers evidence to prospective employers and graduate programs that a student has achieved competence in Arabic, Persian, Turkish, or Hebrew.
-  Students may earn a certificate in language and culture whether or not they are NES majors. Students wishing to receive one or more certificates in language and culture must email Mr. James LaRegina, the NES undergraduate administrator, at laregina@princeton.edu by March 1 of their senior year to verify that they have completed the requirements and arrange to receive the certificate.
-max_common_with_major: 
+  - type: Director
+    name: Daniel J. Sheffield
+    email: sheffield@princeton.edu
+description: >-
+  A certificate in Near Eastern Languages and Cultures offers evidence to
+  prospective employers and graduate programs that a student has achieved
+  competence in Arabic, Persian, Turkish, or Hebrew.
+
+  Students may earn a certificate in language and culture whether or not they
+  are NES majors. Students wishing to receive one or more certificates in
+  language and culture must email Mr. James LaRegina, the NES undergraduate
+  administrator, at laregina@princeton.edu by March 1 of their senior year to
+  verify that they have completed the requirements and arrange to receive the
+  certificate.
+max_common_with_major: null
 declaration_limit: 8
-pdfs_allowed: 
+pdfs_allowed: null
 req_list:
-- name: Language
-  min_needed: 1
-  explanation: |-
-    Study a Near Eastern language offered at Princeton — Arabic, Hebrew, Persian, Turkish — beyond the level required for completion of the University language requirements.
-  course_list:
-  - ARA 2**
-  - ARA 3**
-  - ARA 4**
-  - ARA 5**
-  - HEB 2**
-  - HEB 3**
-  - HEB 4**
-  - HEB 5**
-  - PER 2**
-  - PER 3**
-  - PER 4**
-  - PER 5**
-  - TUR 2**
-  - TUR 3**
-  - TUR 4**
-  - TUR 5**
-- name: Electives
-  min_needed: 3
-  explanation: |-
-    NOTE: This requirement must be manually verified as it is highly dependent on the chosen language and individual course content.
-    Complete at least three NES courses in language, literature or culture that involve extensive use of the designated language at the third-year or higher level.
-  course_list:
-  - NES ***
-- name: Independent Work
-  explanation: |-
-    Complete a substantial piece of independent research (i.e., a paper of 7,000 words or more).  Students must find a language instructor or other faculty member who agrees to review their independent work. This independent research requirement, due on  Dean's Date, may be satisfied in one of the following ways:
-    A paper growing out of one of the courses taken to fulfill the certificate requirements. This paper should be additional to the work required in the course.
-    A paper on a topic agreed upon with an instructor in the department.          
-    With the agreement of the student's home department and the Department of Near Eastern Studies, a student may be allowed to complete a piece of independent work that will satisfy the requirements of both the home department and the certificate. For example, a student could write a junior paper or senior thesis based in substantial part on Near Eastern language sources. The paper does not have to be based entirely on Near Eastern language sources, but its use of such sources should not be trivial or amount to mere window-dressing. In other words, the paper should demonstrate that the insights derived from Near Eastern language sources reach beyond those gained from other sources. 
-  iw_relationship: hybrid
-  no_req: 
+  - name: Language
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      Study a Near Eastern language offered at Princeton — Arabic, Hebrew,
+      Persian, Turkish — beyond the level required for completion of the
+      University language requirements.
+    course_list:
+      - ARA 2**
+      - ARA 3**
+      - ARA 4**
+      - ARA 5**
+      - HEB 2**
+      - HEB 3**
+      - HEB 4**
+      - HEB 5**
+      - PER 2**
+      - PER 3**
+      - PER 4**
+      - PER 5**
+      - TUR 2**
+      - TUR 3**
+      - TUR 4**
+      - TUR 5**
+  - name: Electives
+    min_needed: 3
+    max_counted: 1
+    explanation: >-
+      NOTE: This requirement must be manually verified as it is highly dependent
+      on the chosen language and individual course content.
+
+      Complete at least three NES courses in language, literature or culture
+      that involve extensive use of the designated language at the third-year or
+      higher level.
+    course_list:
+      - NES ***
+  - name: Independent Work
+    max_counted: 1
+    explanation: >-
+      Complete a substantial piece of independent research (i.e., a paper of
+      7,000 words or more).  Students must find a language instructor or other
+      faculty member who agrees to review their independent work. This
+      independent research requirement, due on  Dean's Date, may be satisfied in
+      one of the following ways:
+
+      A paper growing out of one of the courses taken to fulfill the certificate
+      requirements. This paper should be additional to the work required in the
+      course.
+
+      A paper on a topic agreed upon with an instructor in the
+      department.          
+
+      With the agreement of the student's home department and the Department of
+      Near Eastern Studies, a student may be allowed to complete a piece of
+      independent work that will satisfy the requirements of both the home
+      department and the certificate. For example, a student could write a
+      junior paper or senior thesis based in substantial part on Near Eastern
+      language sources. The paper does not have to be based entirely on Near
+      Eastern language sources, but its use of such sources should not be
+      trivial or amount to mere window-dressing. In other words, the paper
+      should demonstrate that the insights derived from Near Eastern language
+      sources reach beyond those gained from other sources. 
+    iw_relationship: hybrid
+    no_req: null

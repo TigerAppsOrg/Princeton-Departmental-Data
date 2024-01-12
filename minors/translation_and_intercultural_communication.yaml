@@ -1,96 +1,150 @@
----
 type: Minor
 name: Translation and Intercultural Communication
 code: TRA
 urls:
-- https://ua.princeton.edu/fields-study/minors/translation-and-intercultural-communication
+  - >-
+    https://ua.princeton.edu/fields-study/minors/translation-and-intercultural-communication
 contacts:
-- type: Director
-  name: Karen R. Emmerich
-  email: karene@princeton.edu
-description: |-
-  The Program in Translation and Intercultural Communication (PTIC) takes linguistic translation as its base and offers a diverse set of undergraduate courses that allow students to develop an understanding of translation from varied perspectives. Most courses are taught by faculty in humanities departments, but we also consider the ways translation functions in the social sciences, the hard sciences, the arts, and engineering. At PTIC, we recognize translation as crucial to the production and circulation of work in all fields, and to our everyday lives as inhabitants of a multilingual and interconnected world. Undergraduates in our program have pursued majors in departments including anthropology, comparative literature, ecology and evolutionary biology, history, Near Eastern studies, operations research and financial engineering, politics, and many more. We encourage students from all departments and disciplines to explore our offerings, regardless of their prior experience with translation.
-max_common_with_major: 
+  - type: Director
+    name: Karen R. Emmerich
+    email: karene@princeton.edu
+description: >-
+  The Program in Translation and Intercultural Communication (PTIC) takes
+  linguistic translation as its base and offers a diverse set of undergraduate
+  courses that allow students to develop an understanding of translation from
+  varied perspectives. Most courses are taught by faculty in humanities
+  departments, but we also consider the ways translation functions in the social
+  sciences, the hard sciences, the arts, and engineering. At PTIC, we recognize
+  translation as crucial to the production and circulation of work in all
+  fields, and to our everyday lives as inhabitants of a multilingual and
+  interconnected world. Undergraduates in our program have pursued majors in
+  departments including anthropology, comparative literature, ecology and
+  evolutionary biology, history, Near Eastern studies, operations research and
+  financial engineering, politics, and many more. We encourage students from all
+  departments and disciplines to explore our offerings, regardless of their
+  prior experience with translation.
+max_common_with_major: null
 declaration_limit: 6
-pdfs_allowed: 
+pdfs_allowed: null
 req_list:
-- name: Prerequisites
-  min_needed: 1
-  explanation: |-
-    Before entering the minor, students should normally have satisfied the University's language requirement for general education (i.e., completed or demonstrated proficiency in a language sequence through 107/108). Native or near-native fluency in a language not offered by the University can also be counted toward the language prerequisite of PTIC.
-  course_list:
-  - LANG 107
-  - LANG 108
-- name: Core Courses
-  min_needed: ALL
-  explanation: |-
-    The program's two core courses: TRA 200 Thinking Translation: Language Transfer and Cultural Communication, TRA 400 Translation, Migration, Culture. Students are encouraged but not required to complete TRA 200 prior to enrolling in TRA 400.
-  course_list:
-  - TRA 200
-  - TRA 400
-- name: Electives
-  min_needed: ALL
-  double_counting_allowed: true
-  explanation: |-
-    Three additional courses at the 200 level or above from at least two of the following three categories.
-  req_list:
-  - name: Courses
-    min_needed: 3
+  - name: Prerequisites
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      Before entering the minor, students should normally have satisfied the
+      University's language requirement for general education (i.e., completed
+      or demonstrated proficiency in a language sequence through 107/108).
+      Native or near-native fluency in a language not offered by the University
+      can also be counted toward the language prerequisite of PTIC.
     course_list:
-    - TRA 2**
-    - TRA 3**
-    - TRA 4**
-    - TRA 5**
-    - SPA 380
-    - FRE 407
-    - ARA 308
-    - CWR 206
-    - CWR 306
-    - ANT 326
-    - COM 326
-    - HIS 397
-    - ITA 300
-    - LIN 201
-    - NES 398
-    - PHI 317
-  - name: Categories
-    min_needed: 2
+      - LANG 107
+      - LANG 108
+  - name: Core Courses
+    min_needed: ALL
+    max_counted: 1
+    explanation: >-
+      The program's two core courses: TRA 200 Thinking Translation: Language
+      Transfer and Cultural Communication, TRA 400 Translation, Migration,
+      Culture. Students are encouraged but not required to complete TRA 200
+      prior to enrolling in TRA 400.
+    course_list:
+      - TRA 200
+      - TRA 400
+  - name: Electives
+    min_needed: ALL
+    max_counted: 1
+    double_counting_allowed: true
+    explanation: >-
+      Three additional courses at the 200 level or above from at least two of
+      the following three categories.
     req_list:
-    - name: TRA Courses
-      min_needed: 1      
-      explanation: |-
-        Any course listed or cross-listed by the Program in Translation and Intercultural Communication.
-      course_list:
-      - TRA 2**
-      - TRA 3**
-      - TRA 4**
-      - TRA 5**
-    - name: Translation Between Languages
-      min_needed: 1
-      explanation: |-
-        Upper-level courses focusing on translation between languages (examples include SPA 380, FRE 407, ARA 308, CWR 206, and CWR 306).
-      course_list:
-      - SPA 380
-      - FRE 407
-      - ARA 308
-      - CWR 206
-      - CWR 306
-    - name: Understanding Translation
-      min_needed: 1
-      explanation: |-
-        Courses that contribute to an understanding of some aspect of translation (from disciplines such as linguistics, psychology, philosophy, anthropology, history, comparative literature, computer science, etc.; examples include ANT 326, COM 236, HIS 397, ITA 300, LIN 201, NES 398, and PHI 317).
-      course_list:
-      - ANT 326
-      - COM 326
-      - HIS 397
-      - ITA 300
-      - LIN 201
-      - NES 398
-      - PHI 317
-- name: Independent Work
-  explanation: |-
-    Students pursuing the minor must engage either in a substantial (15-20 page or more) project of translation or interpretation, or a project in translation studies. Students are encouraged to discuss their ideas with the program director before embarking on the project.
-    A practical translation project can take the form of a written translation with critical reflection on the process and product, or formal or informal interpreting work done on a volunteer or professional basis, again with written reflection on the same. This translation may be completed as part of a student's coursework, or as part of their independent work for their department (JP or thesis), but it must be submitted separately to the program director for approval.
-    A project in translation studies is a substantial piece of independent research that, while not itself a translation, engages with some aspect of translation from a theoretical, historical or computational perspective. As with a practical translation project, a project in translation studies may be completed as part of a student's coursework, or as part of their independent work for their department (JP or thesis), but it must be submitted separately to the program director for approval.
-  iw_relationship: hybrid
-  no_req: 
+      - name: Courses
+        min_needed: 3
+        max_counted: 1
+        course_list:
+          - TRA 2**
+          - TRA 3**
+          - TRA 4**
+          - TRA 5**
+          - SPA 380
+          - FRE 407
+          - ARA 308
+          - CWR 206
+          - CWR 306
+          - ANT 326
+          - COM 326
+          - HIS 397
+          - ITA 300
+          - LIN 201
+          - NES 398
+          - PHI 317
+      - name: Categories
+        min_needed: 2
+        max_counted: 1
+        req_list:
+          - name: TRA Courses
+            min_needed: 1
+            max_counted: 1
+            explanation: >-
+              Any course listed or cross-listed by the Program in Translation
+              and Intercultural Communication.
+            course_list:
+              - TRA 2**
+              - TRA 3**
+              - TRA 4**
+              - TRA 5**
+          - name: Translation Between Languages
+            min_needed: 1
+            max_counted: 1
+            explanation: >-
+              Upper-level courses focusing on translation between languages
+              (examples include SPA 380, FRE 407, ARA 308, CWR 206, and CWR
+              306).
+            course_list:
+              - SPA 380
+              - FRE 407
+              - ARA 308
+              - CWR 206
+              - CWR 306
+          - name: Understanding Translation
+            min_needed: 1
+            max_counted: 1
+            explanation: >-
+              Courses that contribute to an understanding of some aspect of
+              translation (from disciplines such as linguistics, psychology,
+              philosophy, anthropology, history, comparative literature,
+              computer science, etc.; examples include ANT 326, COM 236, HIS
+              397, ITA 300, LIN 201, NES 398, and PHI 317).
+            course_list:
+              - ANT 326
+              - COM 326
+              - HIS 397
+              - ITA 300
+              - LIN 201
+              - NES 398
+              - PHI 317
+  - name: Independent Work
+    max_counted: 1
+    explanation: >-
+      Students pursuing the minor must engage either in a substantial (15-20
+      page or more) project of translation or interpretation, or a project in
+      translation studies. Students are encouraged to discuss their ideas with
+      the program director before embarking on the project.
+
+      A practical translation project can take the form of a written translation
+      with critical reflection on the process and product, or formal or informal
+      interpreting work done on a volunteer or professional basis, again with
+      written reflection on the same. This translation may be completed as part
+      of a student's coursework, or as part of their independent work for their
+      department (JP or thesis), but it must be submitted separately to the
+      program director for approval.
+
+      A project in translation studies is a substantial piece of independent
+      research that, while not itself a translation, engages with some aspect of
+      translation from a theoretical, historical or computational perspective.
+      As with a practical translation project, a project in translation studies
+      may be completed as part of a student's coursework, or as part of their
+      independent work for their department (JP or thesis), but it must be
+      submitted separately to the program director for approval.
+    iw_relationship: hybrid
+    no_req: null

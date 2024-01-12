@@ -1,77 +1,117 @@
----
 type: Certificate
 name: Engineering Physics
 code: PHY
 urls:
-- https://ua.princeton.edu/fields-study/certificate-programs/engineering-physics
+  - >-
+    https://ua.princeton.edu/fields-study/certificate-programs/engineering-physics
 contacts:
-- type: Director
-  name: Daniel R. Marlow
-  email: marlow@princeton.edu
-description: |-
-  Interdisciplinary areas in physical sciences in engineering such as energy, environment, materials, microelectronics, astronautics and photonics promise to become increasingly relevant in the 21st century. The Program in Engineering Physics, which provides students with a fundamental knowledge of physics, together with problem-solving skills and an understanding of engineering, is designed to address the needs of students seeking innovative careers in today's technological age. In addition, it allows students to keep their options open between physical sciences and engineering. Following completion of the engineering physics program, students typically enter careers in engineering, applied science or applied physics through research, teaching or entrepreneurial engineering. Past graduates have also pursued other careers as diverse as medicine, business and law.
-  Program students are expected to demonstrate strong academic performance. To qualify for the engineering physics certificate upon graduation, a minimum grade average of B- in the program courses is required. Courses taken pass/D/fail are permitted, but a pass counts as a C in determining the grade average.
-max_common_with_major: 
-declaration_limit:
-pdfs_allowed: 
-allowed_majors: 
-- CBE
-- CEE
-- COS
-- ECE
-- MAE
-- ORF 
-- PHY
+  - type: Director
+    name: Daniel R. Marlow
+    email: marlow@princeton.edu
+description: >-
+  Interdisciplinary areas in physical sciences in engineering such as energy,
+  environment, materials, microelectronics, astronautics and photonics promise
+  to become increasingly relevant in the 21st century. The Program in
+  Engineering Physics, which provides students with a fundamental knowledge of
+  physics, together with problem-solving skills and an understanding of
+  engineering, is designed to address the needs of students seeking innovative
+  careers in today's technological age. In addition, it allows students to keep
+  their options open between physical sciences and engineering. Following
+  completion of the engineering physics program, students typically enter
+  careers in engineering, applied science or applied physics through research,
+  teaching or entrepreneurial engineering. Past graduates have also pursued
+  other careers as diverse as medicine, business and law.
+
+  Program students are expected to demonstrate strong academic performance. To
+  qualify for the engineering physics certificate upon graduation, a minimum
+  grade average of B- in the program courses is required. Courses taken
+  pass/D/fail are permitted, but a pass counts as a C in determining the grade
+  average.
+max_common_with_major: null
+declaration_limit: null
+pdfs_allowed: null
+allowed_majors:
+  - CBE
+  - CEE
+  - COS
+  - ECE
+  - MAE
+  - ORF
+  - PHY
 req_list:
-- name: Upper-Level Mathematics
-  min_needed: 1
-  explanation: |-
-    All students must take one upper-level course in mathematics (300- and 400 level).
-  course_list:
-  - MAT 3**
-  - MAT 4**
-  - MAT 5**
-- name: Core Courses
-  min_needed: 1
-  explanation: |-
-    Engineering majors must take a minimum of six advanced courses in physics (which may include the following 200-level courses: PHY 205, 207, 209 and 210), including the quantum mechanics sequence (PHY 208). At least four of the courses must be listed (or cross-listed) in the physics department. In order to accommodate specific student interests, there is particular flexibility with regard to the fifth and sixth courses, which may be a course with strong physics content from other departments such as astrophysical sciences or chemistry but must be approved in advance by the program's committee.Physics majors enrolled in the program must take five engineering courses, chosen in consultation with their adviser. In order to gain exposure to the design-oriented philosophy of engineering, physics students are required to take at least two of their engineering courses in a coherent area of study so that a clear engineering stem can be identified.
-  req_list:
-  - name: Engineering Majors
-    min_needed: 6
-    req_list:
-    - name: Quantum Mechanics
-      min_needed: 1
-      course_list: 
-      - PHY 208
-    - name: Physics
-      max_counted: ALL
-      min_needed: 3
-      course_list:
-      - PHY 2**
-      - PHY 3**
-      - PHY 4**
-      - PHY 5**
-    - name: Other Departments
-      max_counted: 2
-      min_needed: 0
-      course_list:
-      - AST 3**
-      - AST 4**
-      - AST 5**
-      - CHM 3**
-      - CHM 4**
-      - CHM 5**
-  - name: Physics Majors
-    min_needed: 5
+  - name: Upper-Level Mathematics
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      All students must take one upper-level course in mathematics (300- and 400
+      level).
     course_list:
-    - CBE ***
-    - CEE ***
-    - COS ***
-    - ECE ***
-    - MAE ***
-    - ORF ***
-- name: Independent Work
-  explanation: |-
-    Close collaboration with faculty is expected. Students are required to complete, with a grade of B- or better, at least one semester of independent work in an appropriate area. Physics students are encouraged to have a professor in engineering serve as a reader of their senior thesis.
-  iw_relationship: combined
-  no_req: 
+      - MAT 3**
+      - MAT 4**
+      - MAT 5**
+  - name: Core Courses
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      Engineering majors must take a minimum of six advanced courses in physics
+      (which may include the following 200-level courses: PHY 205, 207, 209 and
+      210), including the quantum mechanics sequence (PHY 208). At least four of
+      the courses must be listed (or cross-listed) in the physics department. In
+      order to accommodate specific student interests, there is particular
+      flexibility with regard to the fifth and sixth courses, which may be a
+      course with strong physics content from other departments such as
+      astrophysical sciences or chemistry but must be approved in advance by the
+      program's committee.Physics majors enrolled in the program must take five
+      engineering courses, chosen in consultation with their adviser. In order
+      to gain exposure to the design-oriented philosophy of engineering, physics
+      students are required to take at least two of their engineering courses in
+      a coherent area of study so that a clear engineering stem can be
+      identified.
+    req_list:
+      - name: Engineering Majors
+        min_needed: 6
+        max_counted: 1
+        req_list:
+          - name: Quantum Mechanics
+            min_needed: 1
+            max_counted: 1
+            course_list:
+              - PHY 208
+          - name: Physics
+            min_needed: 3
+            max_counted: ALL
+            course_list:
+              - PHY 2**
+              - PHY 3**
+              - PHY 4**
+              - PHY 5**
+          - name: Other Departments
+            min_needed: 0
+            max_counted: 2
+            course_list:
+              - AST 3**
+              - AST 4**
+              - AST 5**
+              - CHM 3**
+              - CHM 4**
+              - CHM 5**
+      - name: Physics Majors
+        min_needed: 5
+        max_counted: 1
+        course_list:
+          - CBE ***
+          - CEE ***
+          - COS ***
+          - ECE ***
+          - MAE ***
+          - ORF ***
+  - name: Independent Work
+    max_counted: 1
+    explanation: >-
+      Close collaboration with faculty is expected. Students are required to
+      complete, with a grade of B- or better, at least one semester of
+      independent work in an appropriate area. Physics students are encouraged
+      to have a professor in engineering serve as a reader of their senior
+      thesis.
+    iw_relationship: combined
+    no_req: null
