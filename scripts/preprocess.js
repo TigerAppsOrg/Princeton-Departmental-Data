@@ -1,7 +1,7 @@
 /**
  * Preprocess and verify the YAML files in the minors and certs directories.
- * Run with "node preprocess.js" to just check the data without writing.
- * Run with "node preprocess.js write" to write the processed data to files.
+ * Run with `node preprocess.js [write] [maxCountedOne]`.
+ * Run with `node preprocess.js help` for more information.
  */
 const yaml = require('js-yaml');
 const fs = require('fs');
