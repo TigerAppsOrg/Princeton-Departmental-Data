@@ -24,7 +24,7 @@ const preprocess = () => {
                 console.log(processedDataYaml)
                 fs.writeFileSync(`${directory}/${file}`, processedDataYaml, 'utf8');
                 const processedDataJson = JSON.stringify(data);
-                fs.writeFileSync(`${directory}/${file.split('.')[0]}.json`, processedDataJson, 'utf8');
+                fs.writeFileSync(`json/${directory}/${file.split('.')[0]}.json`, processedDataJson, 'utf8');
             })
         })
     })
