@@ -4,11 +4,13 @@ A central repository for Princeton Univeristy departmental data, including major
 Currently used by:
 
 * [TigerPath](https://github.com/TigerPathApp/tigerpath)
+* [TigerJunction](https://tigerjunction.com)
 * [Princeton ResInDe's Course Selection application](https://github.com/PrincetonResInDe/course-selection)
 
-Each of the folders named `certificates`, `degrees`, and `majors`
-contains requirement files in either `JSON` or `YAML` format.
-The `scripts` folder contains a sample script, [`verifier.py`](scripts/verifier.py), with an API that helps to parse and process these requirement files to check which requiremetns are satisfied by a user's courses.  
+Each of the folders named `majors`, `certificates`, `minors`, and `degrees` contains requirement files in `YAML` format.
+The `scripts` folder contains a sample script, [`verifier.py`](scripts/verifier.py), with an API that helps to parse and process these requirement files to check which requiremetns are satisfied by a user's courses. There is also a preprocessor script, [`preprocess.js`](scripts/preprocess.js),
+that checks the requirement files for errors, standardizes the format, and converts them to both `YAML` and `JSON` formats.
+The `json` folder contains the preprocessed `JSON` files.
 
 ## Requirement File Categories
 
