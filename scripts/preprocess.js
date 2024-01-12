@@ -3,7 +3,7 @@
  * Run with node preprocess.js [write] [maxCountedOne] [directories=...]
  * write: whether to write the processed data to files
  * maxCountedOne: whether to set max_counted to 1 (default ALL)
- * directories: comma-separated list of directories to process
+ * directories: comma-separated list of directories to process (can be ALL)
  * Run node preprocess.js help for more information.
  */
 const yaml = require('js-yaml');
@@ -108,15 +108,16 @@ const reorder = (req, filename) => {
     req.forEach((r) => {
         FIELDS.forEach((f) => {
             if (r.hasOwnProperty(f)) {
+                // Check for null values
                 if ((f === 'iw_relationship' || f === 'min_needed' 
                 || f === 'double_counting_allowed' || f === 'explanation' 
-                || f === 'description' || f === 'req_list' 
-                || f === 'course_list' || f === 'excluded_course_list') 
-                && r[f] === null) {
+                || f === 'req_list' || f === 'course_list' 
+                || f === 'excluded_course_list') && r[f] === null) {
                     console.log("NULL WARNING -- " + filename + ": " + f 
                     + " is null in req: " + r.name);
                 }
 
+                // Verify iw_relationship is valid
                 if (f === 'iw_relationship' && (r[f] !== 'combined' 
                 && r[f] !== 'separate' && r[f] !== 'hybrid' 
                 && r[f] !== null)) {
@@ -124,11 +125,32 @@ const reorder = (req, filename) => {
                         + "iw_relationship is invalid in req: " + r.name);
                 }
 
+                // Sort course_list
+                if (f === 'course_list' && r[f] !== null 
+                && r[f].length !== 0) {
+                    r[f] = r[f].sort();
+                }
+
+                // Sort excluded_course_list
+                if (f === 'excluded_course_list' && r[f] !== null
+                && r[f].length !== 0) {
+                    r[f] = r[f].sort();
+                }
+
                 const value = r[f];
                 delete r[f];
                 r[f] = value;
             }
         });
+        // Check for extra fields
+        for (const field in r) {
+            if (!FIELDS.includes(field)) {
+                console.log("CONTENT WARNING -- " + filename + ": " 
+                + "extra field " + field + " in req: " + r.name);
+            }
+        }
+
+        // Recurse on req_list
         if (r.hasOwnProperty('req_list')) 
             r.req_list = reorder(r.req_list, filename);
     });
@@ -152,6 +174,18 @@ const directoryEntry = args.find(arg => arg.includes('directories='));
 let directories = [];
 if (directories) {
     directories = directoryEntry.split('=')[1].split(',');
+    for (let i = 0; i < directories.length; i++){
+        directories[i] = directories[i].trim().toLowerCase();
+        if (directories[i] === 'all') {
+            directories = ['minors', 'certs', 'majors', 'degrees'];
+            break;
+        }
+        if (directories[i] !== 'minors' && directories[i] !== 'certs'
+        && directories[i] !== 'majors' && directories[i] !== 'degrees') {
+            console.log("Invalid directory: " + directories[i]);
+            return;
+        }
+    }
 } else {
     console.log("Usage: node preprocess.js [write] [maxCountedOne] [directories=...]");
     return;
