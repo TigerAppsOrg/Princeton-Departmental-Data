@@ -112,7 +112,7 @@ req_list:
   req_list:
   - name:
     max_counted: 1
-    min_needed:
+    min_needed: 1
     course_list:
     - CHM 201
     - CHM 201A
@@ -137,8 +137,7 @@ req_list:
   req_list:
   - name:
     max_counted: 1
-    min_needed:
-    explanation:
+    min_needed: 1
     course_list:
     - ECE 115
     - COS 126
@@ -147,7 +146,6 @@ req_list:
   - name:
     max_counted: 1
     min_needed: ALL
-    explanation:
     course_list:
     - ISC 231
     - ISC 232

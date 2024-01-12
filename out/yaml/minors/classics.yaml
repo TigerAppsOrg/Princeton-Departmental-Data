@@ -1,0 +1,129 @@
+type: Minor
+name: Classics
+code: CLA
+urls:
+  - >-
+    https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/classics
+contacts:
+  - type: Chair
+    name: Barbara Graziosi
+    email: barbara.graziosi@princeton.edu
+  - type: Director of Undergraduate Studies
+    name: Daniela E. Mairhofer
+    email: daniela.mairhofer@princeton.edu
+description: >-
+  A classics minor offers students significant and coherent exposure to an area
+  within the field of classics, which studies the cultures, languages, history,
+  politics and intellectual traditions of the ancient Greek and Roman worlds,
+  their contacts with other civilizations of the ancient Mediterranean,
+  resonances in later ages and continued vitality today.
+max_common_with_major: null
+declaration_limit: 6
+req_list:
+  - name: Prerequisite
+    min_needed: 1
+    max_counted: 1
+    completed_by_semester: 6
+    req_list:
+      - name: null
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - CLG 108
+          - LAT 108
+          - CLA ***
+      - name: null
+        min_needed: ALL
+        max_counted: 1
+        course_list:
+          - HUM 216
+          - HUM 217
+  - name: Core
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      Students pursuing a minor in classics choose one of two pathways. These
+      can combine courses taught in the original language and in translation.
+      Each pathway requires the completion of five courses, four of which must
+      be CLA, CLG 108 or above, or LAT 108 or above. The fifth can be a relevant
+      course offered in another department approved by the DUS.
+    req_list:
+      - name: Pathway 1 Classical Studies with a focal point
+        min_needed: ALL
+        max_counted: 1
+        req_list:
+          - name: null
+            min_needed: 1
+            max_counted: 1
+            explanation: >-
+              Focal points include, but are not limited to:
+
+              Greek Language, Literature, and Culture
+
+              Latin Language, Literature and Roman Culture Classics and
+              Reception
+
+              Medicine, Science, and the Body
+
+              At least one of the four classes taken in the department must be
+              CLA 203 (What Is a Classic?) OR CLA 212 (Classical Mythology). It
+              is also possible to use HUM 216-217 in lieu of this one course
+              requirement.
+            req_list:
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CLA 203
+                  - CLA 212
+              - name: null
+                min_needed: ALL
+                max_counted: 1
+                course_list:
+                  - HUM 216
+                  - HUM 217
+          - name: null
+            min_needed: 4
+            max_counted: 1
+            course_list:
+              - CLA ***
+              - CLG 108
+              - CLG 2**
+              - CLG 3**
+              - CLG 4**
+              - CLG 5**
+              - LAT 108
+              - LAT 2**
+              - LAT 3**
+              - LAT 4**
+              - LAT 5**
+      - name: Pathway 2 Ancient History and Material Culture
+        min_needed: ALL
+        max_counted: 1
+        req_list:
+          - name: null
+            min_needed: 2
+            max_counted: 1
+            explanation: >-
+              At least two of the four courses taken in the department must
+              include history survey courses.
+            course_list:
+              - CLA 216
+              - CLA 217
+              - CLA 218
+              - CLA 219
+          - name: null
+            min_needed: 3
+            max_counted: 1
+            course_list:
+              - CLA ***
+              - CLG 108
+              - CLG 2**
+              - CLG 3**
+              - CLG 4**
+              - CLG 5**
+              - LAT 108
+              - LAT 2**
+              - LAT 3**
+              - LAT 4**
+              - LAT 5**

@@ -1,0 +1,191 @@
+type: Certificate
+name: Contemporary European Politics and Society
+code: EPS
+urls:
+  - >-
+    https://ua.princeton.edu/fields-study/certificate-programs/contemporary-european-politics-and-society
+contacts:
+  - type: Director
+    name: Sophie Meunier Aitsahalia
+    email: smeunier@princeton.edu
+description: >-
+  The Program in Contemporary European Politics and Society, an affiliate of the
+  Princeton Institute for International and Regional Studies, encourages the
+  interdisciplinary study of modern Europe, with a particular focus on politics,
+  economics and society in western and central Europe since World War I. The
+  program sponsors a core course (EPS 301, 302, or HIS 212/EPS 212). In
+  addition, it sponsors lectures, seminars and other programs for the entire
+  University community. The program offers a certificate in Contemporary
+  European Politics and Society.
+max_common_with_major: null
+declaration_limit: null
+pdfs_allowed: 1
+req_list:
+  - name: Gateway Course
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      Take one of the following gateway courses: EPS 301, EPS 302, or HIS
+      212/EPS 212.
+    course_list:
+      - EPS 301
+      - EPS 302
+      - HIS 212
+  - name: Electives
+    min_needed: 4
+    max_counted: 1
+    explanation: >-
+      Take at least four other courses from the list of core courses that have
+      an emphasis on European politics and society. Other courses may be
+      approved by the director. Of the four courses, at least one must be chosen
+      from among offerings in history and at least one must be chosen from among
+      offerings in the other social sciences.
+    req_list:
+      - name: History
+        min_needed: 1
+        max_counted: ALL
+        course_list:
+          - HIS 212
+          - HIS 281
+          - HIS 283
+          - HIS 341
+          - HIS 350
+          - HIS 351
+          - HIS 358
+          - HIS 362
+          - HIS 364
+          - HIS 365
+          - HIS 366
+          - HIS 370
+          - HIS 449
+          - LAS 339
+          - LAS 371
+          - LAS 372
+          - SLA 345
+      - name: Social Sciences
+        min_needed: 1
+        max_counted: ALL
+        course_list:
+          - ECO 372
+          - ECO 373
+          - POL 240
+          - POL 302
+          - POL 305
+          - POL 372
+          - POL 375
+          - POL 389
+          - POL 403
+          - POL 432
+          - POL 434
+          - SPI 317
+          - SPI 470
+      - name: Culture, Literature, and the Arts
+        min_needed: 0
+        max_counted: ALL
+        course_list:
+          - ART 314
+          - ART 337
+          - ART 339
+          - ART 344
+          - ART 439
+          - ART 450
+          - ART 466
+          - ART 498
+          - COM 362
+          - COM 414
+          - COM 422
+          - COM 427
+          - COM 428
+          - CWR 216
+          - CWR 307
+          - ECS 310
+          - ECO 311
+          - ECS 312
+          - ECS 321
+          - ECS 326
+          - ECS 352
+          - ECS 395
+          - FRE 215
+          - FRE 222
+          - FRE 245
+          - FRE 313
+          - FRE 317
+          - FRE 330
+          - FRE 327
+          - FRE 338
+          - FRE 357
+          - FRE 358
+          - FRE 366
+          - FRE 381
+          - FRE 391
+          - FRE 405
+          - FRE 406
+          - FRE 414
+          - GER 207
+          - GER 208
+          - GER 210
+          - GER 211
+          - GER 301
+          - GER 306
+          - GER 307
+          - GER 308
+          - GER 309
+          - GER 314
+          - GER 320
+          - GER 324
+          - GER 328
+          - GER 370
+          - GER 371
+          - GER 372
+          - GER 373
+          - GER 374
+          - GER 475
+          - GER 480
+          - HEB 307
+          - HLS 358
+          - ITA 303
+          - ITA 304
+          - ITA 305
+          - ITA 308
+          - ITA 309
+          - ITA 310
+          - ITA 312
+          - ITA 314
+          - ITA 319
+          - ITA 320
+          - ITA 322
+          - ITA 401
+          - SPA 227
+          - SPA 584
+  - name: Language
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      Fulfill a language requirement by doing one of the following:
+
+      Take a 200- or 300-level course in a European language.
+
+      Demonstrate fluency in a European language by taking a test administered
+      by the program. Any national language spoken in a European country may be
+      used to satisfy the requirement. The expectation is that students will
+      have sufficient linguistic competence to use research materials in the
+      language for their senior thesis research.
+    req_list:
+      - name: Language Course
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - LANG 2**
+          - LANG 3**
+      - name: Fluency Test
+        max_counted: 1
+        no_req: null
+  - name: Independent Work
+    max_counted: 1
+    explanation: >-
+      Write a senior thesis on a subject related to contemporary European
+      politics and society. Students majoring in departments where a senior
+      thesis on modern Europe is not possible may petition the director to have
+      another piece of independent research meet this requirement.
+    iw_relationship: hybrid
+    no_req: null

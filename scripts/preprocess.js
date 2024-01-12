@@ -1,7 +1,10 @@
 /**
  * Preprocess and verify the YAML files in the minors and certs directories.
- * Run with `node preprocess.js [write] [maxCountedOne]`.
- * Run with `node preprocess.js help` for more information.
+ * Run with node preprocess.js [write] [maxCountedOne] [directories=...]
+ * write: whether to write the processed data to files
+ * maxCountedOne: whether to set max_counted to 1 (default ALL)
+ * directories: comma-separated list of directories to process
+ * Run node preprocess.js help for more information.
  */
 const yaml = require('js-yaml');
 const fs = require('fs');
@@ -13,9 +16,8 @@ const fs = require('fs');
  * @param {boolean} write - whether to write the processed data to files
  * @param {boolean} maxCountedOne - whether to set max_counted to 1 (default ALL)
  */
-const preprocess = (write, maxCountedOne) => {
-    const DIRECTORIES = ["minors", "certs"];
-    DIRECTORIES.forEach(directory => {
+const preprocess = (write, maxCountedOne, directories) => {
+    directories.forEach(directory => {
         fs.readdir(directory, (err, files) => {
             if (err) {
                 console.error(err);
@@ -59,10 +61,10 @@ const preprocess = (write, maxCountedOne) => {
 
                 if (!write) return;
                 const processedDataYaml = yaml.dump(data);
-                fs.writeFileSync(`${directory}/${file}`, processedDataYaml, 
+                fs.writeFileSync(`out/yaml/${directory}/${file}`, processedDataYaml, 
                     'utf8');
                 const processedDataJson = JSON.stringify(data);
-                fs.writeFileSync(`json/${directory}/${file.split('.')[0]}.json`, 
+                fs.writeFileSync(`out/json/${directory}/${file.split('.')[0]}.json`, 
                     processedDataJson, 'utf8');
             })
         })
@@ -135,8 +137,7 @@ const reorder = (req, filename) => {
 
 // Run the script
 const args = process.argv.slice(2);
-const write = args.includes('write');
-const maxCountedOne = args.includes('maxCountedOne');
+
 if (args.includes('help')) {
     console.log("Usage: node preprocess.js [write] [maxCountedOne]");
     console.log("write: whether to write the processed data to files");
@@ -144,4 +145,17 @@ if (args.includes('help')) {
     return;
 }
 
-preprocess(write, maxCountedOne);
+const write = args.includes('write');
+const maxCountedOne = args.includes('maxCountedOne');
+
+const directoryEntry = args.find(arg => arg.includes('directories='));
+let directories = [];
+if (directories) {
+    directories = directoryEntry.split('=')[1].split(',');
+} else {
+    console.log("Usage: node preprocess.js [write] [maxCountedOne] [directories=...]");
+    return;
+}
+
+preprocess(write, maxCountedOne, directories);
+console.log("Preprocessing complete.");

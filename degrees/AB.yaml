@@ -19,27 +19,22 @@ req_list:
   req_list:
   - name: By first semester
     max_counted: 1
-    explanation:
     completed_by_semester: 1
     num_courses: 4
   - name: By second semester
     max_counted: 1
-    explanation:
     completed_by_semester: 2
     num_courses: 8
   - name: By fourth semester
     max_counted: 1
-    explanation:
     completed_by_semester: 4
     num_courses: 17
   - name: By sixth semester
     max_counted: 1
-    explanation:
     completed_by_semester: 6
     num_courses: 25
   - name: Total courses
     max_counted: 1
-    explanation:
     completed_by_semester: 8
     num_courses: 31
 - name: Writing Seminar
