@@ -11,8 +11,9 @@ const fs = require('fs');
  * when it is not present or null and reordering the fields to match
  * the order in the schema.
  * @param {boolean} write - whether to write the processed data to files
+ * @param {boolean} maxCountedOne - whether to set max_counted to 1 (default ALL)
  */
-const preprocess = (write) => {
+const preprocess = (write, maxCountedOne) => {
     const DIRECTORIES = ["minors", "certs"];
     DIRECTORIES.forEach(directory => {
         fs.readdir(directory, (err, files) => {
@@ -52,7 +53,8 @@ const preprocess = (write) => {
                 }
 
                 // Write both yaml and json files
-                data.req_list = processReq(data.req_list, filename);
+                data.req_list = processReq(data.req_list, filename, 
+                    maxCountedOne);
                 data.req_list = reorder(data.req_list, filename);
 
                 if (!write) return;
@@ -73,10 +75,12 @@ const preprocess = (write) => {
  * @param {string} filename
  * @returns req
  */
-const processReq = (req, filename) => {
+const processReq = (req, filename, maxCountedOne) => {
     req.forEach((r) => {
-        if (!r.hasOwnProperty('max_counted') || r.max_counted === null) 
-            r.max_counted = 1;
+        if (!r.hasOwnProperty('max_counted') || r.max_counted === null) {
+            if (maxCountedOne) r.max_counted = 1;
+            else r.max_counted = 'ALL';
+        }
         if (r.hasOwnProperty('explanation') && r['explanation'] 
         && r['explanation'].includes('\n\n')) {
             console.log("STYLE WARNING -- " + filename + ": " 
@@ -129,6 +133,6 @@ const reorder = (req, filename) => {
     return req;
 }
 
+// Run the script
 const args = process.argv.slice(2);
-if (args.length > 0 && args[0] === 'write') preprocess(true);
-else preprocess(false);
+preprocess(args.includes('write'), args.includes('maxCountedOne'));
