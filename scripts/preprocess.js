@@ -87,7 +87,7 @@ const processReq = (req, filename, maxCountedOne) => {
             + "explanation has consecutive newlines in req: " + r.name);
         }
         if (r.hasOwnProperty('req_list')) 
-            r.req_list = processReq(r.req_list, filename);
+            r.req_list = processReq(r.req_list, filename, maxCountedOne);
     });
     return req;
 }
@@ -135,4 +135,13 @@ const reorder = (req, filename) => {
 
 // Run the script
 const args = process.argv.slice(2);
-preprocess(args.includes('write'), args.includes('maxCountedOne'));
+const write = args.includes('write');
+const maxCountedOne = args.includes('maxCountedOne');
+if (args.includes('help')) {
+    console.log("Usage: node preprocess.js [write] [maxCountedOne]");
+    console.log("write: whether to write the processed data to files");
+    console.log("maxCountedOne: whether to set max_counted to 1 (default ALL)");
+    return;
+}
+
+preprocess(write, maxCountedOne);
