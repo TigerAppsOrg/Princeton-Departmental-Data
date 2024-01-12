@@ -37,11 +37,11 @@ const preprocess = (write) => {
                     return;
                 }
 
-                if (!write) return;
-
                 // Write both yaml and json files
                 data.req_list = processReq(data.req_list, filename);
                 data.req_list = reorder(data.req_list, filename);
+
+                if (!write) return;
                 const processedDataYaml = yaml.dump(data);
                 fs.writeFileSync(`${directory}/${file}`, processedDataYaml, 
                     'utf8');
