@@ -1,6 +1,7 @@
 /**
- * Preprocess the YAML files in the minors and certs directories.
- * ! WARNING: Do not run this script unless you know what you are doing !
+ * Preprocess and verify the YAML files in the minors and certs directories.
+ * Run with "node preprocess.js" to just check the data without writing.
+ * Run with "node preprocess.js write" to write the processed data to files.
  */
 const yaml = require('js-yaml');
 const fs = require('fs');
@@ -45,7 +46,8 @@ const preprocess = (write) => {
                 } 
                 
                 if (!data.hasOwnProperty('req_list')) {
-                    console.log("NULL WARNING -- " + filename + ": req_list is null... skipping");
+                    console.log("NULL WARNING -- " + filename 
+                    + ": req_list is null... skipping");
                     return;
                 }
 
@@ -68,6 +70,7 @@ const preprocess = (write) => {
 /**
  * Add max_counted: 1 to each req in the req_list if it is not present
  * @param {*} req 
+ * @param {string} filename
  * @returns req
  */
 const processReq = (req, filename) => {
