@@ -1,4 +1,5 @@
 # Princeton-Departmental-Data
+*Note: This data is outdated and is only relevant for older classes or for reference!*
 A central repository for Princeton Univeristy departmental data, including major, degree, and certificate requirements. Available for Princeton students to develop apps that help with choosing majors and certificates, navigating and understanding departmental requirements, selecting courses, etc.
 
 Currently used by:
