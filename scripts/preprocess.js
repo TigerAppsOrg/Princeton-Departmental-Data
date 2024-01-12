@@ -110,6 +110,14 @@ const reorder = (req, filename) => {
                     console.log("NULL WARNING -- " + filename + ": " + f 
                     + " is null in req: " + r.name);
                 }
+
+                if (f === 'iw_relationship' && (r[f] !== 'combined' 
+                && r[f] !== 'separate' && r[f] !== 'hybrid' 
+                && r[f] !== null)) {
+                    console.log("STYLE WARNING -- " + filename + ": " 
+                        + "iw_relationship is invalid in req: " + r.name);
+                }
+
                 const value = r[f];
                 delete r[f];
                 r[f] = value;

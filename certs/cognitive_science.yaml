@@ -121,5 +121,5 @@ req_list:
 - name: Independent Work
   explanation: |-
     Students are also required to complete a thesis or a semester of junior independent work that incorporates substantial elements of cognitive science. This independent work should be interdisciplinary, and it should incorporate methods or ideas from at least one core discipline of cognitive science, such as cognitive psychology, a relevant aspect of philosophy (e.g., mind, language, knowledge, science), a relevant aspect of computer science (e.g., artificial intelligence, natural language processing), cognitive neuroscience and/or linguistics. However, methods or ideas from other disciplines are also welcome: students can come from disciplines as diverse as music, architecture, comparative literature and beyond, as long as their independent work incorporates substantial elements of cognitive science as specified above. 
-  iw_relationship: 
+  iw_relationship: combined
   no_req: 
