@@ -41,7 +41,6 @@ req_list:
       - GEZ ***
     - name: Other Electives
       min_needed: 3
-      explanation:
       double_counting_allowed: false
       completed_by_semester: 8
       course_list:

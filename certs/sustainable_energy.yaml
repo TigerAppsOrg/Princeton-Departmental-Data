@@ -123,5 +123,5 @@ req_list:
 - name: Independent Work
   explanation: |-
     A senior independent work project or thesis whose topic is relevant to the program and acceptable to the program committee must be completed. The project or thesis title and abstract need to be presented to and approved by the program director. In addition, a minimum grade of B- for the project or thesis is required to qualify for the certificate. Students are required to present their project/thesis to faculty and program students at an annual symposium held in the spring.
-  iw_relationship: 
+  iw_relationship: combined
   no_req: 

@@ -33,7 +33,7 @@ req_list:
       - ITA 207
       - ITA 208
     - name:
-      min_needed:
+      min_needed: 0
       max_counted: 2
       course_list:
       - ITA 2**

@@ -45,15 +45,15 @@ req_list:
 - name: Ensemble Participation
   explanation: |-
     Ensemble participation in an approved faculty-led Music Department Ensemble is required in all four semesters of the junior and senior years. The specific ensemble must be for the instrument and performance tradition for which the student was admitted. For cases in which the department does not offer a faculty-led ensemble for the instrument (e.g., classical piano, classical guitar, conducting), students may audition for a different faculty-led ensemble to fulfill the MPP minor ensemble participation requirement, or may pursue equivalent collaborative assignments as detailed on the Music Department website.
-  iw_relationship: 
+  iw_relationship: separate
   no_req: 
 - name: Studio Lessons
   explanation: |-
     Studio lessons are required and must be taken with a Department of Music studio instructor or, if applicable, a program director. More specific parameters will differ depending on the instrument/performance practice for which the student is admitted. Students will have the option to enroll in lessons for credit (MPP298/299) if they want their work in lessons to be specifically reflected on their transcript. Students who choose to do so may NOT count this course toward completion of MPP course requirements.
-  iw_relationship: 
+  iw_relationship: separate
   no_req: 
 - name: Senior Performance
   explanation: |-
     A recital or related program-specific performance is required in senior year, which would be a demonstration of core study with the program approved by both applicable studio instructor and relevant program director.
-  iw_relationship: 
+  iw_relationship: separate
   no_req: 

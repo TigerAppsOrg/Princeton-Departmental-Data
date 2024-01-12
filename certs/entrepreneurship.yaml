@@ -65,7 +65,7 @@ req_list:
 - name: Workshop
   explanation: |-
     Workshops (without academic course credits) are offered on practical skills involved in the entrepreneurship process, organized as supplements to credit-bearing courses and offered currently at the E-Hub. These are short-term one-off or sessional workshops, normally 3-12 hours in duration, and students will be required to complete at least one of their choice.
-  iw_relationship: 
+  iw_relationship: separate
   no_req: 
 - name: Practicum
   explanation: |-
@@ -85,7 +85,7 @@ req_list:
     a ten-page paper (due two weeks before the colloquium); and
     a five-minute formal oral presentation to a group of reviewers at the colloquium itself.
     Students can expect detailed feedback on their pass-fail “stand and deliver” summary from at least one Keller Center faculty member in addition to their adviser.
-  iw_relationship: 
+  iw_relationship: separate
   no_req: 
 - name: Colloquium
   explanation: |-
@@ -95,5 +95,5 @@ req_list:
     April of senior year: Written analysis presented to evaluation committee no less than two weeks before annual colloquium.
     April/May of senior year: Oral presentation of practicum at the certificate's annual colloquium.
     This social event also serves to foster community and conversation among the certificate students. The mentorship of faculty in certain practicing opportunities and of alumni in others will also help to build a greater sense of interaction across the Princeton community of people with entrepreneurial interests.
-  iw_relationship: 
+  iw_relationship: separate
   no_req: 

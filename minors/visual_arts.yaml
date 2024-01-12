@@ -59,10 +59,10 @@ req_list:
     Students will be assigned one adviser in the fall and a different adviser for the spring, both chosen from the Program in Visual Arts faculty. Each student is assigned a studio workspace for the year in the loft of 185 Nassau. In lieu of writing a fall paper, students will conceive and produce a 32-page artist's book for their fall independent work. The independent work is done in consultation with each student's adviser.
     Over the spring semester, students prepare independent work in their studios, in consultation with their spring semester adviser, culminating in an exhibition as part of the junior thesis group show.
     Please note that film students work with one adviser throughout their junior year to create a junior film.
-  iw_relationship: 
+  iw_relationship: separate
   no_req: 
 - name: Senior Independent Work
   explanation: |-
     Students are assigned a primary adviser from the visual arts faculty that they will work with for the entire year. Students are assigned semiprivate studios on the second floor of 185 Nassau. Each student's independent study culminates with a thesis show that is exhibited at one of the Lewis Center galleries.
-  iw_relationship: 
+  iw_relationship: separate
   no_req: 

@@ -76,7 +76,7 @@ req_list:
     min_needed: ALL
     req_list:
     - name: List 1 Financial Applications
-      min_needed: 
+      min_needed: 1
       max_counted: ALL
       course_list:
       - ECE 473
@@ -110,7 +110,7 @@ req_list:
       - SPI 582f
     - name: List 2 Methodology for Finance
       min_needed: 0
-      max_counted: ALL
+      max_counted: 2
       course_list:
       - COS 324
       - COS 333
