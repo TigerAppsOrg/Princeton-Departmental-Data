@@ -21,6 +21,7 @@ excluded_majors:
 - AAS
 req_list:
 - name: Core Survey Courses
+  max_counted: 1
   min_needed: 2
   explanation: |-
     Students must complete two AAS core survey courses designed to orient and prepare African American Studies certificate students by grounding them in the field. The core survey courses are the cornerstone of the undergraduate program, and therefore there are no replacements or exemptions from this requirement.
@@ -32,6 +33,7 @@ req_list:
   - AAS 366
   - AAS 367
 - name: Electives
+  max_counted: 1
   min_needed: 3
   explanation: |-
     In addition, students must take three additional courses in AAS, cross-listed by AAS, or from our approved cognates list, for a total of five courses, with at least one (1) from the Global Race and Ethnicity (GRE) subfield.

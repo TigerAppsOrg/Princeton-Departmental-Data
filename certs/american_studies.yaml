@@ -15,16 +15,19 @@ declaration_limit: 8
 pdfs_allowed: 
 req_list:
 - name: Gateway Course
+  max_counted: 1
   min_needed: 1
   course_list:
   - AMS 101
 - name: Electives
+  max_counted: 1
   min_needed: 3
   explanation: |-
     Three courses in American studies, either originating in the program or cross-listed, and preferably representing disciplinary breadth in the social sciences, arts and humanities. No more than one course taken in fulfillment of the student's major may be counted toward the certificate.
   course_list:  
   - AMS ***
 - name: Advanced Seminar 
+  max_counted: 1
   min_needed: 1
   explanation: |-
     An advanced seminar in American studies, preferably taken in senior year.

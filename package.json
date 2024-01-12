@@ -1,0 +1,14 @@
+{
+  "name": "princeton-departmental-data",
+  "version": "2.0.0",
+  "description": "A central repository for Princeton Univeristy departmental data, including major, degree, and certificate requirements. Available for Princeton students to develop apps that help with choosing majors and certificates, navigating and understanding departmental requirements, selecting courses, etc.",
+  "main": "scripts/preprocess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TigerApps",
+  "license": "MIT",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

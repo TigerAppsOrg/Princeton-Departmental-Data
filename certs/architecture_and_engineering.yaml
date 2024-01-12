@@ -19,6 +19,7 @@ pdfs_allowed:
 req_list:
 - name: Core Courses
   min_needed: ALL
+  max_counted: 1
   explanation: |-
     The following two design courses are required for all students:
     ARC 203 Introduction to Architectural Thinking
@@ -26,15 +27,18 @@ req_list:
   req_list:
   - name:
     min_needed: 1
+    max_counted: 1
     course_list:
     - ARC 203
   - name: 
     min_needed: 1
+    max_counted: 1
     course_list:
     - ARC 204
     - ARC 205
 - name: Program of Study
   min_needed: 1
+  max_counted: 1
   explanation: |-
     One course is required within a "field of expertise" chosen by the student:
     Structures: CEE 262 (A or B) Structures and the Urban Environment
@@ -48,25 +52,30 @@ req_list:
     req_list:
     - name: Core Course
       min_needed: 1
+      max_counted: 1
       course_list:
       - CEE 262A
       - CEE 262B
     - name: Electives
       min_needed: 3
+      max_counted: 1
       req_list:
       - name:
         min_needed: 0
+        max_counted: 1
         course_list:
         - ARC 204
         - ARC 205
       - name:
         min_needed: 0
+        max_counted: 1
         course_list:
         - EGR 251
         - EGR 351
         - EGR 451
       - name:
         min_needed: 0
+        max_counted: 1
         course_list:
         - MSE 301
         - MAE 324
@@ -92,16 +101,20 @@ req_list:
         - MSE 302
   - name: Computation
     min_needed: ALL
+    max_counted: 1
     req_list:
     - name: Core Course
       min_needed: 1
+      max_counted: 1
       course_list:
       - ARC 311
     - name: Electives
       min_needed: 3
+      max_counted: 1
       req_list:
       - name:
         min_needed: 0
+        max_counted: 1
         course_list:
         - ARC 204
         - ARC 205

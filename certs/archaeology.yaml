@@ -20,21 +20,25 @@ pdfs_allowed: 1
 req_list:
 - name: Introduction to Archaeology
   min_needed: 1
+  max_counted: 1
   course_list:
   - ART 401
 - name: Fieldwork
   min_needed: 1
+  max_counted: 1
   explanation: |-
     “Fieldwork” is not limited to excavation, although the program strongly encourages participation in a formal field school program. Sustained engagement in any aspect of an archaeological project fulfills the obligation. Students may, for example, assist in a geophysical survey, participate in a surface survey, work in archaeological archives, or intern for a zoologist. Fieldwork must be preapproved by the program director, last for at least four weeks, and include at least 100 hours of work. Financial support for fieldwork is available; to be immediately eligible, students must either be enrolled in the Program in Archaeology, or have taken at least two courses that count toward the certificate. Students who are not immediately eligible might be awarded financial support upon completion of an interview with the program director.
   req_list:
   - name: ART 304
     min_needed: 1
+    max_counted: 1
     course_list:
     - ART 304
   - name: Other Fieldwork
     no_req:
 - name: Electives
   min_needed: 2
+  max_counted: 1
   double_counting_allowed: true
   explanation: |-
     Students take an additional four courses. Two courses must be approved as being in ancient area, at least one of which must be offered in the Department of Art and Archaeology in the ancient area (the “Group 1” for the history of art majors). Two other courses may or may not qualify as being ancient area, and at least one course must be outside of the Department of Art and Archaeology (see the list below). Approved freshman seminars may count toward the four courses. A freshman seminar taught by a faculty member in the Department of Art and Archaeology may not count for the required course outside of the department. 
@@ -42,6 +46,7 @@ req_list:
   - name: Course/Ancient Requirement 
     double_counting_allowed: false
     min_needed: 4
+    max_counted: 1
     req_list:
     - name: Ancient Area
       min_needed: 2
@@ -93,6 +98,7 @@ req_list:
       - URB 390
   - name: Non-ART Requirement
     min_needed: 1
+    max_counted: 1
     course_list:
     - CLA 548
     - EAS 279

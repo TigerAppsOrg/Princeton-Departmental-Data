@@ -47,6 +47,7 @@ req_list:
   - name: Advanced Substitutes for Capstone Electives
     max_counted: 3
     min_needed: 0
+    course_list:
     - GEO 361
     - GEO 363
     - GEO 369

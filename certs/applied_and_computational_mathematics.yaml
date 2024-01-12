@@ -18,6 +18,7 @@ declaration_limit: 5
 pdfs_allowed: 0
 req_list:
 - name: 
+  max_counted: 1
   min_needed: Program of Study
   explanation: |-
     A total of five courses, normally 300-level or higher (requires letter grade; pass/D/fail not accepted), at least two of which are not included in the usual requirements for the candidate's major.

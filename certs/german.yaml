@@ -31,6 +31,7 @@ req_list:
   - name: 300/400/500-Level
     min_needed: 2
     max_counted: 4
+    course_list:
     - GER 3**
     - GER 4**
     - GER 5**

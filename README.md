@@ -132,7 +132,7 @@ contacts: #* departmental office contacts for the department or certificate
 #* requirement lists contain requirements and/or subrequirements
 req_list: # the highest level **must** contain a req_list
 - name: Prerequisites #* requirement name
-  max_counted: 1 # > 0 or null: max units passed up to the parent requirement. 1 if null
+  max_counted: 1 # > 0 or null: max units passed up to the parent requirement. ALL if null or missing
   min_needed: 4 #* >= 0 or "ALL": min units demanded of children (subrequirements)
   explanation: |- #* long human readable description of the requirement
     This text should be copied almost word-for-word from the department website.
