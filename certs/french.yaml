@@ -21,7 +21,7 @@ req_list:
 - name: Courses
   min_needed: 4
   explanation: |-
-    A minimum of four departmental courses in the relevant language, linguistics, literature, or culture, excluding courses that do not have a language prerequisite and any 100-level language course. At least two of these courses must be at the 300 level (or higher). Up to two of these courses may be taken at the 200 level, but FRE 207 and 208 cannot both be counted. At the discretion of the Director of Undergraduate Studies, a student may substitute one course satisfactorily completed in a departmentally approved program of study abroad or one course taken in summer. A 200-level course is a prerequisite for taking 300-level courses in French.  Please Note: Students pursuing a certificate in French may not count PDF or Audit courses toward the certificate. Those courses must be taken for a letter grade.
+    A minimum of four departmental courses in the relevant language, linguistics, literature, or culture, excluding courses that do not have a language prerequisite and any 100-level language course. At least two of these courses must be at the 300 level (or higher). Up to two of these courses may be taken at the 200 level, but FRE 207 and 208 cannot both be counted. At the discretion of the Director of Undergraduate Studies, a student may substitute one course satisfactorily completed in a departmentally approved program of study abroad or one course taken in summer. A 200-level course is a prerequisite for taking 300-level courses in French. Please Note: Students pursuing a certificate in French may not count PDF or Audit courses toward the certificate. Those courses must be taken for a letter grade.
   req_list:
   - name: 200 Level
     min_needed: 0
