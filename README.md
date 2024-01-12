@@ -51,6 +51,13 @@ Note that it is easy to convert between the two using any `YAML` parser
 The expected format of the requirements files, as well as how they are
 interpreted, is explained below.
 
+### Preprocessing
+A preprocessing script, [`preprocess.js`](scripts/preprocess.js), exists to
+check the requirement files for errors, standardize the format, and convert
+them to both `YAML` and `JSON` formats (placed in the `out` directory). Please 
+read the file comment of the script for more information on how to use it.
+*Note: The script is written in JavaScript and requires Node.js to run.*
+
 ### Course Code Conventions
 
 At the bottom of the requirement trees, the leaves are nearly always
