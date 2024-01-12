@@ -61,10 +61,10 @@ const preprocess = (write, maxCountedOne, directories) => {
 
                 if (!write) return;
                 const processedDataYaml = yaml.dump(data);
-                fs.writeFileSync(`out/yaml/${directory}/${file}`, processedDataYaml, 
+                fs.writeFileSync(`out/yaml/${directory}/__${file}`, processedDataYaml, 
                     'utf8');
                 const processedDataJson = JSON.stringify(data);
-                fs.writeFileSync(`out/json/${directory}/${file.split('.')[0]}.json`, 
+                fs.writeFileSync(`out/json/${directory}/__${file.split('.')[0]}.json`, 
                     processedDataJson, 'utf8');
             })
         })
@@ -103,8 +103,9 @@ const processReq = (req, filename, maxCountedOne) => {
 const reorder = (req, filename) => {
     const FIELDS = ['name', 'min_needed', 'max_counted', 'no_crosslist', 
     'double_counting_allowed', 'max_common_with_major', 'pdfs_allowed', 
-    'completed_by_semester', 'explanation', 'req_list', 
-    'course_list', 'excluded_course_list', 'iw_relationship', 'no_req'];
+    'completed_by_semester', 'explanation', 'dist_req', 'num_courses',
+    'req_list', 'course_list', 'excluded_course_list', 'iw_relationship',
+    'no_req'];
     req.forEach((r) => {
         FIELDS.forEach((f) => {
             if (r.hasOwnProperty(f)) {
@@ -154,6 +155,26 @@ const reorder = (req, filename) => {
                 r[f] = value;
             }
         });
+
+        // Ensure that only 1 of course_list, req_list, dist_req, 
+        // num_courses, and no_req is present
+        let count = 0;
+        if (r.hasOwnProperty('course_list')) count++;
+        if (r.hasOwnProperty('req_list')) count++;
+        if (r.hasOwnProperty('dist_req')) count++;
+        if (r.hasOwnProperty('num_courses')) count++;
+        if (r.hasOwnProperty('no_req')) count++;
+        if (count > 1) {
+            console.log("CONTENT WARNING -- " + filename + ": " 
+            + "more than 1 of course_list, req_list, dist_req, and num_courses "
+            + "is present in req: " + r.name);
+        }
+        if (count === 0) {
+            console.log("CONTENT WARNING -- " + filename + ": " 
+            + "none of course_list, req_list, dist_req, and num_courses "
+            + "is present in req: " + r.name);
+        }
+
         // Check for extra fields
         for (const field in r) {
             if (!FIELDS.includes(field)) {

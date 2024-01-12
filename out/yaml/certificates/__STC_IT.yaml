@@ -40,108 +40,109 @@ req_list:
     course_list:
       - EGR 277
   - name: Technology and Society Courses
-    min_needed: 4
+    min_needed: 2
     max_counted: 1
     explanation: >-
       This course requirement is intended to provide an understanding of the
       technology and societal aspects through a discipline-based study of both
       sides. 
-  - name: Technology Courses
-    min_needed: 2
-    max_counted: 1
-    explanation: >-
-      Each student is required to take two technology courses from a list
-      maintained on the program websites. These courses are mostly drawn from a
-      set that includes courses specifically designed for a wider campus
-      audience (with no or few prerequisites). An advanced/one-time-only course
-      may be used to replace one of these courses with the permission of the
-      program adviser.
-    course_list:
-      - APC 524
-      - COS 109
-      - COS 126
-      - COS 324
-      - COS 350
-      - COS 424
-      - COS 429
-      - COS 432
-      - COS 433
-      - COS 436
-      - COS 445
-      - COS 455
-      - COS 461
-      - COS 551
-      - ECE 201
-      - ECE 206
-      - ECE 364
-      - ECE 368
-      - ECE 435
-      - ECE 464
-      - ECE 470
-      - ECE 472
-      - ECE 473
-      - ECE 535
-      - ECE 574
-      - EGR 371
-      - EGR 421
-      - MAE 345
-      - ORF 387
-      - ORF 401
-      - ORF 467
-      - ORF 473
-      - POL 346
-      - QCB 455
-      - SML 354
-      - SOC 555
-      - TRA 301
-  - name: Societal Courses
-    min_needed: 2
-    max_counted: 1
-    explanation: >-
-      Each student is required to take two societal courses from a list
-      maintained on the program websites. An advanced/one-time-only course may
-      be used to replace one of these courses with the permission of the program
-      adviser.
-    course_list:
-      - AAS 301
-      - AAS 339
-      - ANT 211
-      - ANT 238
-      - ANT 455
-      - COM 332
-      - COS 351
-      - COS 448
-      - COS 586
-      - COS 597C
-      - ECO 326
-      - EGR 395
-      - EGR 421
-      - ENV 377
-      - FRS 122
-      - FRS 128
-      - FRS 159
-      - FRS 179
-      - HIS 278
-      - HIS 298
-      - HUM 331
-      - HUM 346
-      - JRN 260
-      - PHI 350
-      - PHI 371
-      - PHI 411
-      - POL 327
-      - POL 341
-      - SOC 204
-      - SOC 215
-      - SOC 306
-      - SOC 382
-      - SOC 409
-      - SOC 414
-      - SPI 334
-      - SPI 338
-      - SPI 365
-      - SPI 492
-      - SPI 586F
+    req_list:
+      - name: Technology Courses
+        min_needed: 2
+        max_counted: 1
+        explanation: >-
+          Each student is required to take two technology courses from a list
+          maintained on the program websites. These courses are mostly drawn
+          from a set that includes courses specifically designed for a wider
+          campus audience (with no or few prerequisites). An
+          advanced/one-time-only course may be used to replace one of these
+          courses with the permission of the program adviser.
+        course_list:
+          - APC 524
+          - COS 109
+          - COS 126
+          - COS 324
+          - COS 350
+          - COS 424
+          - COS 429
+          - COS 432
+          - COS 433
+          - COS 436
+          - COS 445
+          - COS 455
+          - COS 461
+          - COS 551
+          - ECE 201
+          - ECE 206
+          - ECE 364
+          - ECE 368
+          - ECE 435
+          - ECE 464
+          - ECE 470
+          - ECE 472
+          - ECE 473
+          - ECE 535
+          - ECE 574
+          - EGR 371
+          - EGR 421
+          - MAE 345
+          - ORF 387
+          - ORF 401
+          - ORF 467
+          - ORF 473
+          - POL 346
+          - QCB 455
+          - SML 354
+          - SOC 555
+          - TRA 301
+      - name: Societal Courses
+        min_needed: 2
+        max_counted: 1
+        explanation: >-
+          Each student is required to take two societal courses from a list
+          maintained on the program websites. An advanced/one-time-only course
+          may be used to replace one of these courses with the permission of the
+          program adviser.
+        course_list:
+          - AAS 301
+          - AAS 339
+          - ANT 211
+          - ANT 238
+          - ANT 455
+          - COM 332
+          - COS 351
+          - COS 448
+          - COS 586
+          - COS 597C
+          - ECO 326
+          - EGR 395
+          - EGR 421
+          - ENV 377
+          - FRS 122
+          - FRS 128
+          - FRS 159
+          - FRS 179
+          - HIS 278
+          - HIS 298
+          - HUM 331
+          - HUM 346
+          - JRN 260
+          - PHI 350
+          - PHI 371
+          - PHI 411
+          - POL 327
+          - POL 341
+          - SOC 204
+          - SOC 215
+          - SOC 306
+          - SOC 382
+          - SOC 409
+          - SOC 414
+          - SPI 334
+          - SPI 338
+          - SPI 365
+          - SPI 492
+          - SPI 586F
   - name: Breadth Course
     min_needed: 1
     max_counted: 1
