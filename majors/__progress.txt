@@ -1,5 +1,4 @@
 Group 1:
-CLA
 COM
 EAS
 
