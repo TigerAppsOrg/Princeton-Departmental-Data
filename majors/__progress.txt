@@ -28,7 +28,6 @@ SOC
 
 Group 4:
 FIT
-GER
 SPO
 NES
 
