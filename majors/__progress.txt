@@ -1,6 +1,3 @@
-Group 1:
-EAS
-
 Group 2: 
 ENG
 HIS
