@@ -147,9 +147,11 @@ req_list: # the highest level **must** contain a req_list
     This text should be copied almost word-for-word from the department website.
     It can contain <i>html-type formatting</i> and can include the explicit list of courses if this is how the department website lists it.
     This text is displayed to the user in a tooltip when they hover over the requirement.
-  double_counting_allowed: false # whether courses may count for multiple subrequirements of this requirement
+  double_counting_allowed_local: false # whether courses may count for multiple subrequirements of this requirement
                                  # should only be explicitly listed for the root of the subtree to which it applies
                                  # if empty/null/missing false is assumed
+  double_counting_allowed: false # whether courses may count for multiple subrequirements of this requirement
+                                        # if empty/null/missing false is assumed
   max_common_with_major: 0 # number of courses that can be in common with major
                            # only relevant for certificates
   pdfs_allowed: false # whether student is allowed to take the courses SPDF (student-elected Pass/D/Fail)

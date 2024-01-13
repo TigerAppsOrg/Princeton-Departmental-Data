@@ -26,7 +26,6 @@ req_list:
   - name: Gateway
     min_needed: ALL
     max_counted: 1
-    double_counting_allowed: false
     pdfs_allowed: 0
     explanation: >-
       Students are normally encouraged to take the gateway course AMS 101 prior
@@ -37,7 +36,6 @@ req_list:
   - name: General
     min_needed: 3
     max_counted: 1
-    double_counting_allowed: false
     explanation: >-
       Three courses in Asian American studies, either originating in the program
       or cross-listed, and preferably representing disciplinary breadth in the
@@ -51,7 +49,6 @@ req_list:
   - name: Advanced Seminar in American Studies
     min_needed: 1
     max_counted: 1
-    double_counting_allowed: false
     explanation: >-
       Advanced Seminar in American Studies. With the approval of the associate
       director, a student may substitute an advanced seminar with additional ASA

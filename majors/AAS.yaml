@@ -16,45 +16,42 @@ contacts:
 description: |-
   The Department of African American Studies (AAS) offers an undergraduate major in the study of the historic achievements and struggles of African-descended people in the United States and their relationship to African and African-descended people around the world. Drawing on methodologies from the humanities and social sciences and spanning areas of inquiry across different fields, the AAS major emphasizes the importance of interdisciplinary research and analysis to its scholarly mission.
 req_list:
-- name: Prerequisite and Core
-  min_needed: 2
+- name: Prerequisite
   max_counted: 1
+  min_needed: 1
+  completed_by_semester: 4
   double_counting_allowed: true
+  explanation: |-
+    Prerequisite for entry into the AAS major is the successful completion on a graded basis of one course survey course. Course survey courses are identified in the program of study.
+  double_counting_allowed: true
+  course_list:
+  - AAS 244
+  - AAS 245
+  - AAS 353
+  - AAS 359
+  - AAS 366
+  - AAS 367
+- name: Core Survey
+  max_counted: 1
+  min_needed: 2
+  explanation: Students complete two (2) core survey courses listed below. At least
+    one (1) of these must be a Pre-20th century course. Students are strongly encouraged
+    to complete both survey courses by the end of junior year.
   req_list:
-  - name: Prerequisite
-    max_counted: 1
+  - name: Pre-20th Century
+    max_counted: ALL
     min_needed: 1
-    completed_by_semester: 4
-    explanation: |-
-      Prerequisite for entry into the AAS major is the successful completion on a graded basis of one course survey course. Course survey courses are identified in the program of study.
     course_list:
     - AAS 244
-    - AAS 245
     - AAS 353
-    - AAS 359
     - AAS 366
-    - AAS 367
-  - name: Core Survey
+  - name: 20th Century and Beyond
     max_counted: 1
-    min_needed: 2
-    explanation: Students complete two (2) core survey courses listed below. At least
-      one (1) of these must be a Pre-20th century course. Students are strongly encouraged
-      to complete both survey courses by the end of junior year.
-    req_list:
-    - name: Pre-20th Century
-      max_counted: ALL
-      min_needed: 1
-      course_list:
-      - AAS 244
-      - AAS 353
-      - AAS 366
-    - name: 20th Century and Beyond
-      max_counted: 1
-      min_needed: 0
-      course_list:
-      - AAS 245
-      - AAS 359
-      - AAS 367
+    min_needed: 0
+    course_list:
+    - AAS 245
+    - AAS 359
+    - AAS 367
 - name: Track
   max_counted: 1
   min_needed: 1

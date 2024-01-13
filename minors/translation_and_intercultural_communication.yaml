@@ -53,7 +53,7 @@ req_list:
   - name: Electives
     min_needed: ALL
     max_counted: 1
-    double_counting_allowed: true
+    double_counting_allowed_local: true
     explanation: >-
       Three additional courses at the 200 level or above from at least two of
       the following three categories.

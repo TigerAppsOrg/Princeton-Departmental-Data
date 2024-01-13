@@ -27,7 +27,6 @@ req_list:
   - name: Program of Study
     min_needed: 5
     max_counted: 1
-    double_counting_allowed: false
     pdfs_allowed: 0
     explanation: >-
       Students start with 3-4 core classes. These core courses are taught every

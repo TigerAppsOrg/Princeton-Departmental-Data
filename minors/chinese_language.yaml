@@ -30,7 +30,6 @@ req_list:
   - name: Language
     min_needed: 6
     max_counted: 1
-    double_counting_allowed: false
     explanation: >-
       Students placing into language courses beyond the second-year level should
       plan to satisfy the language course requirements for the minor with higher
@@ -43,7 +42,6 @@ req_list:
   - name: East Asian Studies
     min_needed: 1
     max_counted: 1
-    double_counting_allowed: false
     course_list:
       - EAS ***
   - name: Independent Work

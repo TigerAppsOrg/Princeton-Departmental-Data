@@ -28,7 +28,7 @@ description: >-
   division could.
 max_common_with_major: 1
 declaration_limit: 5
-double_counting_allowed: true
+double_counting_allowed_local: true
 req_list:
   - name: Program of Study
     min_needed: ALl

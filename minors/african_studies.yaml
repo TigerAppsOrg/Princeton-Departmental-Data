@@ -30,7 +30,6 @@ req_list:
   - name: Core
     min_needed: ALL
     max_counted: 1
-    double_counting_allowed: false
     completed_by_semester: 6
     explanation: >-
       Students should have at least one core course completed by the spring of
@@ -43,7 +42,6 @@ req_list:
   - name: Electives
     min_needed: ALL
     max_counted: 1
-    double_counting_allowed: false
     completed_by_semester: 8
     explanation: >-
       Five courses are required for the minor — one core course and four
@@ -58,7 +56,6 @@ req_list:
       - name: African Language
         min_needed: 1
         max_counted: 1
-        double_counting_allowed: false
         completed_by_semester: 8
         explanation: >-
           The requirement of African languages can be fulfilled by one semester
@@ -74,7 +71,6 @@ req_list:
       - name: Other Electives
         min_needed: 3
         max_counted: 1
-        double_counting_allowed: false
         completed_by_semester: 8
         course_list:
           - AFS ***

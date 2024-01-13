@@ -102,10 +102,10 @@ const processReq = (req, filename, maxCountedOne) => {
  */
 const reorder = (req, filename) => {
     const FIELDS = ['name', 'min_needed', 'max_counted', 'no_crosslist', 
-    'double_counting_allowed', 'max_common_with_major', 'pdfs_allowed', 
-    'completed_by_semester', 'explanation', 'dist_req', 'num_courses',
-    'req_list', 'course_list', 'excluded_course_list', 'iw_relationship',
-    'no_req'];
+    'double_counting_allowed', 'double_counting_allowed_local', 
+    'max_common_with_major', 'pdfs_allowed', 'completed_by_semester', 
+    'explanation', 'dist_req', 'num_courses', 'req_list', 'course_list', 
+    'excluded_course_list', 'iw_relationship', 'no_req'];
     req.forEach((r) => {
         FIELDS.forEach((f) => {
             if (r.hasOwnProperty(f)) {

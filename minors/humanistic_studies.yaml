@@ -59,13 +59,13 @@ req_list:
   - name: Interdisciplinary Courses
     min_needed: ALL
     max_counted: 1
-    double_counting_allowed: true
+    double_counting_allowed_local: true
     explanation: ''
     req_list:
       - name: Courses
         min_needed: 4
         max_counted: 1
-        double_counting_allowed: false
+        double_counting_allowed_local: false
         explanation: >-
           At least two of the four courses must be HUM courses, originating in
           the Program in Humanistic Studies.
@@ -100,7 +100,7 @@ req_list:
       - name: Minimum 2 Clusters
         min_needed: 2
         max_counted: 1
-        double_counting_allowed: false
+        double_counting_allowed_local: false
         explanation: >-
           The four courses must also be drawn from at least two of the following
           clusters, which demonstrate the broad reach of the humanities. Each
