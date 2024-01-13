@@ -1,6 +1,4 @@
 Group 1:
-ANT
-ARC
 ART
 CLA
 COM
