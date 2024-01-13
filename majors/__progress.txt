@@ -23,7 +23,6 @@ SOC
 
 Group 4:
 SPO
-NES
 
 Group 5:
 COS-AB
