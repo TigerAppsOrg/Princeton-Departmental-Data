@@ -10,9 +10,14 @@ contacts:
 - type: Chair
   name: Thomas W. Hare
   email: thare@princeton.edu
+- type: Chair (acting)
+  name: Wendy Laura Belcher
+  email: wbelcher@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Wendy L. Belcher
-  email: wbelcherta@princeton.edu
+  name: Karen R. Emmerich
+  email: karene@princeton.edu
+description: |-
+  The Department of Comparative Literature invites students to approach literature from a broad, cross-cultural perspective. The curriculum encompasses literatures, languages and cultures from around the world — including those of Europe, the Americas, Africa, Asia and the Middle East — as well as interdisciplinary work of many types. While each student in the department is expected to focus their studies on a particular language and literature, an interest in the way different literatures illuminate one another, or enter into dialogue with other disciplines, media or forms of art, is fundamental to our work. Students motivated by a desire to understand literature in the broadest terms, as well as those interested in particular examples of literary comparison, will find an intellectual home in the Department of Comparative Literature.
 req_list:
 - name: Prerequisites
   max_counted: 1

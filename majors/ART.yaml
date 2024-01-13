@@ -11,9 +11,17 @@ contacts:
 - type: Chair
   name: Rachael Z. DeLue
   email: rdelue@princeton.edu
-- type: Director of Undergraduate Studies
+- type: Acting Chair
   name: Nathan A. Arrington
   email: nta@princeton.edu
+- type: Director of Undergraduate Studies (spring)
+  name: Basile C. Baudez
+  email: bbaudez@princeton.edu
+- type: Director of Undergraduate Studies (fall)
+  name: Beatrice E. Kitzinger
+  email: bkitzinger@princeton.edu
+description: |-
+  The Department of Art and Archaeology is devoted to the study of the visual arts and the investigation of material artifacts from a wide range of cultures and periods. Students may pursue a major in the History of Art or the Practice of Art; information on the certificate in Archaeology is also included below. Studio art courses are taught by faculty in the Program in Visual Arts; history of art courses also frequently include practical components. Students interested in the practice of art (taught by faculty in the Program in Visual Arts) can pursue a major in the department. Working closely with faculty members in small classes and often dealing directly with original objects and primary sources, students can explore subjects as diverse as Roman or modern city planning, arts of printing and book-making in East Asia or Europe, ancient or medieval archaeology, architectural history, 19th-21st century photography and contemporary arts of Africa, Latin America and the United States.
 req_list:
 - name: Track
   max_counted: 1

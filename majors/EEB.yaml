@@ -8,11 +8,13 @@ urls:
 - https://eeb.princeton.edu/undergraduate/plan-study-0
 contacts:
 - type: Chair
-  name: Lars O. Hedin
-  email: lhedin@princeton.edu
-- type: Director of Undergraduate Studies
   name: Jonathan Levine
   email: levinej@princeton.edu
+- type: Director of Undergraduate Studies
+  name: C. Jessica E. Metcalf
+  email: cmetcalf@princeton.edu
+description: |-
+  The Department of Ecology and Evolutionary Biology (EEB) emphasizes research and teaching in environmental biology — the science of nature and its interface with humanity. This integrative discipline encompasses evolution (the changing form and function of populations over time), ecology (interactions between organisms and their environment), behavior (how organisms act and respond to stimuli) and conservation (the effort to sustain healthy, natural ecosystems and biodiversity in an age when humanity dominates the biosphere). These areas of inquiry are intertwined with each other, linked to many other fields in the natural and social sciences, and approached using a range of quantitative techniques. These features make EEB a uniquely interdisciplinary department that supports a wide range of student interests. Students who are curious and passionate about the living world — from molecules to the biosphere, from disease and physiology to evolution in the Anthropocene — are encouraged to explore EEB.
 req_list:
 - name: Prerequisites
   max_counted: 1

@@ -3,34 +3,18 @@ type: Major
 name: Neuroscience
 code: NEU
 degree: AB
-description: The Princeton Neuroscience Institute offers the neuroscience concentration
-  for undergraduates with a strong interest in pursuing an in-depth study of the brain.
-  Neuroscience is a broad interdisciplinary field requiring rigorous preparation in
-  basic science. Students in this discipline are expected to understand the basic
-  principles and approaches of modern neuroscience. The concentration provides an
-  opportunity for the serious study of molecular, cellular, developmental, and systems
-  neuroscience as it interfaces with cognitive and behavioral research. Since modern
-  neuroscience is relying increasingly on quantitatively sophisticated methods and
-  theory, students are also expected to gain competency in, physics, mathematics and
-  computation. By offering a combination of courses and interdisciplinary research,
-  students who complete the neuroscience concentration will be highly qualified to
-  pursue graduate work at the best neuroscience, psychology or biology graduate programs
-  and will also have completed, in large part, the background requirements to enter
-  medical or veterinary school. Other possible career paths for those with a neuroscience
-  degree can be found here.
 urls:
 - https://ua.princeton.edu/academic-units/neuroscience-ab-through-princeton-neuroscience-institute
 - http://pni.princeton.edu/
 contacts:
-- type: Departmental Representative
+- type: Director
+  name: Mala Murthy
+  email: mmurthy@princeton.edu
+- type: Director of Undergraduate Studies
   name: Asif A. Ghazanfar
   email: asifg@princeton.edu
-- type: Director
-  name: Jonathan D. Cohen
-  email: jdc@princeton.edu
-- type: Director
-  name: David W. Tank
-  email: dwtank@princeton.edu
+description: |-
+  The neuroscience major provides foundational and advanced undergraduate courses on the scientific study of the brain and biology of behavior as well as practical training in theoretical, computational and/or laboratory approaches to original neuroscience research. Students learn about different levels of analysis, from the molecular mechanisms of intercellular signaling to the formation and function of neural circuits to the generation of thought and movements via large-scale neural systems. Students also learn about cutting-edge methods in neuroscience, including laboratory techniques, computational modeling and statistics. Through their independent work, students work with faculty advisers and their teams to gain understanding of how to approach current neuroscientific problems. This work can include the generation of new data via experiments, the novel analysis of existing data sets or the formulation of new perspectives and hypotheses via the thoughtful consideration of the existing literature.
 req_list:
 - name: Prerequisites
   max_counted: 1

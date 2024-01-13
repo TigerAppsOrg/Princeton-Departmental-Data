@@ -7,9 +7,14 @@ urls:
 - https://ua.princeton.edu/academic-units/department-history
 - https://history.princeton.edu/academics/undergraduate
 contacts:
-- type: Director of Undergraduate Studies
-  name: Janet Y. Chen
-  email: jychen@princeton.edu
+- type: Chair
+  name: Angela N. Creager
+  email: creager@princeton.edu
+- type: Director of Undergraduate Studies (acting)
+  name: Yaacob Dweck
+  email: jdweck@princeton.edu
+description: |-
+  The history major provides foundational and advanced undergraduate courses on the study of the past. History courses range over the past two thousand years of human experience in Africa, Asia, Europe and the Americas. Students can learn about these areas of the globe and periods of the past from a variety of different perspectives including cultural, economic, environmental, ethnic, gender, intellectual, political and social history. Students have the opportunity to pursue independent work in two junior papers and a senior thesis. Within the context of a research seminar in the first semester of their junior year, students learn the basic tools of historical research such as finding a research subject, formulating a historical question and canvasing an archive. In the second semester of their junior year, students pursue a junior paper in consultation with a faculty member and independent of the seminar. In their senior year, students deploy these skills in research and writing a 75-page senior thesis based on original historical research. History majors graduate from Princeton with a sense of the depth and the breadth of the historical study of the human past and with the capacity to express themselves on a range of issues in clear and analytic prose.
 req_list:
 - name: Track
   max_counted: 1

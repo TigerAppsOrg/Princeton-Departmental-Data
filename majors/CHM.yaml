@@ -8,11 +8,13 @@ urls:
 - https://chemistry.princeton.edu/
 contacts:
 - type: Chair
-  name: Gregory D. Scholes
-  email: gscholes@princeton.edu
+  name: Paul J. Chirik
+  email: pchirik@princeton.edu
 - type: Director of Undergraduate Studies
   name: Robert P. L'Esperance
   email: rpl@princeton.edu
+description: |-
+  The Department of Chemistry offers a flexible program suitable for those who plan to attend graduate school, as well as for premedical students or those intending to pursue a career in secondary school teaching. A chemistry major is appropriate for anyone who wants to attain a broad background of undergraduate training in science.
 req_list:
 - name: Prerequisites
   max_counted: 1

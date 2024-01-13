@@ -7,12 +7,17 @@ urls:
 - https://ua.princeton.edu/academic-units/department-mathematics-0#
 - https://www.math.princeton.edu/undergraduate/requirements
 contacts:
-- type: Director of Undergraduate Studies, Associate Chair
+- type: Chair
+  name: Igor Rodnianski
+  email: irod@princeton.edu
+- type: Director of Undergraduate Studies
   name: János Kollár
-  email: kollar@princeton.edu
-- type: Associate Director of Undergraduate Studies
+  email: kollar@math.princeton.edu
+- type: Director of Undergraduate Studies (associate)
   name: Jennifer M. Johnson
-  email: jmjohnso@princeton.edu
+  email: jmjohnso@math.princeton.edu
+description: |-
+  Mathematics is a discipline inseparable from scientific and philosophical inquiry. The rigorous and logical thinking that characterizes mathematics is an essential tool for theory-building of any kind because its clarity and precision expose hidden assumptions, inner inconsistencies and deep structural similarities in problems that seem unrelated on the surface. Our courses cover a wide variety of well-established mathematical knowledge that is actively under development by today's mathematicians and that offers fundamental tools for scientists and engineers of all kinds.
 req_list:
 - name: Prerequisites
   max_counted: 1

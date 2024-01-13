@@ -3,13 +3,6 @@ type: Major
 name: Religion
 code: REL
 degree: AB
-explanation: Concentrators are required to complete at least nine religion courses
-  taught by department faculty (including visitors to the department of religion)
-  by the end of their senior year. Courses taken prior to declaring a Religion major
-  count toward this total. In addition, students are encouraged, but not required,
-  to take two approved cognate courses in other departments. The cognate courses will
-  be calculated into departmental honors. The departmental representative must approve
-  cognate courses.
 urls:
 - https://ua.princeton.edu/academic-units/department-religion
 - https://religion.princeton.edu/undergraduate-program/major-requirements/
@@ -20,6 +13,8 @@ contacts:
 - type: Director of Undergraduate Studies
   name: Seth Perry
   email: sethp@princeton.edu
+description: |-
+  The Department of Religion at Princeton aims for our students to gain content knowledge with respect to religious traditions, practice, history, ethics and philosophy, across time periods and cultural settings. In addition, we intend for our students to develop an understanding of the history of the academic study of religion and its crucial methodologies and purview. Beyond the inherent value of these mutually constitutive sets of goals, we want the development of this content knowledge and facility with religious studies as a field to cultivate methodological tools that students will take with them into other parts of their academic lives and their eventual careers: an abiding intellectual curiosity; self-motivation and initiative in research; a habit of close reading and critical empathy in the assessment of both secondary and primary sources; facility with questions of race, gender and class; and the ability to make clear, cogent and successful arguments both in writing and in discussion.
 req_list:
 - name: Prerequisites
   max_counted: 1

@@ -13,6 +13,8 @@ contacts:
 - type: Director
   name: Elizabeth R. Gavis
   email: gavis@princeton.edu
+description: |-
+  The undergraduate program in molecular biology is designed to equip students with the knowledge and skills they need to explore the central questions of 21st century biology. The curriculum provides broad foundational knowledge in core disciplines including molecular, cellular and developmental biology, biochemistry and genetics. Students acquire depth by pursuing sub-disciplines of interest in greater detail and sophistication in upper-level elective courses, which emphasize current topics and readings from the primary literature. Because the best way to learn science is by doing science, students conduct original research at the frontiers of modern science for their independent work. In addition to becoming a scholar in their chosen field, students will become adept at formulating testable hypotheses, planning and executing well-controlled experiments, analyzing and interpreting data and formally presenting their findings both orally and in writing.
 req_list:
 - name: Prerequisites
   max_counted: 1

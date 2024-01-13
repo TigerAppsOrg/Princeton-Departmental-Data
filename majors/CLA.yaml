@@ -8,11 +8,13 @@ urls:
 - https://classics.princeton.edu/programs/undergraduate/tracks
 contacts:
 - type: Chair
-  name: Michael A. Flower
-  email: mflower@princeton.edu
+  name: Barbara Graziosi
+  email: barbara.graziosi@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Joshua Billings
-  email: jhbillings@princeton.edu
+  name: Daniela E. Mairhofer
+  email: daniela.mairhofer@princeton.edu
+description: |-
+  The classics major is a flexible, interdisciplinary program that affords students a range of opportunities to study the cultures, languages, history, politics and intellectual traditions of the ancient Greek and Roman worlds, their contacts with other civilizations of the ancient Mediterranean, resonances in later ages and continued vitality today. The department offers two rigorous and highly flexible majors tracks, in which students chart their own paths within broad areas of study and are encouraged to develop innovative research projects, working closely with world-leading faculty, graduate students engaged in exciting scholarship and highly motivated undergraduate peers within the department. Because of the diversity of the topics studied by the faculty, ranging from Proto-Indo-European linguistics to medieval manuscripts to the cultural politics of the modern Caribbean, the department is able to support students exploring a wide range of subjects and pursuing independent work involving humanistic and social-scientific analysis, creative projects and experimental research. The unusually broad and diverse intellectual range of our program is matched by an intimate, supportive environment in which faculty and students work closely together.
 req_list:
 - name: Tracks
   max_counted: 1

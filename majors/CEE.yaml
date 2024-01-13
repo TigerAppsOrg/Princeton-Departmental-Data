@@ -3,21 +3,19 @@ type: Major
 name: Civil and Environmental Engineering
 code: CEE
 degree: BSE
-description: |-
-  The department offers five sub-plan options: architecture and engineering, environmental engineering, geological engineering, structural engineering, and engineering and the liberal arts. In the freshman year, students should complete the mathematics basic science, computing, and writing requirements common to all B.S.E. programs. At the end of the freshman year, the student declares CEE as a major and selects one of the subplans. Course requirements include engineering science courses, engineering design courses, a senior thesis, and program electives. For all but the non-ABET accredited tracks, there are additional math and science requirements that are normally satisfied by taking MAE 305 Mathematics in Engineering, ORF 245 Fundamentals of Engineering Statistics and GEO 203 Fundamentals of Solid Earth Science. In total, a student's program of study must include a minimum of fourteen engineering courses, with the exception of students in the non-ABET accredited tracks.
-
-  The department offers five sub-plan options: architecture and engineering, environmental engineering, geological engineering, structural engineering, and engineering and the liberal arts. In the freshman year, students should complete the mathematics basic science, computing, and writing requirements common to all B.S.E. programs. At the end of the freshman year, the student declares CEE as a major and selects one of the subplans. Course requirements include engineering science courses, engineering design courses, a senior thesis, and program electives. For all but the non-ABET accredited tracks, there are additional math and science requirements that are normally satisfied by taking MAE 305 Mathematics in Engineering, ORF 245 Fundamentals of Engineering Statistics and GEO 203 Fundamentals of Solid Earth Science. In total, a student's program of study must include a minimum of fourteen engineering courses, with the exception of students in the non-ABET accredited tracks.
 min_needed: 1
 urls:
 - https://ua.princeton.edu/academic-units/department-civil-and-environmental-engineering
 - https://cee.princeton.edu/undergraduate/paths-graduation
 contacts:
-- type: Director of Undergraduate Studies
-  name: Branko Glišić
-  email: bglisic@princeton.edu
 - type: Chair
-  name: Catherine A. Peters
-  email: cap@princeton.edu
+  name: Branko Glisic
+  email: bglisic@Princeton.edu
+- type: Director of Undergraduate Studies (acting)
+  name: Ian C. Bourg 
+  email: bourg@princeton.edu
+description: |-
+  Requirements for study in the Department of Civil and Environmental Engineering follow the general requirements for the School of Engineering and Applied Science and the University. The student's course of study is planned in consultation with the director of studies and the academic adviser and requires a year-long thesis, which counts as two courses. The CEE curriculum is sufficiently flexible to provide opportunities for students to pursue certificate programs across the University, and to study abroad in their junior year.
 req_list:
 - name: 'Architecture and Engineering: Structural Focus'
   max_counted: 1

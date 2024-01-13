@@ -3,21 +3,18 @@ type: Major
 name: Anthropology
 code: ANT
 degree: AB
-explanation: Anthropology concentrators select a track and take nine departmental
-  courses within their selected track, including two core courses (ANT 300 and ANT
-  301). All concentrators are required to participate in a senior seminar in the fall
-  semester of their senior year. The seminar is designed to help students write their
-  senior thesis.
 urls:
 - https://ua.princeton.edu/academic-units/department-department-anthropology
 - https://anthropology.princeton.edu/undergraduate/majoring-anthropology
 contacts:
 - type: Chair
-  name: Carolyn M. Rouse
-  email: crouse@princeton.edu
+  name: João Biehl
+  email: jbiehl@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Carolyn M. Rouse
-  email: crouse@princeton.edu
+  name: Onur Gunay
+  email: ogunay@princeton.edu
+description: |-
+  Anthropology is the study of human experience and social change. Through situated and relational methods, anthropology considers the ways people think, act and make sense of their lifeworlds against the backdrop of multiple structural forces and across intersecting domains and scales. Always in a deep interdisciplinary dialogue, the connections between ethnography, theory, social engagement and storytelling are a hallmark of anthropology.
 req_list:
 - name: Prerequisites
   max_counted: 1

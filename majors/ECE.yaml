@@ -7,9 +7,17 @@ urls:
 - https://ua.princeton.edu/academic-units/department-electrical-engineering
 - https://ece.princeton.edu/sites/g/files/toruqf1836/files/documents/UG%20Handbook%2023-24.pdf
 contacts:
-- type: Departmental Representative
+- type: Chair
   name: James C. Sturm
   email: sturm@princeton.edu
+- type: Director of Undergraduate Studies
+  name: David Wentzlaff
+  email: wentzlaf@princeton.edu
+- type: Director of Undergraduate Studies (associate)
+  name: Gerard Wysocki
+  email: gwysocki@princeton.edu
+description: |-
+  The Department of Electrical and Computer Engineering offers an academic program of study spanning a wide range of disciplines, connecting the broad fields of information, data, communication and computing systems to circuits, energy and the physical world. To prepare students for a future beyond Princeton, the three main themes of the program are (i) a broad foundation, (ii) depth and expertise in a major, and (iii) independent work and design. 
 req_list:
 - name: Foundation
   max_counted: 1

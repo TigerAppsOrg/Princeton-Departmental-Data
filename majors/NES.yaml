@@ -3,20 +3,18 @@ type: Major
 name: Near Eastern Studies
 code: NES
 degree: AB
-explanation: NES majors must achieve proficiency through at least the 107-level in
-  a Near Eastern language (Arabic, Hebrew, Persian, or Turkish) and must take eight
-  NES departmental courses. Students write one Junior Paper over the course of their
-  junior year and a Senior Thesis their senior year.
 urls:
 - https://ua.princeton.edu/academic-units/department-near-eastern-studies
 - https://nes.princeton.edu/undergraduate/current-majors/concentration-requirements
 contacts:
 - type: Chair
-  name: Muhammad Q. Zaman
-  email: mzaman@princeton.edu
+  name: Behrooz Ghamari-Tabrizi
+  email: behroozg@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Jonathan Gribetz
-  email: gribetz@princeton.edu
+  name: Daniel J. Sheffield
+  email: sheffield@princeton.edu
+description: |-
+  The Department of Near Eastern Studies offers a liberal arts major designed to give students competence in a Near Eastern language and broad knowledge of the literatures, civilizations, politics and history of the late ancient, medieval and modern Near East (comprising Afghanistan, the Arab countries, Central Asia, Iran, Israel, Islamic Africa, South Asia and Turkey). Accordingly, a plan of study is built around departmental and cognate courses in history, literature, religion, law, anthropology, politics, economics and public policy, combined with the study of one or more Near Eastern languages (Arabic, Hebrew, Persian or Turkish), determined by the student's interest. In addition to serving as the focal point of a broad liberal arts education, the Near Eastern studies major can be the basis for graduate or professional study in a range of fields in the humanities and social sciences. The department's many small classes and seminars allow extensive student/teacher interaction and equip students to pursue careers in business, finance, economics, international affairs, government, diplomacy, journalism and public policy.
 req_list:
 - name: Prerequisites
   max_counted: 1

@@ -3,28 +3,27 @@ type: Major
 name: Computer Science - BSE
 code: COS-BSE
 degree: BSE
-description: |-
-  Computer science concentrators must take 8 departmental courses (departmentals) and do independent work. The minimum amount of independent work depends on whether you are an AB candidate (4 semesters minimum) or a BSE candidate (1 semester minimum). Departmental courses are any computer science course at the 300 or 400 level (except 397, 398, 497 and 498) and a specific set of courses in other departments (enumerated below). There is also a distribution requirement within the 8 departmental courses: you must take at least 2 Systems departmentals, at least 2 Theory departmentals, and at least 2 Applications departmentals. (Notice that leaves you 6 departmentals that are constrained and 2 departmentals that are unconstrained.)
-
-  BSE candidates do independent work by signing up for COS 397 or 398 in the junior year, or COS 497 or 498 in the senior year. You encouraged to do more than one semester of independent work; the second semester of independent work may be counted as a departmental.
-
-  AB candidates do 2 one-semester junior independent work projects and a full year senior thesis. Numbered courses are not used to designate AB independent work.
 urls:
 - https://ua.princeton.edu/academic-units/department-computer-science-bse
 - https://www.cs.princeton.edu/ugrad/becoming-cs-major/requirements
 contacts:
 - type: Chair
-  name: Jennifer L. Rexford
-  email: jrex@cs.princeton.edu
-- type: Director of Undergraduate Studies
-  name: Brian Kernighan
+  name: Szymon M. Rusinkiewicz
+  email: smr@princeton.edu
+- type: Director of Undergraduate Studies (co-director) (spring)
+  name: Brian W. Kernighan
   email: bwk@cs.princeton.edu
-- type: Director of Undergraduate Studies
-  name: Jaswinder Singh
-  email: jps@cs.princeton.edu
-- type: Program Coordinator
-  name: Colleen Kenny
-  email: ckenny@cs.princeton.edu
+- type: Director of Undergraduate Studies (co-director) (spring)
+  name: Andrew W. Appel
+  email: appel@cs.princeton.edu
+- type: Director of Undergraduate Studies (co-director) (fall)
+  name: David P. Walker
+  email: dpw@cs.princeton.edu
+- type: Director of Undergraduate Studies (co-director) (fall)
+  name: Kevin Wayne
+  email: wayne@cs.princeton.edu
+description: |-
+  With computation and computer science now permeating all corners of society and the economy, a computer science education has become a good launching pad for almost any career. Core concepts and skills emphasized in the computer science curriculum include theoretical and quantitative analysis of computation; design/engineering principles of advanced computer systems; and foundations and methods of AI and machine learning. The curriculum provides additional flexibility to explore subdisciplines of computer science (programming languages, formal methods, software engineering, computer graphics, information security), or to branch out into exciting cross-disciplinary investigations (neuroscience and cognitive science, computational biology, information policy, robotics, data science, etc.). Most computer science majors enjoy programming. Quite a few start with zero or minimal background and can enhance their skills while progressing through the curriculum.
 req_list:
 - name: Prerequisites
   max_counted: 1

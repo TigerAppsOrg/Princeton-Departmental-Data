@@ -7,21 +7,14 @@ urls:
 - https://ua.princeton.edu/academic-units/spia
 - https://spia.princeton.edu/undergraduate-program/curriculum-requirements
 contacts:
-- type: Associate Dean for Undergraduate Education
-  name: Paul Lipton
-  email: plipton@princeton.edu
-- type: Director, Undergraduate Program and Career Services
-  name: Monica Ruscil
-  email: mgruscil@princeton.edu
-- type: Academic Coordinator, Undergraduate Program
-  name: Jan Burch
-  email: jburch@princeton.edu
-- type: Administrative Coordinator, Undergraduate Program
-  name: Georgette Harrison
-  email: gharriso@princeton.edu
-- type: Undergraduate Program Office
-  name: Undergraduate Program Office
-  email: spiaugrd@princeton.edu
+- type: Dean/Chair
+  name: Amaney A. Jamal
+  email: ajamal@princeton.edu
+- type: Director of Undergraduate Studies
+  name: Susan L. Marquis
+  email: susanmarquis@princeton.edu
+description: |-
+  The Princeton School of Public and International Affairs offers a multidisciplinary liberal arts major for students who are interested in public service and becoming leaders in the world of public and international affairs. Students will acquire the tools, understanding and habits of mind necessary to pursue policy problems of their choosing. The major is largely self-designed, but provides the structure and guidance needed for an education that is both broad and deep.
 req_list:
 - name: Prerequisites
   max_counted: 1

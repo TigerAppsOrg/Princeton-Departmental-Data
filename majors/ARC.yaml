@@ -8,15 +8,14 @@ urls:
 - https://soa.princeton.edu/content/undergraduate-program-architecture
 - https://soa.princeton.edu/sites/default/files/student%20handbook_undergrad%20F2019-DC.pdf
 contacts:
-- type: Dean
+- type: Dean/Chair/DUS
   name: Mónica Ponce de León
   email: mpdl@princeton.edu
 - type: Associate Dean
-  name: Paul Lewis
-  email: paul@ltlarchitects.com
-- type: Director of Undergraduate Studies
-  name: Mario I. Gandelsonas
-  email: mgndlsns@princeton.edu
+  name: Michael Meredith
+  email: mm0@princeton.edu
+description: |-
+  The undergraduate program at the School of Architecture is known for its rigorous and interdisciplinary approach to pre-professional education. The four-year undergraduate program leads to an A.B. with a major in architecture and offers an introduction to the discipline of architecture within the framework of a liberal arts curriculum. In addition to studying design and the history and theory of architecture and urbanism, undergraduates engage a range of disciplines that contribute to an architect's knowledge and vision, including courses in architectural analysis, representation, computing, and building technologies. Such a broad academic program also prepares students for a graduate program in architecture and other related disciplines such as landscape architecture, urban planning, civil engineering, art history and the visual arts.
 req_list:
 - name: Prerequisites
   max_counted: 1

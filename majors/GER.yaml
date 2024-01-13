@@ -14,9 +14,8 @@ contacts:
 - type: Director of Undergraduate Studies
   name: Thomas Levin
   email: tylevin@princeton.edu
-- type: Director of Undergraduate Studies
-  name: Johannes Wankhammer
-  email: jw54@princeton.edu
+description: |-
+  The German department offers introductory and advanced courses taught in both English and German that explore the wide range of literature, history, philosophy, culture, media and art of the groups, confederations and nations who have spoken German from the Middle Ages to the present. Given the centrality of the German language to the discipline, we also offer courses at all levels in German language and culture which have as their goal the development of proficiency in German, understood as the ability to interact clearly and without explicit preparation in spontaneous communicative circumstances, speak with native speakers on general topics without straining communication, understand complex, concrete and abstract texts, and write on a wide variety of subjects at an analytical level.
 req_list:
 - name: Prerequisites
   max_counted: 1

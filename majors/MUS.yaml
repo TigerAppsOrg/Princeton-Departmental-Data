@@ -3,27 +3,19 @@ type: Major
 name: Music
 code: MUS
 degree: AB
-explanation: 'The Department of Music aims to give students a broad foundation for
-  making, performing, studying, and writing about music. As part of the major, students
-  pursue work in two loosely defined areas: Culture and Criticism (C&C) and Materials
-  and Making (M&M). M&M encompasses topics usually explored in hands-on, exploratory
-  ways, such as composition, improvisation, theory, analysis, and electronic music.
-  The C&C area focuses on the scholarly study of music, from historical and formalist
-  analysis to cognitive science and ethnography. Whether our concentrators ultimately
-  choose to make music, to research and write about it, or do both, they are encouraged
-  to develop independent work that moves across traditional disciplinary or methodological
-  boundaries.'
 urls:
 - https://ua.princeton.edu/academic-units/department-music
 - https://music.princeton.edu/program-study
 - https://music.princeton.edu/sites/default/files/ua_department_of_music_2020.pdf
 contacts:
 - type: Chair
-  name: Wendy Heller
-  email: wbheller@princeton.edu
+  name: Daniel L. Trueman
+  email: dtrueman@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Donnacha M. Dennehy
-  email: donnacha@princeton.edu
+  name: Gavin Steingo
+  email: gsteingo@princeton.edu
+description: |-
+  The Department of Music aims to give students a broad foundation for making, performing, studying and writing about music. As part of the major, students pursue work in two loosely defined areas: Culture and Criticism (C&C) and Materials and Making (M&M). M&M encompasses topics usually explored in hands-on, exploratory ways, such as composition, improvisation, theory, analysis and electronic music. The C&C area focuses on the scholarly study of music, from historical and formalist analysis to cognitive science and ethnography. Whether our majors ultimately choose to make music, to research and write about it, or do both, they are encouraged to develop independent work that moves across traditional disciplinary or methodological boundaries. In more prosaic terms, we want our majors to discover a passion for what they are doing, while also learning how that passion aligns with developing abilities.
 req_list:
 - name: Prerequisites
   max_counted: 1

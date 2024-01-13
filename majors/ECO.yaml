@@ -13,6 +13,8 @@ contacts:
 - type: Director of Undergraduate Studies
   name: Smita B. Brunnermeier
   email: smita@princeton.edu
+description: |-
+  Economic analysis plays a central role in many disciplines within the social sciences. It has three main branches: macroeconomics provides the language and tools for analyzing economic policy and aggregate economic outcomes; microeconomics offers a framework for understanding interactions among individuals or organizations and the role that incentives and information play in these interactions; and econometrics confronts macroeconomic and microeconomic theories with data. The economics department trains students in each of these three branches of economics and enables them to apply this understanding to problems within one or more subfields of economics (such as monetary economics, international finance, development economics, industrial organization, public finance, health economics, environmental economics, political economy, labor economics and international trade).
 req_list:
 - name: Prerequisites
   max_counted: 1

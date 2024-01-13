@@ -9,14 +9,13 @@ urls:
 - https://geosciences.princeton.edu/sites/geosciences/files/media/information_and_departmental_plan_of_study-revised-02.pdf
 contacts:
 - type: Chair
-  name: Bess B. Ward
-  email: bbw@princeton.edu
-- type: Associate Chair
-  name: Frederik J. Simons
-  email: fjsimons@princeton.edu
+  name: Thomas S. Duffy
+  email: duffy@Princeton.edu
 - type: Director of Undergraduate Studies
-  name: Adam C. Maloof
-  email: maloof@princeton.edu
+  name: Satish C. Myneni
+  email: smyneni@Princeton.edu
+description: |-
+  Geosciences is a unique blend of lab experiments, field observation, data analysis and computer modeling. Courses in geosciences apply principles of biology, chemistry, physics, computer science and mathematics to real Earth problems, deal with length scales from global to atomic and consider timescales from billions of years to less than a second. The flexible academic program allows students to develop individualized courses of study.
 req_list:
 - name: Prerequisites
   max_counted: 1

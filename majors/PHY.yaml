@@ -8,11 +8,13 @@ urls:
 - https://phy.princeton.edu/
 contacts:
 - type: Chair
-  name: Herman L. Verlinde
-  email: verlinde@princeton.edu
+  name: James D. Olsen
+  email: jolsen@princeton.edu
 - type: Director of Undergraduate Studies
-  name: William Jones
-  email: wcjones@princeton.edu
+  name: Waseem S. Bakr
+  email: wbakr@princeton.edu
+description: |-
+  The physics department offers a comprehensive program with the flexibility to accommodate students with a range of interests. Those students wishing to maximize their preparation for graduate school can choose from a variety of advanced-level courses. The requirements of the core curriculum, however, are such that students with diverse interests can take a considerable course load outside the department. Thus, in addition to those students planning to enter graduate school in physics, the department encourages majors with career goals in such areas as engineering physics, law, medicine, materials science and teaching.
 req_list:
 - name: Prerequisites
   max_counted: 1

@@ -11,8 +11,15 @@ contacts:
   name: Alan W. Patten
   email: apatten@princeton.edu
 - type: Director of Undergraduate Studies
-  name: John Kastellec
-  email: jkastell@princeton.edu
+  name: Matias Iaryczower
+  email: miaryc@princeton.edu
+description: |-
+  The Department of Politics expects students to accomplish each of the following key learning goals by the time of graduation:
+  Show command of the language of political science and politics in several of its subfields.
+  Understand the methods commonly used in several of its subfields.
+  Learn the material for one subfield at a level of expertise and practical application necessary to understand the scholarly discourse.
+  Command a set of tools appropriate to conduct independent and original research in one subfield. These tools differ by subfield (see below).
+  Understand the political, historical, institutional context pertaining to a particular topic of research sufficiently to conduct independent and original research in that subfield.
 req_list:
 - name: Prerequisites
   max_counted: 1

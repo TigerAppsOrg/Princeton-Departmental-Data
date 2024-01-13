@@ -10,9 +10,14 @@ contacts:
 - type: Chair
   name: Pedro Meira Monteiro
   email: pmeira@princeton.edu
-- type: Director of Undergraduate Studies
-  name: Javier E. Guerrero
-  email: jg17@princeton.edu
+- type: Chair (acting)
+  name: Christina H. Lee
+  email: chrislee@princeton.edu
+- type: Director of Undergraduate Studies (interim)
+  name: Rafael Cesar
+  email: rafaelcesar@princeton.edu
+description: |-
+  More than half a billion people across five continents speak Spanish or Portuguese as their first language, and in the United States, with more than 38 million Spanish speakers, the Hispanic legacy is embedded in myriad aspects of American politics, arts and culture. Our community of scholars studies and highlights the importance and influence of the Spanish, Latin American and Luso-Afro-Brazilian histories, cultures and languages in the Americas, Europe, Africa and Asia, from the Middle Ages and the Renaissance to our globalized present.
 req_list:
 - name: Concentration
   max_counted: 1

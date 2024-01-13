@@ -8,11 +8,13 @@ urls:
 - https://aas.princeton.edu/academics/undergraduate-program/concentration-requirements
 contacts:
 - type: Chair
-  name: Eddie S. Glaude Jr.
-  email: esglaude@princeton.edu
+  name: Tera W. Hunter
+  email: thunter@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Naomi Murakawa
-  email: murakawa@princeton.edu
+  name: Kinohi Nishikawa
+  email: kinohin@princeton.edu
+description: |-
+  The Department of African American Studies (AAS) offers an undergraduate major in the study of the historic achievements and struggles of African-descended people in the United States and their relationship to African and African-descended people around the world. Drawing on methodologies from the humanities and social sciences and spanning areas of inquiry across different fields, the AAS major emphasizes the importance of interdisciplinary research and analysis to its scholarly mission.
 req_list:
 - name: Prerequisites
   max_counted: 1

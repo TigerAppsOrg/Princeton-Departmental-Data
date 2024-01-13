@@ -8,11 +8,16 @@ urls:
 - https://philosophy.princeton.edu/undergraduate/concentration-requirements
 contacts:
 - type: Chair
-  name: Gideon Rosen
-  email: grosen@princeton.edu
-- type: Director of Undergraduate Stuides
+  name: Benjamin C. Morison
+  email: bmorison@princeton.edu
+- type: Director of Undergraduate Stuides (acting) (fall)
   name: John P. Burgess
   email: jburgess@princeton.edu
+- type: Director of Undergraduate Studies (spring)
+  name: Desmond P. Hogan
+  email: deshogan@princeton.edu
+description: |-
+  Philosophy is concerned with questions, many debated since antiquity, that are too big or too contentious to allow their just being handed off to experts in a particular branch of science or scholarship. What distinguishes philosophical thinking about such questions is a commitment to reasoned argument and the evidence of experience, without appeal to tradition, authority or the like, and to always being prepared to listen to arguments from the other side. Majors are offered a wide range of introductory and advanced courses in all areas of the subject, including metaphysics and epistemology (big questions about what is or must be and how we can know), as well as ethics and theory of value, logic and philosophy of science, and the history of philosophy. Students are required to do work in their choice of at least three different areas. But courses in all areas emphasize learning to write in a way that will not advocate a view without offering an argument for it, and that exhibits such virtues as clarity in enunciating whatever views are considered, and accuracy in reporting the arguments of other writers.
 req_list:
 - name: Prerequisites
   max_counted: 1

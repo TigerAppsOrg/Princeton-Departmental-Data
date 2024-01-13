@@ -3,14 +3,6 @@ type: Major
 name: Slavic Languages and Literatures
 code: SLA
 degree: AB
-explanation: A minimum of eight departmental courses is required. Four upper-level
-  (200 and above) courses must be within the department, two of which must be from
-  the core survey courses (SLA 219, 220, 221); the other four courses may be from
-  cognate areas depending on the student's particular interests. For example, if the
-  major field of concentration is 19th-century prose, the program might include courses
-  from French or German literature. Students with a strong interest in Russian and
-  Soviet studies might take area courses in the Program in Russian and Eurasian Studies
-  such as Russian history, politics, anthropology, or sociology.
 urls:
 - https://ua.princeton.edu/academic-units/department-slavic-languages-and-literatures
 - https://slavic.princeton.edu/undergraduate-program/program-requirements
@@ -18,9 +10,14 @@ contacts:
 - type: Chair
   name: Ilya Vinitsky
   email: vinitsky@princeton.edu
+- type: Chair (acting)
+  name: Michael A. Wachtel
+  email: wachtel@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Katherine M.H. Reischl
-  email: kreischl@princeton.edu
+  name: Elena Fratto
+  email: efratto@princeton.edu
+description: |-
+  The Slavic department welcomes students who are interested in developing a critically informed appreciation for the literature and culture of Russia and the Slavic world. Our majors attain a high level of proficiency that allows them to work with both primary and secondary sources in the target language (BCS, Czech, Polish, Russian, Ukrainian).
 req_list:
 - name: Prerequisites
   max_counted: 1

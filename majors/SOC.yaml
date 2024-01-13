@@ -14,6 +14,8 @@ contacts:
 - type: Director of Undergraduate Studies
   name: Timothy Nelson
   email: tjnelson@princeton.edu
+description: |-
+  Sociology at Princeton offers a cutting-edge undergraduate major for people interested in the social dimensions of politics, economics, history, psychology and demography. The major encourages students to engage in cross-disciplinary thinking even as it provides a thorough grounding in a single field. Both quantitative and qualitative approaches to social science are utilized by our students and faculty.
 req_list:
 - name: Prerequisites
   max_counted: 1

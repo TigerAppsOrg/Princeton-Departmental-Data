@@ -11,8 +11,10 @@ contacts:
   name: Anna M. Shields
   email: ashields@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Ksenia Chizhova
-  email: kchizhova@princeton.edu
+  name: Xin Wen
+  email: xinwen@princeton.edu
+description: |-
+  In the contemporary global configuration, East Asia is a center of culture, economics, science and technology. The Department of East Asian Studies (EAS) offers a wide range of undergraduate classes at the highest standards of academic, linguistic and cultural competence focused on China, Korea and Japan. While the EAS major allows in-depth study and first-hand experience of East Asia, the minor programs in Chinese, Japanese or Korean language encourage students to combine their interests in East Asian languages and civilizations with other majors they pursue at Princeton.
 req_list:
 - name: Prerequisites
   max_counted: 1
