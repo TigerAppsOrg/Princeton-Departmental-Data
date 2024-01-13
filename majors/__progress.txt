@@ -21,9 +21,6 @@ PHY
 PSY
 SOC
 
-Group 4:
-SPO
-
 Group 5:
 COS-AB
 COS-BSE
