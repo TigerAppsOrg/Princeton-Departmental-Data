@@ -1,5 +1,4 @@
 Group 1:
-COM
 EAS
 
 Group 2: 
