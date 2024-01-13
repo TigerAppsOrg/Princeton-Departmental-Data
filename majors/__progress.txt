@@ -1,5 +1,4 @@
 Group 1:
-ART
 CLA
 COM
 EAS
