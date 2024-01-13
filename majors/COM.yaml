@@ -156,11 +156,13 @@ req_list:
     min_needed: 2
     max_counted: 1
     course_list:
-    - CWR ***
-    - ART ***
     - VIS ***
+    - ART ***
+    - THR ***
     - MTD ***
-    - THR *** 
+    - DAN ***
+    - MUS ***
+    - CWR ***
 - name: Independent Work
   max_counted:
   min_needed:

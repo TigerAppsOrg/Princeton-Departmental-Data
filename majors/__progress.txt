@@ -22,7 +22,6 @@ PSY
 SOC
 
 Group 4:
-FIT
 SPO
 NES
 
