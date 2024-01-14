@@ -1,4 +1,4 @@
-Group 2: 
+Group 1: 
 ENG
 HIS
 MAT
@@ -9,7 +9,7 @@ REL
 SLA
 SPI
 
-Group 3:
+Group 2:
 AST
 CHM
 ECO
@@ -21,11 +21,8 @@ PHY
 PSY
 SOC
 
-Group 5:
-COS-AB
-COS-BSE
+Group 3:
 CBE
 CEE
-ECE
 MAE
 ORF
