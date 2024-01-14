@@ -5,7 +5,7 @@
   "main": "scripts/preprocess.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "listify": "node scripts/listifier.js scripts/a.txt"
+    "listify": "node scripts/listifier.js scripts/list.txt"
   },
   "author": "TigerApps",
   "license": "MIT",
