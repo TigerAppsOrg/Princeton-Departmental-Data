@@ -11,7 +11,6 @@ SPI
 
 Group 2:
 AST
-CHM
 ECO
 EEB
 GEO
