@@ -17,7 +17,6 @@ EEB
 GEO
 MOL
 NEU
-PHY
 PSY
 SOC
 
