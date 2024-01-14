@@ -10,7 +10,6 @@ SLA
 SPI
 
 Group 2:
-ECO
 EEB
 GEO
 MOL
