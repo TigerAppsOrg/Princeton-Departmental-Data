@@ -1,10 +1,26 @@
 PHI
 POL
 SPI
-
-EEB
 PSY
-
 CBE
 CEE
 MAE
+
+- name: Junior Independent Work
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+
+  no_req:
+- name: Senior Independent Work
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+
+  no_req:
+- name: Senior Departmental Examination
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+
+  no_req:
