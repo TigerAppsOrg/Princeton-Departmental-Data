@@ -6,7 +6,6 @@ degree: AB
 urls:
 - https://ua.princeton.edu/academic-units/department-geosciences
 - https://geosciences.princeton.edu/undergraduate/programs-of-study
-- https://geosciences.princeton.edu/sites/geosciences/files/media/information_and_departmental_plan_of_study-revised-02.pdf
 contacts:
 - type: Chair
   name: Thomas S. Duffy
@@ -17,3 +16,273 @@ contacts:
 description: |-
   Geosciences is a unique blend of lab experiments, field observation, data analysis and computer modeling. Courses in geosciences apply principles of biology, chemistry, physics, computer science and mathematics to real Earth problems, deal with length scales from global to atomic and consider timescales from billions of years to less than a second. The flexible academic program allows students to develop individualized courses of study.
 req_list:
+- name: Prerequisites
+  min_needed: ALL
+  max_counted: 1
+  completed_by_semester: 4
+  explanation: |-
+    Prerequisites for declaring the geosciences major vary by track, but all require MAT 104, COS 126 or SML 201 and either GEO 202 or GEO 203.
+  req_list:
+  - name: Math
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - MAT 104
+  - name: Computer Science
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - COS 126
+    - SML 201
+- name: Statistics
+  min_needed: 1
+  max_counted: 1
+  completed_by_semester: 6
+  explanation: |-
+    By the end of junior year, students in every specialization must satisfy the statistics requirement by taking GEO 422 (or substituting ORF 245, ECO 202, PSY 251, or SPI 200).
+  course_list:
+  - GEO 422
+  - ORF 245
+  - ECO 202
+  - PSY 251
+  - SPI 200
+- name: Tracks
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The major in geosciences requires 14 courses. In addition to the three prerequisites and the statistics requirement, each specialization in the geosciences major requires four core math and science requirements, two core GEO requirements and four GEO electives. The particular requirements are determined by the student's track of study.
+  req_list:
+  - name: Microbiology Track (MB)
+    min_needed: ALL
+    max_counted: 1
+    explanation: |-
+      Core math and science requirements are EEB 211, MOL 214, CHM 201, and CHM 202; core GEO requirements are GEO 363 and GEO 417. Students then choose four electives from the following list: GEO 362, GEO 416, GEO 418, GEO 428, MOL 345, MOL 380.
+    req_list:
+    - name: Prerequisite
+      min_needed: 1
+      max_counted: 1
+      completed_by_semester: 4
+      course_list:
+      - GEO 202
+    - name: Core Math and Science
+      min_needed: ALL
+      max_counted: 1
+      course_list:
+      - EEB 211
+      - MOL 214
+      - CHM 201
+      - CHM 202
+    - name: Core Geo
+      min_needed: 2
+      max_counted: 1
+      course_list:
+      - GEO 363
+      - GEO 417
+    - name: Electives
+      min_needed: 4
+      max_counted: 1
+      course_list:
+      - GEO 362
+      - GEO 416
+      - GEO 418
+      - GEO 428
+      - MOL 345
+      - MOL 380
+  - name: Environmental Geochemistry Track (EC)
+    min_needed: ALL
+    max_counted: 1
+    explanation: |-
+      Core math and science requirements are MOL 214, CHM 201, CHM 202, and PHY 103; core GEO requirements are GEO 363 and GEO 360. Students then choose four electives from the following list: GEO 361, GEO 369, GEO 370, GEO 417, GEO 418, GEO 428, GEO 470, FRS, CHM 301, CEE 311, CEE 306/307, CEE 471.
+    req_list:
+    - name: Prerequisite
+      min_needed: 1
+      max_counted: 1
+      completed_by_semester: 4
+      course_list:
+      - GEO 202
+    - name: Core Math and Science
+      min_needed: ALL
+      max_counted: 1
+      course_list:
+      - MOL 214
+      - CHM 201
+      - CHM 202
+      - PHY 103
+    - name: Core Geo
+      min_needed: 2
+      max_counted: 1
+      course_list:
+      - GEO 363
+      - GEO 360
+    - name: Electives
+      min_needed: 4
+      max_counted: 1
+      course_list:
+      - GEO 361
+      - GEO 369
+      - GEO 370
+      - GEO 417
+      - GEO 418
+      - GEO 428
+      - GEO 470
+      - CHM 301
+      - CEE 311
+      - CEE 306
+      - CEE 307
+      - CEE 471
+  - name: Oceans, Atmosphere, and Climate Track (OA)
+    min_needed: ALL
+    max_counted: 1
+    explanation: |-
+      Core math and science requirements are MAT 201, MAT 202, CHM 201, and PHY 103; core GEO requirements are GEO 361 and GEO 425. Students then choose four electives from the following list: GEO 362, GEO 363, GEO 366, GEO 367, GEO 368, GEO 427, GEO 428, GEO 203, FRS, MAE 305.
+    req_list:
+    - name: Prerequisite
+      min_needed: 1
+      max_counted: 1
+      completed_by_semester: 4
+      course_list:
+      - GEO 202
+    - name: Core Math and Science
+      min_needed: ALL
+      max_counted: 1
+      course_list:
+      - MAT 201
+      - MAT 202
+      - CHM 201
+      - PHY 103
+    - name: Core Geo
+      min_needed: 2
+      max_counted: 1
+      course_list:
+      - GEO 361
+      - GEO 425
+    - name: Electives
+      min_needed: 4
+      max_counted: 1
+      course_list:
+      - GEO 362
+      - GEO 363
+      - GEO 366
+      - GEO 367
+      - GEO 368
+      - GEO 427
+      - GEO 428
+      - GEO 203
+      - MAE 305
+  - name: Geology and Earth Track (GE)
+    min_needed: ALL
+    max_counted: 1
+    explanation: |-
+      Core math and science requirements are MAT 202, CHM 201, CHM 202, and PHY 103; core GEO requirements are GEO 362 and GEO 464. Students then choose four electives from the following list: GEO 378, GEO 372, GEO 370, GEO 373, GEO 365, GEO 202, FRS, MAE 305, MAE 221.
+    req_list:
+    - name: Prerequisite
+      min_needed: 1
+      max_counted: 1
+      completed_by_semester: 4
+      course_list:
+      - GEO 203
+    - name: Core Math and Science
+      min_needed: ALL
+      max_counted: 1
+      course_list:
+      - MAT 202
+      - CHM 201
+      - CHM 202
+      - PHY 103
+    - name: Core Geo
+      min_needed: 2
+      max_counted: 1
+      course_list:
+      - GEO 362
+      - GEO 464
+    - name: Electives
+      min_needed: 4
+      max_counted: 1
+      course_list:
+      - GEO 378
+      - GEO 372
+      - GEO 370
+      - GEO 373
+      - GEO 365
+      - GEO 202
+      - MAE 305
+      - MAE 221
+  - name: Geophysics Track (GP)
+    min_needed: ALL
+    max_counted: 1
+    explanation: |-
+      Core math and science requirements are MAT 201, MAT 202, PHY 103 or 105, and PHY 104 or 106; core GEO requirements are GEO 371 or GEO 422 and MAE 305. Students then choose four electives from the following list:  GEO 419, GEO 424, GEO 441, GEO 422, GEO 464, GEO 370, GEO 202, FRS.
+    req_list:
+    - name: Prerequisite
+      min_needed: 1
+      max_counted: 1
+      completed_by_semester: 4
+      course_list:
+      - GEO 203
+    - name: Core Math and Science
+      min_needed: ALL
+      max_counted: 1
+      req_list:
+      - name: Math
+        min_needed: 2
+        max_counted: 1
+        course_list:
+        - MAT 201
+        - MAT 202
+      - name: Mechanics
+        min_needed: 1
+        max_counted: 1
+        course_list:
+        - PHY 103
+        - PHY 105
+      - name: E&M
+        min_needed: 1
+        max_counted: 1
+        course_list:
+        - PHY 104
+        - PHY 106
+    - name: Core Geo
+      min_needed: 2
+      max_counted: 1
+      req_list:
+      - name: GEO
+        min_needed: 1
+        max_counted: 1
+        course_list:
+        - GEO 371
+        - GEO 422
+      - name: MAE
+        min_needed: 1
+        max_counted: 1
+        course_list:
+        - MAE 305
+    - name: Electives
+      min_needed: 4
+      max_counted: 1
+      course_list:
+      - GEo 419
+      - GEO 424
+      - GEO 441
+      - GEO 422
+      - GEO 464
+      - GEO 370
+      - GEO 202
+- name: Junior Independent Work
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    In addition to these courses, the Junior Colloquium is a weekly luncheon meeting, convened during the fall term, to teach juniors basic techniques in proposal writing and analytical computing. This one-hour colloquium is mandatory for all geosciences majors.
+    All juniors are required to conduct independent research in both the fall and spring terms. Each term, this work includes a written progress report, final written report and a poster presentation of the student's final JP work.  Faculty members will evaluate student poster presentations and submit feedback and grades. Although geoengineers are not required to conduct JP research, some geoengineers have conducted independent research in geosciences or engineering for course credit.
+  no_req:
+- name: Senior Thesis
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The senior research thesis project involves a more in-depth study in the chosen topic and is a full-year effort. Students should budget their time accordingly. Each geosciences senior will choose an appropriate faculty member as their senior thesis adviser in consultation with the departmental adviser and the faculty members who support the student's interests. The student is expected to conduct research in the adviser's laboratory and work closely with the adviser and/or graduate students/postdoctoral fellows.
+  no_req:
+- name: Senior Departmental Examination
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The comprehensive examination in the department consists of an oral examination based on the senior thesis and related topics.
+  no_req:
