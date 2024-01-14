@@ -36,6 +36,7 @@ req_list:
 - name: Coursework
   min_needed: 9
   max_counted: 1
+  double_counting_allowed: true
   explanation: |-
     In total: There are six required distributions, plus the junior seminar (ENG 300), plus three additional English courses, for the 10 required courses for the major.
   course_list:

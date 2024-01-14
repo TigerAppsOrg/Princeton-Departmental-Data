@@ -5,7 +5,8 @@ code: HIS
 degree: AB
 urls:
 - https://ua.princeton.edu/academic-units/department-history
-- https://history.princeton.edu/academics/undergraduate
+- https://history.princeton.edu/undergraduate/current-majors/distribution-reqs
+- https://history.princeton.edu/undergraduate/current-majors/geographical-distribution-requirement
 contacts:
 - type: Chair
   name: Angela N. Creager
@@ -16,3 +17,477 @@ contacts:
 description: |-
   The history major provides foundational and advanced undergraduate courses on the study of the past. History courses range over the past two thousand years of human experience in Africa, Asia, Europe and the Americas. Students can learn about these areas of the globe and periods of the past from a variety of different perspectives including cultural, economic, environmental, ethnic, gender, intellectual, political and social history. Students have the opportunity to pursue independent work in two junior papers and a senior thesis. Within the context of a research seminar in the first semester of their junior year, students learn the basic tools of historical research such as finding a research subject, formulating a historical question and canvasing an archive. In the second semester of their junior year, students pursue a junior paper in consultation with a faculty member and independent of the seminar. In their senior year, students deploy these skills in research and writing a 75-page senior thesis based on original historical research. History majors graduate from Princeton with a sense of the depth and the breadth of the historical study of the human past and with the capacity to express themselves on a range of issues in clear and analytic prose.
 req_list:
+- name: Prerequisites
+  min_needed: 1
+  max_counted: 1
+  double_counting_allowed: true
+  completed_by_semester: 4
+  explanation: |-
+    For the Class of 2025 and beyond, students are required to take and pass one course at the 200 or 300 level; a second course is recommended but not required.
+  course_list:
+  - HIS 2**
+  - HIS 3**
+- name: Junior Seminar
+  completed_by_semester: 5
+  min_needed: 1
+  max_counted: 1
+  course_list:
+  - HIS 400
+- name: Coursework
+  min_needed: 10
+  max_counted: 1
+  double_counting_allowed: true
+  explanation: |-
+    Departmental regulations stipulate that undergraduates must pass at least 10 courses, including HIS 400, in order to receive the A.B. 
+    degree.
+    The department allows students to take courses in other departments that will add depth and variety to their study of history.  When taken during the junior and senior years, up to two (2) such courses may be counted as departmental courses, i.e., cognates, provided they contribute significantly to the student's major and/or independent work, and are substantially historical in their content. Cross-listed courses, such as CLA 217 and NES 201, are not cognates; they are automatically considered departmental courses. The designation of a course as a cognate must be approved by the director of undergraduate studies. The designation of a cognate course as a departmental should take place during the enrollment/advising period but no later than the University's "deadline for 'free course' change" (approximately two weeks after the beginning of the semester). Courses cannot be declared cognates retroactively, nor can they be changed later to non-departmentals. Cognate courses do not satisfy distribution requirements; however, they count in the determination of departmental standing and honors.
+  course_list:
+  - HIS ***
+- name: Thematic Areas
+  min_needed: ALL
+  max_counted: 1
+  explanation: |-
+    Starting with the class of 2023, students must take at least one course in each of the following four thematic areas: Knowledge & Belief (KB), Power & Conflict (PC), Pre-Modern, pre-1700 (PM), Race & Difference (RD).
+  req_list:
+  - name: Knowledge & Belief (KB)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - AAS 426
+    - AMS 306
+    - AMS 399
+    - CLA 326
+    - EAS 279
+    - EAS 321
+    - EAS 326
+    - ECS 350
+    - EGR 277
+    - HIS 201
+    - HIS 205
+    - HIS 210
+    - HIS 211
+    - HIS 212
+    - HIS 241
+    - HIS 250
+    - HIS 278
+    - HIS 281
+    - HIS 292
+    - HIS 293
+    - HIS 294
+    - HIS 295
+    - HIS 298
+    - HIS 342
+    - HIS 352
+    - HIS 359
+    - HIS 360
+    - HIS 362
+    - HIS 366
+    - HIS 369
+    - HIS 375
+    - HIS 379
+    - HIS 385
+    - HIS 389
+    - HIS 391
+    - HIS 392
+    - HIS 393
+    - HIS 394
+    - HIS 395
+    - HIS 396
+    - HIS 397
+    - HIS 398
+    - HIS 403
+    - HIS 412
+    - HIS 413
+    - HIS 414
+    - HIS 415
+    - HIS 418
+    - HIS 423
+    - HIS 425
+    - HIS 427
+    - HIS 428
+    - HIS 429
+    - HIS 431
+    - HIS 432
+    - HIS 434
+    - HIS 437
+    - HIS 448
+    - HIS 449
+    - HIS 452
+    - HIS 454
+    - HIS 472
+    - HIS 474
+    - HIS 480
+    - HIS 481
+    - HIS 488
+    - HIS 489
+    - HIS 492
+    - HIS 493
+    - HIS 494
+    - HIS 495
+    - HIS 496
+    - HIS 498
+    - HSI 424
+    - HUM 248
+    - HUM 335
+    - HUM 412
+    - JDS 232
+    - JDS 324
+    - MED 227
+    - NES 220
+    - NES 317
+    - NES 369
+    - REL 255
+    - REL 356
+    - REL 357
+    - SPI 364
+    - SPI 466
+    - STC 297
+  - name: Power & Conflict (PC)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - AAS 367
+    - AAS 477
+    - AMS 342
+    - AMS 361
+    - AMS 395
+    - ART 329
+    - COM 376
+    - EAS 218
+    - EAS 280
+    - EAS 321
+    - FRE 480
+    - HIS 202
+    - HIS 207
+    - HIS 208
+    - HIS 212
+    - HIS 214
+    - HIS 225
+    - HIS 241
+    - HIS 249
+    - HIS 262
+    - HIS 267
+    - HIS 271
+    - HIS 280
+    - HIS 281
+    - HIS 282
+    - HIS 283
+    - HIS 293
+    - HIS 301
+    - HIS 303
+    - HIS 304
+    - HIS 306
+    - HIS 307
+    - HIS 315
+    - HIS 316
+    - HIS 317
+    - HIS 322
+    - HIS 324
+    - HIS 325
+    - HIS 332
+    - HIS 333
+    - HIS 341
+    - HIS 342
+    - HIS 343
+    - HIS 344
+    - HIS 345
+    - HIS 350
+    - HIS 352
+    - HIS 358
+    - HIS 360
+    - HIS 361
+    - HIS 362
+    - HIS 363
+    - HIS 364
+    - HIS 366
+    - HIS 367
+    - HIS 370
+    - HIS 372
+    - HIS 373
+    - HIS 374
+    - HIS 376
+    - HIS 377
+    - HIS 379
+    - HIS 380
+    - HIS 383
+    - HIS 384
+    - HIS 388
+    - HIS 390
+    - HIS 401
+    - HIS 402
+    - HIS 403
+    - HIS 404
+    - HIS 405
+    - HIS 406
+    - HIS 409
+    - HIS 410
+    - HIS 411
+    - HIS 412
+    - HIS 417
+    - HIS 418
+    - HIS 420
+    - HIS 421
+    - HIS 425
+    - HIS 428
+    - HIS 429
+    - HIS 431
+    - HIS 432
+    - HIS 434
+    - HIS 438
+    - HIS 439
+    - HIS 440
+    - HIS 441
+    - HIS 443
+    - HIS 445
+    - HIS 446
+    - HIS 450
+    - HIS 459
+    - HIS 468
+    - HIS 478
+    - HIS 479
+    - HIS 480
+    - HIS 484
+    - HIS 487
+    - HIS 488
+    - JDS 324
+    - NES 201
+    - NES 338
+    - NES 390
+    - NES 433
+    - NES 437
+    - SPI 364
+    - SPI 466
+    - URB 392
+  - name: Pre-Modern, pre-1700 (PM)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - AMS 342
+    - ART 478
+    - CLA 216
+    - CLA 217
+    - CLA 218
+    - CLA 219
+    - CLA 220
+    - CLA 231
+    - CLA 324
+    - CLA 326
+    - CLA 327
+    - EAS 206
+    - EAS 218
+    - EAS 253
+    - EAS 280
+    - EAS 409
+    - EAS 415
+    - HIS 205
+    - HIS 207
+    - HIS 210
+    - HIS 211
+    - HIS 222
+    - HIS 225
+    - HIS 294
+    - HIS 303
+    - HIS 314
+    - HIS 324
+    - HIS 332
+    - HIS 343
+    - HIS 344
+    - HIS 367
+    - HIS 371
+    - HIS 421
+    - HIS 423
+    - HIS 424
+    - HIS 437
+    - HIS 452
+    - HIS 462
+    - HIS 491
+    - HIS 495
+    - HUM 248
+    - HUM 320
+    - HUM 372
+    - HUM 412
+    - JDS 232
+    - MED 227
+    - NES 220
+    - NES 316
+    - NES 350
+    - NES 369
+    - NES 390
+    - NES 437
+  - name: Race & Difference (RD)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - AAS 313
+    - AAS 331
+    - AAS 352
+    - AAS 366
+    - AAS 367
+    - AAS 426
+    - AAS 477
+    - AMS 342
+    - AMS 395
+    - AMS 442
+    - EAS 415
+    - HIS 202
+    - HIS 208
+    - HIS 214
+    - HIS 250
+    - HIS 270
+    - HIS 271
+    - HIS 282
+    - HIS 306
+    - HIS 307
+    - HIS 314
+    - HIS 315
+    - HIS 316
+    - HIS 322
+    - HIS 332
+    - HIS 333
+    - HIS 334
+    - HIS 341
+    - HIS 345
+    - HIS 350
+    - HIS 359
+    - HIS 364
+    - HIS 371
+    - HIS 372
+    - HIS 373
+    - HIS 376
+    - HIS 380
+    - HIS 383
+    - HIS 384
+    - HIS 388
+    - HIS 389
+    - HIS 390
+    - HIS 393
+    - HIS 395
+    - HIS 397
+    - HIS 401
+    - HIS 402
+    - HIS 405
+    - HIS 407
+    - HIS 409
+    - HIS 411
+    - HIS 415
+    - HIS 420
+    - HIS 439
+    - HIS 441
+    - HIS 443
+    - HIS 447
+    - HIS 456
+    - HIS 459
+    - HIS 462
+    - HIS 465
+    - HIS 466
+    - HIS 468
+    - HIS 471
+    - HIS 472
+    - HIS 479
+    - HIS 484
+    - HIS 485
+    - HIS 494
+    - HIS 496
+    - REL 356
+    - URB 384
+- name: Geographical Distribution Requirements
+  min_needed: 2
+  max_counted: 1
+  double_counting_allowed: true
+  explanation: |-
+    In addition to the thematic areas, at least two (2) courses must also fulfill the Geographical Distribution Requirements that are principally focused on Africa, Asia, Latin America or the Middle East. These courses may double-count with the thematic courses.
+  course_list:
+  - AAS 313
+  - ART 361
+  - EAS 206
+  - EAS 218
+  - EAS 240
+  - EAS 253
+  - EAS 279
+  - EAS 280
+  - EAS 309
+  - EAS 321
+  - EAS 326
+  - EAS 340
+  - EAS 409
+  - EAS 415
+  - HIS 201
+  - HIS 205
+  - HIS 207
+  - HIS 208
+  - HIS 210
+  - HIS 225
+  - HIS 241
+  - HIS 249
+  - HIS 250
+  - HIS 267
+  - HIS 282
+  - HIS 303
+  - HIS 304
+  - HIS 314
+  - HIS 315
+  - HIS 316
+  - HIS 317
+  - HIS 322
+  - HIS 324
+  - HIS 325
+  - HIS 332
+  - HIS 333
+  - HIS 341
+  - HIS 342
+  - HIS 345
+  - HIS 408
+  - HIS 410
+  - HIS 411
+  - HIS 416
+  - HIS 417
+  - HIS 418
+  - HIS 419
+  - HIS 420
+  - HIS 422
+  - HIS 423
+  - HIS 428
+  - HIS 432
+  - HIS 436
+  - HIS 437
+  - HIS 438
+  - HIS 439
+  - HIS 443
+  - HIS 454
+  - HIS 472
+  - HIS 473
+  - HIS 484
+  - HUM 248
+  - HUM 335
+  - JDS 355
+  - LAS 302
+  - NES 201
+  - NES 316
+  - NES 338
+  - NES 350
+  - NES 369
+  - NES 390
+  - NES 392
+  - NES 433
+  - NES 437
+  - URB 392
+- name: Junior Papers
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    Juniors write two junior papers of roughly 25-30 pages in length, one in each semester.
+    In the fall term of junior year, students are required to enroll in the HIS 400 Junior Seminars. Work in the junior seminar involves exercises in defining a topic for historical research and in identifying and evaluating a body of historical literature. Each student may expect to gain experience in the use of the library and bibliographical sources, to learn the correct technical form for presenting evidence clearly, and to develop a historical presentation convincingly. Students in HIS 400 will have the opportunity to choose from a number of seminars devoted to historical events or themes of wide importance, such as Irregular Warfare, Space History, Early Native American History, The United States and Latin America, or The Political Uses of American Streets.
+    In the spring term of junior year, in consultation with their adviser, the student selects a topic and writes a research paper on an independent basis. Written work equivalent to that submitted in the first term is required. The two semesters of junior independent work must be focused in two different geographical fields and in two different time periods. Students should consult their advisers about this requirement.
+  no_req:
+- name: Senior Thesis
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The independent work consists of writing a thesis on an approved subject of the student's choice. The thesis usually relies on research in original source materials, but it may also involve reinterpretation of familiar materials.
+  no_req:
+- name: Senior Departmental Examination
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The senior departmental examination in the department consists of an oral examination based on the senior thesis and related topics.
+  no_req:
