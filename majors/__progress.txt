@@ -1,6 +1,5 @@
 ENG
 HIS
-MUS
 PHI
 POL
 REL

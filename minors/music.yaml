@@ -39,15 +39,40 @@ req_list:
   - name: Materials and Making
     min_needed: 1
     max_counted: 1
-    explanation: Please consult director for details.
     course_list:
-      - MUS ***
+    - MUS 106
+    - MUS 204
+    - MUS 209A
+    - MUS 209B
+    - MUS 210
+    - MUS 248
+    - MUS 308
+    - MUS 310
+    - MUS 312
+    - MUS 314
+    - MUS 316
+    - MUS 319
+    - MUS 329
+    - MUS 340
+    - MUS 345
+    - MUS 351
+    - MUS 528
+    - MUS 537
+    - MUS 560
   - name: Culture and Criticism
     min_needed: 1
     max_counted: 1
-    explanation: Please consult director for details.
     course_list:
-      - MUS ***
+    - MUS 203
+    - MUS 223
+    - MUS 230
+    - MUS 232
+    - MUS 238
+    - MUS 240
+    - MUS 242
+    - MUS 248
+    - MUS 262
+    - MUS 350
   - name: MUS Electives
     min_needed: 2
     max_counted: 1
