@@ -1,6 +1,4 @@
-POL
 SPI
-
 CBE
 CEE
 MAE
