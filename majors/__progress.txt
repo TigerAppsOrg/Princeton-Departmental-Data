@@ -25,4 +25,3 @@ Group 3:
 CBE
 CEE
 MAE
-ORF
