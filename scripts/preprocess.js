@@ -132,7 +132,7 @@ const reorder = (req, filename) => {
                     // Check for invalid courses
                     const DEPTS = ['AAS', 'AFS', 'AMS', 'ANT', 'AOS', 'APC', 'ARA', 'ARC', 'ART', 'ASA', 'ASL', 'AST', 'ATL', 'BCS', 'BNG', 'CBE', 'CDH', 'CEE', 'CGS', 'CHI', 'CHM', 'CHV', 'CLA', 'CLG', 'COM', 'COS', 'CSE', 'CWR', 'CZE', 'DAN', 'EAS', 'ECE', 'ECO', 'ECS', 'EEB', 'EGR', 'ENE', 'ENG', 'ENT', 'ENV', 'EPS', 'FIN', 'FRE', 'FRS', 'GEO', 'GER', 'GEZ', 'GHP', 'GLS', 'GSS', 'HEB', 'HIN', 'HIS', 'HLS', 'HOS', 'HUM', 'ITA', 'JDS', 'JPN', 'JRN', 'KOR', 'LAO', 'LAS', 'LAT', 'LIN', 'MAE', 'MAT', 'MED', 'MOD', 'MOG', 'MOL', 'MPP', 'MSE', 'MTD', 'MUS', 'NES', 'NEU', 'ORF', 'PAW', 'PER', 'PHI', 'PHY', 'PLS', 'POL', 'POP', 'POR', 'POR', 'PSY', 'QCB', 'REL', 'RES', 'RUS', 'SAN', 'SAS', 'SLA', 'SML', 'SOC', 'SPA', 'SPI', 'STC', 'SWA', 'THR', 'TPP', 'TRA', 'TUR', 'TWI', 'UKR', 'URB', 'URD', 'VIS', 'WRI', 'ISC', 'LANG']
                     
-                    r[f].forEach(course => {
+                    r['course_list'].forEach(course => {
                         const dept = course.split(' ')[0];
                         if (!DEPTS.includes(dept)) {
                             console.log("CONTENT WARNING -- " + filename + ": " 
@@ -140,13 +140,15 @@ const reorder = (req, filename) => {
                         }
                     });
 
-                    // Sort course_list
+                    // Remove duplicates and sort
+                    r[f] = [...new Set(r[f])];
                     r[f] = r[f].sort();
                 }
 
-                // Sort excluded_course_list
+                // Sort and remove duplicates from excluded_course_list
                 if (f === 'excluded_course_list' && r[f] !== null
                 && r[f].length !== 0) {
+                    r[f] = [...new Set(r[f])];
                     r[f] = r[f].sort();
                 }
 
