@@ -1,7 +1,5 @@
-Group 1: 
 ENG
 HIS
-MAT
 MUS
 PHI
 POL
@@ -9,15 +7,12 @@ REL
 SLA
 SPI
 
-Group 2:
 EEB
 GEO
 MOL
 NEU
 PSY
 SOC
-
-Group 3:
 CBE
 CEE
 MAE
