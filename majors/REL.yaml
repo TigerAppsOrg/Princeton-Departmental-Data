@@ -16,3 +16,47 @@ contacts:
 description: |-
   The Department of Religion at Princeton aims for our students to gain content knowledge with respect to religious traditions, practice, history, ethics and philosophy, across time periods and cultural settings. In addition, we intend for our students to develop an understanding of the history of the academic study of religion and its crucial methodologies and purview. Beyond the inherent value of these mutually constitutive sets of goals, we want the development of this content knowledge and facility with religious studies as a field to cultivate methodological tools that students will take with them into other parts of their academic lives and their eventual careers: an abiding intellectual curiosity; self-motivation and initiative in research; a habit of close reading and critical empathy in the assessment of both secondary and primary sources; facility with questions of race, gender and class; and the ability to make clear, cogent and successful arguments both in writing and in discussion.
 req_list:
+- name: Prerequisites
+  min_needed: 1
+  max_counted: 1
+  double_counting_allowed: true
+  completed_by_semester: 4
+  no_crosslist:
+  explanation: |-
+    Any course offered by the department.
+  course_list:
+  - REL ***
+- name: Program of Study
+  min_needed: 8
+  max_counted: 1
+  explanation: |-
+    Note: Because of how broad the traditions/theme requirements are (and that they are only 3/8 courses, meaning it should be relatively easy to satisfy them somehow) please manually verify these requirements are being met.
+    Majors are required to complete at least nine departmental courses by the end of their senior year. Courses taken prior to declaring a religion major count toward this total. Normally, each term juniors and seniors will take two courses offered by the department.
+    Undergraduate courses in the Department of Religion are classified in two ways: Traditions, and Themes. Majors must take at least three courses in either a particular tradition in a traditions stream or a particular theme in a thematic stream. Students will choose one of the two streams during their junior year in conversation with the director of undergraduate studies (DUS).
+  course_list:
+  - REL ***
+- name: Junior Colloquium
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    During the fall of their junior year, majors will enroll in REL 399, the Junior Colloquium. REL 399 is a for-credit course that counts toward a student's nine religion courses for the major and their total number of courses for graduation.
+  course_list:
+  - REL 399
+- name: Junior Paper
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    In conjunction with REL 399, the Junior Colloquium, during the fall term juniors will produce a five- to seven-page JP proposal. During the spring term, juniors will continue this independent research and write a 30-40 page junior paper under the supervision of a faculty adviser. The DUS will assign advisers. At the end of junior year, students will review their work in the department and discuss with a faculty committee their plans for senior independent work.
+  no_req:
+- name: Senior Thesis
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    Every senior will prepare a 70-90 page thesis under the supervision of a faculty adviser.
+  no_req:
+- name: Senior Departmental Examination
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    At the end of senior year, students will take an oral examination concerning their senior independent work, focus of study and work in the department generally.
+  no_req:
