@@ -10,7 +10,6 @@ SLA
 SPI
 
 Group 2:
-AST
 ECO
 EEB
 GEO
