@@ -5,7 +5,7 @@ code: ENG
 degree: AB
 urls:
 - https://ua.princeton.edu/academic-units/department-english
-- https://english.princeton.edu/undergraduate/program
+- https://acrobat.adobe.com/link/track?uri=urn%3Aaaid%3Ascds%3AUS%3Ac5f349fd-2e92-34f1-b667-266f21b028b1&viewer%21megaVerb=group-discover
 contacts:
 - type: Chair
   name: Simon Gikandi
@@ -16,3 +16,307 @@ contacts:
 description: |-
   In the Department of English, students read widely across the genres and periods of British, American and Anglophone literature and explore approaches to literary study with a distinguished, internationally renowned faculty. The department's ranks include historicists and formalists, theorists and poets, and postcolonialists and feminists; the faculty teach not only poetry, prose and drama, but film, music, art, architecture and technology. The department is united by a passion for works of the imagination and for thinking about what they mean and the difference they make in the world.
 req_list:
+- name: Prerequisites
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    There are no specific prerequisite courses for the major in English, but prospective majors should take at least one course in English in the first and second years.
+  completed_by_semester: 4
+  double_counting_allowed: true
+  course_list:
+  - ENG ***
+- name: Junior Seminar
+  min_needed: 1
+  max_counted: 1
+  completed_by_semester: 5
+  explanation: |-
+    The JRS is a required introduction to the methods of research and the arts of criticism that must be taken in the fall of junior year. During the sophomore sign-ins, students are placed into one of four seminars at Princeton. The junior seminar instructor advises each member of the seminar on class selection for the spring.
+  course_list:
+  - ENG 300
+- name: Coursework
+  min_needed: 9
+  max_counted: 1
+  explanation: |-
+    In total: There are six required distributions, plus the junior seminar (ENG 300), plus three additional English courses, for the 10 required courses for the major.
+  course_list:
+  - ENG ***
+- name: Distribution Requirements
+  min_needed: ALL
+  max_counted: 1
+  explanation: |-
+    Departmental distribution requirements ensure breadth in each major's program of study. Everyone must take at least one course in each of the following areas:
+    Literary and Cultural History (LCH)
+    Literature and Culture before 1700 (pre-1700)
+    Literature and Culture from 1700-1900 (1700-1900)
+    Literature and Culture from 1900-present (post-1900)
+    Difference and Diversity (D&D)
+    Theory and Criticism (T&C)
+    Each semester, the department offers a wide variety of courses in each distribution area, and a full list is available on the department website. A single course cannot be used to satisfy two distribution requirements simultaneously. In total: There are six required distributions, plus the junior seminar (ENG 300), plus three additional English courses, for the 10 required courses for the major.
+  req_list:
+  - name: Literary and Cultural History (LCH)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - AAS 353
+    - AAS 359
+    - ASA 201
+    - ASA 224
+    - COM 381
+    - ECS 340
+    - ENG 200
+    - ENG 201
+    - ENG 266
+    - ENG 295
+    - ENG 326
+    - ENG 353
+    - ENG 372
+    - ENG 375
+    - ENG 415
+    - ENG 425
+    - HUM 216
+    - HUM 217
+    - HUM 218
+    - HUM 219
+    - THR 223
+    - THR 376
+  - name: Literature and Culture before 1700 (pre-1700)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - ENG 200
+    - ENG 208
+    - ENG 298
+    - ENG 310
+    - ENG 311
+    - ENG 312
+    - ENG 313
+    - ENG 317
+    - ENG 318
+    - ENG 319
+    - ENG 320
+    - ENG 321
+    - ENG 325
+    - ENG 326
+    - ENG 328
+    - ENG 359
+    - ENG 390
+    - ENG 400
+    - ENG 405
+    - ENG 409
+    - ENG 421
+    - ENG 422
+    - ENG 448
+    - REL 350
+  - name: Literature and Culture from 1700-1900 (1700-1900)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - AAS 326
+    - COM 372
+    - ENG 201
+    - ENG 203
+    - ENG 214
+    - ENG 304
+    - ENG 331
+    - ENG 334
+    - ENG 338
+    - ENG 339
+    - ENG 340
+    - ENG 341
+    - ENG 345
+    - ENG 350
+    - ENG 351
+    - ENG 384
+    - ENG 385
+    - ENG 399
+    - ENG 403
+    - ENG 409
+    - ENG 411
+    - ENG 432
+  - name: Literature and Culture from 1900-present (post-1900)
+    min_needed: 1
+    max_counted: 1
+    - AAS 230
+    - AAS 359
+    - AAS 392
+    - AMS 317
+    - AMS 334
+    - AMS 343
+    - AMS 404
+    - AMS 425
+    - ASA 224
+    - ASA 329
+    - COM 335
+    - ECS 342
+    - ENG 205
+    - ENG 206
+    - ENG 214
+    - ENG 215
+    - ENG 259
+    - ENG 261
+    - ENG 269
+    - ENG 275
+    - ENG 304
+    - ENG 308
+    - ENG 314
+    - ENG 338
+    - ENG 351
+    - ENG 354
+    - ENG 355
+    - ENG 357
+    - ENG 358
+    - ENG 360
+    - ENG 361
+    - ENG 368
+    - ENG 379
+    - ENG 380
+    - ENG 383
+    - ENG 384
+    - ENG 385
+    - ENG 387
+    - ENG 390
+    - ENG 399
+    - ENG 401
+    - ENG 403
+    - ENG 405
+    - ENG 407
+    - ENG 409
+    - ENG 415
+    - ENG 432
+    - ENG 444
+    - ENV 363
+    - ENV 380
+    - ENV 455
+    - GSS 373
+    - HUM 307
+    - HUM 346
+    - HUM 352
+    - HUM 475
+    - LAO 218
+    - LAO 340
+    - SLA 369
+    - SLA 417
+    - THR 220
+    - THR 302
+    - THR 350
+    - THR 359
+    - THR 376
+    - VIS 323
+  - name: Difference and Diversity (D&D)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - AAS 230
+    - AAS 326
+    - AAS 353
+    - AAS 359
+    - AAS 392
+    - AMS 322
+    - AMS 359
+    - AMS 404
+    - AMS 415
+    - ASA 201
+    - ASA 224
+    - ASA 324
+    - ASA 329
+    - ASA 389
+    - ASA 430
+    - ATL 499
+    - COM 322
+    - COM 464
+    - ENG 201
+    - ENG 214
+    - ENG 216
+    - ENG 228
+    - ENG 229
+    - ENG 246
+    - ENG 269
+    - ENG 290
+    - ENG 293
+    - ENG 318
+    - ENG 338
+    - ENG 342
+    - ENG 354
+    - ENG 358
+    - ENG 359
+    - ENG 372
+    - ENG 380
+    - ENG 383
+    - ENG 384
+    - ENG 387
+    - ENG 399
+    - ENG 403
+    - ENG 405
+    - ENG 408
+    - ENG 411
+    - ENG 415
+    - ENG 425
+    - ENG 427
+    - ENG 444
+    - ENG 446
+    - ENV 200E
+    - ENV 379
+    - ENV 380
+    - ENV 455
+    - GSS 223
+    - GSS 303
+    - GSS 373
+    - GSS 400
+    - HUM 352
+    - LAO 218
+    - LAO 340
+    - LAO 347
+    - LAS 307
+    - SLA 369
+    - THR 300
+    - THR 302
+    - THR 416
+  - name: Theory and Criticism (T&C)
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - AAS 359
+    - AMS 425
+    - CLA 208
+    - COM 207
+    - ENG 203
+    - ENG 205
+    - ENG 208
+    - ENG 215
+    - ENG 216
+    - ENG 261
+    - ENG 266
+    - ENG 305
+    - ENG 306
+    - ENG 317
+    - ENG 318
+    - ENG 328
+    - ENG 355
+    - ENG 357
+    - ENG 359
+    - ENG 361
+    - ENG 387
+    - ENG 388
+    - ENG 407
+    - ENG 411
+    - ENG 444
+    - ENV 357
+    - ENV 363
+    - GSS 400
+    - HUM 307
+    - HUM 328
+    - HUM 346
+    - HUM 475
+    - REL 350
+    - THR 300
+    - THR 350
+- name: Independent Work
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The completed junior paper takes the form of one 20-30-page JP, which is begun in conjunction with the junior seminar and which students complete in the spring semester, continuing the advising established during the junior seminar for the student's independent work.
+    Senior Theses are 60-75 pages in length, on a topic chosen in collaboration with the thesis adviser. One chapter or 20 pages of the thesis is due in December.
+    All English majors take the senior departmental examination.
+  no_req:
+
+
