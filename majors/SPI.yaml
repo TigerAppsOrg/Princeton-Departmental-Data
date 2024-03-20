@@ -294,31 +294,105 @@ req_list:
       min_needed: 1
       max_counted: 1
       course_list:
-    - name: 
+      - HIS ***
+    - name: POL
       min_needed: 1
       max_counted: 1
       course_list:
-    - name: 
+      - POL ***
+    - name: PSY
       min_needed: 1
       max_counted: 1
       course_list:
-    - name: 
+      - PSY ***
+    - name: SOC
       min_needed: 1
       max_counted: 1
       course_list:
-    - name: 
-      min_needed: 1
-      max_counted: 1
-      course_list:
-    - name: 
-      min_needed: 1
-      max_counted: 1
-      course_list:
-    - name: 
-      min_needed: 1
-      max_counted: 1
-      course_list:
-    - name: 
-      min_needed: 1
-      max_counted: 1
-      course_list:
+      - SOC ***
+  - name: Intellectual Depth
+    min_needed: 1
+    max_counted: 1
+    explanation: |-
+      Disciplinary Depth: Take three courses in one SPIA-affiliated department, e.g., ECO, EEB, HIS, POL, PSY, SOC, SPI or:
+      Thematic Depth: Take three courses that address a given theme. Courses are drawn from SPIA-affiliated departments or SPIA-approved courses.
+    req_list:
+      - name: Disciplinary Depth
+        min_needed: 1
+        max_counted: 1
+        req_list:
+        - name: EEB
+          min_needed: 3
+          max_counted: 1
+          course_list:
+          - EEB ***
+        - name: HIS
+          min_needed: 3
+          max_counted: 1
+          course_list:
+          - HIS ***
+        - name: POL
+          min_needed: 3
+          max_counted: 1
+          course_list:
+          - POL ***
+        - name: PSY
+          min_needed: 3
+          max_counted: 1
+          course_list:
+          - PSY ***
+        - name: SOC
+          min_needed: 3
+          max_counted: 1
+          course_list:
+          - SOC ***
+      - name: Thematic Depth
+        min_needed: 3
+        max_counted: 1
+        explanation: |-
+          Warning: This is quite hard to verify.
+        req_list:
+        - name: SPI
+          min_needed: 0
+          max_counted: ALL
+          course_list:
+          - SPI ***
+        - name: EEB
+          min_needed: 0
+          max_counted: ALL
+          course_list:
+          - EEB ***
+        - name: HIS
+          min_needed: 0
+          max_counted: ALL
+          course_list:
+          - HIS ***
+        - name: POL
+          min_needed: 0
+          max_counted: ALL
+          course_list:
+          - POL ***
+        - name: PSY
+          min_needed: 0
+          max_counted: ALL
+          course_list:
+          - PSY ***
+        - name: SOC
+          min_needed: 0
+          max_counted: ALL
+          course_list:
+          - SOC ***
+- name: Field Experience
+  no_req:
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    Prior to the second semester of senior year, each student must have completed an approved cross-cultural or field experience. The requirement may be satisfied in a number of ways, including but not limited to semester study abroad, summer study abroad, policy-relevant summer jobs in a domestic or international organization, ROTC training, senior thesis research in the field, extended service in an underserved community, or an internship involving public policy work in a nonprofit, government or international agency such as the United Nations, the World Bank, the US Congress, or a state or federal agency.
+    Summer study or thesis research must be done for at least four weeks to qualify. Students must engage in an internship, job or community service project for at least six consecutive weeks at a minimum of 40 hours per week or a total of 240 cumulative hours to qualify. Eligible community service work must involve policy work that will enhance one's learning and understanding of public service.
+    Cross-cultural or field experience gained during the first or sophomore year or as a participant in the Bridge Year Program may count toward this requirement. To meet this requirement, all past or proposed work must be approved by the undergraduate program.
+- name: Senior Departmental Examination
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The school's senior comprehensive examination is an oral defense of the senior thesis that assesses the student's expertise related to their thesis.
+  no_req:
