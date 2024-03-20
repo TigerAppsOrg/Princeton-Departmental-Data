@@ -23,7 +23,6 @@ req_list:
   double_counting_allowed: true
   explanation: |-
     Prerequisite for entry into the AAS major is the successful completion on a graded basis of one course survey course. Course survey courses are identified in the program of study.
-  double_counting_allowed: true
   course_list:
   - AAS 244
   - AAS 245
@@ -74,7 +73,6 @@ req_list:
     - name: African American Culture and Life
       max_counted: 1
       min_needed: 4
-      explanation:
       course_list:
       - AAS 201
       - AAS 212
@@ -327,7 +325,6 @@ req_list:
     - name: Global Race and Ethnicity
       max_counted: 1
       min_needed: 4
-      explanation:
       course_list:
       - AAS 242
       - AAS 244
@@ -651,7 +648,6 @@ req_list:
     - name: Race and Public Policy
       max_counted: 1
       min_needed: 4
-      explanation:
       course_list:
       - AAS 200
       - AAS 230

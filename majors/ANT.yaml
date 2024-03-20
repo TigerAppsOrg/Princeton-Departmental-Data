@@ -202,7 +202,6 @@ req_list:
   min_needed: 1
   explanation: |-
     Independent work in the junior year involves an original paper focused on an anthropological theme or debate of interest to the student. The paper is mostly based on library research and literature review and should reflect the student's growing mastery of anthropological ways of knowing and the uniqueness of ethnographic evidence-making and theorizing.  New field research is not appropriate for this exercise. In the fall, students develop a detailed problem statement and annotated bibliography on a relevant subject and present a research proposal for approval by the department. In the spring, students write a paper (about 8,000 words, excluding references) based on the research initiated in the fall, in consultation with their adviser. Advising begins in assigned groups during early fall before transitioning to individual advising with continuing group work. Opportunities for peer group support and writing workshops are offered throughout junior year independent work.
-
     Since the junior paper topic is chosen before the final track declaration deadline, junior papers, unlike senior theses, do not have to be related to a student's chosen track.
   no_req:
 - name: Senior Thesis
@@ -210,10 +209,7 @@ req_list:
   min_needed: 1
   explanation: |-
     Independent work in the senior year consists of a thesis based on ethnographic research on a timely issue or deep analysis of the extant anthropological literature on a topic of interest. A thesis that has a central artistic component must be accompanied by a substantial written essay. Doing ethnographic or community-engaged thesis research during the summer between junior and senior years is very helpful, but not required. Students carrying out fieldwork must have IRB approval. The anthropology department encourages methodologically and theoretically innovative senior thesis projects that expand our understanding of diverse lifeworlds and reorient our ethical and political imagination.
-
     Anthropology seniors are each assigned a thesis adviser early in the fall term. A senior workshop that meets periodically during the second half of the fall term is designed to help students develop their senior theses; all seniors are expected to participate.
-
     Students are encouraged to utilize the VizE Lab for Ethnographic Data Visualization to receive assistance in creating multimodal senior theses that combine field-based ethnographic storytelling, visual documentary and online interactive data visualizations.
-
     Anthropology theses are usually multipart or multichapter projects, ranging from 20,000 to 25,000 words.
   no_req:

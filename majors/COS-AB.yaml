@@ -163,4 +163,4 @@ req_list:
   max_counted: 1
   explanation: |-
     An oral examination, consisting of a defense of the thesis research, will be held in April.
-  req_list:
+  no_req:

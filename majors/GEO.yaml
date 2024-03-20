@@ -260,7 +260,7 @@ req_list:
       min_needed: 4
       max_counted: 1
       course_list:
-      - GEo 419
+      - GEO 419
       - GEO 424
       - GEO 441
       - GEO 422

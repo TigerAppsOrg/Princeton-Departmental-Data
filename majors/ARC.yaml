@@ -41,7 +41,6 @@ req_list:
     - name: Required Courses
       max_counted: 1
       min_needed: ALL
-      explanation:
       course_list:
       - ARC 308
       - ARC 403
@@ -99,7 +98,6 @@ req_list:
     - name: Required Courses
       max_counted: 1
       min_needed: ALL
-      explanation:
       course_list:
       - ARC 311
     - name: Electives

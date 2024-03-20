@@ -78,6 +78,10 @@ const preprocess = (write, maxCountedOne, directories) => {
  * @returns req
  */
 const processReq = (req, filename, maxCountedOne) => {
+    if (req === null) {
+        console.log("NULL WARNING -- " + filename + ": req is null");
+        return null;
+    }
     req.forEach((r) => {
         if (!r.hasOwnProperty('max_counted') || r.max_counted === null) {
             if (maxCountedOne) r.max_counted = 1;
@@ -116,6 +120,7 @@ const reorder = (req, filename) => {
                 || f === 'excluded_course_list') && r[f] === null) {
                     console.log("NULL WARNING -- " + filename + ": " + f 
                     + " is null in req: " + r.name);
+                    console.log(r);
                 }
 
                 // Verify iw_relationship is valid
@@ -130,9 +135,13 @@ const reorder = (req, filename) => {
                 if (f === 'course_list' && r[f] !== null 
                 && r[f].length !== 0) {
                     // Check for invalid courses
-                    const DEPTS = ['AAS', 'AFS', 'AMS', 'ANT', 'AOS', 'APC', 'ARA', 'ARC', 'ART', 'ASA', 'ASL', 'AST', 'ATL', 'BCS', 'BNG', 'CBE', 'CDH', 'CEE', 'CGS', 'CHI', 'CHM', 'CHV', 'CLA', 'CLG', 'COM', 'COS', 'CSE', 'CWR', 'CZE', 'DAN', 'EAS', 'ECE', 'ECO', 'ECS', 'EEB', 'EGR', 'ENE', 'ENG', 'ENT', 'ENV', 'EPS', 'FIN', 'FRE', 'FRS', 'GEO', 'GER', 'GEZ', 'GHP', 'GLS', 'GSS', 'HEB', 'HIN', 'HIS', 'HLS', 'HOS', 'HUM', 'ITA', 'JDS', 'JPN', 'JRN', 'KOR', 'LAO', 'LAS', 'LAT', 'LIN', 'MAE', 'MAT', 'MED', 'MOD', 'MOG', 'MOL', 'MPP', 'MSE', 'MTD', 'MUS', 'NES', 'NEU', 'ORF', 'PAW', 'PER', 'PHI', 'PHY', 'PLS', 'POL', 'POP', 'POR', 'POR', 'PSY', 'QCB', 'REL', 'RES', 'RUS', 'SAN', 'SAS', 'SLA', 'SML', 'SOC', 'SPA', 'SPI', 'STC', 'SWA', 'THR', 'TPP', 'TRA', 'TUR', 'TWI', 'UKR', 'URB', 'URD', 'VIS', 'WRI', 'ISC', 'LANG']
+                    const DEPTS = ['AAS', 'AFS', 'AMS', 'ANT', 'AOS', 'APC', 'ARA', 'ARC', 'ART', 'ASA', 'ASL', 'AST', 'ATL', 'BCS', 'BNG', 'CBE', 'CDH', 'CEE', 'CGS', 'CHI', 'CHM', 'CHV', 'CLA', 'CLG', 'COM', 'COS', 'CSE', 'CWR', 'CZE', 'DAN', 'EAS', 'ECE', 'ECO', 'ECS', 'EEB', 'EGR', 'ENE', 'ENG', 'ENT', 'ENV', 'EPS', 'FIN', 'FRE', 'FRS', 'GEO', 'GER', 'GEZ', 'GHP', 'GLS', 'GSS', 'HEB', 'HIN', 'HIS', 'HLS', 'HOS', 'HUM', 'ITA', 'JDS', 'JPN', 'JRN', 'KOR', 'LAO', 'LAS', 'LAT', 'LCA', 'LIN', 'MAE', 'MAT', 'MED', 'MOD', 'MOG', 'MOL', 'MPP', 'MSE', 'MTD', 'MUS', 'NES', 'NEU', 'ORF', 'PAW', 'PER', 'PHI', 'PHY', 'PLS', 'POL', 'POP', 'POR', 'POR', 'PSY', 'QCB', 'REL', 'RES', 'RUS', 'SAN', 'SAS', 'SLA', 'SML', 'SOC', 'SPA', 'SPI', 'STC', 'SWA', 'THR', 'TPP', 'TRA', 'TUR', 'TWI', 'UKR', 'URB', 'URD', 'VIS', 'WRI', 'ISC', 'LANG']
                     
                     r['course_list'].forEach(course => {
+                        if (typeof(course) !== 'string') {
+                            console.log("CONTENT WARNING -- " + filename + ": " 
+                            + course + " is not a valid course in req: " + r.name);
+                        }
                         const dept = course.split(' ')[0];
                         if (!DEPTS.includes(dept)) {
                             console.log("CONTENT WARNING -- " + filename + ": " 

@@ -137,6 +137,7 @@ req_list:
   - name: Literature and Culture from 1900-present (post-1900)
     min_needed: 1
     max_counted: 1
+    course_list:
     - AAS 230
     - AAS 359
     - AAS 392

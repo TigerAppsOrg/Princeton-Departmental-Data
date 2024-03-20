@@ -157,7 +157,7 @@ req_list:
   max_counted: 1
   course_list:
   - SPI 298
-  - SPi 299
+  - SPI 299
   - SPI 300
   - SPI 301
 - name: Power and Identity

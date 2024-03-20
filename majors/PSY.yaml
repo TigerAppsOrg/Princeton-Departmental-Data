@@ -39,7 +39,7 @@ req_list:
     course_list:
     - PSY 101
     - PSY 252
-    - PSy 254
+    - PSY 254
     - PSY 255
     - PSY 258
 - name: Core

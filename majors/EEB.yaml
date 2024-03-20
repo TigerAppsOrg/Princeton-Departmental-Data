@@ -39,7 +39,7 @@ req_list:
       min_needed: 1
       max_counted: 1
       course_list:
-      - EEb 214
+      - EEB 214
       - EEB 215
   - name: Calculus
     min_needed: 1
@@ -58,7 +58,7 @@ req_list:
     course_list:
     - PHY 101
     - PHY 103
-    - PHy 105
+    - PHY 105
     - PHY 108
 - name: Core
   min_needed: 2

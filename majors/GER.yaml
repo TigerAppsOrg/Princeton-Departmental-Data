@@ -118,7 +118,7 @@ req_list:
         - GER 2**
     - name: Cognates
       max_counted: 3
-      min_needed:
+      min_needed: 0
       explanation: |-
         Note: This does not represent a comprehensive list of courses that fulfill this requirement.
         A maximum of three relevant cognate courses in Art & Archaeology, Music, Philosophy, European Cultural Studies, and the Program in Visual Arts.

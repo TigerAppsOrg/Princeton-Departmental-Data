@@ -22,7 +22,6 @@ req_list:
 - name: Prerequisites
   max_counted: 1
   min_needed: ALL
-  explanation:
   req_list:
   - name: Foreign Language
     max_counted: 1
@@ -164,8 +163,8 @@ req_list:
     - MUS ***
     - CWR ***
 - name: Independent Work
-  max_counted:
-  min_needed:
+  max_counted: 1
+  min_needed: 1
   explanation: |-
     Majors must write two junior papers. The first paper, some 3,000 words in length, will normally involve the close study of a work from one of the non-English-language literatures in which the student has linguistic competence. Its purpose is to develop the student's basic skills as a reader of complex texts. The second paper should be wider in scope, and might serve as the beginnings of a senior thesis. It will normally be some 8,000 words in length.
   no_req:

@@ -37,7 +37,7 @@ req_list:
     course_list:
     - ECE 201
     - ECE 203
-  - name
+  - name:
     max_counted: 1
     min_needed: 1
     explanation: ''
@@ -83,7 +83,6 @@ req_list:
 - name: Engineering Science
   max_counted: 1
   min_needed: 1
-  description: Other courses are possible; consult departmental representative.
   explanation: |-
     An engineering course with a significant scientific component must be taken outside of ECE to satisfy this requirement. Many courses can be used to satisfy this requirement; note, however, that a course comprised largely of mathematics or applied mathematics does not satisfy the requirement. The course used to satisfy the engineering science requirement cannot also be used to satisfy the major requirement or the breadth requirement, nor can it be counted as a departmental requirement. The following is a non-exhaustive list of possibilities: COS 217, 226, 320, 402, 423, 425, 451, 487; MAE 206, 221, 222, 324, 328, 344, 345, 433, 434; CEE 205, 207, 305, 471; MSE 301, 302; CBE 245, 246, 341, 415, 447; ORF 307, 311, 405, 406, 417.
   double_counting_allowed: false
@@ -182,8 +181,6 @@ req_list:
 - name: Design
   max_counted: 1
   min_needed: 1
-  description: Independent work may satisfy this requirement, if it contains significant
-    design components.
   explanation: |-
     At least one upper-level electrical and computer engineering course with substantial design content beyond ECE 302 must be selected. These courses include ECE 373, 375, 404, 457, 458, 462, 475, 482 and COS 426, 436. This requirement may also be satisfied through junior work or a senior thesis with a substantial design component.
   double_counting_allowed: false
@@ -209,7 +206,6 @@ req_list:
     well as important applications areas. While many concentrations are interdisciplinary, two of the three
     courses must be listed in ECE (crosslisted is OK). ORF 309/MAT 309 may be used to satisfy either the
     upperclass mathematics requirement or the concentration requirement, but not both.
-    
     Graduate courses (500 level) are open to undergraduates after the completion of a permission form
     containing the signatures of instructor and departmental representative. The permission form is available
     from the undergraduate coordinator or you can download at http://registrar.princeton.edu/student-services/.
@@ -314,8 +310,7 @@ req_list:
       req_list:
       - name:
         max_counted:
-        min_needed:
-        explanation: ''
+        min_needed: 0
         double_counting_allowed: false
         pdfs_allowed: 0
         course_list:
@@ -338,7 +333,7 @@ req_list:
         - ORF 363
       - name:
         max_counted: 1
-        min_needed:
+        min_needed: 0
         explanation: Only one of the following machine learning courses may be applied to this concentration since they have overlapping content
         double_counting_allowed: false
         pdfs_allowed: 0
@@ -358,7 +353,6 @@ req_list:
         ECE 464 Embedded Computing (S)
         ECE 470 Principles of Blockchains (F)
         ECE 472 Architecture for Secure Computers/Smartphones (S)
-
         ECE473/COS473 Elements of Decentralized Finance (S)
         ECE 475 Computer Architecture (S)
         COS 318 Operating Systems (F)
@@ -431,8 +425,7 @@ req_list:
       req_list:
       - name:
         max_counted:
-        min_needed:
-        explanation: ''
+        min_needed: 0
         double_counting_allowed: false
         pdfs_allowed: 0
         course_list:
@@ -445,7 +438,7 @@ req_list:
         - COS 461
       - name:
         max_counted: 1
-        min_needed:
+        min_needed: 0
         explanation: Only one Machine Learning course may be applied towards this concentraiton
         double_counting_allowed: false
         pdfs_allowed: 0
@@ -499,8 +492,7 @@ req_list:
       req_list:
       - name:
         max_counted:
-        min_needed:
-        explanation: ''
+        min_needed: 0
         double_counting_allowed: false
         pdfs_allowed: 0
         course_list:
@@ -519,7 +511,7 @@ req_list:
         - MSE 505
       - name:
         max_counted: 1
-        min_needed:
+        min_needed: 0
         explanation: Only one circuits (304 or 481) course may be applied towards
           this concentration
         double_counting_allowed: false
@@ -576,8 +568,7 @@ req_list:
     req_list:
     - name:
       max_counted:
-      min_needed:
-      explanation: ''
+      min_needed: 0
       double_counting_allowed: false
       pdfs_allowed: 0
       course_list:
@@ -590,7 +581,7 @@ req_list:
       - COS 429
     - name:
       max_counted: 1
-      min_needed:
+      min_needed: 0
       explanation: Only one Machine Learning course may be used for this concentration
       double_counting_allowed: false
       pdfs_allowed: 0
@@ -626,8 +617,7 @@ req_list:
       req_list:
       - name:
         max_counted: 1
-        min_needed:
-        explanation: ''
+        min_needed: 1
         double_counting_allowed: false
         pdfs_allowed: 0
         course_list:
@@ -723,7 +713,6 @@ req_list:
 - name: Senior Thesis
   max_counted: 1
   min_needed: ALL
-  description: ''
   explanation: A two-term senior thesis is required. Students must enroll in ECE 497 (fall) and ECE 498 (spring). A grade will be given at the end of each term. A senior thesis must include an oral presentation to the faculty at the end of each term.
   double_counting_allowed: false
   pdfs_allowed: 0
@@ -732,14 +721,12 @@ req_list:
   - name:
     max_counted: 1
     min_needed: 0
-    explanation: ''
     completed_by_semester: 7
     course_list:
     - ECE 497
   - name:
     max_counted: 1
     min_needed: 0
-    explanation: ''
     completed_by_semester: 8
     course_list:
     - ECE 498

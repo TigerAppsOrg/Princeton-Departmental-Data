@@ -66,7 +66,6 @@ req_list:
 - name: Required EAS Courses
   max_counted: 1
   min_needed: ALL
-  explanation:
   req_list:
   - name: Junior Seminar
     max_counted: 1
@@ -124,7 +123,6 @@ req_list:
   min_needed: 1
   explanation: |-
     Each student prepares a senior thesis in consultation with an appropriate member of the faculty. The senior thesis represents the culmination of the undergraduate curriculum. It should be an original contribution to scholarship on East Asia, based at least in part on source materials in the student's language of specialization.
-
     Scholarship aid is available for senior thesis research abroad. Students should review funding opportunities listed in the Student Activities Funding Engine (SAFE), and may also want to consult the websites of the Program in East Asian Studies (EAP) and the Office of the Dean of the College (ODOC) for further information.
   no_req:
 - name: Senior Departmental Examination
@@ -132,4 +130,4 @@ req_list:
   max_counted: 1
   explanation: |-
     At the end of the spring term, the student appears before a faculty committee for an oral defense of the thesis. The defense will take the form of a conversation between the student and a faculty committee, and it will center on the senior independent work, as well as larger questions in the field of East Asian studies that inform it. Students will be asked to reflect on the process of their research: the original source of interest in their research topic; the process of fleshing out the architecture of their project; and difficulties and creative discoveries of their research and writing. The conversation will begin in the students' primary research language: Korean, Japanese or Chinese.
-no_req:
+  no_req:

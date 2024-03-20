@@ -173,6 +173,7 @@ req_list:
       Note: This course will be taken in both semesters of senior year.
     min_needed: 2
     max_counted: 1
+    course_list:
     - ORF 478
   - name: Project and Course
     min_needed: ALL

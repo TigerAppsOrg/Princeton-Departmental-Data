@@ -159,8 +159,8 @@ req_list:
       - ANT 4**
       - ANT 5**
   - name: Track 4
-    min_needed: 
-    max_counted: 
+    min_needed: ALL
+    max_counted: 1
     explanation: |-
       Major in Spanish or Portuguese with the creative arts (e.g., creative writing, theater, visual arts, translation). Requires a combination of five upper-division courses in Spanish or Portuguese and three upper-division courses in the creative arts. One of the five upper-division courses in Spanish or Portuguese may be taken in English, in which case all written work must be completed in the target language.
     req_list:
