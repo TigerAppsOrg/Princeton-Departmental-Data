@@ -17,3 +17,110 @@ contacts:
 description: |-
   The Department of Mechanical and Aerospace Engineering  recognizes that students have a variety of career objectives. Some enter industry directly in an engineering capacity and some continue their studies in graduate school in engineering or applied science. Other MAE graduates pursue careers in business, law or medicine. The department offers sufficient flexibility to students planning an undergraduate program that meets any of these objectives and guides them to build fundamental knowledge in key engineering disciplines and develop practical skills in problem-solving and design. The subjects of solid and fluid mechanics, thermodynamics, dynamics, control systems, materials and applied mathematics, combined with the experience of engineering design, are the core of the department's curriculum. Both the mechanical and aerospace engineering programs are accredited by the Engineering Accreditation Commission of ABET.
 req_list:
+- name: General Requirements
+  completed_by_semester: 4
+  min_needed: ALL
+  req_list:
+  - name: Engineering Dynamics
+    min_needed: 1
+    max_counted: 1
+    req_list:
+    - name: Standard
+      min_needed: 1
+      max_counted: 1
+      course_list:
+      - MAE 206
+    - name: Physics
+      min_needed: 1
+      max_counted: 1
+      course_list:
+      - PHY 208
+    - name: Aerospace Dynamics
+      min_needed: 1
+      max_counted: 1
+      course_list:
+      - MAE 331
+      - MAE 341
+  - name: Solid Mechanics
+    min_needed: 1
+    max_counted: 1
+    req_list:
+      - name: Standard
+        min_needed: 1
+        max_counted: 1
+        course_list:
+        - MAE 223
+      - name: Physics
+        min_needed: 1
+        max_counted: 1
+        course_list: 
+        - PHY 207
+  - name: Others
+    min_needed: ALL
+    max_counted: 1
+    course_list:
+    - MAE 221
+    - MAE 222
+    - MAE 224
+- name: Mathematics
+  min_needed: 1
+  max_counted: 1
+  course_list:
+  - MAE 305
+- name: Upper-Level Departmentals
+  min_needed: 8
+  max_counted: 1
+  req_list:
+    - name: Requirements
+      min_needed: ALL
+      max_counted: 1
+      req_list:
+        - name: MAE 321
+          min_needed: 1
+          max_counted: 1
+          course_list:
+          - MAE 321
+        - name: MAE 433
+          min_needed: 1
+          max_counted: 1
+          course_list:
+          - MAE 433
+        - name: Materials
+          min_needed: 1
+          max_counted: 1
+          course_list:
+          - MAE 324
+          - MSE 301
+    - name: Engineering Design
+      min_needed: 1
+      max_counted: ALL
+      course_list:
+      - MAE 322
+      - MAE 332
+      - MAE 342
+      - MAE 412
+      - MAE 416
+    - name: Other
+      min_needed: 0
+      max_counted: ALL
+      course_list:
+      - MAE 331
+      - MAE 341
+      - MAE 434
+      - MAE 328
+      - MAE 335
+      - MAE 423
+      - MAE 426
+      - MAE 438
+      - MAE 552
+      - MAE 323
+      - CEE 312
+      - CEE 361
+- name: Independent Work 
+  min_needed: 1
+  max_counted: 1
+  course_list:
+  - MAE 439
+  - MAE 440
+  - MAE 442
+  - MAE 444

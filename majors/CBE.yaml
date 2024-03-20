@@ -17,3 +17,82 @@ contacts:
 description: |-
   The next generation of technological solutions will come from making unforeseen connections between ideas. With that in mind, the Department of Chemical and Biological Engineering curriculum builds in the flexibility for students to pursue their passions. The curriculum is designed to prepare students for a future beyond Princeton. The mission of CBE is mainly (a) to offer educational and research programs of the highest quality that will prepare students for leadership positions in the chemical, biochemical and materials industries; academia; and government laboratories; (b) to help define the frontiers of knowledge in modern chemical and biological engineering through intellectual leadership in research and scholarship; (c) to contribute to the nation's technological leadership by accomplishing research that stimulates the development of new technologies.
 req_list:
+- name: Core
+  min_needed: ALL
+  max_counted: 1
+  course_list:
+  - CBE 245
+  - CBE 246
+  - CBE 250
+  - CBE 341
+  - CBE 346
+  - CBE 441
+  - CBE 442
+- name: Independent Work
+  min_needed: 1
+  max_counted: 1
+  course_list:
+  - CBE 451
+  - CBE 452
+  - CBE 454
+- name: Mathematics
+  min_needed: ALL
+  max_counted: 1
+  course_list:
+  - MAE 305
+- name: Chemistry
+  min_needed: ALL
+  max_counted: 1
+  req_list:
+    - name: First Semester
+      min_needed: 1
+      max_counted: 1
+      course_list:
+      - CHM 201
+      - CHM 207
+    - name: Second Semester
+      min_needed: 1
+      max_counted: 1
+      course_list:
+      - CHM 202
+      - CHM 215
+    - name: Organic Chemistry
+      min_needed: 1
+      max_counted: 1
+      course_list:
+      - CHM 301
+- name: Molecular Biology
+  min_needed: ALL
+  max_counted: 1
+  course_list:
+  - MOL 214
+- name: Advanced Chemistry or Biology
+  min_needed: 1
+  max_counted: 1
+  course_list:
+  - MOL 3**
+  - MOL 4**
+  - MOL 5**
+  - CHM 3**
+  - CHM 4**
+  - CHM 5**
+- name: Advanced Engineering
+  min_needed: 1
+  max_counted: 1
+  course_list:
+  - CBE 3**
+  - CBE 4**
+  - CBE 5**
+  excluded_course_list:
+  - CBE 341
+  - CBE 346
+  - CBE 441
+  - CBE 442
+  - CBE 451
+  - CBE 452
+  - CBE 454
+- name: Societal Impact
+  min_needed: 1
+  max_counted: 1
+  dist_req:
+  - EM

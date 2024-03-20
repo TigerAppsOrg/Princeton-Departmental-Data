@@ -16,3 +16,309 @@ contacts:
 description: |-
   The Princeton School of Public and International Affairs offers a multidisciplinary liberal arts major for students who are interested in public service and becoming leaders in the world of public and international affairs. Students will acquire the tools, understanding and habits of mind necessary to pursue policy problems of their choosing. The major is largely self-designed, but provides the structure and guidance needed for an education that is both broad and deep.
 req_list:
+- name: Prerequisites
+  min_needed: ALL
+  max_counted: 1
+  explanation: |-
+    All courses taken to meet these prerequisites must be taken on a graded basis. First-year seminars may not be used to fulfill prerequisites. Students must earn a grade of C or higher in all courses counting toward prerequisites. The following courses may be used to satisfy the prerequisites:
+  completed_by_semester: 4
+  req_list:
+  - name: Statistics
+    min_needed: 1
+    max_counted: 1
+    explanation: |-
+      Note that students may not fulfill this prerequisite with AP credit.
+    course_list:
+    - SPI 200
+    - ECO 202
+    - ORF 245
+    - POL 345
+  - name: Microeconomics
+    min_needed: 1
+    max_counted: 1
+    explanation: |-
+      ECO 100 Introduction to Microeconomics (or AP score of 5 in Microeconomics, IB Higher Level score of 7 in Economics or GCE A-level grade of A in Economics)
+    course_list:
+    - ECO 100
+  - name: Sociology or Psychology
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - NEU 202
+    - PSY 101
+    - PSY 210
+    - PSY 252
+    - PSY 255
+    - PSY 307
+    - PSY 315
+    - PSY 333
+    - SOC 101
+    - SOC 102
+    - SOC 201
+    - SOC 210
+    - SOC 222
+    - SOC 226
+    - SOC 228
+    - SOC 249
+    - SOC 250
+    - SOC 302
+    - SOC 311
+    - SOC 314
+    - SOC 316
+    - SOC 350
+    - SOC 373
+    - SOC 375
+    - SOC 377
+    - SOC 378
+    - SOC 380
+    - SPI 333
+    - SPI 345
+  - name: History or Politics
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - HIS 201
+    - HIS 208
+    - HIS 212
+    - HIS 214
+    - HIS 225
+    - HIS 241
+    - HIS 250
+    - HIS 262
+    - HIS 267
+    - HIS 270
+    - HIS 271
+    - HIS 283
+    - HIS 294
+    - HIS 295
+    - HIS 298
+    - HIS 301
+    - HIS 303
+    - HIS 304
+    - HIS 306
+    - HIS 307
+    - HIS 315
+    - HIS 317
+    - HIS 322
+    - HIS 324
+    - HIS 325
+    - HIS 333
+    - HIS 342
+    - HIS 350
+    - HIS 359
+    - HIS 360
+    - HIS 362
+    - HIS 367
+    - HIS 369
+    - HIS 371
+    - HIS 373
+    - HIS 379
+    - HIS 380
+    - HIS 383
+    - HIS 388
+    - HIS 390
+    - POL 210
+    - POL 220
+    - POL 230
+    - POL 240
+    - POL 301
+    - POL 303
+    - POL 305
+    - POL 307
+    - POL 309
+    - POL 315
+    - POL 316
+    - POL 319
+    - POL 320
+    - POL 324
+    - POL 325
+    - POL 327
+    - POL 329
+    - POL 335
+    - POL 336
+    - POL 337
+    - POL 339
+    - POL 344
+    - POL 349
+    - POL 351
+    - POL 357
+    - POL 360
+    - POL 362
+    - POL 364
+    - POL 366
+    - POL 380
+    - POL 385
+    - POL 388
+    - POL 392
+    - POL 396
+    - SPI 331
+- name: Core
+  min_needed: ALL
+  max_counted: 1
+  course_list:
+  - SPI 298
+  - SPi 299
+  - SPI 300
+  - SPI 301
+- name: Power and Identity
+  min_needed: 1
+  max_counted: 1
+  course_list:
+  - AAS 201
+  - AAS 303
+  - AAS 306
+  - AAS 322
+  - AAS 323
+  - AAS 330
+  - AAS 331
+  - AAS 332
+  - AAS 336
+  - AAS 339
+  - AAS 345
+  - AAS 352
+  - AAS 366
+  - AAS 367
+  - AAS 380
+  - AMS 101
+  - AMS 304
+  - AMS 351
+  - AMS 404
+  - ANT 211
+  - ANT 223
+  - ANT 244
+  - ANT 246
+  - ANT 263
+  - ANT 264
+  - ANT 314
+  - ANT 403
+  - ANT 440
+  - ANT 461
+  - ART 419
+  - ASA 201
+  - ASA 318
+  - ASA 320
+  - ASA 330
+  - ASA 332
+  - ASA 361
+  - ECO 320
+  - EGR 361
+  - ENV 460
+  - FRE 319
+  - FRE 372
+  - GSS 297
+  - HIS 270
+  - HIS 271
+  - HIS 306
+  - HIS 317
+  - HIS 333
+  - HIS 359
+  - HIS 376
+  - HIS 384
+  - HIS 388
+  - HIS 393
+  - HIS 402
+  - HIS 415
+  - HIS 443
+  - HIS 484
+  - LAO 201
+  - LAS 229
+  - LAS 324
+  - LIN 215
+  - NES 240
+  - NES 251
+  - PHI 208
+  - PHI 357
+  - POL 319
+  - POL 344
+  - POL 357
+  - POL 422
+  - POL 476
+  - POR 408
+  - REL 377
+  - SOC 102
+  - SOC 373
+  - SOC 375
+  - SPA 219
+  - SPA 222
+  - SPA 233
+  - SPA 250
+  - SPA 316
+  - SPA 375
+  - SPI 331
+  - SPI 336
+  - SPI 345
+  - URB 305
+  - URB 384
+- name: Ethics
+  min_needed: 1
+  max_counted: 1
+  course_list:
+  - SPI 370
+  - POL 307
+  - POL 313
+  - CHV 310
+  - PHI 309
+- name: Intermediate Economics
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    Students who wish to take ECO 300, 301, 310, or 311 are responsible for completing additional prerequisites on their own.
+  course_list:
+  - SPI 304
+  - ECO 300
+  - ECO 301
+  - ECO 310
+  - ECO 311
+- name: Electives
+  min_needed: ALL
+  max_counted: 1
+  explanation: |-
+    Students must complete six (6) elective courses according to the following guidelines. Students must earn a grade of C or higher in all courses counting toward elective requirements.
+    Among the six (6) electives, a student may take only three electives from one department. For the major as a whole, a student may not take more than five courses from one department.
+    Regional Focus: Students should also pursue regional focus across their SPIA coursework. Thus, across the SPIA prerequisites, core and electives, students must take at least two courses that focus substantively on a particular continent. The senior thesis can count toward the regional focus requirement.
+    Up to three elective courses may be taken in semester-long study abroad programs.
+  req_list:
+  - name: Disciplinary Breadth
+    min_needed: 3
+    max_counted: 1
+    explanation: |-
+      Take one course from three SPIA-related departments (EEB, HIS, POL, PSY, SOC) not already covered by the intellectual depth requirement noted below. ECO is excluded because it is already a required prerequisite and core course. Prerequisites and core courses may double-count; ECO courses may not.
+      By graduation, we strongly encourage students to have taken courses in departments where they have not yet taken a course (for example in a natural science, if they are focusing on the social sciences).
+    req_list:
+    - name: EEB
+      min_needed: 1
+      max_counted: 1
+      course_list:
+      - EEB ***
+    - name: HIS
+      min_needed: 1
+      max_counted: 1
+      course_list:
+    - name: 
+      min_needed: 1
+      max_counted: 1
+      course_list:
+    - name: 
+      min_needed: 1
+      max_counted: 1
+      course_list:
+    - name: 
+      min_needed: 1
+      max_counted: 1
+      course_list:
+    - name: 
+      min_needed: 1
+      max_counted: 1
+      course_list:
+    - name: 
+      min_needed: 1
+      max_counted: 1
+      course_list:
+    - name: 
+      min_needed: 1
+      max_counted: 1
+      course_list:
+    - name: 
+      min_needed: 1
+      max_counted: 1
+      course_list:
