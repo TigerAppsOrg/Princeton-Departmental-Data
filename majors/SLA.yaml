@@ -3,14 +3,6 @@ type: Major
 name: Slavic Languages and Literatures
 code: SLA
 degree: AB
-explanation: A minimum of eight departmental courses is required. Four upper-level
-  (200 and above) courses must be within the department, two of which must be from
-  the core survey courses (SLA 219, 220, 221); the other four courses may be from
-  cognate areas depending on the student's particular interests. For example, if the
-  major field of concentration is 19th-century prose, the program might include courses
-  from French or German literature. Students with a strong interest in Russian and
-  Soviet studies might take area courses in the Program in Russian and Eurasian Studies
-  such as Russian history, politics, anthropology, or sociology.
 urls:
 - https://ua.princeton.edu/academic-units/department-slavic-languages-and-literatures
 - https://slavic.princeton.edu/undergraduate-program/program-requirements
@@ -18,102 +10,93 @@ contacts:
 - type: Chair
   name: Ilya Vinitsky
   email: vinitsky@princeton.edu
+- type: Chair (acting)
+  name: Michael A. Wachtel
+  email: wachtel@princeton.edu
 - type: Director of Undergraduate Studies
-  name: Katherine M.H. Reischl
-  email: kreischl@princeton.edu
+  name: Elena Fratto
+  email: efratto@princeton.edu
+description: |-
+  The Slavic department welcomes students who are interested in developing a critically informed appreciation for the literature and culture of Russia and the Slavic world. Our majors attain a high level of proficiency that allows them to work with both primary and secondary sources in the target language (BCS, Czech, Polish, Russian, Ukrainian).
 req_list:
-- name: Prerequisites
-  max_counted: 1
+- name: Prerequisities
   min_needed: 1
-  explanation: RUS 101, RUS 102, RUS 105, and RUS 107 (RUS 105R, 107R) – or placement
-    equivalent.
+  max_counted: 1
+  completed_by_semester: 4
+  explanation: |-
+    RUS 107 (or placement equivalent) or RUS 108
   course_list:
   - RUS 107
-  - RUS 107R
-- name: Required Courses
+  - RUS 108
+- name: Survey
+  min_needed: 2
   max_counted: 1
-  min_needed: ALL
-  explanation: Concentrators are required to complete RUS 207 and one or more advanced
-    language courses (RUS 208, 405, 406, 407, or 408; or one of the upper-level literature
-    courses taught in Russian (SLA 308, 312, 350, 413). Students who place beyond
-    RUS 207, or who complete the Russian Heritage Speakers courses (RUS 103-108),
-    will work with the Departmental Representative to design an appropriate course
-    of study.
+  explanation: |-
+    Two departmentals must be from the core survey courses (SLA 219, 220, 221).
+  course_list:
+  - SLA 219
+  - SLA 220
+  - SLA 221
+- name: Electives
+  min_needed: 6
+  max_counted: 1
+  explanation: |-
+    Note: Cognates cannot be automatically verified. Please manually override if approved.
+    A minimum of eight departmental courses is required, in addition to a required junior methods seminar. Four upper-level courses must be within the department, two of which must be from the core survey courses (SLA 219, 220, 221); the other four courses may be from cognate areas depending on the student's particular interests. For example, if the major is 19th-century prose, the program might include courses from French or German literature. Students with a strong interest in Russian and Soviet studies might take area courses in the Program in Russian and Eurasian Studies such as Russian history, politics, anthropology or sociology. These are only sample suggestions. The program is flexible and strives to satisfy as wide a range of interests as possible.
+  course_list:
+  - SLA ***
+  - RUS 2**
+  - RUS 3**
+  - RUS 4**
+  - RUS 5**
+- name: Language
+  double_counting_allowed: true
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    Majors are required to complete RUS 207 and one or more advanced language courses (RUS 208, 405, 406, 407, or 408); or one of the upper-level literature courses taught in Russian (SLA 308, 312, 350, 413). Students who place beyond RUS 207, or who complete the Russian Heritage Speakers courses (RUS 103-108), will work with the director of undergraduate studies to design an appropriate course of study.
   req_list:
-  - name: Required
-    max_counted: 1
-    min_needed: ALL
-    explanation: Concentrators are required to complete RUS 207.
-    course_list:
-    - RUS 207
-  - name: Advanced Language or Literature
-    max_counted: 1
+  - name: Upper-Level Literature
     min_needed: 1
-    explanation: 'One additional upper-level language course: RUS 208, 405, 406, 407,
-      408 or one of the upper-level literature courses taught in Russian SLA 308,
-      312, 413'
+    max_counted: 1
     course_list:
-    - RUS 208
-    - RUS 405
-    - RUS 406
-    - RUS 407
-    - RUS 408
     - SLA 308
     - SLA 312
+    - SLA 350
     - SLA 413
-- name: Departmental Courses
-  max_counted: 1
-  min_needed: 8
-  explanation: A minimum of eight departmental courses is required. Four upper-level
-    (200 and above) courses must be within the department, two of which must be from
-    the core survey courses (SLA 219, 220, 221); the other four courses may be from
-    cognate areas depending on the student's particular interests. For example, if
-    the major field of concentration is 19th-century prose, the program might include
-    courses from French or German literature. Students with a strong interest in Russian
-    and Soviet studies might take area courses in the Program in Russian and Eurasian
-    Studies such as Russian history, politics, anthropology, or sociology.
-  req_list:
-  - name: Slavic Languages and Literatures
-    max_counted:
-    min_needed: 4
-    explanation: Four upper-level (200 and above) courses must be within the department,
-      two of which must be from the core survey courses (SLA 219, 220, 221)
+  - name: Upper-Level Language
+    min_needed: 2
+    max_counted: 1
     req_list:
-    - name: Core Survey Courses
-      max_counted:
-      min_needed: 2
-      explanation: 'Two of three survey courses: SLA 219, 220, 221'
+    - name: 200-Level
+      min_needed: 1
+      max_counted: 1
       course_list:
-      - SLA 219
-      - SLA 220
-      - SLA 221
-    - name: Additional Courses
-      max_counted:
-      min_needed: 2
-      explanation:
+      - RUS 207
+    - name: Advanced Language
+      min_needed: 1
+      max_counted: 1
       course_list:
-      - SLA *
-  - name: Cognates
-    max_counted: 4
-    min_needed:
-    explanation: "<i>Editor's Note: This does not represent a comprehensive list of
-      courses that fulfill this requirement as courses change from semester to semester.</i>"
-    course_list:
-    - LANG *
-    - ENG *
-- name: Independent Work
-  max_counted:
-  min_needed:
+      - RUS 208
+      - RUS 405
+      - RUS 406
+      - RUS 407
+      - RUS 408
+- name: Junior Independent Work
+  min_needed: 1
+  max_counted: 1
   explanation: |-
-    <i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>
-
-    Slavic majors write two junior papers. The first, 5,000-6,000 words in English (20-25 pages), can be on any topic related to Russian literature, culture, linguistics, language, history, or society. Russian sources must be used, although the extent of Russian will be determined largely by the individual student's linguistic background. Students who wish to write about other Slavic traditions (e.g., Czech or Polish), assuming they have the linguistic competence, are encouraged to do so. The second paper is a paper in Russian (2,000 words), completed as part of a non-credit-bearing junior seminar in the spring semester.  The Russian paper is normally devoted to the analysis of a Russian short story or poem chosen by the student (in consultation with the instructor of the junior seminar), but could be on any topic of the student's choosing
+    Slavic majors are required to take a credit-bearing methods seminar in the fall of their junior year. This seminar will be devoted to various approaches to the field in Russian (or other Slavic languages), including one seminar session on research methods with Dr. Thomas Keenan (tkeenan@princeton.edu), the Firestone Library Slavic, East European, and Eurasian Studies librarian; and including, but not limited to, examples of scholarship written by Slavic department faculty. The final assignment for the seminar is an annotated bibliography that reflects the research the student has undertaken in preparation for the fall JP. Separate from the grade for the seminar, juniors receive one grade for their fall JP and one for their spring JP. Each JP is 20-25 pages long and written in English. It incorporates Russian (or other Slavic language) resources to a significant degree and comprises one-half of the overall junior independent grade. Please refer to the Slavic Department Guide to Independent Work for the most up-to-date guidelines for each assignment.
   no_req:
-- name: Senior Thesis
-  max_counted:
-  min_needed:
+- name: Senior Independent Work
+  min_needed: 1
+  max_counted: 1
   explanation: |-
-    <i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>
-
-    In the senior year, the student's independent work, written under departmental supervision, consists of a thesis of about 20,000 words to be submitted two weeks before the first day of the spring term reading period. After the thesis is submitted, students do a brief (5-minute) presentation in Russian (or relevant Slavic language), and then in English for the Slavic Department Faculty and fellow students. Total presentation time will run roughly 15 minutes per student. This presentation does not receive a grade.
+    In senior year, the student's independent work, written under departmental supervision, consists of a thesis of about 20,000 words to be submitted two weeks before the first day of the spring term reading period. After the thesis is submitted, students give a brief (5-minute) presentation in Russian (or relevant Slavic language), and after each presentation there is a question and answer period in English, for the Slavic department faculty and fellow students. Total presentation time will run roughly 15 minutes per student. This presentation does not receive a grade.
+  no_req:
+- name: Senior Departmental Examination
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    Graduating seniors are required to take a comprehension examination on Russian literature. Together with the thesis and departmental grades, this examination is one of three components that determine departmental honors. The take-home exam is based on a core list of works taught in the three survey courses offered by the department. Students may substitute a limited number of works based on their individual interests for the comprehensive exam. The finalized list must be submitted to the director of undergraduate studies one month before the exam.
   no_req:

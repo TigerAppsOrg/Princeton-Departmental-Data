@@ -1,0 +1,137 @@
+---
+type: Major
+name: Italian
+code: ITA
+degree: AB
+urls:
+- https://ua.princeton.edu/academic-units/department-french-and-italian
+- https://fit.princeton.edu/undergraduate/concentrating/plan-study
+contacts:
+- type: Chair
+  name: Göran Magnus Blix
+  email: gblix@princeton.edu
+- type: Director of Undergraduate Studies
+  name: Flora Champy
+  email: fchampy@princeton.edu
+description: |-
+  The Department of French and Italian offers a liberal arts major designed to give students a thorough grounding in the language, literature and culture of one or more of the subjects it teaches, seen as independent disciplines or in combination with other languages and cognate subjects. Its courses provide practical instruction in the French and Italian languages; the literatures and cultures of France and Italy in all periods, from medieval to contemporary; and literature in French written in other parts of Europe, Asia, Africa and the Americas.
+req_list:
+- name: Prerequisites
+  min_needed: 1
+  explanation: |-
+    The minimum requirement for admission to the department is successful completion of the language sequence (FRE 107 or 108; ITA 107 or 108), or equivalent qualification. Students are encouraged to complete at least one advanced-language course (FRE 207, 207F, or 208; ITA 207I, 208) prior to admission, or shortly thereafter, and may also count one such course toward the major. It is further recommended that students complete at least one more 200-level course (such as FRE 211, 215, 217, 221, 222, 224, 225 or ITA 208, 209, 220, 224, 225) before enrolling in a 300-level. Majors who plan to participate in one of the certificate programs, such as African studies, African-American studies, European cultural studies, Latin American studies, or gender and sexuality studies, must also satisfy the prerequisites of that program.
+  course_list:
+  - ITA 107
+  - ITA 108
+- name: Departmentals
+  min_needed: 5
+  max_counted: 1
+  explanation: |-
+    Five courses in Italian. Up to two of the five departmental courses may be taken at the 200 level (but ITA 207 and 208 cannot both be counted).
+  req_list:
+  - name: 300-Level or Above
+    min_needed: 3
+    max_counted: ALL
+    course_list:
+    - ITA 3**
+    - ITA 4**
+    - ITA 5**
+  - name: 200-Level
+    min_needed: 0
+    max_counted: 2
+    req_list:
+    - name:
+      min_needed: 0
+      max_counted: 1
+      course_list:
+      - ITA 207
+      - ITA 208
+    - name:
+      min_needed: 0
+      max_counted: ALL
+      course_list:
+      - ITA 2**
+      excluded_course_list:
+      - ITA 207
+      - ITA 208
+- name: Tracks
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    Courses taught in the department place varying emphases on language, literary history and interpretation, aesthetics and literary theory, and cultural and intellectual history. Students are therefore able to pursue courses of study that are consistent with their own interests. To complement this individualized approach to students' plans of study, the department offers four distinct tracks within the major in French and/or Italian:
+  req_list:
+  - name: Track 1
+    min_needed: 3
+    max_counted: 1
+    explanation: |-
+      Note: Please manually verify approved cognates.
+      Students major in French or Italian. Eight upper-division courses are counted toward the major. At least five of these must be in the language and subject of the major. Up to two of the five departmental courses may be taken at the 200 level (but FRE 207 and 208, or ITA 207 and 208, cannot both be counted). Up to three of the eight may be cognate courses approved by the director of undergraduate studies (DUS) and drawn from other sections of the department or from other humanities and social science subjects.
+    course_list:
+    - ITA 3**
+    - ITA 4**
+    - ITA 5**
+  - name: Track 2
+    min_needed: 3
+    max_counted: 1
+    explanation: |-
+      Students intending to combine work in French or Italian with another language, civilization and culture normally take a minimum of eight upper-division courses: five in French or Italian (one of which may be a cognate) and three in the other relevant language. Up to two of the five departmental courses may be taken at the 200 level (but FRE 207 and 208, or ITA 207 and 208, cannot both be counted).
+    course_list:
+    - LANG 2**
+    - LANG 3**
+    - LANG 4**
+    - LANG 5**
+    excluded_course_list:
+    - ITA ***
+  - name: Track 3
+    min_needed: 3
+    max_counted: 1
+    explanation: |-
+      Students intending to combine work in French or Italian and another related field normally take a minimum of eight upper-division courses: five in the relevant language and literature (one of which may be a cognate) and three in the other field. For example, students specializing in French or Italian and History, Politics, or Art and Archaeology, might take appropriate 300-level or higher courses in those departments. Students should consult with their director of undergraduate studies before course enrollment. Up to two of the five departmental courses may be taken at the 200 level (but FRE 207 and 208, or ITA 207 and 208, cannot both be counted).
+    course_list:
+    - HIS 3**
+    - POL 3**
+    - ART 3**
+    - HIS 4**
+    - POL 4**
+    - ART 4**
+    - HIS 5**
+    - POL 5**
+    - ART 5**
+  - name: Track 4
+    min_needed: 3
+    max_counted: 1
+    explanation: |-
+      This track is designed for students who wish to combine work in French or Italian and a creative art, such as theater, music, dance, painting, film, translation and creative writing. Upon approval by the director of undergraduate studies, the student would normally take a minimum of eight upper-division courses: five in the relevant language and literature and three in the field related to the art of interest. Up to two of the five departmental courses may be taken at the 200 level (but FRE 207 and 208, or ITA 207 and 208, cannot both be counted). In some cases, an original work of creation (paintings, prose, or poetry, etc.), or of performance (theater, etc.), may substitute for the senior thesis, but not for one of the two junior papers. In these cases, students will also be required to submit a substantial critical work of at least 6,000 but no more than 10,000 words (25-35 pages), in which they will position and discuss their creative work in relation to the historical and cultural context of the language in question. The creative portion of the thesis must also have an obvious French, Francophone or Italian cultural component, approved in advance by the student's adviser.
+    course_list:
+    - VIS ***
+    - ART ***
+    - THR ***
+    - MTD ***
+    - DAN ***
+    - MUS ***
+    - CWR ***
+- name: Junior Papers
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    Upon entering the department, and in all cases no later than the spring of sophomore year, students should discuss their likely area of interest with the director of undergraduate studies so that students can be paired with the most compatible adviser. The adviser will be assigned at the beginning of junior year. Students should contact their junior adviser and plan regular meetings. In consultation with their adviser, students will also choose the language in which they will draft their paper. It is the responsibility of the student to make and keep these arrangements.
+    The first junior paper, written in the fall semester, should be about 4,000 words. The second junior paper, written in the spring semester, should be between 5,000 and 8,000 words. Both junior papers may be written in English, in which case a three-page summary in the relevant language must be provided. If the paper is written in the relevant language, a three-page summary in English is required.
+    Students following tracks 2 or 3 may write one junior paper in one of their two majors subjects, and one in the other.
+    In preparing their papers, students should conform to the principles specified in the University's instructions for writing essays. Formatting should consistently follow either the Modern Language Association Handbook or The Chicago Manual of Style.
+  no_req:
+- name: Senior Thesis
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    As the culmination of their independent work, senior students write a thesis on an approved topic. Late in their junior year, students will discuss possible areas of interest with the director of undergraduate studies. Topics chosen in the past have ranged across the field of French, Francophone and Italian studies, from linguistic problems and literary techniques to close textual analysis to thematic and cultural study. Students primarily interested in culture and civilization have written on art, on political and economic issues, on education and on a variety of social questions. For students following tracks 2, 3, and 4, joint supervision may be arranged. The senior thesis is a major commitment of a student's time and energy, and the most important yardstick for choosing a topic is willingness to spend many hours immersed in that particular set of texts or problems.
+    Majors in French and/or Italian who are also earning certificates should consult with their advisers about selecting a suitable thesis topic. The senior thesis may be written in English, in which case a three-page summary in the relevant language must be provided. If the thesis is written in the relevant language, a three-page summary in English is required.
+    Senior theses should be 15,000-20,000 words in length.
+  no_req:
+- name: Senior Departmental Examination
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The examination, taken in May of senior year, is designed to test aspects of the student's entire program of study in the department. A list of required and recommended readings is provided for each of the languages and literatures taught in the department, and it guides students in preparing for the written examination. The format of the examination is as follows.
+    Written Component (three hours) in class, including: (a) A sight translation. This exercise will consist of the translation of a short prose text from French or Italian into English. The resulting translation should reflect the linguistic command and stylistic sophistication expected from a reasonably proficient speaker of French or Italian. For majors following Track 2, and combining French and Italian, the original text will be given in the dominant language. (b) An essay written in the language of specialization. Students will choose one topic out of three culture/literature questions. Topics will be based on the reading lists and course offerings.
+    Oral Presentation (30 minutes). A brief (10-15 minute) oral presentation, in the language of the major (French or Italian), followed by a discussion. The content of the presentation will be determined and prepared by the student in concert with their adviser, and may reflect any aspect of the student's own general intellectual and academic experience in the department. It may therefore stem from the senior thesis, but also largely refer to the overall course of study achieved in the major subject. The examining committee will include at least two permanent faculty of each section.
+  no_req:

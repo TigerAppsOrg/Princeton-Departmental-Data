@@ -1,0 +1,126 @@
+type: Certificate
+name: Spanish
+code: SPA
+urls:
+  - >-
+    https://ua.princeton.edu/fields-study/certificate-programs/language-and-culture
+  - https://spo.princeton.edu/undergraduate/certificate
+contacts:
+  - type: Director
+    name: Rafael Cesar
+    email: rafaelcesar@princeton.edu
+description: >-
+  The program is open to all undergraduates in all departments. Ordinarily,
+  students majoring in language and literature departments, including
+  comparative literature, will be eligible for the certificate in language and
+  culture provided that: (a) the linguistic base for the language and culture
+  certificate is different from the linguistic base of the major; and (b) the
+  work required for the language and culture certificate does not duplicate the
+  requirements of the major.
+max_common_with_major: 0
+declaration_limit: 7
+pdfs_allowed: 0
+excluded_majors:
+  - SPA/POR
+req_list:
+  - name: Prerequisites
+    min_needed: 2
+    max_counted: 1
+    course_list:
+      - SPA 2**
+  - name: Electives
+    min_needed: 4
+    max_counted: 1
+    explanation: >-
+      Four department-based or cross-listed SPA courses above SPA 209, at least
+      three of which must be 300-level (or higher) in Spanish language,
+      literature, or culture. Courses must be taken for a letter grade, no
+      Pass/D/Fail or Audit. **Due to the COVID-19 pandemic, spring '20 and
+      academic year '20-'21 courses taken PDF will be accepted.** At the
+      discretion of the Director of Undergraduate Studies, students who study
+      abroad during the academic year may count one pre-approved course per
+      semester abroad towards the certificate. One Princeton summer abroad
+      course offered through the department would also count. Two pre-approved
+      courses in a summer program abroad other than Princeton's can count as one
+      course towards the certificate. In no case, however, can more than two
+      courses taken abroad count toward the certificate. A maximum of one course
+      taught in English may be counted towards the certificate, provided that
+      all written work is submitted in Spanish.
+    req_list:
+      - name: 210 or Higher
+        min_needed: 0
+        max_counted: 1
+        course_list:
+          - SPA 210
+          - SPA 211
+          - SPA 212
+          - SPA 213
+          - SPA 214
+          - SPA 215
+          - SPA 216
+          - SPA 217
+          - SPA 218
+          - SPA 219
+          - SPA 220
+          - SPA 221
+          - SPA 222
+          - SPA 223
+          - SPA 224
+          - SPA 225
+          - SPA 226
+          - SPA 227
+          - SPA 228
+          - SPA 229
+          - SPA 230
+          - SPA 231
+          - SPA 232
+          - SPA 233
+          - SPA 234
+          - SPA 235
+          - SPA 236
+          - SPA 237
+          - SPA 238
+          - SPA 239
+          - SPA 240
+          - SPA 241
+          - SPA 242
+          - SPA 243
+          - SPA 244
+          - SPA 245
+          - SPA 246
+          - SPA 247
+          - SPA 248
+          - SPA 249
+          - SPA 250
+          - SPA 251
+          - SPA 252
+          - SPA 253
+      - name: 300 Level or Higher
+        min_needed: 3
+        max_counted: 4
+        course_list:
+          - SPA 3**
+          - SPA 4**
+          - SPA 5**
+  - name: Independent Work
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      During their senior year, students are required to submit a paper on a
+      designated topic. The paper must be written in Spanish; be at least 6,000
+      words in length; and be an extension of a paper written for one of the
+      courses taken towards the certificate. Advisers are not assigned. One
+      additional 300-level (or higher) SPA course may be substituted for the
+      independent work. 
+    req_list:
+      - name: Paper
+        max_counted: 1
+        iw_relationship: separate
+        no_req: null
+      - name: Course
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - SPA 3**
+          - SPA 4**
+          - SPA 5**

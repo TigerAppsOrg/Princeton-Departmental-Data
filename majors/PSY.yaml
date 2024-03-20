@@ -5,37 +5,27 @@ code: PSY
 degree: AB
 urls:
 - https://ua.princeton.edu/academic-units/department-psychology
-- https://psych.princeton.edu/undergraduate-program
 contacts:
 - type: Chair
   name: Kenneth A. Norman
   email: knorman@princeton.edu
-- type: Associate Chair
-  name: Tania Lombrozo
-  email: lombrozo@princeton.edu
 - type: Director of Undergraduate Studies
   name: Michael S. Graziano
   email: graziano@princeton.edu
+description: |-
+  The psychology major, within the Division of Natural Sciences, provides foundational and advanced undergraduate courses on a range of topics relating to the scientific study of mind and behavior. These include but are not limited to sensation, perception, movement, language, reasoning, decision-making, social interaction and computational models of the brain. Because psychological science involves working with large and complex data sets, students gain skills and knowledge in statistical methods. Additionally, since mental processes and behavior arise from the brain, students also acquire knowledge in neuroscience.
 req_list:
 - name: Prerequisites
-  max_counted: 1
   min_needed: ALL
-  explanation: 'The prerequisites for entering the Department of Psychology are successful
-    graded completion of PSY 251 (Quantitative Methods) or a pre-approved statistics
-    course in another department (for example, ORF 245 or ECO 202), along with two
-    other courses from the following list: PSY 101 (Introduction to Psychology), PSY
-    252 (Social Psychology), PSY 254 (Developmental Psychology), PSY 255 (Cognitive
-    Psychology), or either PSY 258 (Fundamentals of Neuroscience) or NEU 200 (Functional
-    Neuroanatomy). All requests for an alternative set of prerequisites must be approved
-    by the Departmental Representative.'
+  max_counted: 1
+  explanation: |-
+    The prerequisites for entering the Department of Psychology are the successful graded completion (without pass/D/fail) of PSY 251 (Quantitative Methods) or a preapproved statistics course in another department (for example, ORF 245 or ECO 202, SPI 200, SML 201, or POL 345), along with two other courses from the following list.
+  completed_by_semester: 4
   double_counting_allowed: true
   req_list:
-  - name: Quantitative Methods
-    max_counted: 1
+  - name: Statistics
     min_needed: 1
-    explanation: Successful graded completion of PSY 251 (Quantitative Methods) or
-      a pre-approved statistics course in another department (for example, ORF 245
-      or ECO 202).
+    max_counted: 1
     course_list:
     - PSY 251
     - ORF 245
@@ -43,102 +33,71 @@ req_list:
     - SPI 200
     - SML 201
     - POL 345
-  - name: Introductory Courses
-    max_counted: 1
+  - name: Intro Psych
     min_needed: 2
-    explanation: |-
-      Two other courses from the following list:
-      - PSY 101 (Introduction to Psychology)
-      - PSY 252 (Social Psychology)
-      - PSY 254 (Developmental Psychology)
-      - PSY 255 (Cognitive Psychology)
-      - either PSY 258 (Fundamentals of Neuroscience) or NEU 200 (Functional Neuroanatomy)
-    req_list:
-    - name:
-      max_counted:
-      min_needed:
-      explanation:
-      course_list:
-      - PSY 101
-      - PSY 252
-      - PSY 254
-      - PSY 255
-    - name:
-      max_counted: 1
-      min_needed:
-      explanation:
-      course_list:
-      - PSY 258
-      - NEU 200
-- name: Departmental Courses
-  max_counted: 1
-  min_needed: 8
-  explanation: The psychology concentration requires graded completion (without PDF)
-    of at least eight courses within the department in addition to the three prerequisite
-    courses. If they were not already taken as prerequisites, students must take PSY
-    252, PSY 255, and either PSY 258 or NEU 200. It is recommended that students finish
-    these three courses by the end of junior year. One of the eight departmental courses
-    must be PSY 300 (Research Methods in Psychology), which must be completed by the
-    end of junior year. Of the remaining departmental courses, all must be 200-level
-    or higher and at least four must be 300-level or higher. Students can take up
-    to two cognate courses from other departments, approved by the Psychology Departmental
-    Representative, to count as departmental courses.
-  req_list:
-  - name: Required Departmentals
-    max_counted: 4
-    min_needed: 4
-    explanation: If they were not already taken as prerequisites, students must take
-      PSY 252, PSY 255, and either PSY 258 or NEU 200. It is recommended that students
-      finish these three courses by the end of junior year. One of the eight departmental
-      courses must be PSY 300 (Research Methods in Psychology), which must be completed
-      by the end of junior year.
-    completed_by_semester: 6
-    req_list:
-    - name:
-      max_counted:
-      min_needed:
-      explanation:
-      course_list:
-      - PSY 252
-      - PSY 255
-      - PSY 300
-    - name:
-      max_counted: 1
-      min_needed: 1
-      explanation:
-      course_list:
-      - PSY 258
-      - NEU 200
-  - name: Other Departmentals
-    max_counted: 4
-    min_needed: 4
-    explanation: Of the remaining departmental courses, all must be 200-level or higher
-      and at least four must be 300-level or higher. Students can take up to two cognate
-      courses from other departments, approved by the Psychology Departmental Representative,
-      to count as departmental courses.
-    excluded_course_list:
-    - PSY 300
+    max_counted: 1
     course_list:
-    - PSY 3*
-    - PSY 4*
-    - PSY 5*
-- name: Independent Work
-  max_counted:
-  min_needed:
+    - PSY 101
+    - PSY 252
+    - PSY 254
+    - PSY 255
+    - PSY 258
+- name: Core
+  min_needed: ALL
+  max_counted: 1
+  completed_by_semester: 6
+  explanation: |- 
+    Students must complete PSY 300 (Research Methods) by the end of their junior year, and it is recommended that students complete the other three courses (PSY 252, PSY 255, and PSY 258/NEU200) by this time as well.
+  req_list:
+  - name:
+    min_needed: ALL
+    max_counted: 1
+    course_list:
+    - PSY 300
+    - PSY 252
+    - PSY 255
+  - name:
+    min_needed: 1
+    max_counted: 1
+    course_list:
+    - PSY 258
+    - NEU 200
+- name: Courses
+  min_needed: 8
+  max_counted: 1
+  double_counting_allowed: true
   explanation: |-
-    <i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>
-
-    The goal of the junior paper (JP) is to acquaint students with focused study in the field of Psychology; develop proficiency in reading and analyzing the professional literature; develop an independent project as preparation for a thesis, and work in close consultation with a faculty member.
-
-    Students write two JP papers, one in the fall semester and one in the spring. For each JP, the student must also give a presentation midway through the semester showing their progress.
+    Of the remaining eight departmental courses, at least four must be at the 300- or 400-level and all remaining must be 200-level or higher. Students can take up to two preapproved cognate courses from other departments, which count as departmental courses.
+  req_list:
+  - name: 300-Level or Higher
+    min_needed: 4
+    max_counted: ALL
+    course_list:
+    - PSY 3**
+    - PSY 4**
+    - PSY 5**
+  - name: 200-Level
+    min_needed: 0
+    max_counted: 4
+    course_list:
+    - PSY 2**
+- name: Junior Independent Work
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    With help from the department, and by talking to faculty and researching faculty webpages, students find an adviser from the Department of Psychology. The primary goal of the fall JP in psychology is for students to practice how to formulate a question and to query the literature. The paper should involve critical analysis and original synthesis, with a topic chosen collaboratively by student and adviser. The fall JP is typically 10-20 pages and is graded by the student's adviser.
+    Students may remain with the same adviser from the fall semester or find a different adviser whose interests overlap their own. The primary purpose of the spring paper is to prepare students for writing a thesis by having them formulate an original idea and embody it in a paper. The spring JP is typically 20-40 pages and is graded by the student's adviser.
+    Students will give a 10-minute presentation midway through the fall and spring semesters to show their progress on their respective JP. Student presentations will occur in a group setting that includes 4-6 other juniors and a faculty member who grades the presentations.
   no_req:
-- name: Senior Thesis
-  max_counted:
-  min_needed:
+- name: Senior Independent Work
+  min_needed: 1
+  max_counted: 1
   explanation: |-
-    <i>Editor's Note: Concentrators of this major do not enroll in any numbered course for this requirement, so TigerPath does not check it.</i>
-
-    Each psychology senior works in close consultation with a faculty advisor to develop, carry out and write a senior thesis.
-
-    Students can conduct an experimental thesis, a computational thesis, or a theoretical thesis. An experimental thesis should include a comprehensive literature review, findings from at least one original research study (an experiment or a field study) with appropriate statistical analyses, and a general discussion of the findings. A computational thesis should include a review of the literature and description and discussion of the computational models that the student has completed. A theoretical thesis should include a comprehensive review of the research literature on a psychology topic of importance, including an extensive evaluation of the findings and original interpretations, theoretical proposals, or a proposed program of research to add further scientific knowledge.
+    Each psychology senior works in close consultation with a faculty adviser to develop, carry out and write a senior thesis. The resulting thesis serves as the basis for the first part of the senior departmental xxam (see below). Although the length varies depending on type of thesis (experimental write-ups are often shorter), the final thesis is typically between 40 and 80 pages. The senior thesis grade is determined jointly by two readers: the student's adviser and the second reader assigned by the department. These two grades are averaged together to obtain a single grade for the written component of the senior thesis.
+  no_req:
+- name: Senior Departmental Examination
+  min_needed: 1
+  max_counted: 1
+  explanation: |-
+    The Senior Departmental Exam is a 60-minute oral examination conducted by two members of the faculty, typically the student's adviser and a second reader. The exam is a defense of the senior thesis and a discussion of its implications. During the first 10-15 minutes, students present a summary of their thesis, and then answer the faculty members' questions about their thesis for the remainder of the examination time. The two faculty members present will determine an examination grade based on the quality of the presentation and the student's ability to answer questions.
   no_req:

@@ -1,0 +1,84 @@
+type: Certificate
+name: Latin American Studies
+code: LAS
+urls:
+  - >-
+    https://ua.princeton.edu/fields-study/certificate-programs/latin-american-studies
+contacts:
+  - type: Director
+    name: Gabriela Nouzeilles
+    email: gnouzeil@princeton.edu
+description: >-
+  The Program in Latin American Studies promotes interdisciplinary study and
+  seeks to foster knowledge of and experience in Latin America.
+
+  With the program director's permission, a maximum of two courses from study
+  abroad may count toward fulfilling the course requirements.
+
+  In agreement with the Department of Spanish and Portuguese, only one course
+  can be used toward both the certificate in the Program in Latin American
+  Studies and a certificate in Spanish or Portuguese.
+
+  Students pursuing science studies may fulfill program requirements by taking a
+  number of approved courses in ecology and evolutionary biology and
+  environmental studies.
+max_common_with_major: null
+declaration_limit: null
+pdfs_allowed: 0
+req_list:
+  - name: Language
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      Completion of the language requirement in Spanish, Portuguese or French
+      (for students focusing on the French-speaking Caribbean). 
+    course_list:
+      - FRE 107
+      - FRE 108
+      - POR 107
+      - POR 109
+      - SPA 107
+      - SPA 108
+  - name: Courses
+    min_needed: 4
+    max_counted: 1
+    explanation: >-
+      NOTE: For Brazillian Studies or French-speaking Caribbean focus, replace
+      the terms relating to Latin America (the requirement is the same).
+
+      For students pursuing the Latin American Studies track, satisfactory
+      completion of four courses across several disciplines, and at least one of
+      the following four courses must be a seminar. 
+
+      One humanities course cross-listed with LAS or with strong Latin American
+      content
+
+      Three courses from any field cross-listed with LAS or with strong Latin
+      American content
+    course_list:
+      - LAS ***
+  - name: Independent Work
+    max_counted: 1
+    explanation: >-
+      NOTE: For Brazillian Studies or French-speaking Caribbean focus, replace
+      the terms relating to Latin America (the requirement is the same).
+
+      Completion of a senior thesis on a Latin American subject. Normally it
+      should be written under the supervision of a faculty member associated
+      with the program. If this is not the case, students are encouraged to
+      consult a faculty member associated with the program about available
+      sources or professional contacts some time during their junior year. If
+      the senior thesis is not devoted exclusively to a Latin American topic,
+      the director and relevant program faculty will determine its
+      acceptability. Ordinarily, at least half of the thesis content will deal
+      with Latin America, or a substantial portion of the research for the
+      thesis will require proficiency in a language—other than English—spoken in
+      Latin America.
+
+      Students whose thesis cannot be devoted to a Latin American topic may
+      complete the program requirements either by writing a research paper of
+      sufficient complexity and length to substitute for the thesis requirement
+      (the topic should be determined in consultation with the director and
+      relevant program faculty) or by taking an additional approved course.
+    iw_relationship: hybrid
+    no_req: null

@@ -1,0 +1,77 @@
+---
+type: Major
+name: Art and Archaeology - History of Art
+code: ART
+degree: AB
+urls:
+- https://ua.princeton.edu/academic-units/department-art-and-archaeology
+contacts:
+- type: Chair
+  name: Rachael Z. DeLue
+  email: rdelue@princeton.edu
+- type: Acting Chair
+  name: Nathan A. Arrington
+  email: nta@princeton.edu
+- type: Director of Undergraduate Studies (spring)
+  name: Basile C. Baudez
+  email: bbaudez@princeton.edu
+- type: Director of Undergraduate Studies (fall)
+  name: Beatrice E. Kitzinger
+  email: bkitzinger@princeton.edu
+description: |-
+  The Department of Art and Archaeology is devoted to the study of the visual arts and the investigation of material artifacts from a wide range of cultures and periods. Students may pursue a major in the History of Art or the Practice of Art; information on the certificate in Archaeology is also included below. Studio art courses are taught by faculty in the Program in Visual Arts; history of art courses also frequently include practical components. Students interested in the practice of art (taught by faculty in the Program in Visual Arts) can pursue a major in the department. Working closely with faculty members in small classes and often dealing directly with original objects and primary sources, students can explore subjects as diverse as Roman or modern city planning, arts of printing and book-making in East Asia or Europe, ancient or medieval archaeology, architectural history, 19th-21st century photography and contemporary arts of Africa, Latin America and the United States.
+  Majors in this track pursue the study and criticism of the visual arts and the investigation of material culture from a wide range of historical periods.
+req_list:
+- name: Prerequisites
+  max_counted: 1
+  min_needed: 2
+  explanation: |-
+    Any two courses offered by the Department of Art and Archaeology.
+  double_counting_allowed: true
+  course_list:
+  - ART ***
+- name: Departmentals
+  max_counted: 1
+  min_needed: 10
+  explanation: |-
+    A total of 10 courses in the Department of Art and Archaeology, including ART 400 (Junior Seminar) and an additional two seminars at the 400- or 500-level. Seven of the 10 courses must be taught by Art and Archaeology departmental faculty. Students must take at least one course in each of the following three distribution areas: Group 1 (ancient), Group 2 (medieval/early modern), and Group 3 (19th century to the present).  ART 100, ART 400 and ART 401 count as departmentals but not as distribution courses. In choosing courses to satisfy requirements, students are encouraged to explore a range of geographies and a range of media, e.g., architecture, painting, sculpture, photography, works on paper, film.
+    No more than two cognate courses taken in other departments (including the Program in Visual Arts) may be counted toward the 10 departmentals. This includes summer courses. Students participating in the Study Abroad Program may be allowed to count more than two courses taken overseas as departmentals. All cognate courses must be approved by the director of undergraduate studies prior to enrollment, based on the submission of a syllabus and course description. Courses cross-listed with the Department of Art and Archaeology automatically count as departmentals, but do not count toward the departmental honors GPA.
+  req_list:
+  - name: Required Courses
+    max_counted: 1
+    min_needed: 10
+    course_list:
+    - ART ***
+  - name: Seminars
+    max_counted: 1
+    min_needed: 2
+    explanation: |-
+      Two seminars at the 400- or 500-level.
+    course_list:
+    - ART 4*
+    - ART 5*
+- name: Junior Seminar
+  max_counted: 1
+  min_needed: ALL
+  explanation: |-
+    During the fall of junior year, all majors must take the junior seminar (ART 400). The course introduces students to various methods used by art historians and archaeologists, and many assignments relate directly to their junior independent work. Students who are abroad during the fall of junior year can complete the junior seminar during the fall term of their senior year.
+  course_list:
+  - ART 400
+- name: Junior Independent Work
+  max_counted: 1
+  min_needed: 1
+  explanation: |-
+    Junior Independent Work (JIW) begins in the fall, in the context of the junior seminar (ART 400), and continues into the spring with a faculty adviser whom the student selects in consultation with the director of undergraduate studies. JIW consists of a research paper of approximately 30-40 pages (7,500-10,000 words) on any topic related to visual and material culture. Assignments in ART 400 help students conceptualize and implement their research agendas. The JIW requirement in History of Art includes two colloquia with the Practice of Art cohort, one in the fall and one in the spring.
+  no_req:
+- name: Senior Independent Work
+  max_counted: 1
+  min_needed: 1
+  explanation: |-
+    The senior independent work consists of a year-long research project of approximately 60-80 pages (15,000-20,000 words). The student selects a faculty adviser in the spring of their junior year and submits a progress report to the director of undergraduate studies by mid-November of their senior year. For further deadlines see the Undergraduate Handbook; for further details on thesis writing and research, see the Independent Work Guide in the History of Art. The thesis grade is the average of the grades given by the faculty adviser and a second faculty reader. The Senior Independent Work requirement in History of Art includes two colloquia with the Practice of Art cohort, one in the fall and one in the spring.
+  no_req:
+- name: Senior Departmental Examination
+  max_counted: 1
+  min_needed: 1
+  explanation: |-
+    TThe senior comprehensive departmental examination ("Comps") consists of a one-hour oral examination discussing the senior thesis and also covering material from departmental courses. It is attended by three faculty members, consisting of the adviser of the senior thesis, the second reader, and one additional faculty member. The exam grade is the average of the grades given by the three examiners.  
+  no_req:

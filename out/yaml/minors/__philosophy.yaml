@@ -1,0 +1,65 @@
+type: Minor
+name: Philosophy
+code: PHI
+urls:
+  - >-
+    https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/philosophy
+contacts:
+  - type: Chair
+    name: Benjamin C. Morison
+    email: bmorison@princeton.edu
+  - type: Director of Undergraduate Studies (acting) (fall)
+    name: John P. Burgess
+    email: jburgess@princeton.edu
+  - type: Director of Undergraduate Studies (spring)
+    name: Desmond P. Hogan
+    email: deshogan@princeton.edu
+description: >-
+  Philosophy is of substantial relevance to work in a great variety of other
+  academic subjects, many of which historically emerged originally as branches
+  of philosophy before achieving the status of separate disciplines. The
+  qualities of mind which the study of philosophy aims to cultivate, and which
+  are most often cited by our alumni as their greatest benefit from majoring in
+  the subject, including especially the ability to think and write in a clear
+  and concise, organized and informed and disciplined way about contentious and
+  often confusing issues, are likely to be of value in some way for virtually
+  all students. The option of minoring in philosophy is intended to offer an
+  opportunity to learn such lessons in a structured way, while leaving the
+  student free to pursue virtually any major academic interest. 
+max_common_with_major: 2
+declaration_limit: 6
+pdfs_allowed: 0
+excluded_majors:
+  - PHI
+req_list:
+  - name: null
+    min_needed: 5
+    max_counted: 1
+    explanation: >-
+      Five courses in philosophy:
+
+      None of which may be taken on a pass/D/fail basis.
+
+      No more than one of which may be an approved cognate rather than a course
+      listed or cross-listed with a PHI number.
+
+      No more than two of which may be lower-division (200-level) courses, and
+      no more than three of which may come from any single one of the four
+      distribution areas into which philosophy courses are divided in the
+      requirements for majors.
+
+      No more than two of the five courses may be used to fulfill the
+      requirements of the student's major.
+    req_list:
+      - name: Lower Division
+        min_needed: 0
+        max_counted: 2
+        course_list:
+          - PHI 2**
+      - name: Upper Division
+        min_needed: 3
+        max_counted: ALL
+        course_list:
+          - PHI 3**
+          - PHI 4**
+          - PHI 5**

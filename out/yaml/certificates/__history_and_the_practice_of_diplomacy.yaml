@@ -1,0 +1,78 @@
+type: Certificate
+name: History and the Practice of Diplomacy
+code: HPD
+urls:
+  - >-
+    https://ua.princeton.edu/fields-study/certificate-programs/history-and-practice-diplomacy
+  - https://hpd.princeton.edu/courses
+contacts:
+  - type: Program Coordinator
+    name: Bernadette Yeager
+    email: byeager@princeton.edu
+description: >-
+  The Program in History and the Practice of Diplomacy  (HPD) offers
+  undergraduate students the opportunity to pursue concentrated
+  interdisciplinary study of history and diplomacy in concert with internships
+  in the practice of diplomacy and related professions. Successful completion of
+  the program leads to the award of a certificate.
+max_common_with_major: 2
+declaration_limit: 4
+pdfs_allowed: null
+req_list:
+  - name: Introductory Course
+    min_needed: 1
+    max_counted: 1
+    completed_by_semester: 4
+    explanation: >-
+      Students enrolling in the program are required to take an introductory
+      course, SPI 315, usually in the spring semester of sophomore year. In
+      exceptional circumstances and at the discretion of the director, this
+      course may be taken other than in sophomore year. In addition to its
+      pedagogical purpose, SPI 315 is designed to help create a sense of
+      community among the cohort of students entering the program.
+    course_list:
+      - SPI 315
+  - name: Electives
+    min_needed: 4
+    max_counted: 1
+    explanation: >-
+      NOTE: Please manually verify as the preapproved course list is blank.
+
+      Students must additionally take four courses on topics of relevance to the
+      program's focus. Two of these must be in the history department, Near
+      Eastern studies, or East Asian studies, in international, global,
+      diplomatic history, or ancient history, and two in the Princeton School of
+      Public and International Affairs, politics department, or other
+      departments, on subjects such as grand strategy, international relations,
+      international organizations, international political economy, and other
+      subjects related to war, peace, and global stability.
+    req_list:
+      - name: Category A
+        min_needed: 2
+        max_counted: 2
+        course_list:
+          - EAS ***
+          - HIS ***
+          - NES ***
+      - name: Category B
+        min_needed: 2
+        max_counted: 2
+        course_list:
+          - POL ***
+          - SPI ***
+  - name: Summer Internship
+    max_counted: 1
+    explanation: >-
+      Each student must serve a summer internship, generally during the summer
+      following the sophomore or junior year, with an appropriate government
+      agency or official, international organization (governmental or
+      nongovernmental), or think tank focused on international affairs. The
+      program director advises students in identifying appropriate internships.
+      In consultation with the executive committee, the director gives final
+      approval and provides the funding for those students whose internships are
+      approved as meeting program goals. The number of students supported is
+      limited by the availability of funds. It is assumed that any student who
+      is remunerated for an internship will complete the entirety of the
+      program.
+    iw_relationship: separate
+    no_req: null

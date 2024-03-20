@@ -4,11 +4,13 @@ A central repository for Princeton Univeristy departmental data, including major
 Currently used by:
 
 * [TigerPath](https://github.com/TigerPathApp/tigerpath)
+* [TigerJunction](https://tigerjunction.com)
 * [Princeton ResInDe's Course Selection application](https://github.com/PrincetonResInDe/course-selection)
 
-Each of the folders named `certificates`, `degrees`, and `majors`
-contains requirement files in either `JSON` or `YAML` format.
-The `scripts` folder contains a sample script, [`verifier.py`](scripts/verifier.py), with an API that helps to parse and process these requirement files to check which requiremetns are satisfied by a user's courses.  
+Each of the folders named `majors`, `certificates`, `minors`, and `degrees` contains requirement files in `YAML` format.
+The `scripts` folder contains a sample script, [`verifier.py`](scripts/verifier.py), with an API that helps to parse and process these requirement files to check which requiremetns are satisfied by a user's courses. There is also a preprocessor script, [`preprocess.js`](scripts/preprocess.js),
+that checks the requirement files for errors, standardizes the format, and converts them to both `YAML` and `JSON` formats.
+The `json` folder contains the preprocessed `JSON` files.
 
 ## Requirement File Categories
 
@@ -48,6 +50,13 @@ Note that it is easy to convert between the two using any `YAML` parser
 (for example, using an [online conversion tool](https://www.json2yaml.com/)).
 The expected format of the requirements files, as well as how they are
 interpreted, is explained below.
+
+### Preprocessing
+A preprocessing script, [`preprocess.js`](scripts/preprocess.js), exists to
+check the requirement files for errors, standardize the format, and convert
+them to both `YAML` and `JSON` formats (placed in the `out` directory). Please 
+read the file comment of the script for more information on how to use it.
+*Note: The script is written in JavaScript and requires Node.js to run.*
 
 ### Course Code Conventions
 
@@ -106,6 +115,21 @@ description: |-
 # the certificate. Default if empty / not present is that all majors are allowed
 allowed_majors:
 - NST
+# excluded_majors is only relevant for certificates and should not appear for
+# majors and degrees. It is a list of majors that are not allowed to be taken with
+# the certificate. Default if empty / not present is that no majors are excluded
+excluded_majors:
+- XXX
+# excluded_minors is only relevant for certificates and should not appear for
+# majors and degrees. It is a list of minors that are not allowed to be taken with
+# the certificate. Default if empty / not present is that no minors are excluded
+excluded_minors:
+- XXX
+# declaration_limit is only relevant for certificates and should not appear for
+# majors and degrees. It is the latest semester by which a student must declare
+# the certificate. Default if empty / not present is that there is no limit
+declaration_limit:
+- 6
 # every source of information on the listed requirements should be linked to here
 # and the info in the links should back up every detail of the requirements file
 urls: #* links to requirements pages
@@ -117,18 +141,22 @@ contacts: #* departmental office contacts for the department or certificate
 #* requirement lists contain requirements and/or subrequirements
 req_list: # the highest level **must** contain a req_list
 - name: Prerequisites #* requirement name
-  max_counted: 1 # > 0 or null: max units passed up to the parent requirement. unlimited if null
+  max_counted: 1 # > 0 or null: max units passed up to the parent requirement. ALL if null or missing
   min_needed: 4 #* >= 0 or "ALL": min units demanded of children (subrequirements)
   explanation: |- #* long human readable description of the requirement
     This text should be copied almost word-for-word from the department website.
     It can contain <i>html-type formatting</i> and can include the explicit list of courses if this is how the department website lists it.
     This text is displayed to the user in a tooltip when they hover over the requirement.
-  double_counting_allowed: false # whether courses may count for multiple subrequirements of this requirement
+  double_counting_allowed_local: false # whether courses may count for multiple subrequirements of this requirement
                                  # should only be explicitly listed for the root of the subtree to which it applies
+                                 # if empty/null/missing false is assumed
+  double_counting_allowed: false # whether courses may count for multiple subrequirements of this requirement
+                                        # if empty/null/missing false is assumed
   max_common_with_major: 0 # number of courses that can be in common with major
                            # only relevant for certificates
   pdfs_allowed: false # whether student is allowed to take the courses SPDF (student-elected Pass/D/Fail)
                       # can be false, true, or a number indicating how many courses can
+                      # if empty/null/missing false/0 is assumed
   completed_by_semester: 4 # 1-8: semester by the end of which the requirement must be complete
                            # optional and usually only needed for some prerequisites
   #* the requirement may contain only one of: a course_list, a req_list, a dist_req, or a num_courses
@@ -138,6 +166,7 @@ req_list: # the highest level **must** contain a req_list
                              # otherwise, it is a 'hidden subrequirement'
     max_counted: 1 #* see above
     min_needed: 1 #* see above
+    no_crosslist: #* course_list does not include crosslistings
     explanation: Take an interesting course in the department #*
     #* this again may be any one of: a course_list, a req_list, a dist_req, or a num_courses
     course_list: #* a course_list defines this requirement as an explicit or implicit list of courses
@@ -151,12 +180,13 @@ req_list: # the highest level **must** contain a req_list
     excluded_course_list: # the format is the same as for a course_list
     - NST 221 # this prevents NST 221 from counting, despite NST 2** listed above
 # any requirement that the app cannot possibly verify,
-# such as a Senior Thesis or internship, should contain a no_req
+# such as a Senior`` Thesis or internship, should contain a no_req
 # instead of a req_list or course_list. Here is an example:
 - name: Unverifiable Requirement
   max_counted: #*
   min_needed: #*
   explanation: All students must visit New York City three times. #*
+  iw_relationship: combined | hybrid | separate #* whether the requirement is combined, hybrid, or separate with the major IW requirement
   no_req: #* The value of the no_req field is ignored and may be empty/null
 ```
 
