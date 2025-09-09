@@ -2,8 +2,7 @@ type: Certificate
 name: Applied and Computational Mathematics
 code: APC
 urls:
-  - >-
-    https://ua.princeton.edu/fields-study/certificate-programs/applied-and-computational-mathematics
+  - https://ua.princeton.edu/fields-study/certificate-programs/applied-and-computational-mathematics
 contacts:
   - type: Director
     name: Peter Constantin
@@ -12,39 +11,32 @@ contacts:
     name: Ramon van Handel
     email: rvan@math.princeton.edu
 description: >-
-  There has never been a better time to be a mathematician. The combination of
-  mathematics and computer modeling has transformed science and engineering and
-  is changing the nature of research in the biological sciences, data science
-  and many other areas. Students seeking to pursue an academic program with a
-  strong focus on applied mathematics may major in mathematics with a course of
-  study geared toward applications, or may major in the sciences or engineering
-  and enroll in the certificate Program in Applied and Computational Mathematics
-  (PACM).
+  There has never been a better time to be a mathematician. The combination of mathematics and computer modeling has
+  transformed science and engineering and is changing the nature of research in the biological sciences, data science
+  and many other areas. Students seeking to pursue an academic program with a strong focus on applied mathematics may
+  major in mathematics with a course of study geared toward applications, or may major in the sciences or engineering
+  and enroll in the certificate Program in Applied and Computational Mathematics (PACM).
 max_common_with_major: 3
 declaration_limit: 5
 pdfs_allowed: 0
 req_list:
-  - name: null
-    min_needed: Program of Study
+  - name: Program of Study
+    min_needed: ALL
     max_counted: 1
     explanation: >-
-      A total of five courses, normally 300-level or higher (requires letter
-      grade; pass/D/fail not accepted), at least two of which are not included
-      in the usual requirements for the candidate's major.
+      A total of five courses, normally 300-level or higher (requires letter grade; pass/D/fail not accepted), at least
+      two of which are not included in the usual requirements for the candidate's major.
 
-      The course requirement may be satisfied by a broad range of courses that
-      place a particular emphasis on applied mathematics, which are offered by
-      the mathematics department as well as the science, engineering and
-      economics departments. The five required courses must be distributed
-      between the following two areas, with at least two from each area: 
+      The course requirement may be satisfied by a broad range of courses that place a particular emphasis on applied
+      mathematics, which are offered by the mathematics department as well as the science, engineering and economics
+      departments. The five required courses must be distributed between the following two areas, with at least two from
+      each area: 
 
-      1. Mathematical foundations and techniques, including differential
-      equations, real and complex analysis, discrete mathematics, probability,
-      numerical methods, etc. 
+      1. Mathematical foundations and techniques, including differential equations, real and complex analysis, discrete
+      mathematics, probability, numerical methods, etc. 
 
-      2. Mathematical applications in diverse areas offered by the applied and
-      computational mathematics program and by science, engineering and
-      economics departments.
+      2. Mathematical applications in diverse areas offered by the applied and computational mathematics program and by
+      science, engineering and economics departments.
     req_list:
       - name: Foundations and Techniques
         min_needed: 2
@@ -172,20 +164,16 @@ req_list:
   - name: Independent Work
     max_counted: 1
     explanation: >-
-      Independent work consisting of a paper in one of the following formats:
-      (a) a project that you are working on with a professor; or (b) a summer
-      research project. However, the independent work may not be used to satisfy
-      any requirements of your major or of any other minor or certificate. In
-      particular, you may not use your junior paper or senior thesis to satisfy
-      the independent work requirement for the certificate. A significant
-      extension of the senior thesis or of a course project may however be used
-      to satisfy the requirement, subject to approval of the PACM undergraduate
-      representative.
+      Independent work consisting of a paper in one of the following formats: (a) a project that you are working on with
+      a professor; or (b) a summer research project. However, the independent work may not be used to satisfy any
+      requirements of your major or of any other minor or certificate. In particular, you may not use your junior paper
+      or senior thesis to satisfy the independent work requirement for the certificate. A significant extension of the
+      senior thesis or of a course project may however be used to satisfy the requirement, subject to approval of the
+      PACM undergraduate representative.
 
-      Students are required to participate during the spring semester of their
-      junior and senior years in a not-for-credit colloquium offered by PACM.
-      This will provide a forum for presentation and discussion of independent
-      work among all certificate students and will introduce them to a broad
-      range of areas within applied mathematics.
+      Students are required to participate during the spring semester of their junior and senior years in a
+      not-for-credit colloquium offered by PACM. This will provide a forum for presentation and discussion of
+      independent work among all certificate students and will introduce them to a broad range of areas within applied
+      mathematics.
     iw_relationship: separate
     no_req: null

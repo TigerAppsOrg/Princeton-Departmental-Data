@@ -1,147 +1,160 @@
----
 type: Major
 name: Computer Science - BSE
 code: COS-BSE
 degree: BSE
 urls:
-- https://ua.princeton.edu/academic-units/department-computer-science-bse
-- https://www.cs.princeton.edu/ugrad/becoming-cs-major/requirements
+  - https://ua.princeton.edu/academic-units/department-computer-science-bse
+  - https://www.cs.princeton.edu/ugrad/becoming-cs-major/requirements
 contacts:
-- type: Chair
-  name: Szymon M. Rusinkiewicz
-  email: smr@princeton.edu
-- type: Director of Undergraduate Studies (co-director) (spring)
-  name: Brian W. Kernighan
-  email: bwk@cs.princeton.edu
-- type: Director of Undergraduate Studies (co-director) (spring)
-  name: Andrew W. Appel
-  email: appel@cs.princeton.edu
-- type: Director of Undergraduate Studies (co-director) (fall)
-  name: David P. Walker
-  email: dpw@cs.princeton.edu
-- type: Director of Undergraduate Studies (co-director) (fall)
-  name: Kevin Wayne
-  email: wayne@cs.princeton.edu
-description: |-
-  With computation and computer science now permeating all corners of society and the economy, a computer science education has become a good launching pad for almost any career. Core concepts and skills emphasized in the computer science curriculum include theoretical and quantitative analysis of computation; design/engineering principles of advanced computer systems; and foundations and methods of AI and machine learning. The curriculum provides additional flexibility to explore subdisciplines of computer science (programming languages, formal methods, software engineering, computer graphics, information security), or to branch out into exciting cross-disciplinary investigations (neuroscience and cognitive science, computational biology, information policy, robotics, data science, etc.). Most computer science majors enjoy programming. Quite a few start with zero or minimal background and can enhance their skills while progressing through the curriculum.
+  - type: Chair
+    name: Szymon M. Rusinkiewicz
+    email: smr@princeton.edu
+  - type: Director of Undergraduate Studies (co-director) (spring)
+    name: Brian W. Kernighan
+    email: bwk@cs.princeton.edu
+  - type: Director of Undergraduate Studies (co-director) (spring)
+    name: Andrew W. Appel
+    email: appel@cs.princeton.edu
+  - type: Director of Undergraduate Studies (co-director) (fall)
+    name: David P. Walker
+    email: dpw@cs.princeton.edu
+  - type: Director of Undergraduate Studies (co-director) (fall)
+    name: Kevin Wayne
+    email: wayne@cs.princeton.edu
+description: >-
+  With computation and computer science now permeating all corners of society and the economy, a computer science
+  education has become a good launching pad for almost any career. Core concepts and skills emphasized in the computer
+  science curriculum include theoretical and quantitative analysis of computation; design/engineering principles of
+  advanced computer systems; and foundations and methods of AI and machine learning. The curriculum provides additional
+  flexibility to explore subdisciplines of computer science (programming languages, formal methods, software
+  engineering, computer graphics, information security), or to branch out into exciting cross-disciplinary
+  investigations (neuroscience and cognitive science, computational biology, information policy, robotics, data science,
+  etc.). Most computer science majors enjoy programming. Quite a few start with zero or minimal background and can
+  enhance their skills while progressing through the curriculum.
 req_list:
-- name: Prerequisites
-  completed_by_semester: 4
-  min_needed: ALL
-  max_counted: 1
-  explanation: |-
-    All B.S.E. students must meet the School of Engineering and Applied Science general requirements. Students must complete COS 126 (or ISC 231-234 or ECE 115), 217 and 226. Students should plan to take COS 126 in the first year. COS 217 and COS 226 should be completed before junior year. One or both of these are prerequisites for all later computer science courses.
-  req_list:
-  - name: Introductory Course
-    completed_by_semester: 2
-    min_needed: 1
-    max_counted: 1
-    req_list:
-    - name: COS 126
-      min_needed: 1
-      max_counted: 1
-      course_list:
-      - COS 126
-    - name: ISC
-      min_needed: ALL
-      max_counted: 1
-      course_list:
-      - ISC 231
-      - ISC 232
-      - ISC 233
-      - ISC 234
-    - name: Placement Test
-      min_needed: 1
-      max_counted: 1
-      no_req:
-  - name: COS 217/226
+  - name: Prerequisites
     completed_by_semester: 4
     min_needed: ALL
     max_counted: 1
-    course_list:
-    - COS 217
-    - COS 226
-- name: Reasoning and Computation
-  completed_by_semester: 6
-  min_needed: ALL
-  max_counted: 1
-  explanation: |-
-    Students must take COS 240 (Reasoning and Computation), to be completed before the end of junior year.
-  course_list:
-  - COS 240
-- name: Core Courses
-  min_needed: ALL
-  max_counted: 1
-  explanation: |-
-    Students must take a total of four courses, one from each of the four categories listed below.
-  req_list:
-  - name: Computer Systems
+    explanation: >-
+      All B.S.E. students must meet the School of Engineering and Applied Science general requirements. Students must
+      complete COS 126 (or ISC 231-234 or ECE 115), 217 and 226. Students should plan to take COS 126 in the first year.
+      COS 217 and COS 226 should be completed before junior year. One or both of these are prerequisites for all later
+      computer science courses.
+    req_list:
+      - name: Introductory Course
+        completed_by_semester: 2
+        min_needed: 1
+        max_counted: 1
+        req_list:
+          - name: COS 126
+            min_needed: 1
+            max_counted: 1
+            course_list:
+              - COS 126
+          - name: ISC
+            min_needed: ALL
+            max_counted: 1
+            course_list:
+              - ISC 231
+              - ISC 232
+              - ISC 233
+              - ISC 234
+          - name: Placement Test
+            min_needed: 1
+            max_counted: 1
+            no_req: null
+      - name: COS 217/226
+        completed_by_semester: 4
+        min_needed: ALL
+        max_counted: 1
+        course_list:
+          - COS 217
+          - COS 226
+  - name: Core Courses
+    min_needed: ALL
+    max_counted: 1
+    explanation: >-
+      Students must take courses from the categories listed below, including Reasoning and Computation (COS 240) and
+      one course from each of the other categories.
+    req_list:
+      - name: Reasoning and Computation
+        min_needed: 1
+        max_counted: 1
+        completed_by_semester: 6
+        course_list:
+          - COS 240
+      - name: Computer Systems
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COS 316
+          - COS 375
+          - COS 318
+          - COS 418
+          - COS 461
+      - name: Theoretical Computer Science
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COS 330
+          - COS 423
+          - COS 433
+          - COS 445
+          - COS 487
+      - name: Artificial Intelligence and Machine Learning
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COS 324
+          - COS 424
+          - COS 429
+          - COS 484
+      - name: Breadth
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COS 326
+          - COS 333
+          - COS 343
+          - COS 426
+          - COS 432
+          - COS 436
+          - COS 448
+  - name: Electives
+    min_needed: 3
+    max_counted: 1
+    explanation: >-
+      Students must take three COS courses numbered 300 or higher. Alternatively, up to two electives may be chosen from
+      a list of approved courses from other departments (see the department website for an up-to-date list).   
+    req_list:
+      - name: COS Departmentals
+        min_needed: 1
+        max_counted: null
+        course_list:
+          - COS 3**
+          - COS 4**
+      - name: Other Departments
+        min_needed: 0
+        max_counted: 2
+        course_list:
+          - ECE 3**
+          - ECE 4**
+          - ORF 3**
+          - ORF 4**
+          - MAE 345
+          - MOL 437
+          - NEU 330
+          - ECO 326
+  - name: Independent Work
     min_needed: 1
     max_counted: 1
+    explanation: >-
+      B.S.E. students must elect one semester of independent work by enrolling in 397 (junior fall), 398 (junior
+      spring), 497 (senior fall), or 498 (senior spring). One additional semester of independent work may be counted as
+      one of the departmental courses. B.S.E. students are also welcome, but not required, to complete a senior thesis.
     course_list:
-    - COS 316
-    - COS 375
-    - COS 318
-    - COS 418
-    - COS 461
-  - name: Theoretical Computer Science
-    min_needed: 1
-    max_counted: 1
-    course_list:
-    - COS 423
-    - COS 433
-    - COS 445
-    - COS 487
-  - name: Artificial Intelligence and Machine Learning
-    min_needed: 1
-    max_counted: 1
-    course_list:
-    - COS 324
-    - COS 424
-    - COS 429
-    - COS 484
-  - name: Breadth
-    min_needed: 1
-    max_counted: 1
-    course_list:
-    - COS 326
-    - COS 333
-    - COS 343
-    - COS 426
-    - COS 432
-    - COS 436
-    - COS 448
-- name: Electives
-  min_needed: 3
-  max_counted: 1
-  explanation: |-
-    Students must take three COS courses numbered 300 or higher. Alternatively, up to two electives may be chosen from a list of approved courses from other departments (see the department website for an up-to-date list).   
-  req_list:
-  - name: COS Departmentals
-    min_needed: 1
-    max_counted: ALL
-    course_list:
-    - COS 3**
-    - COS 4**
-  - name: Other Departments
-    min_needed: 0
-    max_counted: 2
-    course_list:
-    - ECE 3**
-    - ECE 4**
-    - ORF 3**
-    - ORF 4**
-    - MAE 345
-    - MOL 437
-    - NEU 330
-    - ECO 326
-- name: Independent Work
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    B.S.E. students must elect one semester of independent work by enrolling in 397 (junior fall), 398 (junior spring), 497 (senior fall), or 498 (senior spring). One additional semester of independent work may be counted as one of the departmental courses. B.S.E. students are also welcome, but not required, to complete a senior thesis.
-  course_list:
-  - COS 397
-  - COS 398
-  - COS 497
-  - COS 498
+      - COS 397
+      - COS 398
+      - COS 497
+      - COS 498

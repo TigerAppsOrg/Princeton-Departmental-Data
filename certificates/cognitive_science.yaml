@@ -9,25 +9,19 @@ contacts:
     name: Tania Lombrozo
     email: lombrozo@princeton.edu
 description: >-
-  Cognitive Science is the interdisciplinary study of how the mind works,
-  drawing on research from psychology, philosophy, linguistics, neuroscience and
-  computer science. The interdisciplinary character of cognitive science is
-  reflected in its reliance on many different levels of analysis of mental
-  phenomena and its employment of a variety of methodologies appropriate to each
-  level. The goal of cognitive science is to integrate the insights from
-  multiple disciplines and modes of research into a unified scientific account
-  of the mind and its place in nature. Research in cognitive science includes,
-  but is not limited to, work on psychophysics, perception, linguistics and
-  language processing, philosophy of mind and language, cognitive development,
-  memory, reasoning, emotion, moral and social cognition, and judgment and
-  decision making. One ambition of cognitive science is to understand just how
-  mental abilities and processes are realized in the brain, and how such neural
-  realizations can ground the conscious, deliberate activity of thought and
-  decision. Another is to map out just how the human mind develops from
-  childhood on, and thereby articulate the deep mechanisms of learning and
-  cognitive development. A third ambition is to investigate just how far mental
-  processes can be duplicated in complex computational structures that could be
-  instantiated in machines.
+  Cognitive Science is the interdisciplinary study of how the mind works, drawing on research from psychology,
+  philosophy, linguistics, neuroscience and computer science. The interdisciplinary character of cognitive science is
+  reflected in its reliance on many different levels of analysis of mental phenomena and its employment of a variety of
+  methodologies appropriate to each level. The goal of cognitive science is to integrate the insights from multiple
+  disciplines and modes of research into a unified scientific account of the mind and its place in nature. Research in
+  cognitive science includes, but is not limited to, work on psychophysics, perception, linguistics and language
+  processing, philosophy of mind and language, cognitive development, memory, reasoning, emotion, moral and social
+  cognition, and judgment and decision making. One ambition of cognitive science is to understand just how mental
+  abilities and processes are realized in the brain, and how such neural realizations can ground the conscious,
+  deliberate activity of thought and decision. Another is to map out just how the human mind develops from childhood on,
+  and thereby articulate the deep mechanisms of learning and cognitive development. A third ambition is to investigate
+  just how far mental processes can be duplicated in complex computational structures that could be instantiated in
+  machines.
 max_common_with_major: 4
 declaration_limit: null
 pdfs_allowed: 1
@@ -36,20 +30,18 @@ req_list:
     min_needed: 5
     max_counted: 1
     explanation: >-
-      Students are required to take five courses in cognitive science, which in
-      combination satisfy the following requirements:
+      Students are required to take five courses in cognitive science, which in combination satisfy the following
+      requirements:
 
       Three courses at the 300 level or higher;
 
-      Courses taken in at least three different academic units (please note that
-      this restriction applies only to a course's primary course listing, not to
-      additional cross-listings);
+      Courses taken in at least three different academic units (please note that this restriction applies only to a
+      course's primary course listing, not to additional cross-listings);
 
-      Typically no more than one course with a primary course listing from the
-      student's major, unless permission is obtained from the director;
+      Typically no more than one course with a primary course listing from the student's major, unless permission is
+      obtained from the director;
 
-      At least one course that is not counted toward the student's departmental
-      major;
+      At least one course that is not counted toward the student's departmental major;
 
       At most, one course may be taken pass/D/fail.
     req_list:
@@ -80,7 +72,7 @@ req_list:
           - HUM 230
       - name: 300/400/500 Level
         min_needed: 3
-        max_counted: ALL
+        max_counted: null
         course_list:
           - CGS 310
           - CGS 312
@@ -149,17 +141,13 @@ req_list:
   - name: Independent Work
     max_counted: 1
     explanation: >-
-      Students are also required to complete a thesis or a semester of junior
-      independent work that incorporates substantial elements of cognitive
-      science. This independent work should be interdisciplinary, and it should
-      incorporate methods or ideas from at least one core discipline of
-      cognitive science, such as cognitive psychology, a relevant aspect of
-      philosophy (e.g., mind, language, knowledge, science), a relevant aspect
-      of computer science (e.g., artificial intelligence, natural language
-      processing), cognitive neuroscience and/or linguistics. However, methods
-      or ideas from other disciplines are also welcome: students can come from
-      disciplines as diverse as music, architecture, comparative literature and
-      beyond, as long as their independent work incorporates substantial
+      Students are also required to complete a thesis or a semester of junior independent work that incorporates
+      substantial elements of cognitive science. This independent work should be interdisciplinary, and it should
+      incorporate methods or ideas from at least one core discipline of cognitive science, such as cognitive psychology,
+      a relevant aspect of philosophy (e.g., mind, language, knowledge, science), a relevant aspect of computer science
+      (e.g., artificial intelligence, natural language processing), cognitive neuroscience and/or linguistics. However,
+      methods or ideas from other disciplines are also welcome: students can come from disciplines as diverse as music,
+      architecture, comparative literature and beyond, as long as their independent work incorporates substantial
       elements of cognitive science as specified above. 
     iw_relationship: combined
     no_req: null

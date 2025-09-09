@@ -1,166 +1,186 @@
----
 type: Major
 name: Computer Science - AB
 code: COS-AB
 degree: AB
 urls:
-- https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/computer-science
-- https://www.cs.princeton.edu/ugrad/becoming-cs-major/requirements
+  - https://ua.princeton.edu/fields-study/departmental-majors-degree-bachelor-arts/computer-science
+  - https://www.cs.princeton.edu/ugrad/becoming-cs-major/requirements
 contacts:
-- type: Chair
-  name: Szymon M. Rusinkiewicz
-  email: smr@princeton.edu
-- type: Director of Undergraduate Studies (co-director) (spring)
-  name: Brian W. Kernighan
-  email: bwk@cs.princeton.edu
-- type: Director of Undergraduate Studies (co-director) (spring)
-  name: Andrew W. Appel
-  email: appel@cs.princeton.edu
-- type: Director of Undergraduate Studies (co-director) (fall)
-  name: David P. Walker
-  email: dpw@cs.princeton.edu
-- type: Director of Undergraduate Studies (co-director) (fall)
-  name: Kevin Wayne
-  email: wayne@cs.princeton.edu
-description: |-
-  With computation and computer science now permeating all corners of society and the economy, a computer science education has become a good launching pad for almost any career. Core concepts and skills emphasized in the computer science curriculum include theoretical and quantitative analysis of computation; design/engineering principles of advanced computer systems; and foundations and methods of AI and machine learning. The curriculum provides additional flexibility to explore subdisciplines of computer science (programming languages, formal methods, software engineering, computer graphics, information security), or to branch out into exciting cross-disciplinary investigations (neuroscience and cognitive science, computational biology, information policy, robotics, data science, etc.). Most computer science majors enjoy programming. Quite a few start with zero or minimal background and can enhance their skills while progressing through the curriculum.
+  - type: Chair
+    name: Szymon M. Rusinkiewicz
+    email: smr@princeton.edu
+  - type: Director of Undergraduate Studies (co-director) (spring)
+    name: Brian W. Kernighan
+    email: bwk@cs.princeton.edu
+  - type: Director of Undergraduate Studies (co-director) (spring)
+    name: Andrew W. Appel
+    email: appel@cs.princeton.edu
+  - type: Director of Undergraduate Studies (co-director) (fall)
+    name: David P. Walker
+    email: dpw@cs.princeton.edu
+  - type: Director of Undergraduate Studies (co-director) (fall)
+    name: Kevin Wayne
+    email: wayne@cs.princeton.edu
+description: >-
+  With computation and computer science now permeating all corners of society and the economy, a computer science
+  education has become a good launching pad for almost any career. Core concepts and skills emphasized in the computer
+  science curriculum include theoretical and quantitative analysis of computation; design/engineering principles of
+  advanced computer systems; and foundations and methods of AI and machine learning. The curriculum provides additional
+  flexibility to explore subdisciplines of computer science (programming languages, formal methods, software
+  engineering, computer graphics, information security), or to branch out into exciting cross-disciplinary
+  investigations (neuroscience and cognitive science, computational biology, information policy, robotics, data science,
+  etc.). Most computer science majors enjoy programming. Quite a few start with zero or minimal background and can
+  enhance their skills while progressing through the curriculum.
 req_list:
-- name: Prerequisites
-  completed_by_semester: 4
-  min_needed: ALL
-  max_counted: 1
-  explanation: |-
-    All B.S.E. students must meet the School of Engineering and Applied Science general requirements. Students must complete COS 126 (or ISC 231-234 or ECE 115), 217 and 226. Students should plan to take COS 126 in the first year. COS 217 and COS 226 should be completed before junior year. One or both of these are prerequisites for all later computer science courses.
-  req_list:
-  - name: Introductory Course
-    completed_by_semester: 2
-    min_needed: 1
-    max_counted: 1
-    req_list:
-    - name: COS 126
-      min_needed: 1
-      max_counted: 1
-      course_list:
-      - COS 126
-    - name: ISC
-      min_needed: ALL
-      max_counted: 1
-      course_list:
-      - ISC 231
-      - ISC 232
-      - ISC 233
-      - ISC 234
-    - name: Placement Test
-      min_needed: 1
-      max_counted: 1
-      no_req:
-  - name: COS 217/226
+  - name: Prerequisites
     completed_by_semester: 4
     min_needed: ALL
     max_counted: 1
+    explanation: >-
+      All B.S.E. students must meet the School of Engineering and Applied Science general requirements. Students must
+      complete COS 126 (or ISC 231-234 or ECE 115), 217 and 226. Students should plan to take COS 126 in the first year.
+      COS 217 and COS 226 should be completed before junior year. One or both of these are prerequisites for all later
+      computer science courses.
+    req_list:
+      - name: Introductory Course
+        completed_by_semester: 2
+        min_needed: 1
+        max_counted: 1
+        req_list:
+          - name: COS 126
+            min_needed: 1
+            max_counted: 1
+            course_list:
+              - COS 126
+          - name: ISC
+            min_needed: ALL
+            max_counted: 1
+            course_list:
+              - ISC 231
+              - ISC 232
+              - ISC 233
+              - ISC 234
+          - name: Placement Test
+            min_needed: 1
+            max_counted: 1
+            no_req: null
+      - name: COS 217/226
+        completed_by_semester: 4
+        min_needed: ALL
+        max_counted: 1
+        course_list:
+          - COS 217
+          - COS 226
+  - name: Reasoning and Computation
+    completed_by_semester: 6
+    min_needed: ALL
+    max_counted: 1
+    explanation: Students must take COS 240 (Reasoning and Computation), to be completed before the end of junior year.
     course_list:
-    - COS 217
-    - COS 226
-- name: Reasoning and Computation
-  completed_by_semester: 6
-  min_needed: ALL
-  max_counted: 1
-  explanation: |-
-    Students must take COS 240 (Reasoning and Computation), to be completed before the end of junior year.
-  course_list:
-  - COS 240
-- name: Core Courses
-  min_needed: ALL
-  max_counted: 1
-  explanation: |-
-    Students must take a total of four courses, one from each of the four categories listed below.
-  req_list:
-  - name: Computer Systems
+      - COS 240
+  - name: Core Courses
+    min_needed: ALL
+    max_counted: 1
+    explanation: Students must take a total of four courses, one from each of the four categories listed below.
+    req_list:
+      - name: Computer Systems
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COS 316
+          - COS 375
+          - COS 318
+          - COS 418
+          - COS 461
+      - name: Theoretical Computer Science
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COS 423
+          - COS 433
+          - COS 445
+          - COS 487
+      - name: Artificial Intelligence and Machine Learning
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COS 324
+          - COS 424
+          - COS 429
+          - COS 484
+      - name: Breadth
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COS 326
+          - COS 333
+          - COS 343
+          - COS 426
+          - COS 432
+          - COS 436
+          - COS 448
+  - name: Electives
+    min_needed: 3
+    max_counted: 1
+    explanation: >-
+      Students must take three COS courses numbered 300 or higher. Alternatively, up to two electives may be chosen from
+      a list of approved courses from other departments (see the department website for an up-to-date list).   
+    req_list:
+      - name: COS Departmentals
+        min_needed: 1
+        max_counted: null
+        course_list:
+          - COS 3**
+          - COS 4**
+      - name: Other Departments
+        min_needed: 0
+        max_counted: 2
+        course_list:
+          - ECE 3**
+          - ECE 4**
+          - ORF 3**
+          - ORF 4**
+          - MAE 345
+          - MOL 437
+          - NEU 330
+          - ECO 326
+  - name: Junior Research Workshop
+    completed_by_semester: 5
     min_needed: 1
     max_counted: 1
+    explanation: >-
+      In the fall term of junior year, majors must enroll in a Junior Research Workshop (JRW), while simultaneously
+      enrolling in a “Methods” 3xx course offered that term. The Methods course and the JRW complement each other and
+      enable students to write a comprehensive proposal for a spring IW project by the end of the fall term, which can
+      be used for a spring IW project. See the department website for details.
     course_list:
-    - COS 316
-    - COS 375
-    - COS 318
-    - COS 418
-    - COS 461
-  - name: Theoretical Computer Science
+      - COS 316
+      - COS 324
+  - name: Junior Paper
     min_needed: 1
     max_counted: 1
-    course_list:
-    - COS 423
-    - COS 433
-    - COS 445
-    - COS 487
-  - name: Artificial Intelligence and Machine Learning
+    explanation: >-
+      A.B. junior majors then use the spring term to complete their proposed IW project—or, in many cases, embark on a
+      separate research endeavor for the spring term—through one of the following advising structures:
+
+      One-on-One Advising. Students complete a project of their choosing while working one-on-one with a faculty
+      adviser. Students may also work within the context of a faculty research project. Students can explore the
+      Undergraduate Research Topics (link is external) for faculty research interests and advisers. 
+
+      Independent Work Seminars (link is external). Students with shared interests around a common theme meet weekly as
+      a group with a faculty adviser. Seminar instructors and themes vary term to term.
+    no_req: null
+  - name: Senior Thesis
     min_needed: 1
     max_counted: 1
-    course_list:
-    - COS 324
-    - COS 424
-    - COS 429
-    - COS 484
-  - name: Breadth
+    explanation: >-
+      A.B. senior majors must complete a full-year senior thesis. The senior thesis may be a study in greater depth of
+      one of the subjects considered in junior independent work, or it may deal with another aspect of computer science
+      and its application. Students can explore the Undergraduate Research Topics for faculty research interests and
+      advisers.
+    no_req: null
+  - name: Senior Departmental Examination
     min_needed: 1
     max_counted: 1
-    course_list:
-    - COS 326
-    - COS 333
-    - COS 343
-    - COS 426
-    - COS 432
-    - COS 436
-    - COS 448
-- name: Electives
-  min_needed: 3
-  max_counted: 1
-  explanation: |-
-    Students must take three COS courses numbered 300 or higher. Alternatively, up to two electives may be chosen from a list of approved courses from other departments (see the department website for an up-to-date list).   
-  req_list:
-  - name: COS Departmentals
-    min_needed: 1
-    max_counted: ALL
-    course_list:
-    - COS 3**
-    - COS 4**
-  - name: Other Departments
-    min_needed: 0
-    max_counted: 2
-    course_list:
-    - ECE 3**
-    - ECE 4**
-    - ORF 3**
-    - ORF 4**
-    - MAE 345
-    - MOL 437
-    - NEU 330
-    - ECO 326
-- name: Junior Research Workshop
-  completed_by_semester: 5
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    In the fall term of junior year, majors must enroll in a Junior Research Workshop (JRW), while simultaneously enrolling in a “Methods” 3xx course offered that term. The Methods course and the JRW complement each other and enable students to write a comprehensive proposal for a spring IW project by the end of the fall term, which can be used for a spring IW project. See the department website for details.
-  course_list:
-  - COS 316
-  - COS 324
-- name: Junior Paper
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    A.B. junior majors then use the spring term to complete their proposed IW project—or, in many cases, embark on a separate research endeavor for the spring term—through one of the following advising structures:
-    One-on-One Advising. Students complete a project of their choosing while working one-on-one with a faculty adviser. Students may also work within the context of a faculty research project. Students can explore the Undergraduate Research Topics (link is external) for faculty research interests and advisers. 
-    Independent Work Seminars (link is external). Students with shared interests around a common theme meet weekly as a group with a faculty adviser. Seminar instructors and themes vary term to term.
-  no_req:
-- name: Senior Thesis
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    A.B. senior majors must complete a full-year senior thesis. The senior thesis may be a study in greater depth of one of the subjects considered in junior independent work, or it may deal with another aspect of computer science and its application. Students can explore the Undergraduate Research Topics for faculty research interests and advisers.
-  no_req:
-- name: Senior Departmental Examination
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    An oral examination, consisting of a defense of the thesis research, will be held in April.
-  no_req:
+    explanation: An oral examination, consisting of a defense of the thesis research, will be held in April.
+    no_req: null

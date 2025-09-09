@@ -1,126 +1,147 @@
----
 type: Major
 name: Mathematics
 code: MAT
 degree: AB
 urls:
-- https://ua.princeton.edu/academic-units/department-mathematics-0#
-- https://www.math.princeton.edu/undergraduate/requirements
+  - https://ua.princeton.edu/academic-units/department-mathematics-0#
+  - https://www.math.princeton.edu/undergraduate/requirements
 contacts:
-- type: Chair
-  name: Igor Rodnianski
-  email: irod@princeton.edu
-- type: Director of Undergraduate Studies
-  name: János Kollár
-  email: kollar@math.princeton.edu
-- type: Director of Undergraduate Studies (associate)
-  name: Jennifer M. Johnson
-  email: jmjohnso@math.princeton.edu
-description: |-
-  Mathematics is a discipline inseparable from scientific and philosophical inquiry. The rigorous and logical thinking that characterizes mathematics is an essential tool for theory-building of any kind because its clarity and precision expose hidden assumptions, inner inconsistencies and deep structural similarities in problems that seem unrelated on the surface. Our courses cover a wide variety of well-established mathematical knowledge that is actively under development by today's mathematicians and that offers fundamental tools for scientists and engineers of all kinds.
+  - type: Chair
+    name: Igor Rodnianski
+    email: irod@princeton.edu
+  - type: Director of Undergraduate Studies
+    name: János Kollár
+    email: kollar@math.princeton.edu
+  - type: Director of Undergraduate Studies (associate)
+    name: Jennifer M. Johnson
+    email: jmjohnso@math.princeton.edu
+description: >-
+  Mathematics is a discipline inseparable from scientific and philosophical inquiry. The rigorous and logical thinking
+  that characterizes mathematics is an essential tool for theory-building of any kind because its clarity and precision
+  expose hidden assumptions, inner inconsistencies and deep structural similarities in problems that seem unrelated on
+  the surface. Our courses cover a wide variety of well-established mathematical knowledge that is actively under
+  development by today's mathematicians and that offers fundamental tools for scientists and engineers of all kinds.
 req_list:
-- name: Prerequisites
-  min_needed: 1
-  max_counted: 1
-  double_counting_allowed: true
-  completed_by_semester: 4
-  explanation: |- 
-    Mathematics majors are expected to have a background knowledge of calculus in one and several variables and of linear algebra and to have had at least some experience with rigorous proofs and formal mathematical arguments before entering the department. The standard calculus sequence 103-104-203-204 covers the basic background material. The 215-217-300 sequence and the 216-218 sequence cover calculus and linear algebra more thoroughly and theoretically and serve as an introduction to some mathematical techniques and results that are a background for further work in analysis. Any of the courses 214-215-216-217-218 will serve as introductions to rigorous proofs and formal mathematical arguments. It is not necessary for students who have had equivalent courses elsewhere to take these specific courses.  For any questions please see the Advisors for Mathematics Majors or the Placement Officer.
-  req_list:
-  - name: Introduction to Proofs
+  - name: Prerequisites
+    min_needed: 1
+    max_counted: 1
+    double_counting_allowed: true
+    completed_by_semester: 4
+    explanation: >-
+      Mathematics majors are expected to have a background knowledge of calculus in one and several variables and of
+      linear algebra and to have had at least some experience with rigorous proofs and formal mathematical arguments
+      before entering the department. The standard calculus sequence 103-104-203-204 covers the basic background
+      material. The 215-217-300 sequence and the 216-218 sequence cover calculus and linear algebra more thoroughly and
+      theoretically and serve as an introduction to some mathematical techniques and results that are a background for
+      further work in analysis. Any of the courses 214-215-216-217-218 will serve as introductions to rigorous proofs
+      and formal mathematical arguments. It is not necessary for students who have had equivalent courses elsewhere to
+      take these specific courses.  For any questions please see the Advisors for Mathematics Majors or the Placement
+      Officer.
+    req_list:
+      - name: Introduction to Proofs
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - MAT 214
+          - MAT 215
+          - MAT 216
+          - MAT 217
+          - MAT 218
+          - MAT 3**
+          - MAT 4**
+          - MAT 5**
+      - name: Multivariable Calculus
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - MAT 203
+          - MAT 300
+          - MAT 216
+      - name: Linear Algebra
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - MAT 204
+          - MAT 217
+          - MAT 218
+  - name: Real Analysis
     min_needed: 1
     max_counted: 1
     course_list:
-    - MAT 214
-    - MAT 215
-    - MAT 216
-    - MAT 217
-    - MAT 218
-    - MAT 3**
-    - MAT 4**
-    - MAT 5**
-  - name: Multivariable Calculus
+      - MAT 300
+      - MAT 320
+      - MAT 325
+      - MAT 425
+      - MAT 429
+      - MAT 385
+      - MAT 520
+  - name: Complex Analysis
     min_needed: 1
     max_counted: 1
     course_list:
-    - MAT 203
-    - MAT 300
-    - MAT 216
-  - name: Linear Algebra
+      - MAT 330
+      - MAT 345
+  - name: Algebra
     min_needed: 1
     max_counted: 1
-    course_list: 
-    - MAT 204
-    - MAT 217
-    - MAT 218
-- name: Real Analysis
-  min_needed: 1
-  max_counted: 1
-  course_list:
-  - MAT 300
-  - MAT 320
-  - MAT 325
-  - MAT 425
-  - MAT 429
-  - MAT 385
-  - MAT 520
-- name: Complex Analysis
-  min_needed: 1
-  max_counted: 1
-  course_list:
-  - MAT 330
-  - MAT 345
-- name: Algebra
-  min_needed: 1
-  max_counted: 1
-  course_list:
-  - MAT 345
-  - MAT 346
-  - MAT 447
-  - MAT 449
-- name: Geometry or Topology
-  min_needed: 1
-  max_counted: 1
-  course_list:
-  - MAT 355
-  - MAT 365
-  - MAT 375
-  - MAT 377
-  - MAT 378
-  - MAT 457
-  - MAT 459
-  - MAT 468
-  - MAT 469
-  - MAT 477
-  - MAT 478
-- name: 
-  min_needed: 4
-  max_counted: 1
-  explanation: |-
-    In addition to the four core requirements, students must complete an additional four courses at the 300 level or higher, up to three of which may be cognate courses outside the mathematics department, with permission from the junior or senior advisers or the director of undergraduate studies. No more than two of the eight courses may be reading courses.
-  req_list:
-  - name: MAT Departmentals
-    min_needed: 1
-    max_counted: ALL
     course_list:
-    - MAT 3**
-    - MAT 4**
-    - MAT 5**
-  - name: Other Departments
-    min_needed: 0
-    max_counted: 3
-    explanation: |-
-      Note: Due to the broadness of this requirement, it is impossible to automatically verify. Please manaully check this requirement.
-    no_req:
-- name: Independent Work
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    All departmental students engage in independent work, supervised by a member of the department chosen in consultation with a departmental adviser. The junior year independent work generally consists of participating actively in a junior seminar in both the fall and spring semesters. Alternatively, a student may opt to replace one junior seminar with supervised reading in a special subject and then writing a paper based on that reading. The independent work in the senior year centers on writing a senior thesis. A substantial percentage of our majors work with faculty in other departments on their senior project.
-  no_req:
-- name: Senior Departmental Examination
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    Each senior takes an oral examination based on the senior thesis and the broader subfield to which it contributes. A departmental committee conducts the examination in May.
-  no_req:
+      - MAT 345
+      - MAT 346
+      - MAT 447
+      - MAT 449
+  - name: Geometry or Topology
+    min_needed: 1
+    max_counted: 1
+    course_list:
+      - MAT 355
+      - MAT 365
+      - MAT 375
+      - MAT 377
+      - MAT 378
+      - MAT 457
+      - MAT 459
+      - MAT 468
+      - MAT 469
+      - MAT 477
+      - MAT 478
+  - name: null
+    min_needed: 4
+    max_counted: 1
+    explanation: >-
+      In addition to the four core requirements, students must complete an additional four courses at the 300 level or
+      higher, up to three of which may be cognate courses outside the mathematics department, with permission from the
+      junior or senior advisers or the director of undergraduate studies. No more than two of the eight courses may be
+      reading courses.
+    req_list:
+      - name: MAT Departmentals
+        min_needed: 1
+        max_counted: null
+        course_list:
+          - MAT 3**
+          - MAT 4**
+          - MAT 5**
+      - name: Other Departments
+        min_needed: 0
+        max_counted: 3
+        explanation: >-
+          Note: Due to the broadness of this requirement, it is impossible to automatically verify. Please manaully
+          check this requirement.
+        no_req: null
+  - name: Independent Work
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      All departmental students engage in independent work, supervised by a member of the department chosen in
+      consultation with a departmental adviser. The junior year independent work generally consists of participating
+      actively in a junior seminar in both the fall and spring semesters. Alternatively, a student may opt to replace
+      one junior seminar with supervised reading in a special subject and then writing a paper based on that reading.
+      The independent work in the senior year centers on writing a senior thesis. A substantial percentage of our majors
+      work with faculty in other departments on their senior project.
+    no_req: null
+  - name: Senior Departmental Examination
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      Each senior takes an oral examination based on the senior thesis and the broader subfield to which it contributes.
+      A departmental committee conducts the examination in May.
+    no_req: null

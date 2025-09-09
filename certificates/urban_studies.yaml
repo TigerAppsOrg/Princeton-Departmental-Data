@@ -9,17 +9,13 @@ contacts:
     name: Mario I. Gandelsonas
     email: mgndlsns@princeton.edu
 description: >-
-  The Program in Urban Studies is an interdepartmental plan of study for
-  undergraduates that offers an interdisciplinary framework for the study of
-  cities, metropolitan regions, and urban and suburban landscapes. With courses
-  in diverse departments including anthropology, architecture, art and
-  archaeology, history, African American studies, English, Latin American
-  studies, Spanish and Portuguese languages and cultures, civil and
-  environmental engineering, energy studies, sociology, politics, theater, and
-  the High Meadows Environmental Institute, along with the School of
-  Architecture and the Princeton School of Public and International Affairs, the
-  program encourages students to think about metropolitan centers in all their
-  complexity as physical spaces; social, cultural, political and economic
+  The Program in Urban Studies is an interdepartmental plan of study for undergraduates that offers an interdisciplinary
+  framework for the study of cities, metropolitan regions, and urban and suburban landscapes. With courses in diverse
+  departments including anthropology, architecture, art and archaeology, history, African American studies, English,
+  Latin American studies, Spanish and Portuguese languages and cultures, civil and environmental engineering, energy
+  studies, sociology, politics, theater, and the High Meadows Environmental Institute, along with the School of
+  Architecture and the Princeton School of Public and International Affairs, the program encourages students to think
+  about metropolitan centers in all their complexity as physical spaces; social, cultural, political and economic
   nexuses; and historical artifacts.
 max_common_with_major: 1
 declaration_limit: 8
@@ -28,12 +24,10 @@ req_list:
     min_needed: ALL
     max_counted: 1
     explanation: >-
-      Students must take either URB 200 with the approval of the director, an
-      urban-focused elective such as URB 388 in a semester in which URB 200 is
-      not offered. Students must also take a design studio course, either  ARC
-      205 or ARC 204 (for students planning to major in architecture), to
-      satisfy the core course requirements. Students must pass both required
-      courses with a grade of B or above.
+      Students must take either URB 200 with the approval of the director, an urban-focused elective such as URB 388 in
+      a semester in which URB 200 is not offered. Students must also take a design studio course, either  ARC 205 or ARC
+      204 (for students planning to major in architecture), to satisfy the core course requirements. Students must pass
+      both required courses with a grade of B or above.
     req_list:
       - name: URB
         min_needed: 1
@@ -51,13 +45,11 @@ req_list:
     min_needed: ALL
     max_counted: 1
     explanation: >-
-      In addition to the two core courses, students must complete three
-      electives: one from social sciences; one from the humanities; and one from
-      engineering or the natural sciences. A list of approved electives is
-      posted on the website. Courses not on the approved list may be used as
-      electives with the approval of the program director. However, each
-      selected course must contain substantial urban content to fulfill the
-      requirements of the certificate program.
+      In addition to the two core courses, students must complete three electives: one from social sciences; one from
+      the humanities; and one from engineering or the natural sciences. A list of approved electives is posted on the
+      website. Courses not on the approved list may be used as electives with the approval of the program director.
+      However, each selected course must contain substantial urban content to fulfill the requirements of the
+      certificate program.
     req_list:
       - name: Social Science
         min_needed: 1
@@ -220,13 +212,11 @@ req_list:
   - name: Independent Work
     max_counted: 1
     explanation: >-
-      While urban studies students' senior theses are written in their home
-      departments, their work must contain an urban component, approved by the
-      program director. A faculty member from the student's home department
-      serves as the primary adviser and first reader. Students' urban studies
-      advisers selected from the program's associated faculty list provide
-      additional consultation and layer of expertise as they write their thesis
-      and think about potentially urban-related careers. The thesis title and
-      abstract must be sent to the program director for final approval.
+      While urban studies students' senior theses are written in their home departments, their work must contain an
+      urban component, approved by the program director. A faculty member from the student's home department serves as
+      the primary adviser and first reader. Students' urban studies advisers selected from the program's associated
+      faculty list provide additional consultation and layer of expertise as they write their thesis and think about
+      potentially urban-related careers. The thesis title and abstract must be sent to the program director for final
+      approval.
     iw_relationship: combined
     no_req: null

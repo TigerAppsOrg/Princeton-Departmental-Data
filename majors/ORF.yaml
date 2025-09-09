@@ -1,191 +1,201 @@
----
 type: Major
 name: Operations Research and Financial Engineering
 code: ORF
 degree: BSE
 urls:
-- https://ua.princeton.edu/academic-units/department-operations-research-and-financial-engineering
-- https://orfe.princeton.edu/documents/undergraduate-academic-guides
+  - https://ua.princeton.edu/academic-units/department-operations-research-and-financial-engineering
+  - https://orfe.princeton.edu/documents/undergraduate-academic-guides
 contacts:
-- type: Chair
-  name: Ronnie Sircar
-  email: sircar@princeton.edu
-- type: Director of Undergraduate Studies
-  name: Alain L. Kornhauser
-  email: alaink@princeton.edu
-description: |-
-  Operations research and financial engineering may be considered as the modern form of a liberal education: modern because it is based on science, mathematics, computing and technology, and liberal in the sense that it provides for broad intellectual development and can lead to many different types of careers. By choosing judiciously from courses in engineering, science, mathematics, economics, public policy and liberal arts, each student may design a program adapted to their particular interests.
+  - type: Chair
+    name: Ronnie Sircar
+    email: sircar@princeton.edu
+  - type: Director of Undergraduate Studies
+    name: Alain L. Kornhauser
+    email: alaink@princeton.edu
+description: >-
+  Operations research and financial engineering may be considered as the modern form of a liberal education: modern
+  because it is based on science, mathematics, computing and technology, and liberal in the sense that it provides for
+  broad intellectual development and can lead to many different types of careers. By choosing judiciously from courses
+  in engineering, science, mathematics, economics, public policy and liberal arts, each student may design a program
+  adapted to their particular interests.
 req_list:
-- name: Core
-  min_needed: ALL
-  max_counted: 1
-  explanation: |-
-    These form the intellectual foundation of the field and cover statistics, probability, stochastic processes and optimization, along with more advanced courses in mathematical modeling.
-  course_list:
-  - ORF 245
-  - ORF 307
-  - ORF 309
-  - ORF 355
-- name: Electives
-  min_needed: 10
-  max_counted: 1
-  explanation: |-
-    The departmental electives represent courses that further develop a student's skills in mathematical modeling either by a more in-depth investigation of core disciplines, applying these skills in specific areas of application, or by learning about closely related technologies. Students must choose ten courses, as appropriate, with the following constraints:
-    There must be at least four courses from the Department of Operations Research and Financial Engineering (ORF).
-    There can be no more than three courses from any one department (excluding ORF).
-  req_list:
-  - name: ORF Courses
-    min_needed: 4
-    max_counted: ALL
-    course_list:
-    - ORF 311
-    - ORF 350
-    - ORF 360
-    - ORF 363
-    - ORF 375
-    - ORF 387
-    - ORF 401
-    - ORF 405
-    - ORF 407
-    - ORF 409
-    - ORF 411
-    - ORF 418
-    - ORF 435
-    - ORF 445
-    - ORF 455
-    - ORF 467
-    - ORF 473
-  - name: CEE Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - CEE 304
-    - CEE 460
-  - name: CHM Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - CHM 301
-    - CHM 302
-    - CHM 304
-  - name: COS Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - COS 217
-    - COS 226
-    - COS 323
-    - COS 423
-    - COS 485
-  - name: ECE Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - ECE 301
-    - ECE 381
-    - ECE 473
-    - ECE 486
-  - name: ECO Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - ECO 310
-    - ECO 311
-    - ECO 312
-    - ECO 317
-    - ECO 332
-    - ECO 341
-    - ECO 342
-    - ECO 361
-    - ECO 362
-    - ECO 363
-    - ECO 418
-    - ECO 462
-    - ECO 464
-    - ECO 466
-    - ECO 467
-  - name: EEB Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - EEB 324
-  - name: ENV Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - ENV 302
-  - name: MAE Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - MAE 206
-    - MAE 345
-    - MAE 433
-    - MAE 434
-  - name: MAT Courses
-    min_needed: 0
-    max_counted: 3
-    req_list:
-    - name: 
-      min_needed: 0
-      max_counted: ALL
-      course_list:
-      - MAT 320
-      - MAT 322
-      - MAT 375
-      - MAT 377
-      - MAT 378
-      - MAT 385
-      - MAT 392
-      - MAT 427
-      - MAT 486
-      - MAT 522
-    - name:
-      min_needed: 0
-      max_counted: 1
-      course_list:
-      - MAT 391
-      - MAT 427
-  - name: MOL Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - MOL 345
-  - name: NEU Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - NEU 437
-    - NEU 330
-  - name: PSY Courses
-    min_needed: 0
-    max_counted: 3
-    course_list:
-    - PSY 360
-- name: Independent Work
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    A full-year thesis (or a one-semester project plus an additional 400-level ORFE departmental) involving an application of the techniques in the program applied to a topic that the student chooses in consultation with a faculty adviser.
-  req_list:
-  - name: Thesis
-    explanation: |-
-      Note: This course will be taken in both semesters of senior year.
-    min_needed: 2
-    max_counted: 1
-    course_list:
-    - ORF 478
-  - name: Project and Course
+  - name: Core
     min_needed: ALL
     max_counted: 1
+    explanation: >-
+      These form the intellectual foundation of the field and cover statistics, probability, stochastic processes and
+      optimization, along with more advanced courses in mathematical modeling.
+    course_list:
+      - ORF 245
+      - ORF 307
+      - ORF 309
+      - ORF 355
+  - name: Electives
+    min_needed: 10
+    max_counted: 1
+    explanation: >-
+      The departmental electives represent courses that further develop a student's skills in mathematical modeling
+      either by a more in-depth investigation of core disciplines, applying these skills in specific areas of
+      application, or by learning about closely related technologies. Students must choose ten courses, as appropriate,
+      with the following constraints:
+
+      There must be at least four courses from the Department of Operations Research and Financial Engineering (ORF).
+
+      There can be no more than three courses from any one department (excluding ORF).
     req_list:
-    - name: Project
-      min_needed: 1
-      max_counted: 1
-      course_list:
-      - ORF 479
-    - name: Course
-      min_needed: 1
-      max_counted: 1
-      course_list:
-      - ORF 4**
+      - name: ORF Courses
+        min_needed: 4
+        max_counted: null
+        course_list:
+          - ORF 311
+          - ORF 350
+          - ORF 360
+          - ORF 363
+          - ORF 375
+          - ORF 387
+          - ORF 401
+          - ORF 405
+          - ORF 407
+          - ORF 409
+          - ORF 411
+          - ORF 418
+          - ORF 435
+          - ORF 445
+          - ORF 455
+          - ORF 467
+          - ORF 473
+      - name: CEE Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - CEE 304
+          - CEE 460
+      - name: CHM Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - CHM 301
+          - CHM 302
+          - CHM 304
+      - name: COS Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - COS 217
+          - COS 226
+          - COS 323
+          - COS 423
+          - COS 485
+      - name: ECE Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - ECE 301
+          - ECE 381
+          - ECE 473
+          - ECE 486
+      - name: ECO Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - ECO 310
+          - ECO 311
+          - ECO 312
+          - ECO 317
+          - ECO 332
+          - ECO 341
+          - ECO 342
+          - ECO 361
+          - ECO 362
+          - ECO 363
+          - ECO 418
+          - ECO 462
+          - ECO 464
+          - ECO 466
+          - ECO 467
+      - name: EEB Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - EEB 324
+      - name: ENV Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - ENV 302
+      - name: MAE Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - MAE 206
+          - MAE 345
+          - MAE 433
+          - MAE 434
+      - name: MAT Courses
+        min_needed: 0
+        max_counted: 3
+        req_list:
+          - name: null
+            min_needed: 0
+            max_counted: null
+            course_list:
+              - MAT 320
+              - MAT 322
+              - MAT 375
+              - MAT 377
+              - MAT 378
+              - MAT 385
+              - MAT 392
+              - MAT 427
+              - MAT 486
+              - MAT 522
+          - name: null
+            min_needed: 0
+            max_counted: 1
+            course_list:
+              - MAT 391
+              - MAT 427
+      - name: MOL Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - MOL 345
+      - name: NEU Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - NEU 437
+          - NEU 330
+      - name: PSY Courses
+        min_needed: 0
+        max_counted: 3
+        course_list:
+          - PSY 360
+  - name: Independent Work
+    min_needed: 1
+    max_counted: 1
+    explanation: >-
+      A full-year thesis (or a one-semester project plus an additional 400-level ORFE departmental) involving an
+      application of the techniques in the program applied to a topic that the student chooses in consultation with a
+      faculty adviser.
+    req_list:
+      - name: Thesis
+        explanation: 'Note: This course will be taken in both semesters of senior year.'
+        min_needed: 2
+        max_counted: 1
+        course_list:
+          - ORF 478
+      - name: Project and Course
+        min_needed: ALL
+        max_counted: 1
+        req_list:
+          - name: Project
+            min_needed: 1
+            max_counted: 1
+            course_list:
+              - ORF 479
+          - name: Course
+            min_needed: 1
+            max_counted: 1
+            course_list:
+              - ORF 4**

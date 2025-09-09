@@ -1,83 +1,143 @@
----
 type: Major
 name: Classics
 code: CLA
 degree: AB
 urls:
-- https://ua.princeton.edu/academic-units/department-classics
-- https://classics.princeton.edu/programs/undergraduate/tracks
+  - https://ua.princeton.edu/academic-units/department-classics
+  - https://classics.princeton.edu/programs/undergraduate/tracks
 contacts:
-- type: Chair
-  name: Barbara Graziosi
-  email: barbara.graziosi@princeton.edu
-- type: Director of Undergraduate Studies
-  name: Daniela E. Mairhofer
-  email: daniela.mairhofer@princeton.edu
-description: |-
-  The classics major is a flexible, interdisciplinary program that affords students a range of opportunities to study the cultures, languages, history, politics and intellectual traditions of the ancient Greek and Roman worlds, their contacts with other civilizations of the ancient Mediterranean, resonances in later ages and continued vitality today. The department offers two rigorous and highly flexible majors tracks, in which students chart their own paths within broad areas of study and are encouraged to develop innovative research projects, working closely with world-leading faculty, graduate students engaged in exciting scholarship and highly motivated undergraduate peers within the department. Because of the diversity of the topics studied by the faculty, ranging from Proto-Indo-European linguistics to medieval manuscripts to the cultural politics of the modern Caribbean, the department is able to support students exploring a wide range of subjects and pursuing independent work involving humanistic and social-scientific analysis, creative projects and experimental research. The unusually broad and diverse intellectual range of our program is matched by an intimate, supportive environment in which faculty and students work closely together.
+  - type: Chair
+    name: Barbara Graziosi
+    email: barbara.graziosi@princeton.edu
+  - type: Director of Undergraduate Studies
+    name: Daniela E. Mairhofer
+    email: daniela.mairhofer@princeton.edu
+description: >-
+  The classics major is a flexible, interdisciplinary program that affords students a range of opportunities to study
+  the cultures, languages, history, politics and intellectual traditions of the ancient Greek and Roman worlds, their
+  contacts with other civilizations of the ancient Mediterranean, resonances in later ages and continued vitality today.
+  The department offers two rigorous and highly flexible majors tracks, in which students chart their own paths within
+  broad areas of study and are encouraged to develop innovative research projects, working closely with world-leading
+  faculty, graduate students engaged in exciting scholarship and highly motivated undergraduate peers within the
+  department. Because of the diversity of the topics studied by the faculty, ranging from Proto-Indo-European
+  linguistics to medieval manuscripts to the cultural politics of the modern Caribbean, the department is able to
+  support students exploring a wide range of subjects and pursuing independent work involving humanistic and
+  social-scientific analysis, creative projects and experimental research. The unusually broad and diverse intellectual
+  range of our program is matched by an intimate, supportive environment in which faculty and students work closely
+  together.
 req_list:
-- name: Prerequisites
-  min_needed: 1
-  max_counted: 1
-  double_counting_allowed: true
-  explanation: |-
-    One course on classical culture, broadly defined: any departmental course, HUM 216-217, HUM 247 or other course approved by the DUS.
-  completed_by_semester: 4
-  course_list:
-  - HUM 216
-  - HUM 217
-  - HUM 247
-  - CLA ***
-- name: Tracks
-  max_counted: 1
-  min_needed: 1
-  req_list:
-  - name: Classical Studies
+  - name: Prerequisites
+    min_needed: 1
+    max_counted: 1
+    double_counting_allowed: true
+    explanation: >-
+      One course on classical culture, broadly defined: any departmental course, HUM 216-217, HUM 247 or other course
+      approved by the DUS.
+    completed_by_semester: 4
+    course_list:
+      - HUM 216
+      - HUM 217
+      - HUM 247
+      - CLA ***
+  - name: Tracks
+    max_counted: 1
+    min_needed: 1
+    req_list:
+      - name: Classical Studies
+        max_counted: 1
+        min_needed: ALL
+        explanation: >-
+          Note: There are more specific requirements than what the app can verify. Please be sure to manually check if
+          the courses satisfy the requirements.
+
+          The classical studies program offers the opportunity for sustained and focused inquiry into the history,
+          literature and culture of the ancient Mediterranean, as well as the impact of classical antiquity on later
+          periods by using a variety of interpretative methods. The program offers students maximum flexibility to chart
+          their course through departmental and related offerings. The particular program for each student is determined
+          in collaboration with the DUS, and should be coherent and lead to viable research projects. Whatever the
+          individual focus, each student's program must contain eight courses at the 200 level or above (with limited
+          exceptions as described below), including two at the 300 level, plus the junior seminar.
+
+          Five of the eight courses counted toward requirements must be taught by Department of Classics faculty (in
+          general, these courses will have CLA, CLG or LAT as the first course code listing; the DUS can approve
+          exceptions for courses taught by affiliated faculty). Three elective courses may be counted toward the major
+          that are either cross-listed by classics or approved by the DUS as relevant to the student's program of study.
+          Of the eight courses, one must deal primarily with ancient literature, whether read in the original or in
+          translation; the sequence of CLG/LAT 105-108 may be counted as a single departmental course and used to
+          fulfill this requirement. One course must deal primarily with ancient history; this requirement may be
+          fulfilled by taking any of CLA 216-219 (the Greek and Roman history surveys) or an approved alternative. One
+          course must deal substantially with classical reception or comparative approaches to the ancient world; this
+          requirement may also be fulfilled by study of another language relevant to the student's interests (Akkadian,
+          Modern Greek, etc., at any course level). Students are otherwise free, in consultation with the DUS, to chart
+          their own path through the department's offerings.
+
+          The ancient history program offers students a pathway to explore the history of ancient Greece and Rome and
+          their relationships with the neighboring cultures of the Near East, Europe and Africa. It is also ideal for
+          students interested in acquiring training in the academic discipline of history while concentrating on the
+          period spanning the Late Bronze Age (ca. 1700 B.C.E.) to the early medieval and Byzantine worlds (ca. 600
+          C.E.). Although students may specialize in a particular field of history (political, social, economic,
+          cultural), geographic area or historical period of antiquity, the aim of the program is to provide
+          well-rounded training in the field of history, with a focus on ancient history. Each student's program must
+          contain eight courses at the 200 level or above (with limited exceptions as described below), including two at
+          the 300 level, plus the junior seminar.
+
+          The eight courses taken toward the ancient history track must include one survey course on ancient Greek
+          history (CLA 216 or 217) and one survey course on Roman history (CLA 218 or 219); one course substantially
+          dealing with ancient material culture; and one course on premodern (i.e., pre-1789) history or non-industrial
+          societies beyond Greece and Rome. An additional course that introduces students to the main methods, theories
+          and/or philosophies of history is also strongly encouraged. The remaining elective courses should follow a
+          coherent plan that prepares the student for independent research; ordinarily, any course listed as CLA, CLG or
+          LAT at the 200 level or above will count, and other courses may be approved by the DUS for credit toward the
+          major. One of the courses may be fulfilled by the sequence of CLG/LAT 105-108 or study of another language
+          relevant to the student's interests at any level. 
+        req_list:
+          - name: 300-Level or Higher
+            min_needed: 2
+            max_counted: null
+            course_list:
+              - CLA 3**
+              - CLA 4**
+              - CLA 5**
+          - name: 200-Level
+            min_needed: 0
+            max_counted: 6
+            course_list:
+              - CLA 2**
+              - CLG 108
+              - LAT 108
+  - name: Junior Seminar
     max_counted: 1
     min_needed: ALL
-    explanation: |-
-      Note: There are more specific requirements than what the app can verify. Please be sure to manually check if the courses satisfy the requirements.
-      The classical studies program offers the opportunity for sustained and focused inquiry into the history, literature and culture of the ancient Mediterranean, as well as the impact of classical antiquity on later periods by using a variety of interpretative methods. The program offers students maximum flexibility to chart their course through departmental and related offerings. The particular program for each student is determined in collaboration with the DUS, and should be coherent and lead to viable research projects. Whatever the individual focus, each student's program must contain eight courses at the 200 level or above (with limited exceptions as described below), including two at the 300 level, plus the junior seminar.
-      Five of the eight courses counted toward requirements must be taught by Department of Classics faculty (in general, these courses will have CLA, CLG or LAT as the first course code listing; the DUS can approve exceptions for courses taught by affiliated faculty). Three elective courses may be counted toward the major that are either cross-listed by classics or approved by the DUS as relevant to the student's program of study. Of the eight courses, one must deal primarily with ancient literature, whether read in the original or in translation; the sequence of CLG/LAT 105-108 may be counted as a single departmental course and used to fulfill this requirement. One course must deal primarily with ancient history; this requirement may be fulfilled by taking any of CLA 216-219 (the Greek and Roman history surveys) or an approved alternative. One course must deal substantially with classical reception or comparative approaches to the ancient world; this requirement may also be fulfilled by study of another language relevant to the student's interests (Akkadian, Modern Greek, etc., at any course level). Students are otherwise free, in consultation with the DUS, to chart their own path through the department's offerings.
-      The ancient history program offers students a pathway to explore the history of ancient Greece and Rome and their relationships with the neighboring cultures of the Near East, Europe and Africa. It is also ideal for students interested in acquiring training in the academic discipline of history while concentrating on the period spanning the Late Bronze Age (ca. 1700 B.C.E.) to the early medieval and Byzantine worlds (ca. 600 C.E.). Although students may specialize in a particular field of history (political, social, economic, cultural), geographic area or historical period of antiquity, the aim of the program is to provide well-rounded training in the field of history, with a focus on ancient history. Each student's program must contain eight courses at the 200 level or above (with limited exceptions as described below), including two at the 300 level, plus the junior seminar.
-      The eight courses taken toward the ancient history track must include one survey course on ancient Greek history (CLA 216 or 217) and one survey course on Roman history (CLA 218 or 219); one course substantially dealing with ancient material culture; and one course on premodern (i.e., pre-1789) history or non-industrial societies beyond Greece and Rome. An additional course that introduces students to the main methods, theories and/or philosophies of history is also strongly encouraged. The remaining elective courses should follow a coherent plan that prepares the student for independent research; ordinarily, any course listed as CLA, CLG or LAT at the 200 level or above will count, and other courses may be approved by the DUS for credit toward the major. One of the courses may be fulfilled by the sequence of CLG/LAT 105-108 or study of another language relevant to the student's interests at any level. 
-    req_list:
-    - name: 300-Level or Higher
-      min_needed: 2
-      max_counted: ALL
-      course_list:
-      - CLA 3**
-      - CLA 4**
-      - CLA 5**
-    - name: 200-Level
-      min_needed: 0
-      max_counted: 6
-      course_list:
-      - CLA 2**
-      - CLG 108
-      - LAT 108
-- name: Junior Seminar
-  max_counted: 1
-  min_needed: ALL
-  explanation: |-
-    During the fall of junior year, all majors take the junior seminar (CLA 340). The course introduces students to different fields of study within the department, including literature, ancient history, ancient culture, linguistics and reception studies. Students will gain experience in the methods of their chosen area(s) of study while acquiring an understanding of the history of the discipline and its place in the 21st century. Students will also acquire the skills necessary to pursue independent work. Students who are abroad during the fall of their junior year may complete the junior seminar during the fall semester of their senior year.
-  course_list:
-  - CLA 340
-- name: Junior Paper
-  max_counted: 1
-  min_needed: 1
-  explanation: |-
-    In the fall term, each student researches and writes a paper of 12-15 pages on a topic of their choosing under the direction of a faculty adviser. The junior seminar will provide guidance in choosing and researching a topic. In the spring term, students undertake a more ambitious research paper of 20-25 pages. Each student again works closely with a member of the faculty on the project, meeting regularly over the course of the term.
-  no_req:
-- name: Senior Thesis
-  max_counted: 1
-  min_needed: 1
-  explanation: |-
-    At the end of junior year, majors propose a provisional thesis topic to the DUS along with a list of potential faculty advisers, on the basis of which they are assigned a thesis adviser. The thesis in its final form shall be submitted to the DUS by April 15 (or, when this falls on a weekend, on the following Monday) of senior year.
-  no_req:
-- name: Senior Departmental Examination
-  max_counted: 1
-  min_needed: 1
-  explanation: |-
-    A 30-minute oral examination focusing on the thesis and related research is administered during the Senior Comprehensive Examination Period by a committee consisting of the thesis adviser, thesis second reader and DUS.
-  no_req:
+    explanation: >-
+      During the fall of junior year, all majors take the junior seminar (CLA 340). The course introduces students to
+      different fields of study within the department, including literature, ancient history, ancient culture,
+      linguistics and reception studies. Students will gain experience in the methods of their chosen area(s) of study
+      while acquiring an understanding of the history of the discipline and its place in the 21st century. Students will
+      also acquire the skills necessary to pursue independent work. Students who are abroad during the fall of their
+      junior year may complete the junior seminar during the fall semester of their senior year.
+    course_list:
+      - CLA 340
+  - name: Junior Paper
+    max_counted: 1
+    min_needed: 1
+    explanation: >-
+      In the fall term, each student researches and writes a paper of 12-15 pages on a topic of their choosing under the
+      direction of a faculty adviser. The junior seminar will provide guidance in choosing and researching a topic. In
+      the spring term, students undertake a more ambitious research paper of 20-25 pages. Each student again works
+      closely with a member of the faculty on the project, meeting regularly over the course of the term.
+    no_req: null
+  - name: Senior Thesis
+    max_counted: 1
+    min_needed: 1
+    explanation: >-
+      At the end of junior year, majors propose a provisional thesis topic to the DUS along with a list of potential
+      faculty advisers, on the basis of which they are assigned a thesis adviser. The thesis in its final form shall be
+      submitted to the DUS by April 15 (or, when this falls on a weekend, on the following Monday) of senior year.
+    no_req: null
+  - name: Senior Departmental Examination
+    max_counted: 1
+    min_needed: 1
+    explanation: >-
+      A 30-minute oral examination focusing on the thesis and related research is administered during the Senior
+      Comprehensive Examination Period by a committee consisting of the thesis adviser, thesis second reader and DUS.
+    no_req: null
