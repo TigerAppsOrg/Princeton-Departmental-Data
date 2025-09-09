@@ -77,7 +77,8 @@ req_list:
           - EAS 300
       - name: Transnational Courses
         max_counted: 1
-        min_needed: 2 Two of the following transnational courses.
+        min_needed: 2
+        explanation: Two of the following transnational courses.
         double_counting_allowed: true
         course_list:
           - HIS 207

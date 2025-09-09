@@ -19,8 +19,8 @@ max_common_with_major: 2
 declaration_limit: null
 pdfs_allowed: 0
 req_list:
-  - name: null
-    min_needed: Foundational Courses
+  - name: Foundational Courses
+    min_needed: ALL
     max_counted: 1
     explanation: >-
       One foundational course in molecular and cellular biology (MOL 214 or equivalent course) and one foundational

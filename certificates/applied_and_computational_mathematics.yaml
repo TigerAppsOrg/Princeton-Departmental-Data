@@ -20,8 +20,8 @@ max_common_with_major: 3
 declaration_limit: 5
 pdfs_allowed: 0
 req_list:
-  - name: null
-    min_needed: Program of Study
+  - name: Program of Study
+    min_needed: ALL
     max_counted: 1
     explanation: >-
       A total of five courses, normally 300-level or higher (requires letter grade; pass/D/fail not accepted), at least
