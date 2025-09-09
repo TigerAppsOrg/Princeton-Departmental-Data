@@ -97,6 +97,7 @@ req_list:
         min_needed: 1
         max_counted: 1
         course_list:
+          - COS 330
           - COS 423
           - COS 433
           - COS 445
