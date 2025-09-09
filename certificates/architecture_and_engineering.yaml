@@ -2,8 +2,7 @@ type: Certificate
 name: Architecture and Engineering
 code: ARC
 urls:
-  - >-
-    https://ua.princeton.edu/fields-study/certificate-programs/architecture-and-engineering
+  - https://ua.princeton.edu/fields-study/certificate-programs/architecture-and-engineering
 contacts:
   - type: Co-Director
     name: Maria E. Garlock
@@ -12,12 +11,10 @@ contacts:
     name: Forrest M. Meggers
     email: fmeggers@princeton.edu
 description: >-
-  The Program in Architecture and Engineering facilitates certificate studies
-  from any student and is designed to support the full range of engineering and
-  architectural cross-disciplinary interests. This program is a framework for
-  interdisciplinary study to tackle problems that cannot be addressed by one
-  discipline. Completion of the certificate program provides an opportunity to
-  respond dynamically to evolving global challenges, where elegant and effective
+  The Program in Architecture and Engineering facilitates certificate studies from any student and is designed to
+  support the full range of engineering and architectural cross-disciplinary interests. This program is a framework for
+  interdisciplinary study to tackle problems that cannot be addressed by one discipline. Completion of the certificate
+  program provides an opportunity to respond dynamically to evolving global challenges, where elegant and effective
   solutions lead to more resilient and sustainable communities.
 max_common_with_major: 2
 declaration_limit: null
@@ -26,13 +23,10 @@ req_list:
   - name: Core Courses
     min_needed: ALL
     max_counted: 1
-    explanation: >-
+    explanation: |-
       The following two design courses are required for all students:
-
       ARC 203 Introduction to Architectural Thinking
-
-      ARC 204 Introduction to Architectural Design (Studio Class) or ARC 205
-      Interdisciplinary Design Studio
+      ARC 204 Introduction to Architectural Design (Studio Class) or ARC 205 Interdisciplinary Design Studio
     req_list:
       - name: null
         min_needed: 1
@@ -49,23 +43,19 @@ req_list:
     min_needed: 1
     max_counted: 1
     explanation: >-
-      One course is required within a "field of expertise" chosen by the
-      student:
+      One course is required within a "field of expertise" chosen by the student:
 
       Structures: CEE 262 (A or B) Structures and the Urban Environment
 
-      Computation: ARC 311 Building Science and Tech: Building Systems, or
-      alternative approved by co-directors
+      Computation: ARC 311 Building Science and Tech: Building Systems, or alternative approved by co-directors
 
       Environment: ENE202 Designing Sustainable Systems
 
-      Note: With approval of the committee, the student may construct their own
-      “field of expertise” that demonstrates a coherent program of study
-      addressing a global challenge theme.
+      Note: With approval of the committee, the student may construct their own “field of expertise” that demonstrates a
+      coherent program of study addressing a global challenge theme.
 
-      Three additional courses are selected from a list of approved electives in
-      each field of expertise. The preapproved courses within each field of
-      expertise are listed below.
+      Three additional courses are selected from a list of approved electives in each field of expertise. The
+      preapproved courses within each field of expertise are listed below.
     req_list:
       - name: Structures
         min_needed: ALL
@@ -102,7 +92,7 @@ req_list:
                   - MAE 324
               - name: null
                 min_needed: 0
-                max_counted: ALL
+                max_counted: null
                 course_list:
                   - ARC 206
                   - ARC 311
@@ -141,7 +131,7 @@ req_list:
                   - ARC 205
               - name: null
                 min_needed: 0
-                max_counted: ALL
+                max_counted: null
                 course_list:
                   - ARC 206
                   - ARC 374
@@ -190,7 +180,7 @@ req_list:
                   - MAE 324
               - name: null
                 min_needed: 0
-                max_counted: ALL
+                max_counted: null
                 course_list:
                   - ARC 382
                   - ART 250
@@ -209,18 +199,15 @@ req_list:
   - name: Independent Work
     max_counted: 1
     explanation: >-
-      In addition to course requirements, the student must identify a global
-      challenge theme, and incorporate the theme into the senior thesis as
-      described below.
+      In addition to course requirements, the student must identify a global challenge theme, and incorporate the theme
+      into the senior thesis as described below.
 
-      Identify a Global Challenge Theme: The solutions to modern societal
-      challenges can be elegant, as well as effective. Together, architects and
-      engineers must take the lead in confronting new societal challenges for
+      Identify a Global Challenge Theme: The solutions to modern societal challenges can be elegant, as well as
+      effective. Together, architects and engineers must take the lead in confronting new societal challenges for
       designing more resilient and sustainable communities.
 
-      Incorporate Theme in Senior Thesis: The senior thesis should address a
-      cross-disciplinary theme relevant to a global challenge. The student
-      should also contribute to a thesis colloquium. The subject should be
-      reviewed and approved by the co-directors.
+      Incorporate Theme in Senior Thesis: The senior thesis should address a cross-disciplinary theme relevant to a
+      global challenge. The student should also contribute to a thesis colloquium. The subject should be reviewed and
+      approved by the co-directors.
     iw_relationship: combined
     no_req: null

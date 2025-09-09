@@ -2,21 +2,17 @@ type: Certificate
 name: Contemporary European Politics and Society
 code: EPS
 urls:
-  - >-
-    https://ua.princeton.edu/fields-study/certificate-programs/contemporary-european-politics-and-society
+  - https://ua.princeton.edu/fields-study/certificate-programs/contemporary-european-politics-and-society
 contacts:
   - type: Director
     name: Sophie Meunier Aitsahalia
     email: smeunier@princeton.edu
 description: >-
-  The Program in Contemporary European Politics and Society, an affiliate of the
-  Princeton Institute for International and Regional Studies, encourages the
-  interdisciplinary study of modern Europe, with a particular focus on politics,
-  economics and society in western and central Europe since World War I. The
-  program sponsors a core course (EPS 301, 302, or HIS 212/EPS 212). In
-  addition, it sponsors lectures, seminars and other programs for the entire
-  University community. The program offers a certificate in Contemporary
-  European Politics and Society.
+  The Program in Contemporary European Politics and Society, an affiliate of the Princeton Institute for International
+  and Regional Studies, encourages the interdisciplinary study of modern Europe, with a particular focus on politics,
+  economics and society in western and central Europe since World War I. The program sponsors a core course (EPS 301,
+  302, or HIS 212/EPS 212). In addition, it sponsors lectures, seminars and other programs for the entire University
+  community. The program offers a certificate in Contemporary European Politics and Society.
 max_common_with_major: null
 declaration_limit: null
 pdfs_allowed: 1
@@ -24,9 +20,7 @@ req_list:
   - name: Gateway Course
     min_needed: 1
     max_counted: 1
-    explanation: >-
-      Take one of the following gateway courses: EPS 301, EPS 302, or HIS
-      212/EPS 212.
+    explanation: 'Take one of the following gateway courses: EPS 301, EPS 302, or HIS 212/EPS 212.'
     course_list:
       - EPS 301
       - EPS 302
@@ -35,15 +29,13 @@ req_list:
     min_needed: 4
     max_counted: 1
     explanation: >-
-      Take at least four other courses from the list of core courses that have
-      an emphasis on European politics and society. Other courses may be
-      approved by the director. Of the four courses, at least one must be chosen
-      from among offerings in history and at least one must be chosen from among
-      offerings in the other social sciences.
+      Take at least four other courses from the list of core courses that have an emphasis on European politics and
+      society. Other courses may be approved by the director. Of the four courses, at least one must be chosen from
+      among offerings in history and at least one must be chosen from among offerings in the other social sciences.
     req_list:
       - name: History
         min_needed: 1
-        max_counted: ALL
+        max_counted: null
         course_list:
           - HIS 212
           - HIS 281
@@ -64,7 +56,7 @@ req_list:
           - SLA 345
       - name: Social Sciences
         min_needed: 1
-        max_counted: ALL
+        max_counted: null
         course_list:
           - ECO 372
           - ECO 373
@@ -81,7 +73,7 @@ req_list:
           - SPI 470
       - name: Culture, Literature, and the Arts
         min_needed: 0
-        max_counted: ALL
+        max_counted: null
         course_list:
           - ART 314
           - ART 337
@@ -165,11 +157,9 @@ req_list:
 
       Take a 200- or 300-level course in a European language.
 
-      Demonstrate fluency in a European language by taking a test administered
-      by the program. Any national language spoken in a European country may be
-      used to satisfy the requirement. The expectation is that students will
-      have sufficient linguistic competence to use research materials in the
-      language for their senior thesis research.
+      Demonstrate fluency in a European language by taking a test administered by the program. Any national language
+      spoken in a European country may be used to satisfy the requirement. The expectation is that students will have
+      sufficient linguistic competence to use research materials in the language for their senior thesis research.
     req_list:
       - name: Language Course
         min_needed: 1
@@ -183,9 +173,8 @@ req_list:
   - name: Independent Work
     max_counted: 1
     explanation: >-
-      Write a senior thesis on a subject related to contemporary European
-      politics and society. Students majoring in departments where a senior
-      thesis on modern Europe is not possible may petition the director to have
-      another piece of independent research meet this requirement.
+      Write a senior thesis on a subject related to contemporary European politics and society. Students majoring in
+      departments where a senior thesis on modern Europe is not possible may petition the director to have another piece
+      of independent research meet this requirement.
     iw_relationship: hybrid
     no_req: null

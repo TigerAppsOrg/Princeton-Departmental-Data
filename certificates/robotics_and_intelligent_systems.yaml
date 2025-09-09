@@ -2,22 +2,18 @@ type: Certificate
 name: Robotics and Intelligent Systems
 code: EGR
 urls:
-  - >-
-    https://ua.princeton.edu/fields-study/certificate-programs/robotics-and-intelligent-systems
+  - https://ua.princeton.edu/fields-study/certificate-programs/robotics-and-intelligent-systems
 contacts:
   - type: Director
     name: Szymon M. Rusinkiewicz
     email: smr@princeton.edu
 description: >-
-  New industries and organizations depend increasingly on the interplay between
-  engineering, computing and the life sciences. Innovations and inventions
-  require multidisciplinary approaches and entrepreneurship, as well as
-  grounding in theory and practice, in topics that may not be covered by a
-  single department. The program offers an integrated set of core and elective
-  courses, introducing students to fundamental concepts, providing depth in
-  specific fields of interest and setting the stage for further achievement.
-  Students are encouraged to expand their experience through summer internships
-  with companies, government agencies and university laboratories.
+  New industries and organizations depend increasingly on the interplay between engineering, computing and the life
+  sciences. Innovations and inventions require multidisciplinary approaches and entrepreneurship, as well as grounding
+  in theory and practice, in topics that may not be covered by a single department. The program offers an integrated set
+  of core and elective courses, introducing students to fundamental concepts, providing depth in specific fields of
+  interest and setting the stage for further achievement. Students are encouraged to expand their experience through
+  summer internships with companies, government agencies and university laboratories.
 max_common_with_major: ALL
 declaration_limit: 7
 pdfs_allowed: 0
@@ -26,14 +22,12 @@ req_list:
     min_needed: ALL
     max_counted: 1
     explanation: >-
-      This program is open to juniors and seniors who have a satisfactory
-      background in mathematics, science and computing. Students should have
-      successfully completed:
+      This program is open to juniors and seniors who have a satisfactory background in mathematics, science and
+      computing. Students should have successfully completed:
 
       Mathematics through MAT 202 or 204.
 
-      The A.B. science and engineering general education requirement or the
-      B.S.E. first-year science requirement.
+      The A.B. science and engineering general education requirement or the B.S.E. first-year science requirement.
 
       COS 126, ECE 115, or an equivalent computing course.
     req_list:
@@ -137,10 +131,9 @@ req_list:
   - name: Independent Work
     max_counted: 1
     explanation: >-
-      A one-term senior independent work project or two-term senior thesis whose
-      topic is relevant to robotics and intelligent systems must be completed
-      and presented to the program committee. Junior independent work projects
-      do not fulfill the certificate requirement. A minimum grade of B- for the
-      project or thesis is required to qualify for the certificate.
+      A one-term senior independent work project or two-term senior thesis whose topic is relevant to robotics and
+      intelligent systems must be completed and presented to the program committee. Junior independent work projects do
+      not fulfill the certificate requirement. A minimum grade of B- for the project or thesis is required to qualify
+      for the certificate.
     iw_relationship: combined
     no_req: null

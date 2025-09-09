@@ -1,182 +1,235 @@
----
 type: Major
 name: Comparative Literature
 code: COM
 degree: AB
 urls:
-- https://ua.princeton.edu/academic-units/department-comparative-literature
-- https://complit.princeton.edu/undergraduate-program/current-majors/requirements
+  - https://ua.princeton.edu/academic-units/department-comparative-literature
+  - https://complit.princeton.edu/undergraduate-program/current-majors/requirements
 contacts:
-- type: Chair
-  name: Thomas W. Hare
-  email: thare@princeton.edu
-- type: Chair (acting)
-  name: Wendy Laura Belcher
-  email: wbelcher@princeton.edu
-- type: Director of Undergraduate Studies
-  name: Karen R. Emmerich
-  email: karene@princeton.edu
-description: |-
-  The Department of Comparative Literature invites students to approach literature from a broad, cross-cultural perspective. The curriculum encompasses literatures, languages and cultures from around the world — including those of Europe, the Americas, Africa, Asia and the Middle East — as well as interdisciplinary work of many types. While each student in the department is expected to focus their studies on a particular language and literature, an interest in the way different literatures illuminate one another, or enter into dialogue with other disciplines, media or forms of art, is fundamental to our work. Students motivated by a desire to understand literature in the broadest terms, as well as those interested in particular examples of literary comparison, will find an intellectual home in the Department of Comparative Literature.
+  - type: Chair
+    name: Thomas W. Hare
+    email: thare@princeton.edu
+  - type: Chair (acting)
+    name: Wendy Laura Belcher
+    email: wbelcher@princeton.edu
+  - type: Director of Undergraduate Studies
+    name: Karen R. Emmerich
+    email: karene@princeton.edu
+description: >-
+  The Department of Comparative Literature invites students to approach literature from a broad, cross-cultural
+  perspective. The curriculum encompasses literatures, languages and cultures from around the world — including those of
+  Europe, the Americas, Africa, Asia and the Middle East — as well as interdisciplinary work of many types. While each
+  student in the department is expected to focus their studies on a particular language and literature, an interest in
+  the way different literatures illuminate one another, or enter into dialogue with other disciplines, media or forms of
+  art, is fundamental to our work. Students motivated by a desire to understand literature in the broadest terms, as
+  well as those interested in particular examples of literary comparison, will find an intellectual home in the
+  Department of Comparative Literature.
 req_list:
-- name: Prerequisites
-  max_counted: 1
-  min_needed: ALL
-  req_list:
-  - name: Foreign Language
+  - name: Prerequisites
+    max_counted: 1
+    min_needed: ALL
+    req_list:
+      - name: Foreign Language
+        max_counted: 1
+        min_needed: 1
+        explanation: >-
+          To enter the department, students must be sufficiently knowledgeable in one language other than English to
+          take an upper-level course in it in his or her junior year.
+
+          Plan to read a second foreign language before graduation. Proficiency in only one non-English language is
+          required for admission to the department. However, students who concentrate in comparative literature are also
+          expected to study at least one other non-English language and to be able to read in the language by the time
+          they graduate. Such language study may take place before or during their years as departmental concentrators.
+          Some students demonstrate their competency by taking an upper-level course in the literature of that language.
+          Other students gain this competency by taking three terms of language study at Princeton, or two terms and an
+          intensive language course in the summer, or (especially in the case of languages that are no longer spoken) an
+          intensive language course in the summer. A few take a foreign language test administered by the relevant
+          department during the summer.
+        double_counting_allowed: true
+        completed_by_semester: 4
+        course_list:
+          - LANG 107
+          - LANG 108
+          - LANG 2**
+          - LANG 3**
+          - LANG 4**
+          - LANG 5**
+  - name: Core Departmentals
+    min_needed: ALL
+    max_counted: 1
+    explanation: >-
+      Regardless of the area of study elected, all majors must take four reading-based courses in non-English-language
+      literature departments. These courses must move beyond a primary focus on grammar and vocabulary, and entail study
+      of texts in the language, not in translation. Students in the department have studied language literatures in
+      French, Spanish, Italian, Portuguese, German, Russian, Chinese, Korean, Japanese, Arabic, Hebrew, Greek, Latin,
+      Swahili, Hindi, Persian, Urdu, Turkish, Bosnian-Croatian-Serbian, Syriac and Armenian. Upper-level courses,
+      generally 300- or 400-level courses, are encouraged, but reading-intensive 200-level courses may be counted.
+    req_list:
+      - name: Non-English Literature
+        min_needed: 4
+        max_counted: 1
+        course_list:
+          - LANG 2**
+          - LANG 3**
+          - LANG 4**
+          - LANG 5**
+      - name: COM 300
+        min_needed: 1
+        max_counted: 1
+        course_list:
+          - COM 300
+      - name: Comparative Literature
+        min_needed: 2
+        max_counted: 1
+        course_list:
+          - COM ***
+  - name: Path Specializations
     max_counted: 1
     min_needed: 1
-    explanation: |-
-      To enter the department, students must be sufficiently knowledgeable in one language other than English to take an upper-level course in it in his or her junior year.
-      Plan to read a second foreign language before graduation. Proficiency in only one non-English language is required for admission to the department. However, students who concentrate in comparative literature are also expected to study at least one other non-English language and to be able to read in the language by the time they graduate. Such language study may take place before or during their years as departmental concentrators. Some students demonstrate their competency by taking an upper-level course in the literature of that language. Other students gain this competency by taking three terms of language study at Princeton, or two terms and an intensive language course in the summer, or (especially in the case of languages that are no longer spoken) an intensive language course in the summer. A few take a foreign language test administered by the relevant department during the summer.
-    double_counting_allowed: true
-    completed_by_semester: 4
-    course_list:
-    - LANG 107
-    - LANG 108
-    - LANG 2**
-    - LANG 3**
-    - LANG 4**
-    - LANG 5**
-- name: Core Departmentals
-  min_needed: ALL
-  max_counted: 1
-  explanation: |-
-    Regardless of the area of study elected, all majors must take four reading-based courses in non-English-language literature departments. These courses must move beyond a primary focus on grammar and vocabulary, and entail study of texts in the language, not in translation. Students in the department have studied language literatures in French, Spanish, Italian, Portuguese, German, Russian, Chinese, Korean, Japanese, Arabic, Hebrew, Greek, Latin, Swahili, Hindi, Persian, Urdu, Turkish, Bosnian-Croatian-Serbian, Syriac and Armenian. Upper-level courses, generally 300- or 400-level courses, are encouraged, but reading-intensive 200-level courses may be counted.
-  req_list:
-  - name: Non-English Literature
-    min_needed: 4
+    explanation: >-
+      The remaining two courses are taken in appropriate departments throughout the University according to the
+      student's area of study. Course selections generally fall into one of the areas described below. Each represents
+      the study of literature in a different comparative context and includes all nine required courses.
+    double_counting_allowed: false
+    req_list:
+      - name: Path A
+        explanation: >-
+          Comparative work in literatures in at least two languages. Students in this track choose four reading-based
+          courses in non-English-language literature; three courses listed or cross-listed with comparative literature
+          (one of which is COM 300); and two upper-level courses in literature in any other language (including English
+          and courses on readings taught in translation).
+        min_needed: 2
+        max_counted: 1
+        course_list:
+          - LANG 3**
+          - LANG 4**
+          - LANG 5**
+          - ENG 3**
+          - ENG 4**
+          - ENG 5**
+          - TRA 3**
+          - TRA 4**
+          - TRA 5**
+      - name: Path B
+        explanation: >-
+          Comparative work in literature and a traditional textual discipline (that is, in the humanities [e.g.,
+          philosophy, art and archaeology, classics or religion] or social sciences [e.g., anthropology, history,
+          psychology, sociology, politics, economics or public policy]). Students in this track choose four
+          reading-based courses in non-English-language literature; three courses listed or cross-listed in comparative
+          literature (one of which is COM 300); and two upper-level courses in the relevant textual discipline.
+        min_needed: 2
+        max_counted: 1
+        course_list:
+          - PHI 3**
+          - PHI 4**
+          - PHI 5**
+          - ART 3**
+          - ART 4**
+          - ART 5**
+          - CLA 3**
+          - CLA 4**
+          - CLA 5**
+          - REL 3**
+          - REL 4**
+          - REL 5**
+          - ANT 3**
+          - ANT 4**
+          - ANT 5**
+          - HIS 3**
+          - HIS 4**
+          - HIS 5**
+          - PSY 3**
+          - PSY 4**
+          - PSY 5**
+          - SOC 3**
+          - SOC 4**
+          - SOC 5**
+          - POL 3**
+          - POL 4**
+          - POL 5**
+          - ECO 3**
+          - ECO 4**
+          - ECO 5**
+          - SPI 3**
+          - SPI 4**
+          - SPI 5**
+      - name: Path C
+        explanation: >-
+          Comparative work in literature and another medium (that is, photography, film, art, art history, architecture
+          or music). Students in this track choose four reading-based courses in non-English-language literature; three
+          courses listed or cross-listed in comparative literature (one of which is COM 300); and two upper-level
+          courses in the relevant medium. Both courses must be in the same medium.
+        min_needed: 2
+        max_counted: 1
+        course_list:
+          - ART ***
+          - MUS ***
+      - name: Path D
+        explanation: >-
+          Comparative work in literature and regional or ethnic studies (that is, African [AFS], African American [AAS],
+          American [AMS], East Asian [EAP or EAS], European [ECS or EPS], Hellenic [HLS], Judaic [JDS], Latin American
+          [LAS], Latino [LAO], Near Eastern [NES] or South Asian [SAS]). Students in this track choose four
+          reading-based courses in non-English-language literature; three courses listed or cross-listed in comparative
+          literature (one of which is COM 300); and two courses in the relevant region or ethnicity.
+        min_needed: 2
+        max_counted: 1
+        course_list:
+          - AFS ***
+          - AMS ***
+          - AMS ***
+          - EAS ***
+          - ECS ***
+          - EPS ***
+          - HLS ***
+          - JDS ***
+          - LAS ***
+          - LAO ***
+          - NES ***
+          - SAS ***
+      - name: Path E
+        explanation: >-
+          Comparative work in literary study and the creative arts (that is, creative writing [poetry, the novel, short
+          stories, drama, memoir], screenwriting, translation, dance, theatrical performance, visual arts, film or
+          video). Students choose four reading-based courses in non-English-language literature; three courses listed or
+          cross-listed with comparative literature (one of which is COM 300); and two courses in the relevant creative
+          art. Both courses must be in the same area of study. Students entering the department select this program
+          provisionally. Final admission depends upon the acceptance of the creative thesis proposal by the department
+          and by an adviser from the relevant creative arts program.
+        min_needed: 2
+        max_counted: 1
+        course_list:
+          - VIS ***
+          - ART ***
+          - THR ***
+          - MTD ***
+          - DAN ***
+          - MUS ***
+          - CWR ***
+  - name: Independent Work
     max_counted: 1
-    course_list:
-    - LANG 2**
-    - LANG 3**
-    - LANG 4**
-    - LANG 5**
-  - name: COM 300
+    min_needed: 1
+    explanation: >-
+      Majors must write two junior papers. The first paper, some 3,000 words in length, will normally involve the close
+      study of a work from one of the non-English-language literatures in which the student has linguistic competence.
+      Its purpose is to develop the student's basic skills as a reader of complex texts. The second paper should be
+      wider in scope, and might serve as the beginnings of a senior thesis. It will normally be some 8,000 words in
+      length.
+    no_req: null
+  - name: Senior Thesis
+    max_counted: 1
+    min_needed: 1
+    explanation: >-
+      Majors must write a senior thesis, normally between 15,000 and 20,000 words, which is comparative in nature and
+      should reflect the student's ability to relate and analyze materials in the area chosen. Creative theses must be
+      accompanied by a substantial critical essay.
+    no_req: null
+  - name: Senior Departmental Examination
     min_needed: 1
     max_counted: 1
-    course_list:
-    - COM 300
-  - name: Comparative Literature
-    min_needed: 2
-    max_counted: 1
-    course_list:
-    - COM ***
-- name: Path Specializations
-  max_counted: 1
-  min_needed: 1
-  explanation: |-
-    The remaining two courses are taken in appropriate departments throughout the University according to the student's area of study. Course selections generally fall into one of the areas described below. Each represents the study of literature in a different comparative context and includes all nine required courses.
-  double_counting_allowed: false
-  req_list:
-  - name: Path A
-    explanation: |-
-      Comparative work in literatures in at least two languages. Students in this track choose four reading-based courses in non-English-language literature; three courses listed or cross-listed with comparative literature (one of which is COM 300); and two upper-level courses in literature in any other language (including English and courses on readings taught in translation).
-    min_needed: 2
-    max_counted: 1
-    course_list:
-    - LANG 3**
-    - LANG 4**
-    - LANG 5**
-    - ENG 3**
-    - ENG 4**
-    - ENG 5**
-    - TRA 3**
-    - TRA 4**
-    - TRA 5**
-  - name: Path B
-    explanation: |-
-      Comparative work in literature and a traditional textual discipline (that is, in the humanities [e.g., philosophy, art and archaeology, classics or religion] or social sciences [e.g., anthropology, history, psychology, sociology, politics, economics or public policy]). Students in this track choose four reading-based courses in non-English-language literature; three courses listed or cross-listed in comparative literature (one of which is COM 300); and two upper-level courses in the relevant textual discipline.
-    min_needed: 2
-    max_counted: 1
-    course_list:
-    - PHI 3**
-    - PHI 4**
-    - PHI 5**
-    - ART 3**
-    - ART 4**
-    - ART 5**
-    - CLA 3**
-    - CLA 4**
-    - CLA 5**
-    - REL 3**
-    - REL 4**
-    - REL 5**
-    - ANT 3**
-    - ANT 4**
-    - ANT 5**
-    - HIS 3**
-    - HIS 4**
-    - HIS 5**
-    - PSY 3**
-    - PSY 4**
-    - PSY 5**
-    - SOC 3**
-    - SOC 4**
-    - SOC 5**
-    - POL 3**
-    - POL 4**
-    - POL 5**
-    - ECO 3**
-    - ECO 4**
-    - ECO 5**
-    - SPI 3**
-    - SPI 4**
-    - SPI 5**
-  - name: Path C
-    explanation: |-
-      Comparative work in literature and another medium (that is, photography, film, art, art history, architecture or music). Students in this track choose four reading-based courses in non-English-language literature; three courses listed or cross-listed in comparative literature (one of which is COM 300); and two upper-level courses in the relevant medium. Both courses must be in the same medium.
-    min_needed: 2
-    max_counted: 1
-    course_list: 
-    - ART ***
-    - MUS ***
-  - name: Path D
-    explanation: |-
-      Comparative work in literature and regional or ethnic studies (that is, African [AFS], African American [AAS], American [AMS], East Asian [EAP or EAS], European [ECS or EPS], Hellenic [HLS], Judaic [JDS], Latin American [LAS], Latino [LAO], Near Eastern [NES] or South Asian [SAS]). Students in this track choose four reading-based courses in non-English-language literature; three courses listed or cross-listed in comparative literature (one of which is COM 300); and two courses in the relevant region or ethnicity.
-    min_needed: 2
-    max_counted: 1
-    course_list:
-    - AFS ***
-    - AMS ***
-    - AMS ***
-    - EAS ***
-    - ECS ***
-    - EPS ***
-    - HLS ***
-    - JDS ***
-    - LAS ***
-    - LAO ***
-    - NES ***
-    - SAS ***
-  - name: Path E
-    explanation: |-
-      Comparative work in literary study and the creative arts (that is, creative writing [poetry, the novel, short stories, drama, memoir], screenwriting, translation, dance, theatrical performance, visual arts, film or video). Students choose four reading-based courses in non-English-language literature; three courses listed or cross-listed with comparative literature (one of which is COM 300); and two courses in the relevant creative art. Both courses must be in the same area of study. Students entering the department select this program provisionally. Final admission depends upon the acceptance of the creative thesis proposal by the department and by an adviser from the relevant creative arts program.
-    min_needed: 2
-    max_counted: 1
-    course_list:
-    - VIS ***
-    - ART ***
-    - THR ***
-    - MTD ***
-    - DAN ***
-    - MUS ***
-    - CWR ***
-- name: Independent Work
-  max_counted: 1
-  min_needed: 1
-  explanation: |-
-    Majors must write two junior papers. The first paper, some 3,000 words in length, will normally involve the close study of a work from one of the non-English-language literatures in which the student has linguistic competence. Its purpose is to develop the student's basic skills as a reader of complex texts. The second paper should be wider in scope, and might serve as the beginnings of a senior thesis. It will normally be some 8,000 words in length.
-  no_req:
-- name: Senior Thesis
-  max_counted: 1
-  min_needed: 1
-  explanation: |-
-    Majors must write a senior thesis, normally between 15,000 and 20,000 words, which is comparative in nature and should reflect the student's ability to relate and analyze materials in the area chosen. Creative theses must be accompanied by a substantial critical essay.
-  no_req:
-- name: Senior Departmental Examination
-  min_needed: 1
-  max_counted: 1
-  explanation: |-
-    Majors must take the senior departmental examination, which is a written exam to test their ability to analyze texts and make connections among them. The student consults with their senior faculty adviser to select specific titles from a broad reading list, reads them and answers questions based on the student's particular language proficiency and chosen program of study. Students will also be asked to analyze a passage in their primary language.
-  no_req:
+    explanation: >-
+      Majors must take the senior departmental examination, which is a written exam to test their ability to analyze
+      texts and make connections among them. The student consults with their senior faculty adviser to select specific
+      titles from a broad reading list, reads them and answers questions based on the student's particular language
+      proficiency and chosen program of study. Students will also be asked to analyze a passage in their primary
+      language.
+    no_req: null

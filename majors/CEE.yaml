@@ -1,355 +1,360 @@
----
 type: Major
 name: Civil and Environmental Engineering
 code: CEE
 degree: BSE
 min_needed: 1
 urls:
-- https://ua.princeton.edu/academic-units/department-civil-and-environmental-engineering
-- https://cee.princeton.edu/undergraduate/paths-graduation
+  - https://ua.princeton.edu/academic-units/department-civil-and-environmental-engineering
+  - https://cee.princeton.edu/undergraduate/paths-graduation
 contacts:
-- type: Chair
-  name: Branko Glisic
-  email: bglisic@Princeton.edu
-- type: Director of Undergraduate Studies (acting)
-  name: Ian C. Bourg 
-  email: bourg@princeton.edu
-description: |-
-  Requirements for study in the Department of Civil and Environmental Engineering follow the general requirements for the School of Engineering and Applied Science and the University. The student's course of study is planned in consultation with the director of studies and the academic adviser and requires a year-long thesis, which counts as two courses. The CEE curriculum is sufficiently flexible to provide opportunities for students to pursue certificate programs across the University, and to study abroad in their junior year.
+  - type: Chair
+    name: Branko Glisic
+    email: bglisic@Princeton.edu
+  - type: Director of Undergraduate Studies (acting)
+    name: Ian C. Bourg
+    email: bourg@princeton.edu
+description: >-
+  Requirements for study in the Department of Civil and Environmental Engineering follow the general requirements for
+  the School of Engineering and Applied Science and the University. The student's course of study is planned in
+  consultation with the director of studies and the academic adviser and requires a year-long thesis, which counts as
+  two courses. The CEE curriculum is sufficiently flexible to provide opportunities for students to pursue certificate
+  programs across the University, and to study abroad in their junior year.
 req_list:
-- name: Departmental Track
-  min_needed: 1
-  max_counted: 1
-  req_list:
-  - name: Architecture and Engineering
-    min_needed: ALL
-    max_counted: 1
-    req_list:
-    - name: Engineering Science
-      min_needed: ALL
-      max_counted: 1
-      req_list:
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 205
-        - MAE 223
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 262B
-        - CEE 345
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 207
-        - CEE 302
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 344
-        - CEE 306
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 312
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 361
-        - CEE 374
-        - CEE 460
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 365
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 365
-    - name: Track Specific 
-      min_needed: ALL
-      max_counted: 1
-      req_list:
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - ARC 203
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - ARC 204
-        - ARC 205
-    - name: Engineering Design
-      min_needed: ALL
-      max_counted: 1
-      req_list:
-      - name:
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 366
-        - CEE 467
-      - name:
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 461
-    - name: Program Elective Requirements
-      min_needed: 1
-      max_counted: 1
-      explanation: |-
-        Students in this track must take one more program elective and it must be an engineering course.
-      course_list:
-      - CEE 2**
-      - CEE 3**
-      - CEE 4**
-      - CEE 5**
-  - name: Environmental Engineering
-    min_needed: ALL
-    max_counted: 1
-    req_list:
-    - name: Engineering Science
-      min_needed: ALL
-      max_counted: 1
-      req_list:
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 205
-        - MAE 223
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 207
-        - CEE 344
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 302
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 305
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 306
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 308
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 311
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 364
-        - CEE 365
-    - name: Engineering Design
-      min_needed: ALL
-      max_counted: 1
-      course_list:
-      - CEE 471
-      - CEE 477
-    - name: Program Elective Requirements
-      min_needed: 3
-      max_counted: 1
-      explanation: |-
-        No more than one program elective can be at the 200 level. For the environmental engineering track, at least one of the program electives must be an engineering course.
-      course_list:
-      - CEE 2**
-      - CEE 3**
-      - CEE 4**
-      - CEE 5**
-  - name: Geological Engineering
-    min_needed: ALL
-    max_counted: 1
-    req_list:
-    - name: Engineering Science
-      min_needed: ALL
-      max_counted: 1
-      req_list:
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 205
-        - MAE 223
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 207
-        - CEE 344
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 305
-        - CEE 306
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 311
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 308
-        - GEO 300
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 365
-        - CEE 370
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 460
-    - name: Track Specific 
-      min_needed: 1
-      max_counted: 1
-      course_list:
-      - CEE 360
-      - GEO 363
-      - GEO 366
-      - CEE 417
-      - GEO 418
-      - CEE 424
-      - GEO 430
-      - GEO 441
-      - GEO 470
-      - GEO 499
-    - name: Engineering Design
-      min_needed: ALL
-      max_counted: 1
-      course_list:
-      - CEE 471
-      - CEE 477
-    - name: Program Elective Requirements
-      min_needed: 3
-      max_counted: 1
-      explanation: |-
-        Students in this track must take one more program elective and it must be an engineering course.
-      course_list:
-      - CEE 2**
-      - CEE 3**
-      - CEE 4**
-      - CEE 5**
-  - name: Structural Engineering
-    min_needed: ALL
-    max_counted: 1
-    req_list:
-    - name: Engineering Science
-      min_needed: ALL
-      max_counted: 1
-      req_list:
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 205
-        - MAE 223
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 262B
-        - CEE 345
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 207
-        - CEE 302
-        - CEE 344
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 306
-        - CEE 305
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 312
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 361
-        - CEE 374
-        - CEE 460
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 364
-      - name: 
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 365
-    - name: Engineering Design
-      min_needed: ALL
-      max_counted: 1
-      req_list:
-      - name:
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 366
-        - CEE 467
-      - name:
-        min_needed: 1
-        max_counted: 1
-        course_list:
-        - CEE 461
-    - name: Program Elective Requirements
-      min_needed: 3
-      max_counted: 1
-      explanation: |-
-        Students in this track must take one more program elective and it must be an engineering course.
-      course_list:
-      - CEE 2**
-      - CEE 3**
-      - CEE 4**
-      - CEE 5**
-  - name: Architecture and Engineering
+  - name: Departmental Track
     min_needed: 1
     max_counted: 1
-    no_req:
-    explanation: |-
-      Note: Due to how interdisciplinary this is, 
-      A minimum of six CEE courses, of which at least three should be at the 300 level or above. At least one of the 300-level courses has to have a laboratory component.
-      Seven program electives are required and these should include a coherent sequence of at least four courses in the student's area of interest, three of which should be at the 300 level or above.
-- name: Senior Thesis
-  min_needed: 1
-  max_counted: 1
-  course_list:
-  - CEE 478
+    req_list:
+      - name: Architecture and Engineering
+        min_needed: ALL
+        max_counted: 1
+        req_list:
+          - name: Engineering Science
+            min_needed: ALL
+            max_counted: 1
+            req_list:
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 205
+                  - MAE 223
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 262B
+                  - CEE 345
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 207
+                  - CEE 302
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 344
+                  - CEE 306
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 312
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 361
+                  - CEE 374
+                  - CEE 460
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 365
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 365
+          - name: Track Specific
+            min_needed: ALL
+            max_counted: 1
+            req_list:
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - ARC 203
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - ARC 204
+                  - ARC 205
+          - name: Engineering Design
+            min_needed: ALL
+            max_counted: 1
+            req_list:
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 366
+                  - CEE 467
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 461
+          - name: Program Elective Requirements
+            min_needed: 1
+            max_counted: 1
+            explanation: Students in this track must take one more program elective and it must be an engineering course.
+            course_list:
+              - CEE 2**
+              - CEE 3**
+              - CEE 4**
+              - CEE 5**
+      - name: Environmental Engineering
+        min_needed: ALL
+        max_counted: 1
+        req_list:
+          - name: Engineering Science
+            min_needed: ALL
+            max_counted: 1
+            req_list:
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 205
+                  - MAE 223
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 207
+                  - CEE 344
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 302
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 305
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 306
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 308
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 311
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 364
+                  - CEE 365
+          - name: Engineering Design
+            min_needed: ALL
+            max_counted: 1
+            course_list:
+              - CEE 471
+              - CEE 477
+          - name: Program Elective Requirements
+            min_needed: 3
+            max_counted: 1
+            explanation: >-
+              No more than one program elective can be at the 200 level. For the environmental engineering track, at
+              least one of the program electives must be an engineering course.
+            course_list:
+              - CEE 2**
+              - CEE 3**
+              - CEE 4**
+              - CEE 5**
+      - name: Geological Engineering
+        min_needed: ALL
+        max_counted: 1
+        req_list:
+          - name: Engineering Science
+            min_needed: ALL
+            max_counted: 1
+            req_list:
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 205
+                  - MAE 223
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 207
+                  - CEE 344
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 305
+                  - CEE 306
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 311
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 308
+                  - GEO 300
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 365
+                  - CEE 370
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 460
+          - name: Track Specific
+            min_needed: 1
+            max_counted: 1
+            course_list:
+              - CEE 360
+              - GEO 363
+              - GEO 366
+              - CEE 417
+              - GEO 418
+              - CEE 424
+              - GEO 430
+              - GEO 441
+              - GEO 470
+              - GEO 499
+          - name: Engineering Design
+            min_needed: ALL
+            max_counted: 1
+            course_list:
+              - CEE 471
+              - CEE 477
+          - name: Program Elective Requirements
+            min_needed: 3
+            max_counted: 1
+            explanation: Students in this track must take one more program elective and it must be an engineering course.
+            course_list:
+              - CEE 2**
+              - CEE 3**
+              - CEE 4**
+              - CEE 5**
+      - name: Structural Engineering
+        min_needed: ALL
+        max_counted: 1
+        req_list:
+          - name: Engineering Science
+            min_needed: ALL
+            max_counted: 1
+            req_list:
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 205
+                  - MAE 223
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 262B
+                  - CEE 345
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 207
+                  - CEE 302
+                  - CEE 344
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 306
+                  - CEE 305
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 312
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 361
+                  - CEE 374
+                  - CEE 460
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 364
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 365
+          - name: Engineering Design
+            min_needed: ALL
+            max_counted: 1
+            req_list:
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 366
+                  - CEE 467
+              - name: null
+                min_needed: 1
+                max_counted: 1
+                course_list:
+                  - CEE 461
+          - name: Program Elective Requirements
+            min_needed: 3
+            max_counted: 1
+            explanation: Students in this track must take one more program elective and it must be an engineering course.
+            course_list:
+              - CEE 2**
+              - CEE 3**
+              - CEE 4**
+              - CEE 5**
+      - name: Architecture and Engineering
+        min_needed: 1
+        max_counted: 1
+        no_req: null
+        explanation: >-
+          Note: Due to how interdisciplinary this is, 
+
+          A minimum of six CEE courses, of which at least three should be at the 300 level or above. At least one of the
+          300-level courses has to have a laboratory component.
+
+          Seven program electives are required and these should include a coherent sequence of at least four courses in
+          the student's area of interest, three of which should be at the 300 level or above.
+  - name: Senior Thesis
+    min_needed: 1
+    max_counted: 1
+    course_list:
+      - CEE 478
