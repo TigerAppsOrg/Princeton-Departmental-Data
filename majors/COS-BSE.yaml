@@ -71,18 +71,19 @@ req_list:
         course_list:
           - COS 217
           - COS 226
-  - name: Reasoning and Computation
-    completed_by_semester: 6
-    min_needed: ALL
-    max_counted: 1
-    explanation: Students must take COS 240 (Reasoning and Computation), to be completed before the end of junior year.
-    course_list:
-      - COS 240
   - name: Core Courses
     min_needed: ALL
     max_counted: 1
-    explanation: Students must take a total of four courses, one from each of the four categories listed below.
+    explanation: >-
+      Students must take courses from the categories listed below, including Reasoning and Computation (COS 240) and
+      one course from each of the other categories.
     req_list:
+      - name: Reasoning and Computation
+        min_needed: 1
+        max_counted: 1
+        completed_by_semester: 6
+        course_list:
+          - COS 240
       - name: Computer Systems
         min_needed: 1
         max_counted: 1
